@@ -1,0 +1,49 @@
+title: Educational Team
+
+header:
+  title: Educational Team
+  background: images/header-bg-2.jpg
+  description: List of all TAs and people responsible for this course!
+
+footer:
+  background: images/header-bg-2.jpg
+
+teams:
+  label:
+    position: top
+    text: Teaching Assistances
+  content:
+    patch: pages/team/description.md
+
+  teams:
+    label: false
+    kind: chapters
+    content:
+      - title: Spring 2021
+        team:
+          kind: people
+          label: false
+          patch: pages/team/spring2021.yml
+
+webteam:
+  label:
+    position: left
+    text: Web Developers
+  kind: people
+  patch: pages/team/webgit.yml
+
+feedback:
+  label:
+    position: left
+    text: Contact Us
+  description:
+    label: false
+    content: |
+      As Elon Musk puts it:
+      >   I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and
+          how you could be doing it better.
+
+      Help us improve by sending us feedback!
+  comments:
+    label: false
+    kind: comments

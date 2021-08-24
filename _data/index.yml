@@ -1,0 +1,95 @@
+title: SUT-AI-CE417
+header:
+  title: <p>Artificial Intelligence Course</p>
+  description: <p>Sharif University of Technology</p>
+  background: /assets/images/header-bg.jpg
+footer:
+  background: /assets/images/header-bg.jpg
+nav:
+  brand:
+    text: CE417
+    link: https://sut-ai.github.io/
+  content:
+  - index: index
+    text: Home
+    description: Sharif University of Technology
+    link: /
+  - index: pages/lectures/index
+    text: Lectures
+    description: <p>Presented lectures based on subjects</p>
+    link: /pages/lectures/
+  - link: https://sut-ai.github.io/notes/
+    text: Notes
+    description: <p>Lecture Notes and Handouts</p>
+  - link: https://sut-ai.github.io/supplementary/
+    text: Supplementary
+    description: <p>Supplementary material</p>
+  - index: pages/problem_sets/index
+    text: Problem Sets
+    description: <p>Sets of Artificial Intelligence problems</p>
+    link: /pages/problem_sets/
+  - index: pages/team/index
+    text: Educational Team
+    description: <p>List of all TAs and people responsible for this course!</p>
+    link: /pages/team/
+meta:
+- name: keywords
+  content: Webifier, Sharif University of Technology, Mohammad Hossein Rohban
+- name: author
+  content: sut-ai
+config:
+  comments:
+    repo: sut-ai/comments
+    issue_term: pathname
+    issue_label: comments
+    theme: github-light
+    crossorigin: anonymous
+  google_analytics_id: G-VZRZHCJ5V0
+course-bio:
+  label: Artificial Intelligence
+  content: '<p>In this course you will learn what Artificial Intelligence (AI) is,
+    explore use cases and applications of AI, understand AI concepts and terms like
+    machine learning, deep learning and neural networks. You will be exposed to various
+    issues and concerns surrounding AI such as ethics and bias, &amp; jobs, and get
+    advice from experts about learning and starting a career in AI. You will also
+    demonstrate AI in action with a mini project. </br>
+
+    This course does not require any programming or computer science expertise and
+    is designed to introduce the basics of AI to anyone whether you have a technical
+    background or not.</p>'
+  background: /assets/images/header-bg.jpg
+  links:
+  - link: http://ce.sharif.edu/courses/99-00/1/ce417-2/index.php
+    text: CE course webpage
+    icon: fas fa-globe
+  - link: https://quera.ir/overview/add_to_course/course/7773/
+    text: Quera
+    icon: icon-quera
+  - link: https://t.me/mhrohban_ai
+    text: Telegram
+    icon: fab fa-telegram fa-lg
+  - link: https://docs.google.com/spreadsheets/d/1QECI6n7pxWSzFbjE4Jp62ppRnb8PO4hHLzIuJh0vEdo/edit#gid=430940475
+    text: Gradesheet
+    icon: fas fa-scroll
+instructor:
+  kind: people
+  content:
+  - name: Mohammad Hossein Rohban
+    bio: <p>He is a Machine Learning Scientist with 10 years of combined experience
+      in industry and academia. Specifically, He has worked on many different types
+      of data ranging from video and images to text documents and financial time series.
+      </br> His expertise includes development of various types of Machine Learning
+      and Data Analysis tasks, such as Classification, Clustering, Latent Variable
+      Modeling, and Multi-task Learning.</p>
+    image: /assets/images/Rohban.jpg
+    role: Assistant Professor in Computer Engineering at Sharif University of Technology
+    contact:
+    - link: http://sharif.ir/~rohban/
+      icon: fas fa-home
+    - link: mailto:rohban@sharif.edu
+      icon: fas fa-envelope
+    - link: https://www.linkedin.com/in/mohammad-hossein-rohban-75567677/
+      icon: fab fa-linkedin
+    - link: https://scholar.google.com/citations?user=pRyJ6FkAAAAJ&hl=en/
+      icon: fab fa-google
+    kind: person

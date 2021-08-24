@@ -1,0 +1,24 @@
+title: Problem Sets
+
+header:
+  title: Problem Sets
+  description: Sets of Artificial Intelligence problems
+  background: images/assignments.jpg
+
+footer:
+  background: images/assignments.jpg
+
+assignments:
+  label: Spring 2021 Assignments
+  content: " "
+  theoretical_assignments:
+    label: Theoretical
+    patch: pages/problem_sets/problems/theoretical.yml
+  practical_assignments:
+    label: Practical
+    patch: pages/problem_sets/problems/practical.yml
+
+more_problem_sets:
+  label: More Problem Sets
+  content: " "
+  # TODO

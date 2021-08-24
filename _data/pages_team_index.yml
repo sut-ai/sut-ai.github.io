@@ -1,0 +1,371 @@
+title: Educational Team
+header:
+  title: <p>Educational Team</p>
+  background: /assets/images/header-bg-2.jpg
+  description: <p>List of all TAs and people responsible for this course!</p>
+footer:
+  background: /assets/images/header-bg-2.jpg
+teams:
+  label:
+    position: top
+    text: Teaching Assistances
+  content: "<p>Over the years, many enthusiastic volunteer students helped shape this\
+    \ course as it is presented today and created\n    its material. What follows\
+    \ is a list of these people:<sup id=\"fnref:roles\"><a class=\"footnote-ref\"\
+    \ href=\"#fn:roles\">1</a></sup></p>\n<div class=\"footnote\">\n<hr />\n<ol>\n\
+    <li id=\"fn:roles\">\n<p>Roles are shortened:</p>\n<dl>\n<dt>Sup</dt>\n<dd>Supervisor</dd>\n\
+    <dt>HW &amp; HWR</dt>\n<dd>Theoretical assignments creator and Reviewer</dd>\n\
+    <dt>P &amp; PR</dt>\n<dd>Practical assignments creator and Reviewer</dd>\n<dt>C(O)</dt>\n\
+    <dd>Supplementary content creator and Organizer of the supplementary \ncontent\
+    \ creators and reviewer </dd>\n<dt>LN</dt>\n<dd>Lecture notes mentor and reviewer\
+    \ and their Organizer</dd>\n<dt>Recitation</dt>\n<dd>Lecture notes mentor and\
+    \ reviewer and their Organizer</dd>\n<dt>F/M</dt>\n<dd>Finals/Midterm grader</dd>\n\
+    <dt>Web/Git</dt>\n<dd>Webmaster</dd>\n</dl>\n<p><a class=\"footnote-backref\"\
+    \ href=\"#fnref:roles\" title=\"Jump back to footnote 1 in the text\">&#8617;</a></p>\n\
+    </li>\n</ol>\n</div>"
+  teams:
+    label: false
+    kind: chapters
+    content:
+    - &id001
+      title: Spring 2021
+      team:
+        kind: people
+        label: false
+        content:
+        - name: Vahid Zehtab
+          role: Head TA, Web/Git
+          contact:
+          - link: https://github.com/vahidzee
+            icon: fab fa-github
+          - link: https://www.linkedin.com/in/Vahidzee/
+            icon: fab fa-linkedin
+          - link: mailto://vahid98zee@gmail.com
+            icon: fas fa-envelope
+          kind: person
+          image: https://github.com/vahidzee.png
+        - name: Parham Saremi
+          role: Head TA
+          contact:
+          - icon: fab fa-github
+            link: https://github.com/parhamsaremi
+          - icon: fab fa-linkedin
+            link: https://www.linkedin.com/in/parhamsaremi/
+          - icon: fas fa-envelope
+            link: mailto:pa.sa.13792000@gmail.com
+          kind: person
+          image: https://github.com/parhamsaremi.png
+        - name: Amir Hossein Ameli
+          role: Sup
+          contact:
+          - icon: fab fa-github
+            link: https://github.com/AmirHosseinAmeli
+          - icon: fab fa-linkedin
+            link: https://www.linkedin.com/in/amirhosseinameli/
+          - icon: fas fa-envelope
+            link: mailto:amirahosseinameli@gmail.com
+          kind: person
+          image: https://github.com/AmirHosseinAmeli.png
+        - name: Sina Nadi
+          role: Sup
+          image: /assets/images/ta/SinaNadi.jpg
+          kind: person
+        - name: Sepehr Ashrafzadeh
+          role: HWR6, PR4, F
+          image: /assets/images/ta/SepehrAshrafzadeh.png
+          contact:
+          - icon: fas fa-envelope
+            link: mailto:sepehrashs@gmail.com
+          kind: person
+        - name: Mahdi Erfanian
+          role: P4, CO
+          image: /assets/images/ta/MahdiErfanian.jpg
+          contact:
+          - icon: fab fa-github
+            link: https://github.com/merfanian
+          - icon: fab fa-linkedin
+            link: https://www.linkedin.com/in/merfanian/
+          - icon: fas fa-envelope
+            link: mailto:erfanianmahdi00@gmail.com
+          kind: person
+        - name: Parsa Eskandar
+          role: HW2, P3, M
+          image: /assets/images/ta/ParsaEskandar.jpg
+          contact:
+          - icon: fab fa-github
+            link: https://github.com/Parsaeskandar
+          - icon: fas fa-envelope
+            link: mailto:parsa.eskandar@gmail.com
+          kind: person
+        - name: Nima Fathi
+          role: HW7, P5, F
+          contact:
+          - icon: fab fa-github
+            link: https://github.com/NimaFathi
+          - icon: fab fa-linkedin
+            link: https://www.linkedin.com/in/nimafathi/
+          - icon: fas fa-envelope
+            link: mailto:nima0fathi@gmail.com
+          kind: person
+          image: https://github.com/NimaFathi.png
+        - name: Fereshteh Forghani
+          role: HW5, HWR4, C6
+          image: /assets/images/ta/FereshtehForghani.jpeg
+          contact:
+          - icon: fas fa-envelope
+            link: mailto:fereshteh.forghani2012@gmail.com
+          kind: person
+        - name: Ali Ghorbanpour
+          role: HW3, HW5, C6
+          image: /assets/images/ta/AliGhorbanpour.jpg
+          contact:
+          - icon: fas fa-envelope
+            link: mailto:Aliiiqbp@gmail.com
+          kind: person
+        - name: Ali J. Alaee
+          role: Recitation, LN6
+          contact:
+          - icon: fab fa-github
+            link: https://github.com/aliash98
+          - icon: fas fa-envelope
+            link: mailto:alialaee98@gmail.com
+          kind: person
+          image: https://github.com/aliash98.png
+        - name: Nima Jamali
+          role: Recitation, LN6
+          image: /assets/images/ta/NimaJamali.jpg
+          contact:
+          - icon: fab fa-github
+            link: https://github.com/nimajam41
+          - icon: fas fa-envelope
+            link: mailto:nimxj4141@gmail.com
+          kind: person
+        - name: Mohsen Larni
+          role: Web/Git
+          image: /assets/images/ta/MohsenLarni.jpg
+          contact:
+          - icon: fab fa-github
+            link: https://github.com/ashkanlarni
+          - icon: fas fa-envelope
+            link: mailto:ash.larni@gmail.com
+          kind: person
+        - name: Mehrnaz Mofakhami
+          role: null
+          contact:
+          - icon: fab fa-github
+            link: https://github.com/mhrnz
+          - icon: fab fa-linkedin
+            link: https://www.linkedin.com/in/mehrnazmofakhami98/
+          - icon: fas fa-envelope
+            link: mailto:m.mofakhami.77@gmail.com
+          kind: person
+          image: https://github.com/mhrnz.png
+        - name: Armin Moradi
+          role: CO, F
+          image: /assets/images/ta/ArminMoradi.jpeg
+          contact:
+          - icon: fab fa-linkedin
+            link: https://www.linkedin.com/in/arminmoradi9/
+          - icon: fas fa-envelope
+            link: mailto:arminmoradi785@gmail.com
+          kind: person
+        - name: Amin Ravanbakhsh
+          role: C4, HW2, HWR7
+          image: /assets/images/ta/AminRavanbakhsh.jpg
+          contact:
+          - icon: fas fa-envelope
+            link: mailto:amin.ravanbakhsh.1999@gmail.com
+          kind: person
+        - name: Zeinab Sadat Saghi
+          role: LN1
+          image: /assets/images/ta/ZeinabSadatSaghi.jpg
+          contact:
+          - icon: fab fa-github
+            link: https://github.com/atenasadat
+          - icon: fab fa-linkedin
+            link: https://www.linkedin.com/in/atena-saghi/
+          - icon: fas fa-envelope
+            link: mailto:atenasaghi@ce.sharif.edu
+          kind: person
+        - name: Kourosh Shariat
+          role: HW6, P3, C5
+          image: /assets/images/ta/KouroshShariat.jpeg
+          contact:
+          - icon: fab fa-github
+            link: https://github.com/cyrus80
+          - icon: fas fa-envelope
+            link: mailto:shariat.kourosh@gmail.com
+          kind: person
+        - name: Alireza Tavakkoli
+          role: HW4, PR2, C5
+          image: /assets/images/ta/AlirezaTavakkoli.jpg
+          contact:
+          - icon: fas fa-envelope
+            link: mailto:alirezatavakkoli@ymail.com
+          kind: person
+        - name: Soroush Vafaie Tabar
+          role: HW7, C7, CO
+          image: /assets/images/ta/SoroushVafaieTabar.jpg
+          contact:
+          - icon: fab fa-github
+            link: https://github.com/Svafaiet
+          - icon: fab fa-linkedin
+            link: https://www.linkedin.com/in/soroush-vafaie-tabar-5248a5159/
+          - icon: fas fa-envelope
+            link: mailto:svafaiet@gmail.com
+          kind: person
+        - name: Kimia Yazdani
+          role: HWR2, P5, PR1
+          image: /assets/images/ta/KimiaYazdani.jpg
+          contact:
+          - icon: fab fa-github
+            link: https://github.com/kimiayazdani
+          - icon: fas fa-envelope
+            link: mailto:yazdanikimia@gmail.com
+          kind: person
+        - name: Sepehr Amini Afshar
+          role: LN7, C2
+          image: /assets/images/ta/SepehrAminiAfshar.jpg
+          contact:
+          - icon: fab fa-linkedin
+            link: https://www.linkedin.com/in/sepehr-amini-afshar-2201381b8/
+          - icon: fas fa-envelope
+            link: mailto:sepehramini83@gmail.com
+          kind: person
+        - name: Mohammad Mahdi Asmae
+          role: HWR5, PR3, M
+          image: /assets/images/ta/MohammadMahdiAsmae.jpg
+          contact:
+          - icon: fab fa-github
+            link: https://github.com/Masmae
+          - icon: fas fa-envelope
+            link: mailto:m.mahdi.asmae@gmail.com
+          kind: person
+        - name: Haniyeh Ehsani
+          role: HWR3, PR2, M
+          image: /assets/images/ta/HaniyehEhsani.jpg
+          contact:
+          - icon: fab fa-github
+            link: https://github.com/aheldis
+          - icon: fab fa-linkedin
+            link: https://www.linkedin.com/in/haniyeh-ehsani-06ab66198/
+          - icon: fas fa-envelope
+            link: mailto:ehsanihaniyeh@gmail.com
+          kind: person
+        - name: Amirmahdi Hosseinabadi
+          role: C2, HWR1, M
+          image: /assets/images/ta/AmirmahdiHosseinabadi.jpg
+          contact:
+          - icon: fab fa-linkedin
+            link: https://www.linkedin.com/in/mamirmahdi-hosseinabadiehrnazmofakhami98/
+          - icon: fas fa-envelope
+            link: mailto:hosseinabadi26@gmail.com
+          kind: person
+        - name: Negin Jafari
+          role: HW1, P2, PR5
+          image: /assets/images/ta/NeginJafari.jpg
+          contact:
+          - icon: fab fa-github
+            link: https://github.com/neginjafariii
+          - icon: fab fa-linkedin
+            link: https://www.linkedin.com/in/neginjafariii/
+          - icon: fas fa-envelope
+            link: mailto:neginjfi79@gmail.com
+          kind: person
+        - name: Mohammad Mahdi Jarrahi
+          role: C1, P2, PR3
+          contact:
+          - icon: fab fa-github
+            link: https://github.com/jarrahi-mm
+          - icon: fab fa-linkedin
+            link: https://www.linkedin.com/in/mohammad-mahdi-jarrahi-34a552178/
+          - icon: fas fa-envelope
+            link: mailto:jarrahi.mm@gmail.com
+          kind: person
+          image: https://github.com/jarrahi-mm.png
+        - name: Hamidreza Kamkari
+          role: HW3, P1, C2
+          image: /assets/images/ta/HamidrezaKamkari.jpg
+          contact:
+          - icon: fab fa-github
+            link: https://github.com/hrzuser
+          - icon: fab fa-linkedin
+            link: https://www.linkedin.com/in/hamidreza-kamkari/
+          - icon: fas fa-envelope
+            link: mailto:hamidrezakamkari@gmail.com
+          kind: person
+        - name: Pouya Moeini
+          role: HW6, P2, C6
+          contact:
+          - icon: fab fa-github
+            link: https://github.com/pooyamoini
+          - icon: fab fa-linkedin
+            link: https://www.linkedin.com/in/pouya-moeini-472b29177/
+          - icon: fas fa-envelope
+            link: mailto:pmoeini@ce.sharif.edu
+          kind: person
+          image: https://github.com/pooyamoini.png
+        - name: Amirmahdi Namjoo
+          role: C3, HW1, P1
+          contact:
+          - icon: fab fa-github
+            link: https://github.com/titansarus
+          - icon: fab fa-linkedin
+            link: https://www.linkedin.com/in/amirmahdi-namjoo-23b4b9192/
+          - icon: fas fa-envelope
+            link: mailto:amirm137878@gmail.com
+          kind: person
+          image: https://github.com/titansarus.png
+        - name: Ahmad Salimi
+          role: P4, WebGit
+          contact:
+          - link: https://github.com/ahmadsalimi
+            icon: fab fa-github
+          kind: person
+          image: https://github.com/ahmadsalimi.png
+    0: *id001
+webteam:
+  label:
+    position: left
+    text: Web Developers
+  kind: people
+  content:
+  - name: Vahid Zehtab
+    contact:
+    - icon: fab fa-github
+      link: https://github.com/Vahidzee
+    - icon: fab fa-linkedin
+      link: https://www.linkedin.com/in/Vahidzee/
+    - icon: fas fa-envelope
+      link: mailto:vahid98zee@gmail.com
+    kind: person
+    image: https://github.com/Vahidzee.png
+  - name: Ahmad Salimi
+    contact:
+    - icon: fab fa-github
+      link: https://github.com/ahmadsalimi
+    - icon: fab fa-linkedin
+      link: https://linkedin.com/in/ahmadsalimi/
+    kind: person
+    image: https://github.com/ahmadsalimi.png
+  - name: Mohsen Larni
+    image: /assets/images/ta/MohsenLarni.jpg
+    contact:
+    - icon: fab fa-github
+      link: https://github.com/ashkanlarni/
+    - icon: fas fa-envelope
+      link: mailto:ash.larni@gmail.com
+    kind: person
+feedback:
+  label:
+    position: left
+    text: Contact Us
+  description:
+    label: false
+    content: "<p>As Elon Musk puts it:</p>\n<blockquote>\n<p>I think it\u2019s very\
+      \ important to have a feedback loop, where you\u2019re constantly thinking about\
+      \ what you\u2019ve done and\n    how you could be doing it better.</p>\n</blockquote>\n\
+      <p>Help us improve by sending us feedback!</p>"
+  comments:
+    label: false
+    kind: comments

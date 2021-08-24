@@ -1,0 +1,30 @@
+series1:
+  label: Series 1
+  content:
+    - link: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/practical/series1/Practical%20-%20Chapter%201%20%26%202_Search.zip
+      text: "Practical - Chapter 1 & 2: Search"
+      icon: far fa-file-archive
+series2:
+  label: Series 2
+  content:
+    - link: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/practical/series2/Practical%20-%20Chapter%203_CSPs%20%26%20Adversarial%20Search.zip
+      text: "Practical - Chapter 3: CSPs & Adversarial Search"
+      icon: far fa-file-archive
+series3:
+  label: Series 3
+  content:
+    - link: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/practical/series3/Practical%20-%20Chapter%204_Bayesian%20Networks.zip
+      text: "Practical - Chapter 4: Bayesian Networks"
+      icon: far fa-file-archive
+series4:
+  label: Series 4
+  content:
+    - link: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/practical/series4/Practical%20-%20Chapter%205%20%26%206_Learning%20and%20Neural%20Networks.zip
+      text: "Practical - Chapter 5 & 6: Learning and Neural Networks"
+      icon: far fa-file-archive
+series5:
+  label: Series 5
+  content:
+    - link: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/practical/series5/Practical%20-%20Chapter%207_Reinforcement%20Learning.pdf
+      text: "Practical - Chapter 7: Reinforcement Learning"
+      icon: fas fa-file-pdf

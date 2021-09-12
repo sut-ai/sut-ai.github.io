@@ -6,6 +6,7 @@ header:
 footer:
   background: /assets/images/header-bg-2.jpg
 teams:
+  background: /assets/images/header-bg-2.jpg
   label:
     position: top
     text: Teaching Assistances

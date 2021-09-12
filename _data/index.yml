@@ -52,11 +52,11 @@ course-bio:
     machine learning, deep learning and neural networks. You will be exposed to various
     issues and concerns surrounding AI such as ethics and bias, &amp; jobs, and get
     advice from experts about learning and starting a career in AI. You will also
-    demonstrate AI in action with a mini project. </br>
+    demonstrate AI in action with a mini project. </p>
 
     This course does not require any programming or computer science expertise and
     is designed to introduce the basics of AI to anyone whether you have a technical
-    background or not.</p>'
+    background or not.'
   background: /assets/images/header-bg.jpg
   links:
   - link: http://ce.sharif.edu/courses/99-00/1/ce417-2/index.php
@@ -78,9 +78,9 @@ instructor:
     bio: <p>He is a Machine Learning Scientist with 10 years of combined experience
       in industry and academia. Specifically, He has worked on many different types
       of data ranging from video and images to text documents and financial time series.
-      </br> His expertise includes development of various types of Machine Learning
+      </p> His expertise includes development of various types of Machine Learning
       and Data Analysis tasks, such as Classification, Clustering, Latent Variable
-      Modeling, and Multi-task Learning.</p>
+      Modeling, and Multi-task Learning.
     image: /assets/images/Rohban.jpg
     role: Assistant Professor in Computer Engineering at Sharif University of Technology
     contact:

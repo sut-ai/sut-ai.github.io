@@ -22,9 +22,11 @@ chapters:
           - link: http://ce.sharif.edu/courses/99-00/1/ce417-2/resources/root/Slides/PDF/Session%201.pdf
             text: Intro. to AI - Intelligent Agents
             icon: fas fa-file-pdf
+            kind: PDF
           - link: http://ce.sharif.edu/courses/99-00/1/ce417-2/resources/root/Slides/PDF/Session%202.pdf
             text: Uninformed Search
             icon: fas fa-file-pdf
+            kind: PDF
         videos:
           label: Videos
           content:
@@ -45,9 +47,11 @@ chapters:
           - link: http://ce.sharif.edu/courses/99-00/1/ce417-2/resources/root/Slides/PDF/Session%203.pdf
             text: Informed Search (Greedy, A*, IDS*, SMA*)
             icon: fas fa-file-pdf
+            kind: PDF
           - link: http://ce.sharif.edu/courses/99-00/1/ce417-2/resources/root/Slides/PDF/Session%204.pdf
             text: Pattern DBs (heuristic function)
             icon: fas fa-file-pdf
+            kind: PDF
         videos:
           label: Videos
           content:
@@ -77,6 +81,7 @@ chapters:
           - link: http://ce.sharif.edu/courses/99-00/1/ce417-2/resources/root/Slides/PDF/Session%205.pdf
             text: Local Search (Hill Climbing, Beam Search and Simulated Annealing)
             icon: fas fa-file-pdf
+            kind: PDF
         videos:
           label: Videos
           content:
@@ -97,6 +102,7 @@ chapters:
           - link: http://ce.sharif.edu/courses/99-00/1/ce417-2/resources/root/Slides/PDF/Session%206.pdf
             text: Continuous Search (Gradient Descent, Convex Optimization)
             icon: fas fa-file-pdf
+            kind: PDF
         videos:
           label: Videos
           content:
@@ -120,6 +126,7 @@ chapters:
           - link: http://ce.sharif.edu/courses/99-00/1/ce417-2/resources/root/Slides/PDF/Session%207_8.pdf
             text: Constraint Satisfaction Problems
             icon: fas fa-file-pdf
+            kind: PDF
         videos:
           label: Videos
           content:
@@ -140,6 +147,7 @@ chapters:
           - link: http://ce.sharif.edu/courses/99-00/1/ce417-2/resources/root/Slides/PDF/Session%209_10.pdf
             text: Adversarial Search
             icon: fas fa-file-pdf
+            kind: PDF
         videos:
           label: Videos
           content:
@@ -169,6 +177,7 @@ chapters:
           - link: http://ce.sharif.edu/courses/99-00/1/ce417-2/resources/root/Slides/PDF/Session%2011_12.pdf
             text: Intro. to Bayes Nets + Conditional Independence
             icon: fas fa-file-pdf
+            kind: PDF
         videos:
           label: Videos
           content:
@@ -196,6 +205,7 @@ chapters:
           - link: http://ce.sharif.edu/courses/99-00/1/ce417-2/resources/root/Slides/PDF/Session%2013_14.pdf
             text: Inference in Bayes Nets
             icon: fas fa-file-pdf
+            kind: PDF
         videos:
           label: Videos
           content:
@@ -225,6 +235,7 @@ chapters:
           - link: http://ce.sharif.edu/courses/99-00/1/ce417-2/resources/root/Slides/PDF/Session%2015_16.pdf
             text: Temporal Probability Models (Markov Models, HMMs and Particle Filtering)
             icon: fas fa-file-pdf
+            kind: PDF
         videos:
           label: Videos
           content:
@@ -254,9 +265,11 @@ chapters:
           - link: http://ce.sharif.edu/courses/99-00/1/ce417-2/resources/root/Slides/PDF/Session%2017.pdf
             text: Intro. to Machine Learning (key concepts + Naive Bayes classifier)
             icon: fas fa-file-pdf
+            kind: PDF
           - link: http://ce.sharif.edu/courses/99-00/1/ce417-2/resources/root/Slides/PDF/Session%2018.pdf
             text: Decision Trees
             icon: fas fa-file-pdf
+            kind: PDF
         videos:
           label: Videos
           content:
@@ -294,9 +307,11 @@ chapters:
           - link: http://ce.sharif.edu/courses/99-00/1/ce417-2/resources/root/Slides/PDF/Session%2019.pdf
             text: Regression
             icon: fas fa-file-pdf
+            kind: PDF
           - link: http://ce.sharif.edu/courses/99-00/1/ce417-2/resources/root/Slides/PDF/Session%2020_21.pdf
             text: Neural Networks
             icon: fas fa-file-pdf
+            kind: PDF
         videos:
           label: Videos
           content:
@@ -324,6 +339,7 @@ chapters:
           - link: http://ce.sharif.edu/courses/99-00/1/ce417-2/resources/root/Slides/PDF/Session%2020_21.pdf
             text: Neural Networks
             icon: fas fa-file-pdf
+            kind: PDF
         videos:
           label: Videos
           content:
@@ -353,6 +369,7 @@ chapters:
           - link: http://ce.sharif.edu/courses/99-00/1/ce417-2/resources/root/Slides/PDF/Session%2023_24.pdf
             text: Markov Decision Processes (MDPs)
             icon: fas fa-file-pdf
+            kind: PDF
         videos:
           label: Videos
           content:
@@ -376,6 +393,7 @@ chapters:
           - link: http://ce.sharif.edu/courses/99-00/1/ce417-2/resources/root/Slides/PDF/Session%2025_26.pdf
             text: Reinforcement Learning
             icon: fas fa-file-pdf
+            kind: PDF
         videos:
           label: Videos
           content:

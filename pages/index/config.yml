@@ -8,3 +8,6 @@ comments:
 
 # google analytics configuration
 google_analytics_id: G-VZRZHCJ5V0
+
+# enable search
+search: true

@@ -14,10 +14,12 @@ nav:
     text: Home
     description: Sharif University of Technology
     link: /
+    kind: Page
   - index: pages/lectures/index
     text: Lectures
     description: <p>Presented lectures based on subjects</p>
     link: /pages/lectures/
+    kind: Page
   - link: https://sut-ai.github.io/notes/
     text: Notes
     description: <p>Lecture Notes and Handouts</p>
@@ -28,10 +30,12 @@ nav:
     text: Problem Sets
     description: <p>Sets of Artificial Intelligence problems</p>
     link: /pages/problem_sets/
+    kind: Page
   - index: pages/team/index
     text: Educational Team
     description: <p>List of all TAs and people responsible for this course!</p>
     link: /pages/team/
+    kind: Page
 meta:
 - name: keywords
   content: Webifier, Sharif University of Technology, Mohammad Hossein Rohban
@@ -45,6 +49,7 @@ config:
     theme: github-light
     crossorigin: anonymous
   google_analytics_id: G-VZRZHCJ5V0
+  search: true
 course-bio:
   label: Artificial Intelligence
   content: '<p>In this course you will learn what Artificial Intelligence (AI) is,

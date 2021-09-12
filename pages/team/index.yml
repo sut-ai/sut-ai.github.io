@@ -9,6 +9,7 @@ footer:
   background: images/header-bg-2.jpg
 
 teams:
+  background: images/header-bg-2.jpg
   label:
     position: top
     text: Teaching Assistances

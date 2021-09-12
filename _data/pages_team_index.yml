@@ -329,6 +329,7 @@ webteam:
     position: left
     text: Web Developers
   kind: people
+  background: /assets/images/header-bg-2.jpg
   content:
   - name: Vahid Zehtab
     contact:
@@ -360,6 +361,7 @@ feedback:
   label:
     position: left
     text: Contact Us
+  background: /assets/images/header-bg-2.jpg
   description:
     label: false
     content: "<p>As Elon Musk puts it:</p>\n<blockquote>\n<p>I think it\u2019s very\

@@ -30,12 +30,14 @@ webteam:
     position: left
     text: Web Developers
   kind: people
+  background: images/header-bg-2.jpg
   patch: pages/team/webgit.yml
 
 feedback:
   label:
     position: left
     text: Contact Us
+  background: images/header-bg-2.jpg
   description:
     label: false
     content: |

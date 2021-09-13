@@ -20,6 +20,12 @@ teams:
     label: false
     kind: chapters
     content:
+      - title: Fall 2021
+        team:
+          kind: people
+          label: false
+          patch: pages/team/f2021.yml
+          
       - title: Spring 2021
         team:
           kind: people

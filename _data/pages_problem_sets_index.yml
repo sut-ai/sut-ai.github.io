@@ -395,7 +395,7 @@ previous-semesters:
         content:
         - link: https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw5-1/hw5-1.pdf
           text: HW5.1 - Temporal Probability Models
-          description: <p>Including 3 theoretical questions and 1 practical question
+          description: <p>Including 2 theoretical questions and 1 practical question
             covering Temporal Probability Models, released in F2020</p>
           kind: F2020, Theoretical, Practical, Questions
           icon: fas fa-file-pdf
@@ -426,6 +426,46 @@ previous-semesters:
         - link: https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw5-2/practical-sol.zip
           text: P5.2 - Intro to Machine Learning [sol]
           description: <p>Including solution for practical questions of HW5.2, released
+            in F2020</p>
+          kind: F2020, Practical, Solutions
+          icon: fas fa-file-archive
+      t6:
+        label: Assignment 6 - Machine Learning & Deep Neural Networks
+        kind: block
+        content:
+        - link: https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw6-1/hw6-1.pdf
+          text: HW6.1 - Machine Learning
+          description: <p>Including 2 theoretical questions and 1 practical question
+            covering Machine Learning, released in F2020</p>
+          kind: F2020, Theoretical, Practical, Questions
+          icon: fas fa-file-pdf
+        - link: https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw6-1/sol6-1.pdf
+          text: T6.1 - Machine Learning [sol]
+          description: <p>Including solution for theoretical questions of HW6.1, released
+            in F2020</p>
+          kind: F2020, Theoretical, Solutions
+          icon: fas fa-file-pdf
+        - link: https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw6-1/practical-sol.zip
+          text: P6.1 - Machine Learning [sol]
+          description: <p>Including solution for practical questions of HW6.1, released
+            in F2020</p>
+          kind: F2020, Practical, Solutions
+          icon: fas fa-file-archive
+        - link: https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw6-2/hw6-2.pdf
+          text: HW6.2 - Deep Neural Networks
+          description: <p>Including 2 theoretical questions and 1 practical question
+            covering Deep Neural Networks, released in F2020</p>
+          kind: F2020, Theoretical, Practical, Questions
+          icon: fas fa-file-pdf
+        - link: https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw6-2/sol6-2.pdf
+          text: T6.2 - Deep Neural Networks [sol]
+          description: <p>Including solution for theoretical questions of HW6.2, released
+            in F2020</p>
+          kind: F2020, Theoretical, Solutions
+          icon: fas fa-file-pdf
+        - link: https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw6-2/practical-sol.zip
+          text: P6.2 - Deep Neural Networks [sol]
+          description: <p>Including solution for practical questions of HW6.2, released
             in F2020</p>
           kind: F2020, Practical, Solutions
           icon: fas fa-file-archive

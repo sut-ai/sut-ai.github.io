@@ -374,7 +374,7 @@ https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw4-2/sol4-
 https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw5-1/hw5-1.pdf:
   category: F2020, Theoretical, Practical, Questions
   content: ''
-  description: <p>Including 3 theoretical questions and 1 practical question covering
+  description: <p>Including 2 theoretical questions and 1 practical question covering
     Temporal Probability Models, released in F2020</p>
   title: HW5.1 - Temporal Probability Models
   url: https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw5-1/hw5-1.pdf
@@ -413,6 +413,48 @@ https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw5-2/sol5-
     in F2020</p>
   title: T5.2 - Intro to Machine Learning [sol]
   url: https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw5-2/sol5-2.pdf
+https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw6-1/hw6-1.pdf:
+  category: F2020, Theoretical, Practical, Questions
+  content: ''
+  description: <p>Including 2 theoretical questions and 1 practical question covering
+    Machine Learning, released in F2020</p>
+  title: HW6.1 - Machine Learning
+  url: https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw6-1/hw6-1.pdf
+https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw6-1/practical-sol.zip:
+  category: F2020, Practical, Solutions
+  content: ''
+  description: <p>Including solution for practical questions of HW6.1, released in
+    F2020</p>
+  title: P6.1 - Machine Learning [sol]
+  url: https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw6-1/practical-sol.zip
+https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw6-1/sol6-1.pdf:
+  category: F2020, Theoretical, Solutions
+  content: ''
+  description: <p>Including solution for theoretical questions of HW6.1, released
+    in F2020</p>
+  title: T6.1 - Machine Learning [sol]
+  url: https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw6-1/sol6-1.pdf
+https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw6-2/hw6-2.pdf:
+  category: F2020, Theoretical, Practical, Questions
+  content: ''
+  description: <p>Including 2 theoretical questions and 1 practical question covering
+    Deep Neural Networks, released in F2020</p>
+  title: HW6.2 - Deep Neural Networks
+  url: https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw6-2/hw6-2.pdf
+https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw6-2/practical-sol.zip:
+  category: F2020, Practical, Solutions
+  content: ''
+  description: <p>Including solution for practical questions of HW6.2, released in
+    F2020</p>
+  title: P6.2 - Deep Neural Networks [sol]
+  url: https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw6-2/practical-sol.zip
+https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw6-2/sol6-2.pdf:
+  category: F2020, Theoretical, Solutions
+  content: ''
+  description: <p>Including solution for theoretical questions of HW6.2, released
+    in F2020</p>
+  title: T6.2 - Deep Neural Networks [sol]
+  url: https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw6-2/sol6-2.pdf
 ? https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/practical/series1/Practical%20-%20Chapter%201%20%26%202_Search.zip
 : category: S2021, Practical, Questions, Solutions
   content: ''

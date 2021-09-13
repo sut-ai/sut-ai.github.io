@@ -2,8 +2,9 @@ theoretical:
   label:
     text: Theoretical Assignments
     position: top
-  content:
-    - content:
+  t1:
+    label: Theoretical Assignment 1 - Search
+    content:
       - link: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series1/Theory%20-%20Chapter%201_Search%2C%20part%201.pdf
         text: T1.1 - Search
         description: >
@@ -27,7 +28,7 @@ theoretical:
         description: >
           Includes ...
         icon: far fa-file-pdf
-        kind: S2021, Theoretical, Solutions 
+        kind: S2021, Theoretical, Solutions
   t2:
     label: Theoretical Assignment 2 - Local Search
     content:

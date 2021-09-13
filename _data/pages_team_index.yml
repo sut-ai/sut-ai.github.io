@@ -34,6 +34,44 @@ teams:
         label: false
         content:
         - name: Vahid Zehtab
+          role: Senior Head TA
+          contact:
+          - link: https://github.com/vahidzee
+            icon: fab fa-github
+          - link: https://www.linkedin.com/in/Vahidzee/
+            icon: fab fa-linkedin
+          - link: mailto://vahid98zee@gmail.com
+            icon: fas fa-envelope
+          kind: person
+          image: https://github.com/vahidzee.png
+        - name: Parham Saremi
+          role: Head TA
+          contact:
+          - icon: fab fa-github
+            link: https://github.com/parhamsaremi
+          - icon: fab fa-linkedin
+            link: https://www.linkedin.com/in/parhamsaremi/
+          - icon: fas fa-envelope
+            link: mailto:parhaamsaremi@gmail.com
+          kind: person
+          image: https://github.com/parhamsaremi.png
+        - name: Haniyeh Ehsani
+          role: Head TA
+          image: /assets/images/ta/HaniyehEhsani.jpg
+          contact:
+          - icon: fab fa-github
+            link: https://github.com/aheldis
+          - icon: fab fa-linkedin
+            link: https://www.linkedin.com/in/haniyeh-ehsani-06ab66198/
+          - icon: fas fa-envelope
+            link: mailto:ehsanihaniyeh@gmail.com
+          kind: person
+    - title: Spring 2021
+      team:
+        kind: people
+        label: false
+        content:
+        - name: Vahid Zehtab
           role: Head TA, Web/Git
           contact:
           - link: https://github.com/vahidzee
@@ -323,44 +361,6 @@ teams:
             icon: fab fa-github
           kind: person
           image: https://github.com/ahmadsalimi.png
-    - title: Spring 2021
-      team:
-        kind: people
-        label: false
-        content:
-        - name: Vahid Zehtab
-          role: Senior Head TA
-          contact:
-          - link: https://github.com/vahidzee
-            icon: fab fa-github
-          - link: https://www.linkedin.com/in/Vahidzee/
-            icon: fab fa-linkedin
-          - link: mailto://vahid98zee@gmail.com
-            icon: fas fa-envelope
-          kind: person
-          image: https://github.com/vahidzee.png
-        - name: Parham Saremi
-          role: Head TA
-          contact:
-          - icon: fab fa-github
-            link: https://github.com/parhamsaremi
-          - icon: fab fa-linkedin
-            link: https://www.linkedin.com/in/parhamsaremi/
-          - icon: fas fa-envelope
-            link: mailto:parhaamsaremi@gmail.com
-          kind: person
-          image: https://github.com/parhamsaremi.png
-        - name: Haniyeh Ehsani
-          role: Head TA
-          image: /assets/images/ta/HaniyehEhsani.jpg
-          contact:
-          - icon: fab fa-github
-            link: https://github.com/aheldis
-          - icon: fab fa-linkedin
-            link: https://www.linkedin.com/in/haniyeh-ehsani-06ab66198/
-          - icon: fas fa-envelope
-            link: mailto:ehsanihaniyeh@gmail.com
-          kind: person
 webteam:
   label:
     position: left

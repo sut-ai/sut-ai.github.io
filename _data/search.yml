@@ -198,58 +198,65 @@ https://drive.google.com/file/d/1y5DjTDnPqOW73QIhjCYNW37Z8t5CGHo6/view:
   title: Introduction to Bayesian Networks and D-separation (annotated)
   url: https://drive.google.com/file/d/1y5DjTDnPqOW73QIhjCYNW37Z8t5CGHo6/view
 ? https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/practical/series1/Practical%20-%20Chapter%201%20%26%202_Search.zip
-: category: External
+: category: S2021, Practical, Questions, Solutions
   content: ''
-  description: ''
-  title: 'Practical - Chapter 1 & 2: Search'
+  description: <p>Includes 4 practical questions covering the first and second chapters
+    of the course syllabus (intelligent agents &amp; search) along with their solutions,
+    released on Spring 2021.</p>
+  title: S2021 - P1 - Search
   url: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/practical/series1/Practical%20-%20Chapter%201%20%26%202_Search.zip
 ? https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/practical/series2/Practical%20-%20Chapter%203_CSPs%20%26%20Adversarial%20Search.zip
-: category: External
+: category: S2021, Practical, Questions, Solutions
   content: ''
-  description: ''
-  title: 'Practical - Chapter 3: CSPs & Adversarial Search'
+  description: <p>Includes 3 practical questions about Constraint Satisfaction Problems
+    and Adversarial Search Algorithms along with their solutions, released on Spring
+    2021.</p>
+  title: S2021 - P2 - CSPs & Adversarial Search
   url: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/practical/series2/Practical%20-%20Chapter%203_CSPs%20%26%20Adversarial%20Search.zip
 ? https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/practical/series3/Practical%20-%20Chapter%204_Bayesian%20Networks.zip
-: category: External
+: category: S2021, Practical, Questions, Solutions
   content: ''
-  description: ''
-  title: 'Practical - Chapter 4: Bayesian Networks'
+  description: <p>Includes 3 practical questions about Baysian Networks along with
+    their solutions, released on Spring 2021.</p>
+  title: S2021 - P3 - Bayesian Networks
   url: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/practical/series3/Practical%20-%20Chapter%204_Bayesian%20Networks.zip
 ? https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/practical/series4/Practical%20-%20Chapter%205%20%26%206_Learning%20and%20Neural%20Networks.zip
-: category: External
+: category: S2021, Practical, Questions, Solutions
   content: ''
-  description: ''
-  title: 'Practical - Chapter 5 & 6: Learning and Neural Networks'
+  description: <p>Includes 2 practical questions about general ML and Deep Neural
+    Networks along with their solutions, released on Spring 2021.</p>
+  title: S2021 - P4 - Learning and Neural Networks
   url: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/practical/series4/Practical%20-%20Chapter%205%20%26%206_Learning%20and%20Neural%20Networks.zip
 ? https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/practical/series5/Practical%20-%20Chapter%207_Reinforcement%20Learning.pdf
-: category: PDF
+: category: S2021, Practical, Questions
   content: ''
-  description: ''
-  title: 'Practical - Chapter 7: Reinforcement Learning'
+  description: <p>Includes 1 practical question about (Deep) Reinforcement Learning
+    (RL/DRL) released on Spring 2021.</p>
+  title: S2021 - P5 - Reinforcement Learning
   url: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/practical/series5/Practical%20-%20Chapter%207_Reinforcement%20Learning.pdf
 ? https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series1/%5Bsolution%5D%20Theory%20-%20Chapter%201_Search%2C%20part%201.pdf
-: category: PDF
+: category: S2021, Theoretical, Solutions
   content: ''
   description: ''
-  title: '[solution] Theory - Chapter 1: Search, part 1'
+  title: S2021 - T1.1 - Search [sol]
   url: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series1/%5Bsolution%5D%20Theory%20-%20Chapter%201_Search%2C%20part%201.pdf
 ? https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series1/%5Bsolution%5D%20Theory%20-%20Chapter%201_Search%2C%20part%202.pdf
-: category: PDF
+: category: S2021, Theoretical, Solutions
   content: ''
   description: ''
-  title: '[solution] Theory - Chapter 1: Search, part 2'
+  title: S2021 - T1.2 - Search [sol]
   url: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series1/%5Bsolution%5D%20Theory%20-%20Chapter%201_Search%2C%20part%202.pdf
 ? https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series1/Theory%20-%20Chapter%201_Search%2C%20part%201.pdf
-: category: PDF
+: category: S2021, Theoretical, Questions
   content: ''
   description: ''
-  title: 'Theory - Chapter 1: Search, part 1'
+  title: S2021 - T1.1 - Search
   url: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series1/Theory%20-%20Chapter%201_Search%2C%20part%201.pdf
 ? https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series1/Theory%20-%20Chapter%201_Search%2C%20part%202.pdf
-: category: PDF
+: category: S2021, Theoretical, Questions
   content: ''
   description: ''
-  title: 'Theory - Chapter 1: Search, part 2'
+  title: S2021 - T1.2 - Search
   url: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series1/Theory%20-%20Chapter%201_Search%2C%20part%202.pdf
 ? https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series2/%5Bsolution%5D%20Theory%20-%20Chapter%202_Local%20Search%2C%20part%201.pdf
 : category: PDF

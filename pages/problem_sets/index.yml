@@ -8,17 +8,8 @@ header:
 footer:
   background: images/assignments.jpg
 
-assignments:
-  label: Spring 2021 Assignments
-  content: " "
-  theoretical_assignments:
-    label: Theoretical
-    patch: pages/problem_sets/problems/theoretical.yml
-  practical_assignments:
-    label: Practical
-    patch: pages/problem_sets/problems/practical.yml
-
-more_problem_sets:
-  label: More Problem Sets
-  content: " "
-  # TODO
+previous-semesters:
+  label: Previous Semesters
+  background: images/assignments.jpg
+  kind: chapters
+  patch: [pages/problem_sets/s2021.yml]

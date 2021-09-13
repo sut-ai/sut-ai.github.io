@@ -5,175 +5,184 @@ header:
   background: /assets/images/assignments.jpg
 footer:
   background: /assets/images/assignments.jpg
-assignments:
-  label: Spring 2021 Assignments
-  content: ''
-  theoretical_assignments:
-    label: Theoretical
-    series1:
-      label: Series 1
-      content:
-      - link: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series1/Theory%20-%20Chapter%201_Search%2C%20part%201.pdf
-        text: 'Theory - Chapter 1: Search, part 1'
-        icon: fas fa-file-pdf
-        kind: PDF
-      - link: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series1/%5Bsolution%5D%20Theory%20-%20Chapter%201_Search%2C%20part%201.pdf
-        text: '[solution] Theory - Chapter 1: Search, part 1'
-        icon: far fa-file-pdf
-        kind: PDF
-      - link: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series1/Theory%20-%20Chapter%201_Search%2C%20part%202.pdf
-        text: 'Theory - Chapter 1: Search, part 2'
-        icon: fas fa-file-pdf
-        kind: PDF
-      - link: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series1/%5Bsolution%5D%20Theory%20-%20Chapter%201_Search%2C%20part%202.pdf
-        text: '[solution] Theory - Chapter 1: Search, part 2'
-        icon: far fa-file-pdf
-        kind: PDF
-    series2:
-      label: Series 2
-      content:
-      - link: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series2/Theory%20-%20Chapter%202_Local%20Search%2C%20part%201.pdf
-        text: 'Theory - Chapter 2: Local Search, part 1'
-        icon: fas fa-file-pdf
-        kind: PDF
-      - link: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series2/%5Bsolution%5D%20Theory%20-%20Chapter%202_Local%20Search%2C%20part%201.pdf
-        text: '[solution] Theory - Chapter 2: Local Search, part 1'
-        icon: far fa-file-pdf
-        kind: PDF
-      - link: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series2/Theory%20-%20Chapter%202_Local%20Search%2C%20part%202.pdf
-        text: 'Theory - Chapter 2: Local Search, part 2'
-        icon: fas fa-file-pdf
-        kind: PDF
-      - link: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series2/%5Bsolution%5D%20Theory%20-%20Chapter%202_Local%20Search%2C%20part%202.pdf
-        text: '[solution] Theory - Chapter 2: Local Search, part 2'
-        icon: far fa-file-pdf
-        kind: PDF
-    series3:
-      label: Series 3
-      content:
-      - link: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series3/Theory%20-%20Chapter%203_CSPs%20%26%20Adversarial%20Search.pdf
-        text: 'Theory - Chapter 3: CSPs & Adversarial Search'
-        icon: fas fa-file-pdf
-        kind: PDF
-      - link: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series3/%5Bsolution%5D%20Theory%20-%20Chapter%203_CSPs%20%26%20Adversarial%20Search.pdf
-        text: '[solution] Theory - Chapter 3: CSPs & Adversarial Search'
-        icon: far fa-file-pdf
-        kind: PDF
-    series4:
-      label: Series 4
-      content:
-      - link: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series4/Theory%20-%20Chapter%204_Bayesian%20Networks%2C%20part%201.pdf
-        text: 'Theory - Chapter 4: Bayesian Networks, part 1'
-        icon: fas fa-file-pdf
-        kind: PDF
-      - link: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series4/%5Bsolution%5D%20Theory%20-%20Chapter%204_Bayesian%20Networks%2C%20part%201.pdf
-        text: '[solution] Theory - Chapter 4: Bayesian Networks, part 1'
-        icon: far fa-file-pdf
-        kind: PDF
-      - link: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series4/Theory%20-%20Chapter%204_Bayesian%20Networks%2C%20part%202.pdf
-        text: 'Theory - Chapter 4: Bayesian Networks, part 2'
-        icon: fas fa-file-pdf
-        kind: PDF
-      - link: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series4/%5Bsolution%5D%20Theory%20-%20Chapter%204_Bayesian%20Networks%2C%20part%202.pdf
-        text: '[solution] Theory - Chapter 4: Bayesian Networks, part 2'
-        icon: far fa-file-pdf
-        kind: PDF
-    series5:
-      label: Series 5
-      content:
-      - link: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series5/Theory%20-%20Chapter%205_Temporal%20Probability%20Models%20and%20Intro%20to%20Machine%20Learning%2C%20part%201.pdf
-        text: 'Theory - Chapter 5: Temporal Probability Models and Intro to Machine
-          Learning, part 1'
-        icon: fas fa-file-pdf
-        kind: PDF
-      - link: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series5/%5Bsolution%5D%20Theory%20-%20Chapter%205_Temporal%20Probability%20Models%20and%20Intro%20to%20Machine%20Learning%2C%20part%201.pdf
-        text: '[solution] Theory - Chapter 5: Temporal Probability Models and Intro
-          to Machine Learning, part 1'
-        icon: far fa-file-pdf
-        kind: PDF
-      - link: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series5/Theory%20-%20Chapter%205_Temporal%20Probability%20Models%20and%20Intro%20to%20Machine%20Learning%2C%20part%202.pdf
-        text: 'Theory - Chapter 5: Temporal Probability Models and Intro to Machine
-          Learning, part 2'
-        icon: fas fa-file-pdf
-        kind: PDF
-      - link: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series5/%5Bsolution%5D%20Theory%20-%20Chapter%205_Temporal%20Probability%20Models%20and%20Intro%20to%20Machine%20Learning%2C%20part%202.pdf
-        text: '[solution] Theory - Chapter 5: Temporal Probability Models and Intro
-          to Machine Learning, part 2'
-        icon: far fa-file-pdf
-        kind: PDF
-    series6:
-      label: Series 6
-      content:
-      - link: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series6/Theory%20-%20Chapter%206_Machine%20Learning%20and%20Neural%20Networks%2C%20part%201.pdf
-        text: 'Theory - Chapter 6: Machine Learning and Neural Networks, part 1'
-        icon: fas fa-file-pdf
-        kind: PDF
-      - link: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series6/%5Bsolution%5D%20Theory%20-%20Chapter%206_Machine%20Learning%20and%20Neural%20Networks%2C%20part%201.pdf
-        text: '[solution] Theory - Chapter 6: Machine Learning and Neural Networks,
-          part 1'
-        icon: far fa-file-pdf
-        kind: PDF
-      - link: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series6/Theory%20-%20Chapter%206_Machine%20Learning%20and%20Neural%20Networks%2C%20part%202.pdf
-        text: 'Theory - Chapter 6: Machine Learning and Neural Networks, part 2'
-        icon: fas fa-file-pdf
-        kind: PDF
-      - link: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series6/%5Bsolution%5D%20Theory%20-%20Chapter%206_Machine%20Learning%20and%20Neural%20Networks%2C%20part%202.pdf
-        text: '[solution] Theory - Chapter 6: Machine Learning and Neural Networks,
-          part 1'
-        icon: far fa-file-pdf
-        kind: PDF
-    series7:
-      label: Series 7
-      content:
-      - link: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series7/Theory%20-%20Chapter%207_MDP%20%26%20RL%2C%20part%201.pdf
-        text: 'Theory - Chapter 7: MDP & RL, part 1'
-        icon: fas fa-file-pdf
-        kind: PDF
-      - link: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series7/%5Bsolution%5D%20Theory%20-%20Chapter%207_MDP%20%26%20RL%2C%20part%201.pdf
-        text: '[solution] Theory - Chapter 7: MDP & RL, part 1'
-        icon: far fa-file-pdf
-        kind: PDF
-      - link: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series7/Theory%20-%20Chapter%207_MDP%20%26%20RL%2C%20part%202.pdf
-        text: 'Theory - Chapter 7: MDP & RL, part 2'
-        icon: fas fa-file-pdf
-        kind: PDF
-      - link: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series7/%5Bsolution%5D%20Theory%20-%20Chapter%207_MDP%20%26%20RL%2C%20part%202.pdf
-        text: '[solution] Theory - Chapter 7: MDP & RL, part 2'
-        icon: far fa-file-pdf
-        kind: PDF
-  practical_assignments:
-    label: Practical
-    series1:
-      label: Series 1
+previous-semesters:
+  label: Previous Semesters
+  background: /assets/images/assignments.jpg
+  kind: chapters
+  content:
+  - &id001
+    title: Spring 2021
+    theoretical:
+      label:
+        text: Theoretical Assignments
+        position: top
+      t1:
+        label: Theoretical Assignment 1 - Search
+        content:
+        - link: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series1/Theory%20-%20Chapter%201_Search%2C%20part%201.pdf
+          text: S2021 - T1.1 - Search
+          kind: S2021, Theoretical, Questions
+          icon: fas fa-file-pdf
+        - link: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series1/%5Bsolution%5D%20Theory%20-%20Chapter%201_Search%2C%20part%201.pdf
+          text: S2021 - T1.1 - Search [sol]
+          icon: far fa-file-pdf
+          kind: S2021, Theoretical, Solutions
+        - link: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series1/Theory%20-%20Chapter%201_Search%2C%20part%202.pdf
+          text: S2021 - T1.2 - Search
+          kind: S2021, Theoretical, Questions
+          icon: fas fa-file-pdf
+        - link: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series1/%5Bsolution%5D%20Theory%20-%20Chapter%201_Search%2C%20part%202.pdf
+          text: S2021 - T1.2 - Search [sol]
+          icon: far fa-file-pdf
+          kind: S2021, Theoretical, Solutions
+      t2:
+        label: Theoretical Assignment 2 - Local Search
+        content:
+        - link: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series2/Theory%20-%20Chapter%202_Local%20Search%2C%20part%201.pdf
+          text: 'Theory - Chapter 2: Local Search, part 1'
+          icon: fas fa-file-pdf
+          kind: PDF
+        - link: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series2/%5Bsolution%5D%20Theory%20-%20Chapter%202_Local%20Search%2C%20part%201.pdf
+          text: '[solution] Theory - Chapter 2: Local Search, part 1'
+          icon: far fa-file-pdf
+          kind: PDF
+        - link: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series2/Theory%20-%20Chapter%202_Local%20Search%2C%20part%202.pdf
+          text: 'Theory - Chapter 2: Local Search, part 2'
+          icon: fas fa-file-pdf
+          kind: PDF
+        - link: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series2/%5Bsolution%5D%20Theory%20-%20Chapter%202_Local%20Search%2C%20part%202.pdf
+          text: '[solution] Theory - Chapter 2: Local Search, part 2'
+          icon: far fa-file-pdf
+          kind: PDF
+      t3:
+        label: Theoretical Assignment 3 - CSP & Adversarial Search
+        content:
+        - link: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series3/Theory%20-%20Chapter%203_CSPs%20%26%20Adversarial%20Search.pdf
+          text: 'Theory - Chapter 3: CSPs & Adversarial Search'
+          icon: fas fa-file-pdf
+          kind: PDF
+        - link: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series3/%5Bsolution%5D%20Theory%20-%20Chapter%203_CSPs%20%26%20Adversarial%20Search.pdf
+          text: '[solution] Theory - Chapter 3: CSPs & Adversarial Search'
+          icon: far fa-file-pdf
+          kind: PDF
+      t4:
+        label: Theoretical Assignment 4 - Bayesian Networks
+        content:
+        - link: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series4/Theory%20-%20Chapter%204_Bayesian%20Networks%2C%20part%201.pdf
+          text: 'Theory - Chapter 4: Bayesian Networks, part 1'
+          icon: fas fa-file-pdf
+          kind: PDF
+        - link: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series4/%5Bsolution%5D%20Theory%20-%20Chapter%204_Bayesian%20Networks%2C%20part%201.pdf
+          text: '[solution] Theory - Chapter 4: Bayesian Networks, part 1'
+          icon: far fa-file-pdf
+          kind: PDF
+        - link: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series4/Theory%20-%20Chapter%204_Bayesian%20Networks%2C%20part%202.pdf
+          text: 'Theory - Chapter 4: Bayesian Networks, part 2'
+          icon: fas fa-file-pdf
+          kind: PDF
+        - link: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series4/%5Bsolution%5D%20Theory%20-%20Chapter%204_Bayesian%20Networks%2C%20part%202.pdf
+          text: '[solution] Theory - Chapter 4: Bayesian Networks, part 2'
+          icon: far fa-file-pdf
+          kind: PDF
+      t5:
+        label: Theoretical Assignment 5 - Temporal Probability Models and Intro to
+          Machine Learning
+        content:
+        - link: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series5/Theory%20-%20Chapter%205_Temporal%20Probability%20Models%20and%20Intro%20to%20Machine%20Learning%2C%20part%201.pdf
+          text: 'Theory - Chapter 5: Temporal Probability Models and Intro to Machine
+            Learning, part 1'
+          icon: fas fa-file-pdf
+          kind: PDF
+        - link: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series5/%5Bsolution%5D%20Theory%20-%20Chapter%205_Temporal%20Probability%20Models%20and%20Intro%20to%20Machine%20Learning%2C%20part%201.pdf
+          text: '[solution] Theory - Chapter 5: Temporal Probability Models and Intro
+            to Machine Learning, part 1'
+          icon: far fa-file-pdf
+          kind: PDF
+        - link: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series5/Theory%20-%20Chapter%205_Temporal%20Probability%20Models%20and%20Intro%20to%20Machine%20Learning%2C%20part%202.pdf
+          text: 'Theory - Chapter 5: Temporal Probability Models and Intro to Machine
+            Learning, part 2'
+          icon: fas fa-file-pdf
+          kind: PDF
+        - link: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series5/%5Bsolution%5D%20Theory%20-%20Chapter%205_Temporal%20Probability%20Models%20and%20Intro%20to%20Machine%20Learning%2C%20part%202.pdf
+          text: '[solution] Theory - Chapter 5: Temporal Probability Models and Intro
+            to Machine Learning, part 2'
+          icon: far fa-file-pdf
+          kind: PDF
+      t6:
+        label: Theoretical Assignment 6 - Machine Learning and Neural Networks
+        content:
+        - link: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series6/Theory%20-%20Chapter%206_Machine%20Learning%20and%20Neural%20Networks%2C%20part%201.pdf
+          text: 'Theory - Chapter 6: Machine Learning and Neural Networks, part 1'
+          icon: fas fa-file-pdf
+          kind: PDF
+        - link: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series6/%5Bsolution%5D%20Theory%20-%20Chapter%206_Machine%20Learning%20and%20Neural%20Networks%2C%20part%201.pdf
+          text: '[solution] Theory - Chapter 6: Machine Learning and Neural Networks,
+            part 1'
+          icon: far fa-file-pdf
+          kind: PDF
+        - link: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series6/Theory%20-%20Chapter%206_Machine%20Learning%20and%20Neural%20Networks%2C%20part%202.pdf
+          text: 'Theory - Chapter 6: Machine Learning and Neural Networks, part 2'
+          icon: fas fa-file-pdf
+          kind: PDF
+        - link: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series6/%5Bsolution%5D%20Theory%20-%20Chapter%206_Machine%20Learning%20and%20Neural%20Networks%2C%20part%202.pdf
+          text: '[solution] Theory - Chapter 6: Machine Learning and Neural Networks,
+            part 1'
+          icon: far fa-file-pdf
+          kind: PDF
+      t7:
+        label: Theoretical Assignment 7 - MDP & RL
+        content:
+        - link: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series7/Theory%20-%20Chapter%207_MDP%20%26%20RL%2C%20part%201.pdf
+          text: 'Theory - Chapter 7: MDP & RL, part 1'
+          icon: fas fa-file-pdf
+          kind: PDF
+        - link: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series7/%5Bsolution%5D%20Theory%20-%20Chapter%207_MDP%20%26%20RL%2C%20part%201.pdf
+          text: '[solution] Theory - Chapter 7: MDP & RL, part 1'
+          icon: far fa-file-pdf
+          kind: PDF
+        - link: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series7/Theory%20-%20Chapter%207_MDP%20%26%20RL%2C%20part%202.pdf
+          text: 'Theory - Chapter 7: MDP & RL, part 2'
+          icon: fas fa-file-pdf
+          kind: PDF
+        - link: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series7/%5Bsolution%5D%20Theory%20-%20Chapter%207_MDP%20%26%20RL%2C%20part%202.pdf
+          text: '[solution] Theory - Chapter 7: MDP & RL, part 2'
+          icon: far fa-file-pdf
+          kind: PDF
+    practical:
+      label:
+        text: Practical Assignments
+        position: top
       content:
       - link: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/practical/series1/Practical%20-%20Chapter%201%20%26%202_Search.zip
-        text: 'Practical - Chapter 1 & 2: Search'
+        text: S2021 - P1 - Search
+        description: <p>Includes 4 practical questions covering the first and second
+          chapters of the course syllabus (intelligent agents &amp; search) along
+          with their solutions, released on Spring 2021.</p>
+        kind: S2021, Practical, Questions, Solutions
         icon: far fa-file-archive
-    series2:
-      label: Series 2
-      content:
       - link: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/practical/series2/Practical%20-%20Chapter%203_CSPs%20%26%20Adversarial%20Search.zip
-        text: 'Practical - Chapter 3: CSPs & Adversarial Search'
+        text: S2021 - P2 - CSPs & Adversarial Search
+        description: <p>Includes 3 practical questions about Constraint Satisfaction
+          Problems and Adversarial Search Algorithms along with their solutions, released
+          on Spring 2021.</p>
+        kind: S2021, Practical, Questions, Solutions
         icon: far fa-file-archive
-    series3:
-      label: Series 3
-      content:
       - link: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/practical/series3/Practical%20-%20Chapter%204_Bayesian%20Networks.zip
-        text: 'Practical - Chapter 4: Bayesian Networks'
+        text: S2021 - P3 - Bayesian Networks
+        description: <p>Includes 3 practical questions about Baysian Networks along
+          with their solutions, released on Spring 2021.</p>
+        kind: S2021, Practical, Questions, Solutions
         icon: far fa-file-archive
-    series4:
-      label: Series 4
-      content:
       - link: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/practical/series4/Practical%20-%20Chapter%205%20%26%206_Learning%20and%20Neural%20Networks.zip
-        text: 'Practical - Chapter 5 & 6: Learning and Neural Networks'
+        text: S2021 - P4 - Learning and Neural Networks
+        description: <p>Includes 2 practical questions about general ML and Deep Neural
+          Networks along with their solutions, released on Spring 2021.</p>
         icon: far fa-file-archive
-    series5:
-      label: Series 5
-      content:
+        kind: S2021, Practical, Questions, Solutions
       - link: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/practical/series5/Practical%20-%20Chapter%207_Reinforcement%20Learning.pdf
-        text: 'Practical - Chapter 7: Reinforcement Learning'
+        description: <p>Includes 1 practical question about (Deep) Reinforcement Learning
+          (RL/DRL) released on Spring 2021.</p>
+        text: S2021 - P5 - Reinforcement Learning
         icon: fas fa-file-pdf
-        kind: PDF
-more_problem_sets:
-  label: More Problem Sets
-  content: ''
+        kind: S2021, Practical, Questions
+  0: *id001

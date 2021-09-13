@@ -455,6 +455,48 @@ https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw6-2/sol6-
     in F2020</p>
   title: T6.2 - Deep Neural Networks [sol]
   url: https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw6-2/sol6-2.pdf
+https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw7-1/hw7-1.pdf:
+  category: F2020, Theoretical, Practical, Questions
+  content: ''
+  description: <p>Including 3 theoretical questions and 1 practical question covering
+    Markov Decision Processes, released in F2020</p>
+  title: HW7.1 - Markov Decision Processes
+  url: https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw7-1/hw7-1.pdf
+https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw7-1/practical-sol.zip:
+  category: F2020, Practical, Solutions
+  content: ''
+  description: <p>Including solution for practical questions of HW7.1, released in
+    F2020</p>
+  title: P7.1 - Markov Decision Processes [sol]
+  url: https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw7-1/practical-sol.zip
+https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw7-1/sol7-1.pdf:
+  category: F2020, Theoretical, Solutions
+  content: ''
+  description: <p>Including solution for theoretical questions of HW7.1, released
+    in F2020</p>
+  title: T7.1 - Markov Decision Processes [sol]
+  url: https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw7-1/sol7-1.pdf
+https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw7-2/hw7-2.pdf:
+  category: F2020, Theoretical, Practical, Questions
+  content: ''
+  description: <p>Including 2 theoretical questions and 2 practical question covering
+    Reinforcement Learning, released in F2020</p>
+  title: HW7.2 - Reinforcement Learning
+  url: https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw7-2/hw7-2.pdf
+https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw7-2/practical-sol.zip:
+  category: F2020, Practical, Solutions
+  content: ''
+  description: <p>Including solution for practical questions of HW7.2, released in
+    F2020</p>
+  title: P7.2 - Reinforcement Learning [sol]
+  url: https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw7-2/practical-sol.zip
+https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw7-2/sol7-2.pdf:
+  category: F2020, Theoretical, Solutions
+  content: ''
+  description: <p>Including solution for theoretical questions of HW7.2, released
+    in F2020</p>
+  title: T7.2 - Reinforcement Learning [sol]
+  url: https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw7-2/sol7-2.pdf
 ? https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/practical/series1/Practical%20-%20Chapter%201%20%26%202_Search.zip
 : category: S2021, Practical, Questions, Solutions
   content: ''

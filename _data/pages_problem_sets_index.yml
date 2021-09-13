@@ -469,3 +469,43 @@ previous-semesters:
             in F2020</p>
           kind: F2020, Practical, Solutions
           icon: fas fa-file-archive
+      t7:
+        label: Assignment 7 - Markov Decision Processes & Reinforcement Learning
+        kind: block
+        content:
+        - link: https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw7-1/hw7-1.pdf
+          text: HW7.1 - Markov Decision Processes
+          description: <p>Including 3 theoretical questions and 1 practical question
+            covering Markov Decision Processes, released in F2020</p>
+          kind: F2020, Theoretical, Practical, Questions
+          icon: fas fa-file-pdf
+        - link: https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw7-1/sol7-1.pdf
+          text: T7.1 - Markov Decision Processes [sol]
+          description: <p>Including solution for theoretical questions of HW7.1, released
+            in F2020</p>
+          kind: F2020, Theoretical, Solutions
+          icon: fas fa-file-pdf
+        - link: https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw7-1/practical-sol.zip
+          text: P7.1 - Markov Decision Processes [sol]
+          description: <p>Including solution for practical questions of HW7.1, released
+            in F2020</p>
+          kind: F2020, Practical, Solutions
+          icon: fas fa-file-archive
+        - link: https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw7-2/hw7-2.pdf
+          text: HW7.2 - Reinforcement Learning
+          description: <p>Including 2 theoretical questions and 2 practical question
+            covering Reinforcement Learning, released in F2020</p>
+          kind: F2020, Theoretical, Practical, Questions
+          icon: fas fa-file-pdf
+        - link: https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw7-2/sol7-2.pdf
+          text: T7.2 - Reinforcement Learning [sol]
+          description: <p>Including solution for theoretical questions of HW7.2, released
+            in F2020</p>
+          kind: F2020, Theoretical, Solutions
+          icon: fas fa-file-pdf
+        - link: https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw7-2/practical-sol.zip
+          text: P7.2 - Reinforcement Learning [sol]
+          description: <p>Including solution for practical questions of HW7.2, released
+            in F2020</p>
+          kind: F2020, Practical, Solutions
+          icon: fas fa-file-archive

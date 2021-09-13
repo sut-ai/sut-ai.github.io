@@ -18,12 +18,12 @@ teams:
     <dt>HW &amp; HWR</dt>\n<dd>Theoretical assignments creator and Reviewer</dd>\n\
     <dt>P &amp; PR</dt>\n<dd>Practical assignments creator and Reviewer</dd>\n<dt>C(O)</dt>\n\
     <dd>Supplementary content creator and Organizer of the supplementary \ncontent\
-    \ creators and reviewer </dd>\n<dt>LN</dt>\n<dd>Lecture notes mentor and reviewer\
+    \ creators and reviewer </dd>\n<dt>LN(O)</dt>\n<dd>Lecture notes mentor and reviewer\
     \ and their Organizer</dd>\n<dt>Recitation</dt>\n<dd>Lecture notes mentor and\
     \ reviewer and their Organizer</dd>\n<dt>F/M</dt>\n<dd>Finals/Midterm grader</dd>\n\
-    <dt>Web/Git</dt>\n<dd>Webmaster</dd>\n</dl>\n<p><a class=\"footnote-backref\"\
-    \ href=\"#fnref:roles\" title=\"Jump back to footnote 1 in the text\">\u21A9</a></p>\n\
-    </li>\n</ol>\n</div>"
+    <dt>Web/Git</dt>\n<dd>Webmaster  </dd>\n<dt>Exams</dt>\n<dd>Exams grader</dd>\n\
+    </dl>\n<p><a class=\"footnote-backref\" href=\"#fnref:roles\" title=\"Jump back\
+    \ to footnote 1 in the text\">\u21A9</a></p>\n</li>\n</ol>\n</div>"
   teams:
     label: false
     kind: chapters
@@ -65,6 +65,259 @@ teams:
             link: https://www.linkedin.com/in/haniyeh-ehsani-06ab66198/
           - icon: fas fa-envelope
             link: mailto:ehsanihaniyeh@gmail.com
+          kind: person
+        - name: Afhsin Karimi
+          role: Sup
+          image: /assets/images/ta/AfshinKarimi.jpg
+          contact:
+          - icon: fab fa-github
+            link: https://github.com/fshnkarimi
+          - icon: fab fa-linkedin
+            link: https://www.linkedin.com/in/afshin-karimi-427356101/
+          - icon: fas fa-envelope
+            link: mailto:afshinkarimi67@gmail.com
+          kind: person
+        - name: Ali Rabiee
+          role: Sup
+          image: /assets/images/ta/AliRabiee.jpg
+          contact:
+          - icon: fab fa-github
+            link: https://github.com/ali-rabiee
+          - icon: fab fa-linkedin
+            link: linkedin.com/in/ali-rabiee-66aa3b1b2
+          - icon: fas fa-envelope
+            link: mailto:alirabiee1997@gmail.com
+          kind: person
+        - name: Arash Lagzian
+          role: Sup
+          contact:
+          - icon: fas fa-envelope
+            link: mailto:arash.lagzian94@gmail.com
+          kind: person
+        - name: MohammadMahdi Maheri
+          role: Sup
+          contact:
+          - icon: fas fa-envelope
+            link: mailto:mohamadmaheri@yahoo.com
+          kind: person
+        - name: Mohammadreza Yazdanifar
+          role: Sup
+          contact:
+          - icon: fab fa-linkedin
+            link: linkedin.com/in/mohammadreza-yazdanifar
+          - icon: fas fa-envelope
+            link: mailto:mohammadreza.yazdanifar75@gmail.com
+          kind: person
+        - name: Ali J. Alaee
+          role: Web/Git, LN
+          contact:
+          - icon: fas fa-envelope
+            link: mailto:alialaee98@gmail.com
+          kind: person
+        - name: Ali Ghorbanpour
+          role: Recitation
+          image: /assets/images/ta/AliGhorbanpour.jpg
+          contact:
+          - icon: fas fa-envelope
+            link: mailto:Aliiiqbp@gmail.com
+          kind: person
+        - name: Armin Moradi
+          role: CO
+          image: /assets/images/ta/ArminMoradi.jpeg
+          contact:
+          - icon: fab fa-linkedin
+            link: https://www.linkedin.com/in/arminmoradi9/
+          - icon: fas fa-envelope
+            link: mailto:arminmoradi785@gmail.com
+          kind: person
+        - name: Mohsen Larni
+          role: Web/Git
+          image: /assets/images/ta/MohsenLarni.jpg
+          contact:
+          - icon: fab fa-github
+            link: https://github.com/ashkanlarni
+          - icon: fas fa-envelope
+            link: mailto:ash.larni@gmail.com
+          kind: person
+        - name: Nima Jamali
+          role: LN
+          image: /assets/images/ta/NimaJamali.jpg
+          contact:
+          - icon: fab fa-github
+            link: https://github.com/nimajam41
+          - icon: fas fa-envelope
+            link: mailto:nimxj4141@gmail.com
+          kind: person
+        - name: Sajjad Shahabi
+          role: Exams
+          contact:
+          - icon: fas fa-envelope
+            link: sajjadshahabi20@yahoo.com
+          kind: person
+        - name: Sara Rajabzadeh
+          role: LNO
+          image: /assets/images/ta/SaraRajabzadeh.jpg
+          contact:
+          - icon: fab fa-linkedin
+            link: https://www.linkedin.com/in/sara-rajabzadeh/
+          kind: person
+        - name: Sepehr Ashrafzadeh
+          role: LN
+          image: /assets/images/ta/SepehrAshrafzadeh.png
+          contact:
+          - icon: fas fa-envelope
+            link: mailto:sepehrashs@gmail.com
+          kind: person
+        - name: Alireza Tavakkoli
+          role: LN
+          image: /assets/images/ta/AlirezaTavakkoli.jpg
+          contact:
+          - icon: fas fa-envelope
+            link: mailto:alirezatavakkoli@ymail.com
+          kind: person
+        - name: Ahmad Salimi
+          role: P4, WebGit
+          contact:
+          - link: https://github.com/ahmadsalimi
+            icon: fab fa-github
+          kind: person
+          image: https://github.com/ahmadsalimi.png
+        - name: Alireza Tajmirriahi
+          role: T3, P2
+          image: /assets/images/ta/AlirezaTajmirriahi.jpg
+          contact:
+          - icon: fab fa-linkedin
+            link: https://www.linkedin.com/in/alireza-tajmirriahi
+          - icon: fas fa-envelope
+            link: mailto:artajmirriahi99@gmail.com
+          kind: person
+        - name: Amin Meghrazi
+          role: T1, P1
+          image: /assets/images/ta/AminMeghrazi.jpg
+          contact:
+          - icon: fab fa-linkedin
+            link: https://www.linkedin.com/mwlite/in/amin-meghrazi-708671173
+          - icon: fas fa-envelope
+            link: mailto:aminmeghrazi7899@gmail.com
+          kind: person
+        - name: Amirmahdi Namjoo
+          role: T1, P1
+          contact:
+          - icon: fab fa-github
+            link: https://github.com/titansarus
+          - icon: fab fa-linkedin
+            link: https://www.linkedin.com/in/amirmahdi-namjoo-23b4b9192/
+          - icon: fas fa-envelope
+            link: mailto:amirm137878@gmail.com
+          kind: person
+          image: https://github.com/titansarus.png
+        - name: Arman Zarei
+          role: T6, P4
+          image: /assets/images/ta/ArmanZarei.jpg
+          contact:
+          - icon: fab fa-github
+            link: https://github.com/ArmanZarei
+          - icon: fab fa-linkedin
+            link: https://www.linkedin.com/in/arman-zarei-02b82994/
+          - icon: fas fa-envelope
+            link: mailto:armanzarei1378@gmail.com
+          kind: person
+        - name: Atoosa Chegini
+          role: T6, P5
+          image: /assets/images/ta/AtoosaChegini.jpeg
+          contact:
+          - icon: fas fa-envelope
+            link: mailto:atoosachegini1379@gmail.com
+          kind: person
+        - name: Hamidreza Kamkari
+          role: T7, P5
+          image: /assets/images/ta/HamidrezaKamkari.jpg
+          contact:
+          - icon: fab fa-github
+            link: https://github.com/hrzuser
+          - icon: fab fa-linkedin
+            link: https://www.linkedin.com/in/hamidreza-kamkari/
+          - icon: fas fa-envelope
+            link: mailto:hamidrezakamkari@gmail.com
+          kind: person
+        - name: Kian Bakhtari
+          role: T5, P3
+          image: /assets/images/ta/KianBakhtari.jpg
+          contact:
+          - icon: fab fa-linkedin
+            link: https://www.linkedin.com/in/kian-bakhtari-8109a9179/
+          - icon: fas fa-envelope
+            link: mailto:bakhtari.kian@gmail.com
+          kind: person
+        - name: Kimia Noorbakhsh
+          role: T5, P4
+          image: /assets/images/ta/KimiaNoorbakhsh.jpeg
+          contact:
+          - icon: fab fa-github
+            link: https://github.com/kimianoorbakhsh
+          - icon: fas fa-envelope
+            link: mailto:kimianoorbakhsh@gmail.com
+          kind: person
+        - name: Mahdi Asmaee
+          role: T4, P3
+          contact:
+          - icon: fas fa-envelope
+            link: mailto:m.mahdi.asmae@gmail.com
+          kind: person
+        - name: Matina Mehdizadeh
+          role: T3, P2
+          contact:
+          - icon: fas fa-envelope
+            link: mailto:matinamehdizadeh@gmail.com
+          kind: person
+        - name: Pouya Moeini
+          role: T4, P3
+          contact:
+          - icon: fab fa-github
+            link: https://github.com/pooyamoini
+          - icon: fab fa-linkedin
+            link: https://www.linkedin.com/in/pouya-moeini-472b29177/
+          - icon: fas fa-envelope
+            link: mailto:pmoeini@ce.sharif.edu
+          kind: person
+          image: https://github.com/pooyamoini.png
+        - name: Reza Amini Majd
+          role: T2, P2
+          image: /assets/images/ta/RezaAmini.jpg
+          contact:
+          - icon: fab fa-github
+            link: https://github.com/rezaaminimajd
+          - icon: fab fa-linkedin
+            link: https://www.linkedin.com/in/rezaaminimajd
+          - icon: fas fa-envelope
+            link: mailto:reza.amini.majd1379@gmail.com
+          kind: person
+        - name: Sadjad Faqfoor Maqrebi
+          role: T2, P1
+          contact:
+          - icon: fab fa-github
+            link: https://github.com/sajadfaghfoor
+          - icon: fas fa-envelope
+            link: mailto:sajad.faghfoor@gmail.com
+          kind: person
+          image: https://github.com/sajadfaghfoor.png
+        - name: Sara Khosravi
+          role: CO
+          image: /assets/images/ta/SaraKhosravi.jfif
+          contact:
+          - icon: fab fa-linkedin
+            link: https://www.linkedin.com/in/sara-khosravi-1237991a3/
+          - icon: fas fa-envelope
+            link: mailto:srkhsrv21@gmail.com
+          kind: person
+        - name: Sepehr Amini Afshar
+          role: LN
+          image: /assets/images/ta/SepehrAminiAfshar.jpg
+          contact:
+          - icon: fab fa-linkedin
+            link: https://www.linkedin.com/in/sepehr-amini-afshar-2201381b8/
+          - icon: fas fa-envelope
+            link: mailto:sepehramini83@gmail.com
           kind: person
     - title: Spring 2021
       team:

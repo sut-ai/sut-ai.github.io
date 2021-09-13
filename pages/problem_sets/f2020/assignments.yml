@@ -20,7 +20,7 @@ theoretical:
         kind: F2020, Theoretical, Solutions
         icon: fas fa-file-pdf
         ####################
-      - link: https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw1-1/practical-sol.pdf
+      - link: https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw1-1/practical-sol.zip
         text: P1.1 - Intelligent Agents [sol]
         description: >
           Including solution for practical questions of HW1.1, released in F2020
@@ -41,7 +41,7 @@ theoretical:
         kind: F2020, Theoretical, Solutions
         icon: fas fa-file-pdf
         ####################
-      - link: https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw1-2/practical-sol.pdf
+      - link: https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw1-2/practical-sol.zip
         text: P1.2 - Informed Search [sol]
         description: >
           Including solution for practical questions of HW1.2, released in F2020
@@ -66,7 +66,7 @@ theoretical:
         kind: F2020, Theoretical, Solutions
         icon: fas fa-file-pdf
         ####################
-      - link: https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw2-1/practical-sol.pdf
+      - link: https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw2-1/practical-sol.zip
         text: P2.1 - Local Search [sol]
         description: >
           Including solution for practical questions of HW2.1, released in F2020
@@ -87,56 +87,56 @@ theoretical:
         kind: F2020, Theoretical, Solutions
         icon: fas fa-file-pdf
         ####################
-      - link: https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw2-2/practical-sol.pdf
+      - link: https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw2-2/practical-sol.zip
         text: P2.2 - Search In Continuous Space [sol]
         description: >
           Including solution for practical questions of HW2.2, released in F2020
         kind: F2020, Practical, Solutions
         icon: fas fa-file-archive
         ####################
-  # t3:
-  #   label: Assignment 1 - Search
-  #   kind: block
-  #   content:
-  #     - link: 
-  #       text: T1.1 - Intelligent Agents
-  #       description: >
-  #         Including x theoretical questions and y practical questions covering ..., released in F2020
-  #       kind: F2020, Theoretical, Practical, Questions
-  #       icon: fas fa-file-pdf
-  #     ####################
-  #     - link: 
-  #       text: T1.1 - Intelligent Agents [sol]
-  #       description: >
-  #         Including solution for theoretical questions of T1.1, released in F2020
-  #       kind: F2020, Theoretical, Solutions
-  #       icon: fas fa-file-pdf
-  #       ####################
-  #     - link: 
-  #       text: P1.1 - Intelligent Agents [sol]
-  #       description: >
-  #         Including solution for practical questions of T1.1, released in F2020
-  #       kind: F2020, Practical, Solutions
-  #       icon: fas fa-file-archive
-  #       ####################
-  #     - link: 
-  #       text: T1.2 - Intelligent Agents
-  #       description: >
-  #         Including x theoretical questions and y practical questions covering ..., released in F2020
-  #       kind: F2020, Theoretical, Practical, Questions
-  #       icon: fas fa-file-pdf
-  #       ####################
-  #     - link: 
-  #       text: T1.2 - Intelligent Agents [sol]
-  #       description: >
-  #         Including solution for theoretical questions of T1.2, released in F2020
-  #       kind: F2020, Theoretical, Solutions
-  #       icon: fas fa-file-pdf
-  #       ####################
-  #     - link: 
-  #       text: P1.2 - Intelligent Agents [sol]
-  #       description: >
-  #         Including solution for practical questions of T1.2, released in F2020
-  #       kind: F2020, Practical, Solutions
-  #       icon: fas fa-file-archive
-  #       ####################
+  t3:
+    label: Assignment 3 - CSP & Adversarial Search
+    kind: block
+    content:
+      - link: https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw3-1/hw3-1.pdf
+        text: HW3.1 - CSP
+        description: >
+          Including 3 theoretical questions and 1 practical question covering CSP, released in F2020
+        kind: F2020, Theoretical, Practical, Questions
+        icon: fas fa-file-pdf
+      ####################
+      - link: https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw3-1/sol3-1.pdf
+        text: T3.1 - CSP [sol]
+        description: >
+          Including solution for theoretical questions of HW3.1, released in F2020
+        kind: F2020, Theoretical, Solutions
+        icon: fas fa-file-pdf
+        ####################
+      - link: https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw3-1/practical-sol.zip
+        text: P3.1 - CSP [sol]
+        description: >
+          Including solution for practical questions of HW3.1, released in F2020
+        kind: F2020, Practical, Solutions
+        icon: fas fa-file-archive
+        ####################
+      - link: https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw3-2/hw3-2.pdf
+        text: HW3.2 - Adversarial Search
+        description: >
+          Including 2 theoretical questions and 1 practical question covering Adversarial Search, released in F2020
+        kind: F2020, Theoretical, Practical, Questions
+        icon: fas fa-file-pdf
+        ####################
+      - link: https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw3-2/sol3-2.pdf
+        text: T3.2 - Adversarial Search [sol]
+        description: >
+          Including solution for theoretical questions of HW3.2, released in F2020
+        kind: F2020, Theoretical, Solutions
+        icon: fas fa-file-pdf
+        ####################
+      - link: https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw3-2/practical-sol.zip
+        text: P3.2 - Adversarial Search [sol]
+        description: >
+          Including solution for practical questions of HW3.2, released in F2020
+        kind: F2020, Practical, Solutions
+        icon: fas fa-file-archive
+        ####################

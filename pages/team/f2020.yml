@@ -40,11 +40,17 @@
     - icon: fas fa-envelope
       link: mailto:mw2.1376@gmail.com
 
-- name: Amirhossein Ghobadi
+- name: Amirhossein Ghobadizadeh
   role: HW2, M/F
+  image: images/ta/AmirhosseinGhobadizadeh.jpg
   contact:
     - icon: fas fa-envelope
       link: mailto:a.amgh1376@gmail.com
+    - link: https://www.linkedin.com/in/amirhossein-ghobadizade-a76a74138https://www.linkedin.com/in/amirhossein-ghobadizade-a76a74138
+      icon: fab fa-linkedin
+    - icon: fab fa-github
+      link: https://github.com/amirghx
+    
 
 - name: Rouzbeh Meshkinnejad
   role: HW7, HWR5
@@ -55,8 +61,11 @@
 - name: Armin Saadat
   role: HW3, HWR4
   contact:
-    - icon: fas fa-envelope
-      link: mailto:armin2saadat@gmail.com
+    - icon: fab fa-linkedin
+      link: https://www.linkedin.com/in/armin-saadat/
+    - icon: fab fa-github
+      link: https://github.com/Armin-Saadat
+
 
 - name: Saber Dinpajhouh
   role: HW3, HWR7
@@ -78,7 +87,12 @@
 
 - name: Alireza Dizaji
   role: HW7, HWR2
+  image: images/ta/AlirezaDizaji.jpg
   contact:
+    - link: https://github.com/alirezadizaji
+      icon: fab fa-github
+    - link: https://www.linkedin.com/in/alireza-dizaji-43a634194/
+      icon: fab fa-linkedin
     - icon: fas fa-envelope
       link: mailto:alirezadizaji@yahoo.com
 
@@ -139,9 +153,11 @@
     - icon: fas fa-envelope
       link: mailto:sanmoh99@gmail.com
 
-- name: Mehrdad Saremi
+- name: Mehrdad Saberi
   role: HW1, HWR6
   contact:
+    - icon: fab fa-github
+      link: https://github.com/mehrdadsaberi
     - icon: fas fa-envelope
       link: mailto:merhdads@gmail.com
 

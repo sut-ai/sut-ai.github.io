@@ -35,6 +35,21 @@ teams:
           kind: people
           label: false
           patch: pages/team/f2020.yml
+      - title: Spring 2020
+        team:
+          kind: people
+          label: false
+          patch: pages/team/s2020.yml
+      - title: Fall 2019
+        team:
+          kind: people
+          label: false
+          patch: pages/team/f2019.yml
+      - title: Spring 2019
+        team:
+          kind: people
+          label: false
+          patch: pages/team/s2019.yml
 
 
 webteam:

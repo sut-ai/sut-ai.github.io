@@ -11,8 +11,7 @@ chapters:
     label: Chapter 1
     kind: chapters
     content:
-    - &id001
-      title: Intelligent Agents and Uniformed Search
+    - title: Intelligent Agents and Uniformed Search
       resources:
         label: Resources
         content: ''
@@ -36,8 +35,7 @@ chapters:
           - link: https://www.aparat.com/v/aXusO/
             text: 'Session 2: Uninformed Search methods'
             icon: fas fa-play-circle
-    - &id002
-      title: Informed Search and Advanced Heuistics
+    - title: Informed Search and Advanced Heuistics
       resources:
         label: Resources
         content: ''
@@ -64,14 +62,11 @@ chapters:
           - link: https://www.aparat.com/v/75AQq/
             text: 'Session 5: designing Heuristic Functions (cont.) - Local Search'
             icon: fas fa-play-circle
-    0: *id001
-    1: *id002
   chapter2:
     label: Chapter 2
     kind: chapters
     content:
-    - &id003
-      title: Local Search
+    - title: Local Search
       resources:
         label: Resources
         content: ''
@@ -91,8 +86,7 @@ chapters:
           - link: https://www.aparat.com/v/QzSrX/
             text: 'Session 6: Local Search (cont.)'
             icon: fas fa-play-circle
-    - &id004
-      title: Search in Continuous Space (Convex Optimization and Gradient descent)
+    - title: Search in Continuous Space (Convex Optimization and Gradient descent)
       resources:
         label: Resources
         content: ''
@@ -109,14 +103,11 @@ chapters:
           - link: https://www.aparat.com/v/9eaT3/
             text: 'Session 7: Continuous Search'
             icon: fas fa-play-circle
-    0: *id003
-    1: *id004
   chapter3:
     label: Chapter 3
     kind: chapters
     content:
-    - &id005
-      title: Constraint Satisfaction Problems
+    - title: Constraint Satisfaction Problems
       resources:
         label: Resources
         content: ''
@@ -136,8 +127,7 @@ chapters:
           - link: https://www.aparat.com/v/Wlcax/
             text: 'Session 9: Constraint Satisfaction Problems, part 2'
             icon: fas fa-play-circle
-    - &id006
-      title: Adversarial Search (minimax, alpha-beta pruning, expectimax)
+    - title: Adversarial Search (minimax, alpha-beta pruning, expectimax)
       resources:
         label: Resources
         content: ''
@@ -157,14 +147,11 @@ chapters:
           - link: https://www.aparat.com/v/dprI1/
             text: 'Session 11: Adversarial Search, part 2'
             icon: fas fa-play-circle
-    0: *id005
-    1: *id006
   chapter4:
     label: Chapter 4
     kind: chapters
     content:
-    - &id007
-      title: Introduction to Bayesian Networks
+    - title: Introduction to Bayesian Networks
       resources:
         label: Resources
         content: ''
@@ -191,8 +178,7 @@ chapters:
           - link: https://www.aparat.com/v/IBVET/
             text: 'Session 14: Probabilistic Graphical Models, part 3 (D-separation)'
             icon: fas fa-play-circle
-    - &id008
-      title: Inference in Bayesian Networks
+    - title: Inference in Bayesian Networks
       resources:
         label: Resources
         content: ''
@@ -215,14 +201,11 @@ chapters:
           - link: https://www.aparat.com/v/Jadn0/
             text: 'Session 16: Probabilistic Graphical Models Sampling, part 5'
             icon: fas fa-play-circle
-    0: *id007
-    1: *id008
   chapter5:
     label: Chapter 5
     kind: chapters
     content:
-    - &id009
-      title: Temporal Probability Models (Markov Models and Particle Filtering)
+    - title: Temporal Probability Models (Markov Models and Particle Filtering)
       resources:
         label: Resources
         content: ''
@@ -248,8 +231,7 @@ chapters:
           - link: https://www.aparat.com/v/8f2A6/
             text: 'Session 19: Markov Models, part 3'
             icon: fas fa-play-circle
-    - &id010
-      title: Intro to Machine Learning (key concepts) & Learning a Decision Tree (classification)
+    - title: Intro to Machine Learning (key concepts) & Learning a Decision Tree (classification)
       resources:
         label: Resources
         content: ''
@@ -283,14 +265,11 @@ chapters:
           - link: https://www.aparat.com/v/IeZMP/
             text: 'Session 22: Decision Tree (cont.) - Regression'
             icon: fas fa-play-circle
-    0: *id009
-    1: *id010
   chapter6:
     label: Chapter 6
     kind: chapters
     content:
-    - &id011
-      title: Linear and Logistic Regression & Perceptrons
+    - title: Linear and Logistic Regression & Perceptrons
       resources:
         label: Resources
         content: ''
@@ -321,8 +300,7 @@ chapters:
           - link: https://www.aparat.com/v/rS3k6/
             text: 'Session 23: Regression (cont.) - Perceptron'
             icon: fas fa-play-circle
-    - &id012
-      title: Neural Networks (Multilayer Perceptron and Convolutional Neural Networks)
+    - title: Neural Networks (Multilayer Perceptron and Convolutional Neural Networks)
       resources:
         label: Resources
         content: ''
@@ -349,14 +327,11 @@ chapters:
           - link: https://www.aparat.com/v/cj3oS/
             text: 'Session 25: Convolutional Networks'
             icon: fas fa-play-circle
-    0: *id011
-    1: *id012
   chapter7:
     label: Chapter 7
     kind: chapters
     content:
-    - &id013
-      title: Markov Decision Processes
+    - title: Markov Decision Processes
       resources:
         label: Resources
         content: ''
@@ -379,8 +354,7 @@ chapters:
           - link: https://www.aparat.com/v/GzNqP/
             text: 'Session 27: Markov Decision Processes, part 2'
             icon: fas fa-play-circle
-    - &id014
-      title: Reinforcement Learning
+    - title: Reinforcement Learning
       resources:
         label: Resources
         content: ''
@@ -403,5 +377,3 @@ chapters:
           - link: https://www.aparat.com/v/TaPwF/
             text: 'Session 29: Reinforcement Learning, part 2'
             icon: fas fa-play-circle
-    0: *id013
-    1: *id014

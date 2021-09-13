@@ -12,4 +12,5 @@ previous-semesters:
   label: Previous Semesters
   background: images/assignments.jpg
   kind: chapters
-  patch: [pages/problem_sets/s2021.yml]
+  patch-content:
+    - pages/problem_sets/s2021/index.yml

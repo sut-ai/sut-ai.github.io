@@ -28,8 +28,7 @@ teams:
     label: false
     kind: chapters
     content:
-    - &id001
-      title: Spring 2021
+    - title: Spring 2021
       team:
         kind: people
         label: false
@@ -324,40 +323,41 @@ teams:
             icon: fab fa-github
           kind: person
           image: https://github.com/ahmadsalimi.png
-    0: *id001
 webteam:
   label:
     position: left
     text: Web Developers
-  kind: people
   background: /assets/images/header-bg-2.jpg
   content:
-  - name: Vahid Zehtab
-    contact:
-    - icon: fab fa-github
-      link: https://github.com/Vahidzee
-    - icon: fab fa-linkedin
-      link: https://www.linkedin.com/in/Vahidzee/
-    - icon: fas fa-envelope
-      link: mailto:vahid98zee@gmail.com
-    kind: person
-    image: https://github.com/Vahidzee.png
-  - name: Ahmad Salimi
-    contact:
-    - icon: fab fa-github
-      link: https://github.com/ahmadsalimi
-    - icon: fab fa-linkedin
-      link: https://linkedin.com/in/ahmadsalimi/
-    kind: person
-    image: https://github.com/ahmadsalimi.png
-  - name: Mohsen Larni
-    image: /assets/images/ta/MohsenLarni.jpg
-    contact:
-    - icon: fab fa-github
-      link: https://github.com/ashkanlarni/
-    - icon: fas fa-envelope
-      link: mailto:ash.larni@gmail.com
-    kind: person
+    kind: people
+    label: false
+    content:
+    - name: Vahid Zehtab
+      contact:
+      - icon: fab fa-github
+        link: https://github.com/Vahidzee
+      - icon: fab fa-linkedin
+        link: https://www.linkedin.com/in/Vahidzee/
+      - icon: fas fa-envelope
+        link: mailto:vahid98zee@gmail.com
+      kind: person
+      image: https://github.com/Vahidzee.png
+    - name: Ahmad Salimi
+      contact:
+      - icon: fab fa-github
+        link: https://github.com/ahmadsalimi
+      - icon: fab fa-linkedin
+        link: https://linkedin.com/in/ahmadsalimi/
+      kind: person
+      image: https://github.com/ahmadsalimi.png
+    - name: Mohsen Larni
+      image: /assets/images/ta/MohsenLarni.jpg
+      contact:
+      - icon: fab fa-github
+        link: https://github.com/ashkanlarni/
+      - icon: fas fa-envelope
+        link: mailto:ash.larni@gmail.com
+      kind: person
 feedback:
   label:
     position: left

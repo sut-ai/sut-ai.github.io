@@ -24,15 +24,17 @@ teams:
         team:
           kind: people
           label: false
-          patch: pages/team/spring2021.yml
+          patch: pages/team/s2021.yml
 
 webteam:
   label:
     position: left
     text: Web Developers
-  kind: people
   background: images/header-bg-2.jpg
-  patch: pages/team/webgit.yml
+  content:
+    kind: people
+    label: false
+    patch: pages/team/webgit.yml
 
 feedback:
   label:

@@ -20,18 +20,22 @@ previous-semesters:
         content:
         - link: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series1/Theory%20-%20Chapter%201_Search%2C%20part%201.pdf
           text: T1.1 - Search
+          description: <p>Includes ...</p>
           kind: S2021, Theoretical, Questions
           icon: fas fa-file-pdf
         - link: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series1/%5Bsolution%5D%20Theory%20-%20Chapter%201_Search%2C%20part%201.pdf
           text: T1.1 - Search [sol]
+          description: <p>Includes ...</p>
           icon: far fa-file-pdf
           kind: S2021, Theoretical, Solutions
         - link: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series1/Theory%20-%20Chapter%201_Search%2C%20part%202.pdf
           text: T1.2 - Search
+          description: <p>Includes ...</p>
           kind: S2021, Theoretical, Questions
           icon: fas fa-file-pdf
         - link: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series1/%5Bsolution%5D%20Theory%20-%20Chapter%201_Search%2C%20part%202.pdf
           text: T1.2 - Search [sol]
+          description: <p>Includes ...</p>
           icon: far fa-file-pdf
           kind: S2021, Theoretical, Solutions
       t2:

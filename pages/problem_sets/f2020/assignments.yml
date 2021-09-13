@@ -186,3 +186,49 @@ theoretical:
         kind: F2020, Practical, Solutions
         icon: fas fa-file-archive
         ####################
+  t5:
+    label: Assignment 5 - Temporal Probability Models & Intro to Machine Learning
+    kind: block
+    content:
+      - link: https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw5-1/hw5-1.pdf
+        text: HW5.1 - Temporal Probability Models
+        description: >
+          Including 3 theoretical questions and 1 practical question covering Temporal Probability Models, released in F2020
+        kind: F2020, Theoretical, Practical, Questions
+        icon: fas fa-file-pdf
+      ####################
+      - link: https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw5-1/sol5-1.pdf
+        text: T5.1 - Temporal Probability Models [sol]
+        description: >
+          Including solution for theoretical questions of HW5.1, released in F2020
+        kind: F2020, Theoretical, Solutions
+        icon: fas fa-file-pdf
+        ####################
+      - link: https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw5-1/practical-sol.zip
+        text: P5.1 - Temporal Probability Models [sol]
+        description: >
+          Including solution for practical questions of HW5.1, released in F2020
+        kind: F2020, Practical, Solutions
+        icon: fas fa-file-archive
+        ####################
+      - link: https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw5-2/hw5-2.pdf
+        text: HW5.2 - Intro to Machine Learning
+        description: >
+          Including 3 theoretical questions and 1 practical question covering Intro to Machine Learning, released in F2020
+        kind: F2020, Theoretical, Practical, Questions
+        icon: fas fa-file-pdf
+        ####################
+      - link: https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw5-2/sol5-2.pdf
+        text: T5.2 - Intro to Machine Learning [sol]
+        description: >
+          Including solution for theoretical questions of HW5.2, released in F2020
+        kind: F2020, Theoretical, Solutions
+        icon: fas fa-file-pdf
+        ####################
+      - link: https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw5-2/practical-sol.zip
+        text: P5.2 - Intro to Machine Learning [sol]
+        description: >
+          Including solution for practical questions of HW5.2, released in F2020
+        kind: F2020, Practical, Solutions
+        icon: fas fa-file-archive
+        ####################

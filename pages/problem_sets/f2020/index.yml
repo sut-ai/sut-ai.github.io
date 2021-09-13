@@ -1,3 +1,2 @@
-title: Spring 2021
-patch-theoretical: pages/problem_sets/s2021/theoretical.yml
-patch-practical: pages/problem_sets/s2021/practical.yml
+title: Fall 2020
+patch-assignments: pages/problem_sets/f2020/assignments.yml

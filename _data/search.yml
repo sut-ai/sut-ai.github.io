@@ -202,14 +202,14 @@ https://drive.google.com/file/d/1y5DjTDnPqOW73QIhjCYNW37Z8t5CGHo6/view:
   content: ''
   description: <p>Includes 4 practical questions covering the first and second chapters
     of the course syllabus (intelligent agents &amp; search) along with their solutions,
-    released on Spring 2021.</p>
+    released in Spring 2021.</p>
   title: P1 - Search
   url: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/practical/series1/Practical%20-%20Chapter%201%20%26%202_Search.zip
 ? https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/practical/series2/Practical%20-%20Chapter%203_CSPs%20%26%20Adversarial%20Search.zip
 : category: S2021, Practical, Questions, Solutions
   content: ''
   description: <p>Includes 3 practical questions about Constraint Satisfaction Problems
-    and Adversarial Search Algorithms along with their solutions, released on Spring
+    and Adversarial Search Algorithms along with their solutions, released in Spring
     2021.</p>
   title: P2 - CSPs & Adversarial Search
   url: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/practical/series2/Practical%20-%20Chapter%203_CSPs%20%26%20Adversarial%20Search.zip
@@ -217,188 +217,188 @@ https://drive.google.com/file/d/1y5DjTDnPqOW73QIhjCYNW37Z8t5CGHo6/view:
 : category: S2021, Practical, Questions, Solutions
   content: ''
   description: <p>Includes 3 practical questions about Baysian Networks along with
-    their solutions, released on Spring 2021.</p>
+    their solutions, released in Spring 2021.</p>
   title: P3 - Bayesian Networks
   url: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/practical/series3/Practical%20-%20Chapter%204_Bayesian%20Networks.zip
 ? https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/practical/series4/Practical%20-%20Chapter%205%20%26%206_Learning%20and%20Neural%20Networks.zip
 : category: S2021, Practical, Questions, Solutions
   content: ''
   description: <p>Includes 2 practical questions about general ML and Deep Neural
-    Networks along with their solutions, released on Spring 2021.</p>
+    Networks along with their solutions, released in Spring 2021.</p>
   title: P4 - Learning and Neural Networks
   url: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/practical/series4/Practical%20-%20Chapter%205%20%26%206_Learning%20and%20Neural%20Networks.zip
 ? https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/practical/series5/Practical%20-%20Chapter%207_Reinforcement%20Learning.pdf
 : category: S2021, Practical, Questions
   content: ''
   description: <p>Includes 1 practical question about (Deep) Reinforcement Learning
-    (RL/DRL) released on Spring 2021.</p>
+    (RL/DRL) released in Spring 2021.</p>
   title: P5 - Reinforcement Learning
   url: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/practical/series5/Practical%20-%20Chapter%207_Reinforcement%20Learning.pdf
 ? https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series1/%5Bsolution%5D%20Theory%20-%20Chapter%201_Search%2C%20part%201.pdf
 : category: S2021, Theoretical, Solutions
   content: ''
-  description: <p>Includes solutions for T1.1, released on S2021.</p>
+  description: <p>Includes solutions for T1.1, released in S2021.</p>
   title: T1.1 - Intelligent Agents [sol]
   url: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series1/%5Bsolution%5D%20Theory%20-%20Chapter%201_Search%2C%20part%201.pdf
 ? https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series1/%5Bsolution%5D%20Theory%20-%20Chapter%201_Search%2C%20part%202.pdf
 : category: S2021, Theoretical, Solutions
   content: ''
-  description: <p>Includes solutions for T1.2, released on S2021.</p>
+  description: <p>Includes solutions for T1.2, released in S2021.</p>
   title: T1.2 - Informed Search [sol]
   url: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series1/%5Bsolution%5D%20Theory%20-%20Chapter%201_Search%2C%20part%202.pdf
 ? https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series1/Theory%20-%20Chapter%201_Search%2C%20part%201.pdf
 : category: S2021, Theoretical, Questions
   content: ''
   description: <p>Includes 2 theoretical questions covering Introduction to AI and
-    Intelligent Agents, released on S2021.</p>
+    Intelligent Agents, released in S2021.</p>
   title: T1.1 - Intelligent Agents
   url: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series1/Theory%20-%20Chapter%201_Search%2C%20part%201.pdf
 ? https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series1/Theory%20-%20Chapter%201_Search%2C%20part%202.pdf
 : category: S2021, Theoretical, Questions
   content: ''
   description: <p>Includes 2 theoretical questions covering Informed Search, released
-    on S2021.</p>
+    in S2021.</p>
   title: T1.2 - Informed Search
   url: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series1/Theory%20-%20Chapter%201_Search%2C%20part%202.pdf
 ? https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series2/%5Bsolution%5D%20Theory%20-%20Chapter%202_Local%20Search%2C%20part%201.pdf
 : category: S2021, Theoretical, Solutions
   content: ''
-  description: <p>Includes solutions for T2.1, released on S2021.</p>
+  description: <p>Includes solutions for T2.1, released in S2021.</p>
   title: T2.1 - Local Search [sol]
   url: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series2/%5Bsolution%5D%20Theory%20-%20Chapter%202_Local%20Search%2C%20part%201.pdf
 ? https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series2/%5Bsolution%5D%20Theory%20-%20Chapter%202_Local%20Search%2C%20part%202.pdf
 : category: S2021, Theoretical, Solutions
   content: ''
-  description: <p>Includes solutions for T2.2, released on S2021.</p>
+  description: <p>Includes solutions for T2.2, released in S2021.</p>
   title: T2.2 - Search In Continuous Space [sol]
   url: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series2/%5Bsolution%5D%20Theory%20-%20Chapter%202_Local%20Search%2C%20part%202.pdf
 ? https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series2/Theory%20-%20Chapter%202_Local%20Search%2C%20part%201.pdf
 : category: S2021, Theoretical, Questions
   content: ''
   description: <p>Includes 1 question covering Informed Search and 2 questions covering
-    Local Search, released on S2021.</p>
+    Local Search, released in S2021.</p>
   title: T2.1 - Local Search
   url: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series2/Theory%20-%20Chapter%202_Local%20Search%2C%20part%201.pdf
 ? https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series2/Theory%20-%20Chapter%202_Local%20Search%2C%20part%202.pdf
 : category: S2021, Theoretical, Questions
   content: ''
   description: <p>Includes 1 question covering Local Search and 2 questions covering
-    Search In Continuous Space, released on S2021.</p>
+    Search In Continuous Space, released in S2021.</p>
   title: T2.2 - Search In Continuous Space
   url: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series2/Theory%20-%20Chapter%202_Local%20Search%2C%20part%202.pdf
 ? https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series3/%5Bsolution%5D%20Theory%20-%20Chapter%203_CSPs%20%26%20Adversarial%20Search.pdf
 : category: S2021, Theoretical, Solutions
   content: ''
-  description: <p>Includes solutions for T3, released on S2021.</p>
+  description: <p>Includes solutions for T3, released in S2021.</p>
   title: T3 - CSPs & Adversarial Search [sol]
   url: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series3/%5Bsolution%5D%20Theory%20-%20Chapter%203_CSPs%20%26%20Adversarial%20Search.pdf
 ? https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series3/Theory%20-%20Chapter%203_CSPs%20%26%20Adversarial%20Search.pdf
 : category: S2021, Theoretical, Questions
   content: ''
   description: <p>Includes 3 questions covering CSP and 2 questions covering Adversarial
-    Search, released on S2021.</p>
+    Search, released in S2021.</p>
   title: T3 - CSPs & Adversarial Search
   url: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series3/Theory%20-%20Chapter%203_CSPs%20%26%20Adversarial%20Search.pdf
 ? https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series4/%5Bsolution%5D%20Theory%20-%20Chapter%204_Bayesian%20Networks%2C%20part%201.pdf
 : category: S2021, Theoretical, Solutions
   content: ''
-  description: <p>Includes solutions for T4.1, released on S2021.</p>
+  description: <p>Includes solutions for T4.1, released in S2021.</p>
   title: T4.1 - Introduction to Bayesian Networks [sol]
   url: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series4/%5Bsolution%5D%20Theory%20-%20Chapter%204_Bayesian%20Networks%2C%20part%201.pdf
 ? https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series4/%5Bsolution%5D%20Theory%20-%20Chapter%204_Bayesian%20Networks%2C%20part%202.pdf
 : category: S2021, Theoretical, Solutions
   content: ''
-  description: <p>Includes solutions for T4.2, released on S2021.</p>
+  description: <p>Includes solutions for T4.2, released in S2021.</p>
   title: T4.2 - Inference in the Bayesian Networks [sol]
   url: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series4/%5Bsolution%5D%20Theory%20-%20Chapter%204_Bayesian%20Networks%2C%20part%202.pdf
 ? https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series4/Theory%20-%20Chapter%204_Bayesian%20Networks%2C%20part%201.pdf
 : category: S2021, Theoretical, Questions
   content: ''
   description: <p>Includes 2 questions covering Introduction to Bayesian Networks,
-    released on S2021.</p>
+    released in S2021.</p>
   title: T4.1 - Introduction to Bayesian Networks
   url: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series4/Theory%20-%20Chapter%204_Bayesian%20Networks%2C%20part%201.pdf
 ? https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series4/Theory%20-%20Chapter%204_Bayesian%20Networks%2C%20part%202.pdf
 : category: S2021, Theoretical, Questions
   content: ''
   description: <p>Includes 2 questions covering Inference in the Bayesian Networks,
-    released on S2021.</p>
+    released in S2021.</p>
   title: T4.2 - Inference in the Bayesian Networks
   url: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series4/Theory%20-%20Chapter%204_Bayesian%20Networks%2C%20part%202.pdf
 ? https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series5/%5Bsolution%5D%20Theory%20-%20Chapter%205_Temporal%20Probability%20Models%20and%20Intro%20to%20Machine%20Learning%2C%20part%201.pdf
 : category: S2021, Theoretical, Solutions
   content: ''
-  description: <p>Includes solutions for T5.1, released on S2021.</p>
+  description: <p>Includes solutions for T5.1, released in S2021.</p>
   title: T5.1 - Temporal Probability Models [sol]
   url: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series5/%5Bsolution%5D%20Theory%20-%20Chapter%205_Temporal%20Probability%20Models%20and%20Intro%20to%20Machine%20Learning%2C%20part%201.pdf
 ? https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series5/%5Bsolution%5D%20Theory%20-%20Chapter%205_Temporal%20Probability%20Models%20and%20Intro%20to%20Machine%20Learning%2C%20part%202.pdf
 : category: S2021, Theoretical, Solutions
   content: ''
-  description: <p>Includes solutions for T5.2, released on S2021.</p>
+  description: <p>Includes solutions for T5.2, released in S2021.</p>
   title: T5.2 - Intro to Machine Learning [sol]
   url: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series5/%5Bsolution%5D%20Theory%20-%20Chapter%205_Temporal%20Probability%20Models%20and%20Intro%20to%20Machine%20Learning%2C%20part%202.pdf
 ? https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series5/Theory%20-%20Chapter%205_Temporal%20Probability%20Models%20and%20Intro%20to%20Machine%20Learning%2C%20part%201.pdf
 : category: S2021, Theoretical, Questions
   content: ''
   description: <p>Includes 1 question covering Inference in the Bayesian Networks
-    and 2 questions covering Temporal Probability Models, released on S2021.</p>
+    and 2 questions covering Temporal Probability Models, released in S2021.</p>
   title: T5.1 - Temporal Probability Models
   url: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series5/Theory%20-%20Chapter%205_Temporal%20Probability%20Models%20and%20Intro%20to%20Machine%20Learning%2C%20part%201.pdf
 ? https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series5/Theory%20-%20Chapter%205_Temporal%20Probability%20Models%20and%20Intro%20to%20Machine%20Learning%2C%20part%202.pdf
 : category: S2021, Theoretical, Questions
   content: ''
   description: <p>Includes 1 question covering Temporal Probability Models and 1 question
-    covering Intro to Mahcine Learning, released on S2021.</p>
+    covering Intro to Mahcine Learning, released in S2021.</p>
   title: T5.2 - Intro to Machine Learning
   url: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series5/Theory%20-%20Chapter%205_Temporal%20Probability%20Models%20and%20Intro%20to%20Machine%20Learning%2C%20part%202.pdf
 ? https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series6/%5Bsolution%5D%20Theory%20-%20Chapter%206_Machine%20Learning%20and%20Neural%20Networks%2C%20part%201.pdf
 : category: S2021, Theoretical, Solutions
   content: ''
-  description: <p>Includes solutions for T6.1, released on S2021.</p>
+  description: <p>Includes solutions for T6.1, released in S2021.</p>
   title: T6.1 - Machine Learning [sol]
   url: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series6/%5Bsolution%5D%20Theory%20-%20Chapter%206_Machine%20Learning%20and%20Neural%20Networks%2C%20part%201.pdf
 ? https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series6/%5Bsolution%5D%20Theory%20-%20Chapter%206_Machine%20Learning%20and%20Neural%20Networks%2C%20part%202.pdf
 : category: S2021, Theoretical, Solutions
   content: ''
-  description: <p>Includes solutions for T6.2, released on S2021.</p>
+  description: <p>Includes solutions for T6.2, released in S2021.</p>
   title: T6.2 - Deep Neural Networks [sol]
   url: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series6/%5Bsolution%5D%20Theory%20-%20Chapter%206_Machine%20Learning%20and%20Neural%20Networks%2C%20part%202.pdf
 ? https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series6/Theory%20-%20Chapter%206_Machine%20Learning%20and%20Neural%20Networks%2C%20part%201.pdf
 : category: S2021, Theoretical, Questions
   content: ''
-  description: <p>Includes 2 questions covering Machine Learning, released on S2021.</p>
+  description: <p>Includes 2 questions covering Machine Learning, released in S2021.</p>
   title: T6.1 - Machine Learning
   url: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series6/Theory%20-%20Chapter%206_Machine%20Learning%20and%20Neural%20Networks%2C%20part%201.pdf
 ? https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series6/Theory%20-%20Chapter%206_Machine%20Learning%20and%20Neural%20Networks%2C%20part%202.pdf
 : category: S2021, Theoretical, Questions
   content: ''
   description: <p>Includes 1 question covering Machine Learning and 2 questions covering
-    Deep Neural Networks, released on S2021.</p>
+    Deep Neural Networks, released in S2021.</p>
   title: T6.2 - Deep Neural Networks
   url: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series6/Theory%20-%20Chapter%206_Machine%20Learning%20and%20Neural%20Networks%2C%20part%202.pdf
 ? https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series7/%5Bsolution%5D%20Theory%20-%20Chapter%207_MDP%20%26%20RL%2C%20part%201.pdf
 : category: S2021, Theoretical, Solutions
   content: ''
-  description: <p>Includes solutions for T7.1, released on S2021.</p>
+  description: <p>Includes solutions for T7.1, released in S2021.</p>
   title: T7.1 - Markov Decision Processes [sol]
   url: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series7/%5Bsolution%5D%20Theory%20-%20Chapter%207_MDP%20%26%20RL%2C%20part%201.pdf
 ? https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series7/%5Bsolution%5D%20Theory%20-%20Chapter%207_MDP%20%26%20RL%2C%20part%202.pdf
 : category: S2021, Theoretical, Solutions
   content: ''
-  description: <p>Includes solutions for T7.2, released on S2021.</p>
+  description: <p>Includes solutions for T7.2, released in S2021.</p>
   title: T7.2 - Reinforcement Learning [sol]
   url: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series7/%5Bsolution%5D%20Theory%20-%20Chapter%207_MDP%20%26%20RL%2C%20part%202.pdf
 ? https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series7/Theory%20-%20Chapter%207_MDP%20%26%20RL%2C%20part%201.pdf
 : category: S2021, Theoretical, Questions
   content: ''
   description: <p>Includes 2 questions covering Markov Decision Processes, released
-    on S2021.</p>
+    in S2021.</p>
   title: T7.1 - Markov Decision Processes
   url: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series7/Theory%20-%20Chapter%207_MDP%20%26%20RL%2C%20part%201.pdf
 ? https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series7/Theory%20-%20Chapter%207_MDP%20%26%20RL%2C%20part%202.pdf
 : category: S2021, Theoretical, Questions
   content: ''
-  description: <p>Includes 2 questions covering Reinforcement Learning, released on
+  description: <p>Includes 2 questions covering Reinforcement Learning, released in
     S2021.</p>
   title: T7.2 - Reinforcement Learning
   url: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series7/Theory%20-%20Chapter%207_MDP%20%26%20RL%2C%20part%202.pdf

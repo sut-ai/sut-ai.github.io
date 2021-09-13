@@ -210,13 +210,13 @@ https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw1-1/hw1-1
     Intelligent Agents and Informed Search, released in F2020</p>
   title: HW1.1 - Intelligent Agents
   url: https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw1-1/hw1-1.pdf
-https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw1-1/practical-sol.pdf:
+https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw1-1/practical-sol.zip:
   category: F2020, Practical, Solutions
   content: ''
   description: <p>Including solution for practical questions of HW1.1, released in
     F2020</p>
   title: P1.1 - Intelligent Agents [sol]
-  url: https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw1-1/practical-sol.pdf
+  url: https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw1-1/practical-sol.zip
 https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw1-1/sol1-1.pdf:
   category: F2020, Theoretical, Solutions
   content: ''
@@ -231,13 +231,13 @@ https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw1-2/hw1-2
     Informed Search and Heuristics, released in F2020</p>
   title: HW1.2 - Informed Search
   url: https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw1-2/hw1-2.pdf
-https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw1-2/practical-sol.pdf:
+https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw1-2/practical-sol.zip:
   category: F2020, Practical, Solutions
   content: ''
   description: <p>Including solution for practical questions of HW1.2, released in
     F2020</p>
   title: P1.2 - Informed Search [sol]
-  url: https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw1-2/practical-sol.pdf
+  url: https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw1-2/practical-sol.zip
 https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw1-2/sol1-2.pdf:
   category: F2020, Theoretical, Solutions
   content: ''
@@ -252,13 +252,13 @@ https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw2-1/hw2-1
     Local Search, released in F2020</p>
   title: HW2.1 - Local Search
   url: https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw2-1/hw2-1.pdf
-https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw2-1/practical-sol.pdf:
+https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw2-1/practical-sol.zip:
   category: F2020, Practical, Solutions
   content: ''
   description: <p>Including solution for practical questions of HW2.1, released in
     F2020</p>
   title: P2.1 - Local Search [sol]
-  url: https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw2-1/practical-sol.pdf
+  url: https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw2-1/practical-sol.zip
 https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw2-1/sol2-1.pdf:
   category: F2020, Theoretical, Solutions
   content: ''
@@ -273,13 +273,13 @@ https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw2-2/hw2-2
     Search In Continuous Space, released in F2020</p>
   title: HW2.2 - Search In Continuous Space
   url: https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw2-2/hw2-2.pdf
-https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw2-2/practical-sol.pdf:
+https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw2-2/practical-sol.zip:
   category: F2020, Practical, Solutions
   content: ''
   description: <p>Including solution for practical questions of HW2.2, released in
     F2020</p>
   title: P2.2 - Search In Continuous Space [sol]
-  url: https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw2-2/practical-sol.pdf
+  url: https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw2-2/practical-sol.zip
 https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw2-2/sol2-2.pdf:
   category: F2020, Theoretical, Solutions
   content: ''
@@ -287,6 +287,48 @@ https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw2-2/sol2-
     in F2020</p>
   title: T2.2 - Search In Continuous Space [sol]
   url: https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw2-2/sol2-2.pdf
+https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw3-1/hw3-1.pdf:
+  category: F2020, Theoretical, Practical, Questions
+  content: ''
+  description: <p>Including 3 theoretical questions and 1 practical question covering
+    CSP, released in F2020</p>
+  title: HW3.1 - CSP
+  url: https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw3-1/hw3-1.pdf
+https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw3-1/practical-sol.zip:
+  category: F2020, Practical, Solutions
+  content: ''
+  description: <p>Including solution for practical questions of HW3.1, released in
+    F2020</p>
+  title: P3.1 - CSP [sol]
+  url: https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw3-1/practical-sol.zip
+https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw3-1/sol3-1.pdf:
+  category: F2020, Theoretical, Solutions
+  content: ''
+  description: <p>Including solution for theoretical questions of HW3.1, released
+    in F2020</p>
+  title: T3.1 - CSP [sol]
+  url: https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw3-1/sol3-1.pdf
+https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw3-2/hw3-2.pdf:
+  category: F2020, Theoretical, Practical, Questions
+  content: ''
+  description: <p>Including 2 theoretical questions and 1 practical question covering
+    Adversarial Search, released in F2020</p>
+  title: HW3.2 - Adversarial Search
+  url: https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw3-2/hw3-2.pdf
+https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw3-2/practical-sol.zip:
+  category: F2020, Practical, Solutions
+  content: ''
+  description: <p>Including solution for practical questions of HW3.2, released in
+    F2020</p>
+  title: P3.2 - Adversarial Search [sol]
+  url: https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw3-2/practical-sol.zip
+https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw3-2/sol3-2.pdf:
+  category: F2020, Theoretical, Solutions
+  content: ''
+  description: <p>Including solution for theoretical questions of HW3.2, released
+    in F2020</p>
+  title: T3.2 - Adversarial Search [sol]
+  url: https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw3-2/sol3-2.pdf
 ? https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/practical/series1/Practical%20-%20Chapter%201%20%26%202_Search.zip
 : category: S2021, Practical, Questions, Solutions
   content: ''

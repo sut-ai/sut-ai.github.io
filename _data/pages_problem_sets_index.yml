@@ -11,6 +11,39 @@ previous-semesters:
   kind: chapters
   content:
   - title: Spring 2021
+    exam:
+      label:
+        text: Exams
+        position: top
+      midterm:
+        label: Midterm
+        kind: block
+        content:
+        - link: https://github.com/sut-ai/resources/raw/master/exams/spring2021/midterm.pdf
+          text: Midterm
+          description: <p>Midterm examl of S2021 course covering up to Bayesian Networks.</p>
+          kind: S2021, Theoretical, Exam, Midterm, Questions
+          icon: fas fa-file-pdf
+        - link: https://github.com/sut-ai/resources/raw/master/exams/spring2021/midterm-sol.pdf
+          text: Midterm [sol]
+          description: <p>Solutions for S2021 midterm exam.</p>
+          kind: S2021, Theoretical, Solutions, Exam, Midterm
+          icon: fas fa-file-pdf
+      final:
+        label: Final
+        kind: block
+        content:
+        - link: https://github.com/sut-ai/resources/raw/master/exams/spring2021/final.pdf
+          text: Final
+          description: <p>Final examl of S2021 course covering from Temporal Probability
+            Models.</p>
+          kind: S2021, Theoretical, Exam, Final, Questions
+          icon: fas fa-file-pdf
+        - link: https://github.com/sut-ai/resources/raw/master/exams/spring2021/final-sol.zip
+          text: Final [sol]
+          description: <p>Solutions for S2021 final exam.</p>
+          kind: S2021, Theoretical, Solutions, Exam, Final
+          icon: fas fa-file-archive
     theoretical:
       label:
         text: Theoretical Assignments
@@ -225,6 +258,39 @@ previous-semesters:
         icon: fas fa-file-pdf
         kind: S2021, Practical, Questions
   - title: Fall 2020
+    exam:
+      label:
+        text: Exams
+        position: top
+      midterm:
+        label: Midterm
+        kind: block
+        content:
+        - link: https://github.com/sut-ai/resources/raw/master/exams/fall2020/midterm.pdf
+          text: Midterm
+          description: <p>Midterm examl of F2020 course covering up to Adversarial
+            Search.</p>
+          kind: F2020, Theoretical, Exam, Midterm, Questions
+          icon: fas fa-file-pdf
+        - link: https://github.com/sut-ai/resources/raw/master/exams/fall2020/midterm-sol.pdf
+          text: Midterm [sol]
+          description: <p>Solutions for F2020 midterm exam.</p>
+          kind: F2020, Theoretical, Solutions, Exam, Midterm
+          icon: fas fa-file-pdf
+      final:
+        label: Final
+        kind: block
+        content:
+        - link: https://github.com/sut-ai/resources/raw/master/exams/fall2020/final.pdf
+          text: Final
+          description: <p>Final examl of F2020 course covering from Bayesian Networks.</p>
+          kind: F2020, Theoretical, Exam, Final, Questions
+          icon: fas fa-file-pdf
+        - link: https://github.com/sut-ai/resources/raw/master/exams/fall2020/final-sol.zip
+          text: Final [sol]
+          description: <p>Solutions for F2020 final exam.</p>
+          kind: F2020, Theoretical, Solutions, Exam, Final
+          icon: fas fa-file-archive
     theoretical:
       label:
         text: Assignments

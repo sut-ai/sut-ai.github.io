@@ -203,6 +203,54 @@ https://drive.google.com/file/d/1y5DjTDnPqOW73QIhjCYNW37Z8t5CGHo6/view:
   description: ''
   title: Introduction to Bayesian Networks and D-separation (annotated)
   url: https://drive.google.com/file/d/1y5DjTDnPqOW73QIhjCYNW37Z8t5CGHo6/view
+https://github.com/sut-ai/resources/raw/master/exams/fall2020/final-sol.zip:
+  category: F2020, Theoretical, Solutions, Exam, Final
+  content: ''
+  description: <p>Solutions for F2020 final exam.</p>
+  title: Final [sol]
+  url: https://github.com/sut-ai/resources/raw/master/exams/fall2020/final-sol.zip
+https://github.com/sut-ai/resources/raw/master/exams/fall2020/final.pdf:
+  category: F2020, Theoretical, Exam, Final, Questions
+  content: ''
+  description: <p>Final examl of F2020 course covering from Bayesian Networks.</p>
+  title: Final
+  url: https://github.com/sut-ai/resources/raw/master/exams/fall2020/final.pdf
+https://github.com/sut-ai/resources/raw/master/exams/fall2020/midterm-sol.pdf:
+  category: F2020, Theoretical, Solutions, Exam, Midterm
+  content: ''
+  description: <p>Solutions for F2020 midterm exam.</p>
+  title: Midterm [sol]
+  url: https://github.com/sut-ai/resources/raw/master/exams/fall2020/midterm-sol.pdf
+https://github.com/sut-ai/resources/raw/master/exams/fall2020/midterm.pdf:
+  category: F2020, Theoretical, Exam, Midterm, Questions
+  content: ''
+  description: <p>Midterm examl of F2020 course covering up to Adversarial Search.</p>
+  title: Midterm
+  url: https://github.com/sut-ai/resources/raw/master/exams/fall2020/midterm.pdf
+https://github.com/sut-ai/resources/raw/master/exams/spring2021/final-sol.zip:
+  category: S2021, Theoretical, Solutions, Exam, Final
+  content: ''
+  description: <p>Solutions for S2021 final exam.</p>
+  title: Final [sol]
+  url: https://github.com/sut-ai/resources/raw/master/exams/spring2021/final-sol.zip
+https://github.com/sut-ai/resources/raw/master/exams/spring2021/final.pdf:
+  category: S2021, Theoretical, Exam, Final, Questions
+  content: ''
+  description: <p>Final examl of S2021 course covering from Temporal Probability Models.</p>
+  title: Final
+  url: https://github.com/sut-ai/resources/raw/master/exams/spring2021/final.pdf
+https://github.com/sut-ai/resources/raw/master/exams/spring2021/midterm-sol.pdf:
+  category: S2021, Theoretical, Solutions, Exam, Midterm
+  content: ''
+  description: <p>Solutions for S2021 midterm exam.</p>
+  title: Midterm [sol]
+  url: https://github.com/sut-ai/resources/raw/master/exams/spring2021/midterm-sol.pdf
+https://github.com/sut-ai/resources/raw/master/exams/spring2021/midterm.pdf:
+  category: S2021, Theoretical, Exam, Midterm, Questions
+  content: ''
+  description: <p>Midterm examl of S2021 course covering up to Bayesian Networks.</p>
+  title: Midterm
+  url: https://github.com/sut-ai/resources/raw/master/exams/spring2021/midterm.pdf
 https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw1-1/hw1-1.pdf:
   category: F2020, Theoretical, Practical, Questions
   content: ''

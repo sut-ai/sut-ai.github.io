@@ -23,9 +23,11 @@ nav:
   - link: https://sut-ai.github.io/notes/
     text: Notes
     description: <p>Lecture Notes and Handouts</p>
-  - link: https://sut-ai.github.io/supplementary/
+  - index: pages/supplementary/index
     text: Supplementary
-    description: <p>Supplementary material</p>
+    description: <p>Additional contents and supplementary materials that can be helpful!</p>
+    link: /pages/supplementary/
+    kind: Page
   - index: pages/problem_sets/index
     text: Problem Sets
     description: <p>Sets of Artificial Intelligence problems</p>

@@ -361,6 +361,166 @@ teams:
             icon: fab fa-github
           kind: person
           image: https://github.com/ahmadsalimi.png
+    - title: Fall 2020
+      team:
+        kind: people
+        label: false
+        content:
+        - name: Kiarash Banihashem
+          role: Head TA
+          contact:
+          - icon: fab fa-github
+            link: https://github.com/kiarash78
+          - icon: fas fa-envelope
+            link: mailto:k.banihashem73@gmail.com
+          kind: person
+          image: https://github.com/kiarash78.png
+        - name: Vahid Zehtab
+          role: Head TA, HW6, HWR
+          contact:
+          - link: https://github.com/vahidzee
+            icon: fab fa-github
+          - link: https://www.linkedin.com/in/Vahidzee/
+            icon: fab fa-linkedin
+          - link: mailto://vahid98zee@gmail.com
+            icon: fas fa-envelope
+          kind: person
+          image: https://github.com/vahidzee.png
+        - name: Elahe Akbari
+          role: Sup, F
+          contact:
+          - icon: fas fa-envelope
+            link: mailto:elaheakbari1994@gmail.com
+          kind: person
+        - name: Mohammad Azizmalayeri
+          role: Sup, F
+          contact:
+          - icon: fas fa-envelope
+            link: mailto:azizmalayeri1997@yahoo.com
+          kind: person
+        - name: Matin Yousefabadi
+          role: Sup, F
+          contact:
+          - icon: fas fa-envelope
+            link: mailto:mtnusf97@gmail.com
+          kind: person
+        - name: Matin Khajavi
+          role: HW6, Rec
+          contact:
+          - icon: fas fa-envelope
+            link: mailto:mw2.1376@gmail.com
+          kind: person
+        - name: Amirhossein Ghobadi
+          role: HW2, M/F
+          contact:
+          - icon: fas fa-envelope
+            link: mailto:a.amgh1376@gmail.com
+          kind: person
+        - name: Rouzbeh Meshkinnejad
+          role: HW7, HWR5
+          contact:
+          - icon: fas fa-envelope
+            link: mailto:rouzyd@gmail.com
+          kind: person
+        - name: Armin Saadat
+          role: HW3, HWR4
+          contact:
+          - icon: fas fa-envelope
+            link: mailto:armin2saadat@gmail.com
+          kind: person
+        - name: Saber Dinpajhouh
+          role: HW3, HWR7
+          contact:
+          - icon: fas fa-envelope
+            link: mailto:s.dinpashoh@gmail.com
+          kind: person
+        - name: Pedram Khorsandi
+          role: HW6, M/F
+          contact:
+          - icon: fas fa-envelope
+            link: mailto:pe.khorsandi@gmail.com
+          kind: person
+        - name: Mahsa Dalirrooyfard
+          role: HW4, M/F
+          contact:
+          - icon: fas fa-envelope
+            link: mailto:mahsadalir91@gmail.com
+          kind: person
+        - name: Alireza Dizaji
+          role: HW7, HWR2
+          contact:
+          - icon: fas fa-envelope
+            link: mailto:alirezadizaji@yahoo.com
+          kind: person
+        - name: Arghavan Rezvani
+          role: Recitation6, HWR6
+          contact:
+          - icon: fas fa-envelope
+            link: mailto:rezvani.arghavan@gmail.com
+          kind: person
+        - name: Leily Goli
+          role: HW5, M/F
+          contact:
+          - icon: fas fa-envelope
+            link: mailto:leilygoli100@yahoo.com
+          kind: person
+        - name: Mahtab Bigverdi
+          role: Recitation5, HWR5
+          contact:
+          - icon: fas fa-envelope
+            link: mailto:bigverdi.1377@gmail.com
+          kind: person
+        - name: Arvin Azarmina
+          role: HW4, Recitation4
+          contact:
+          - icon: fas fa-envelope
+            link: mailto:arvinazarmina@gmail.com
+          kind: person
+        - name: Roodabeh Safavi
+          role: Recitation3, HWR3
+          contact:
+          - icon: fas fa-envelope
+            link: mailto:roodabesafavi@yahoo.com
+          kind: person
+        - name: Shayesteh Arasti
+          role: Recitation7, HWR7
+          contact:
+          - icon: fas fa-envelope
+            link: mailto:shayesteharasti@gmail.com
+          kind: person
+        - name: Kourosh Shariat
+          role: Recitation2, HWR2
+          image: /assets/images/ta/KouroshShariat.jpeg
+          contact:
+          - icon: fab fa-github
+            link: https://github.com/cyrus80
+          - icon: fas fa-envelope
+            link: mailto:shariat.kourosh@gmail.com
+          kind: person
+        - name: Ali Garjani
+          role: HW2, HWR3
+          contact:
+          - icon: fas fa-envelope
+            link: mailto:garjani.a@gmail.com
+          kind: person
+        - name: Mohammad Saneian
+          role: HW1, Recitation1
+          contact:
+          - icon: fas fa-envelope
+            link: mailto:sanmoh99@gmail.com
+          kind: person
+        - name: Mehrdad Saremi
+          role: HW1, HWR6
+          contact:
+          - icon: fas fa-envelope
+            link: mailto:merhdads@gmail.com
+          kind: person
+        - name: Mohammad Mohammadi
+          role: HW5, HWR1
+          contact:
+          - icon: fas fa-envelope
+            link: mailto:m.mohammadi1378@outlook.com
+          kind: person
 webteam:
   label:
     position: left

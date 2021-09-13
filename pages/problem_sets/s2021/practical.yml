@@ -31,7 +31,7 @@ practical:
       kind: S2021, Practical, Questions, Solutions
     - link: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/practical/series5/Practical%20-%20Chapter%207_Reinforcement%20Learning.pdf
       description: >
-        Includes 1 practical question about (Deep) Reinforcement Learning (RL/DRL) released on Spring 2021.
+        Includes 1 practical question about (Deep) Reinforcement Learning (RL/DRL), released on Spring 2021.
       text: P5 - Reinforcement Learning
       icon: fas fa-file-pdf
       kind: S2021, Practical, Questions

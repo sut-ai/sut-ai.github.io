@@ -1,0 +1,21 @@
+title: Supplementary
+
+header:
+  title: Supplementary
+  description: Additional contents and supplementary materials that can be helpful!
+  background: images/supplementary-header.jpg
+
+footer:
+  background: images/supplementary-header.jpg
+
+prerequisites:
+  label: Prerequisites
+  patch: pages/supplementary/topics/prerequisites.yml
+
+notebooks:
+  label: Notebooks
+  patch: pages/supplementary/topics/notebooks.yml
+
+further-readings:
+  label: Further Readings
+  patch: pages/supplementary/topics/further_readings.yml

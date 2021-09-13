@@ -140,3 +140,49 @@ theoretical:
         kind: F2020, Practical, Solutions
         icon: fas fa-file-archive
         ####################
+  t4:
+    label: Assignment 4 - Bayesian Networks
+    kind: block
+    content:
+      - link: https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw4-1/hw4-1.pdf
+        text: HW4.1 - Introduction to Bayesian Networks
+        description: >
+          Including 3 theoretical questions and 1 practical question covering Introduction to Bayesian Networks, released in F2020
+        kind: F2020, Theoretical, Practical, Questions
+        icon: fas fa-file-pdf
+      ####################
+      - link: https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw4-1/sol4-1.pdf
+        text: T4.1 - Introduction to Bayesian Networks [sol]
+        description: >
+          Including solution for theoretical questions of HW4.1, released in F2020
+        kind: F2020, Theoretical, Solutions
+        icon: fas fa-file-pdf
+        ####################
+      - link: https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw4-1/practical-sol.zip
+        text: P4.1 - Introduction to Bayesian Networks [sol]
+        description: >
+          Including solution for practical questions of HW4.1, released in F2020
+        kind: F2020, Practical, Solutions
+        icon: fas fa-file-archive
+        ####################
+      - link: https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw4-2/hw4-2.pdf
+        text: HW4.2 - Inference in the Bayesian Networks
+        description: >
+          Including 3 theoretical questions and 1 practical question covering Inference in the Bayesian Networks, released in F2020
+        kind: F2020, Theoretical, Practical, Questions
+        icon: fas fa-file-pdf
+        ####################
+      - link: https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw4-2/sol4-2.pdf
+        text: T4.2 - Inference in the Bayesian Networks [sol]
+        description: >
+          Including solution for theoretical questions of HW4.2, released in F2020
+        kind: F2020, Theoretical, Solutions
+        icon: fas fa-file-pdf
+        ####################
+      - link: https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw4-2/practical-sol.zip
+        text: P4.2 - Inference in the Bayesian Networks [sol]
+        description: >
+          Including solution for practical questions of HW4.2, released in F2020
+        kind: F2020, Practical, Solutions
+        icon: fas fa-file-archive
+        ####################

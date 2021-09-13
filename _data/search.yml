@@ -329,6 +329,48 @@ https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw3-2/sol3-
     in F2020</p>
   title: T3.2 - Adversarial Search [sol]
   url: https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw3-2/sol3-2.pdf
+https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw4-1/hw4-1.pdf:
+  category: F2020, Theoretical, Practical, Questions
+  content: ''
+  description: <p>Including 3 theoretical questions and 1 practical question covering
+    Introduction to Bayesian Networks, released in F2020</p>
+  title: HW4.1 - Introduction to Bayesian Networks
+  url: https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw4-1/hw4-1.pdf
+https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw4-1/practical-sol.zip:
+  category: F2020, Practical, Solutions
+  content: ''
+  description: <p>Including solution for practical questions of HW4.1, released in
+    F2020</p>
+  title: P4.1 - Introduction to Bayesian Networks [sol]
+  url: https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw4-1/practical-sol.zip
+https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw4-1/sol4-1.pdf:
+  category: F2020, Theoretical, Solutions
+  content: ''
+  description: <p>Including solution for theoretical questions of HW4.1, released
+    in F2020</p>
+  title: T4.1 - Introduction to Bayesian Networks [sol]
+  url: https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw4-1/sol4-1.pdf
+https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw4-2/hw4-2.pdf:
+  category: F2020, Theoretical, Practical, Questions
+  content: ''
+  description: <p>Including 3 theoretical questions and 1 practical question covering
+    Inference in the Bayesian Networks, released in F2020</p>
+  title: HW4.2 - Inference in the Bayesian Networks
+  url: https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw4-2/hw4-2.pdf
+https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw4-2/practical-sol.zip:
+  category: F2020, Practical, Solutions
+  content: ''
+  description: <p>Including solution for practical questions of HW4.2, released in
+    F2020</p>
+  title: P4.2 - Inference in the Bayesian Networks [sol]
+  url: https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw4-2/practical-sol.zip
+https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw4-2/sol4-2.pdf:
+  category: F2020, Theoretical, Solutions
+  content: ''
+  description: <p>Including solution for theoretical questions of HW4.2, released
+    in F2020</p>
+  title: T4.2 - Inference in the Bayesian Networks [sol]
+  url: https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw4-2/sol4-2.pdf
 ? https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/practical/series1/Practical%20-%20Chapter%201%20%26%202_Search.zip
 : category: S2021, Practical, Questions, Solutions
   content: ''

@@ -16,12 +16,6 @@
   description: <p>Sets of Artificial Intelligence problems</p>
   title: Problem Sets
   url: /pages/problem_sets/
-/pages/supplementary/:
-  category: Page
-  content: ''
-  description: <p>Additional contents and supplementary materials that can be helpful!</p>
-  title: Supplementary
-  url: /pages/supplementary/
 /pages/team/:
   category: Page
   content: ''
@@ -750,26 +744,6 @@ https://github.com/sut-ai/resources/raw/master/problem_sets/fall2020/hw7-2/sol7-
     S2021.</p>
   title: T7.2 - Reinforcement Learning
   url: https://github.com/sut-ai/resources/raw/master/problem_sets/spring2021/theoretical/series7/Theory%20-%20Chapter%207_MDP%20%26%20RL%2C%20part%202.pdf
-"https://maktabkhooneh.org/course/\u0622\u0645\u0627\u0631-\u0627\u062D\u062A\u0645\u0627\u0644-\u0645\u0647\u0646\u062F\u0633\u06CC-mk627/#seasons":
-  category: S2021, Practical, Questions, Solutions
-  content: ''
-  description: ''
-  title: Engineering Probability and Statistics, Dr. Sharifi Zarchi, Fall 2019 - Maktabkhooneh
-  url: "https://maktabkhooneh.org/course/\u0622\u0645\u0627\u0631-\u0627\u062D\u062A\
-    \u0645\u0627\u0644-\u0645\u0647\u0646\u062F\u0633\u06CC-mk627/#seasons"
-? https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/
-: category: S2021, Practical, Questions, Solutions
-  content: ''
-  description: ''
-  title: Probabilistic Systems Analysis and Applied Probability, Prof. John Tsitsiklis,
-    Fall 2010 - MIT ocw
-  url: https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/
-https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/:
-  category: S2021, Practical, Questions, Solutions
-  content: ''
-  description: ''
-  title: Statistics for Applications, Prof. Philippe Rigollet, Fall 2016 - MIT ocw
-  url: https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/
 https://quera.ir/overview/add_to_course/course/7773/:
   category: External
   content: ''
@@ -788,6 +762,12 @@ https://sut-ai.github.io/notes/:
   description: <p>Lecture Notes and Handouts</p>
   title: Notes
   url: https://sut-ai.github.io/notes/
+https://sut-ai.github.io/supplementary/:
+  category: External
+  content: ''
+  description: ''
+  title: Supplementary
+  url: https://sut-ai.github.io/supplementary/
 https://t.me/AI_F2021:
   category: External
   content: ''

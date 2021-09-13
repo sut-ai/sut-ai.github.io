@@ -10,7 +10,7 @@ content:
   - link: https://sut-ai.github.io/notes/
     text: Notes
     description: Lecture Notes and Handouts
-  - index: pages/supplementary/index
+  - link: https://sut-ai.github.io/supplementary/
     text: Supplementary
   - index: pages/problem_sets/index
     text: Problem Sets

@@ -16,7 +16,7 @@ Over the years, many enthusiastic volunteer students helped shape this course as
     :   Supplementary content creator and Organizer of the supplementary 
         content creators and reviewer 
     
-    LN
+    LN(O)
     :   Lecture notes mentor and reviewer and their Organizer
 
     Recitation
@@ -26,4 +26,7 @@ Over the years, many enthusiastic volunteer students helped shape this course as
     :   Finals/Midterm grader
     
     Web/Git
-    :   Webmaster   
+    :   Webmaster  
+
+    Exams
+    :   Exams grader 

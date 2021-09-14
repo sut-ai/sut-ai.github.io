@@ -12,7 +12,7 @@ teams:
   background: images/header-bg-2.jpg
   label:
     position: top
-    text: Teaching Assistances
+    text: Teaching Assistants
   content:
     patch: pages/team/description.md
 

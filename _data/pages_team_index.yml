@@ -306,7 +306,7 @@ teams:
           image: https://github.com/sajadfaghfoor.png
         - name: Sara Khosravi
           role: CO
-          image: /assets/images/ta/SaraKhosravi.jfif
+          image: /assets/images/ta/SaraKhosravi.png
           contact:
           - icon: fab fa-linkedin
             link: https://www.linkedin.com/in/sara-khosravi-1237991a3/

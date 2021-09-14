@@ -74,6 +74,8 @@
 - name: Ali J. Alaee
   role: Web/Git, LN
   contact:
+    - icon: fab fa-github
+      link: https://github.com/aliash98
     - icon: fas fa-envelope
       link: mailto:alialaee98@gmail.com
 

@@ -111,9 +111,12 @@ teams:
         - name: Ali J. Alaee
           role: Web/Git, LN
           contact:
+          - icon: fab fa-github
+            link: https://github.com/aliash98
           - icon: fas fa-envelope
             link: mailto:alialaee98@gmail.com
           kind: person
+          image: https://github.com/aliash98.png
         - name: Ali Ghorbanpour
           role: Recitation
           image: /assets/images/ta/AliGhorbanpour.jpg

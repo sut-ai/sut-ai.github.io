@@ -21,9 +21,9 @@ teams:
     \ creators and reviewer </dd>\n<dt>LN(O)</dt>\n<dd>Lecture notes mentor and reviewer\
     \ and their Organizer</dd>\n<dt>Recitation</dt>\n<dd>Lecture notes mentor and\
     \ reviewer and their Organizer</dd>\n<dt>F/M</dt>\n<dd>Finals/Midterm grader</dd>\n\
-    <dt>Web/Git</dt>\n<dd>Webmaster  </dd>\n<dt>Exams</dt>\n<dd>Exams grader</dd>\n\
-    </dl>\n<p><a class=\"footnote-backref\" href=\"#fnref:roles\" title=\"Jump back\
-    \ to footnote 1 in the text\">\u21A9</a></p>\n</li>\n</ol>\n</div>"
+    <dt>Web/Git</dt>\n<dd>Webmaster</dd>\n</dl>\n<p><a class=\"footnote-backref\"\
+    \ href=\"#fnref:roles\" title=\"Jump back to footnote 1 in the text\">\u21A9</a></p>\n\
+    </li>\n</ol>\n</div>"
   teams:
     label: false
     kind: chapters
@@ -152,7 +152,7 @@ teams:
             link: mailto:nimxj4141@gmail.com
           kind: person
         - name: Sajjad Shahabi
-          role: Exams
+          role: M/F
           contact:
           - icon: fas fa-envelope
             link: sajjadshahabi20@yahoo.com

@@ -26,7 +26,4 @@ Over the years, many enthusiastic volunteer students helped shape this course as
     :   Finals/Midterm grader
     
     Web/Git
-    :   Webmaster  
-
-    Exams
-    :   Exams grader 
+    :   Webmaster 

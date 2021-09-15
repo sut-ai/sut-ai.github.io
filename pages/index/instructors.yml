@@ -10,7 +10,7 @@ instructors:
         #   He has worked on many different types of data ranging from video and images to text documents and financial time series. 
         #   </br>His expertise includes development of various types of Machine Learning and Data Analysis tasks, such as Classification, Clustering, 
         #   Latent Variable Modeling, and Multi-task Learning.
-        image: images/Rohban.jpg
+        image: images/Rohban.jpeg
         role: Assistant Professor of Computer Engineering at Sharif University of Technology
         contact:
           - link: http://sharif.ir/~rohban/

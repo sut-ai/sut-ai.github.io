@@ -82,7 +82,7 @@ instructors:
     kind: people
     content:
     - name: Mohammad Hossein Rohban
-      image: /assets/images/Rohban.jpg
+      image: /assets/images/Rohban.jpeg
       role: Assistant Professor of Computer Engineering at Sharif University of Technology
       contact:
       - link: http://sharif.ir/~rohban/

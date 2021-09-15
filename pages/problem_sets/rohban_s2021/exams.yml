@@ -12,14 +12,12 @@ exam:
           Midterm examl of S2021 course covering up to Bayesian Networks.
         kind: S2021, Theoretical, Exam, Midterm, Questions
         icon: fas fa-file-pdf
-      ####################
       - link: https://github.com/sut-ai/resources/raw/master/exams/spring2021/midterm-sol.pdf
         text: Midterm [sol]
         description: >
           Solutions for S2021 midterm exam.
         kind: S2021, Theoretical, Solutions, Exam, Midterm
         icon: fas fa-file-pdf
-        ####################
   final:
     label: Final
     kind: block
@@ -30,13 +28,11 @@ exam:
           Final examl of S2021 course covering from Temporal Probability Models.
         kind: S2021, Theoretical, Exam, Final, Questions
         icon: fas fa-file-pdf
-      ####################
       - link: https://github.com/sut-ai/resources/raw/master/exams/spring2021/final-sol.zip
         text: Final [sol]
         description: >
           Solutions for S2021 final exam.
         kind: S2021, Theoretical, Solutions, Exam, Final
         icon: fas fa-file-archive
-        ####################
 
         

@@ -31,7 +31,7 @@ nav:
     link: /pages/problem_sets/
     kind: Page
   - index: pages/team/index
-    text: Educational Team
+    text: Team
     description: <p>List of all TAs and people responsible for this course!</p>
     link: /pages/team/
     kind: Page

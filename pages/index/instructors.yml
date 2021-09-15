@@ -4,7 +4,7 @@ instructors:
     label: false
     kind: people
     content:
-      - name: Mohammad Hossein Rohban
+      - name: M.H. Rohban
         # bio: >
         #   He is a Machine Learning Scientist with 10 years of combined experience in industry and academia. Specifically, 
         #   He has worked on many different types of data ranging from video and images to text documents and financial time series. 
@@ -21,7 +21,7 @@ instructors:
             icon: fab fa-linkedin
           - link: https://scholar.google.com/citations?user=pRyJ6FkAAAAJ&hl=en/
             icon: fab fa-google
-      - name: Mahdieh Soleymani Baghshah
+      - name: M. Soleymani Baghshah
         role: Assistant Professor of Computer Engineering at Sharif University of Technology
         image: images/Soleymani.jpg
         contact:

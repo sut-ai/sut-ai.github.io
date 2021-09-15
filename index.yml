@@ -22,4 +22,4 @@ config:
   patch: pages/index/config.yml
 
 patch-syllabus: pages/index/syllabus.yml
-patch-instructor: pages/index/instructor.yml
+patch-instructors: pages/index/instructors.yml

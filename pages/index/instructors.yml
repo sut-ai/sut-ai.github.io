@@ -23,7 +23,7 @@ instructors:
             icon: fab fa-google
       - name: Mahdieh Soleymani Baghshah
         role: Assistant Professor of Computer Engineering at Sharif University of Technology
-        image: http://sharif.edu/~soleymani/Soleymani.jpg
+        image: images/Soleymani.jpg
         contact:
           - link: http://sharif.edu/~soleymani/
             icon: fas fa-home

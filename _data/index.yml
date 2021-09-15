@@ -81,7 +81,7 @@ instructors:
     label: false
     kind: people
     content:
-    - name: Mohammad Hossein Rohban
+    - name: M.H. Rohban
       image: /assets/images/Rohban.jpeg
       role: Assistant Professor of Computer Engineering at Sharif University of Technology
       contact:
@@ -94,7 +94,7 @@ instructors:
       - link: https://scholar.google.com/citations?user=pRyJ6FkAAAAJ&hl=en/
         icon: fab fa-google
       kind: person
-    - name: Mahdieh Soleymani Baghshah
+    - name: M. Soleymani Baghshah
       role: Assistant Professor of Computer Engineering at Sharif University of Technology
       image: /assets/images/Soleymani.jpg
       contact:

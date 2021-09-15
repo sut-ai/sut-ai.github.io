@@ -75,19 +75,13 @@ course-bio:
   - link: https://docs.google.com/spreadsheets/d/1QECI6n7pxWSzFbjE4Jp62ppRnb8PO4hHLzIuJh0vEdo/edit#gid=430940475
     text: Gradesheet
     icon: fas fa-scroll
-instructor:
+instructors:
   background: /assets/images/header-bg.jpg
   content:
     label: false
     kind: people
     content:
     - name: Mohammad Hossein Rohban
-      bio: <p>He is a Machine Learning Scientist with 10 years of combined experience
-        in industry and academia. Specifically,  He has worked on many different types
-        of data ranging from video and images to text documents and financial time
-        series.  </p>His expertise includes development of various types of Machine
-        Learning and Data Analysis tasks, such as Classification, Clustering,  Latent
-        Variable Modeling, and Multi-task Learning.
       image: /assets/images/Rohban.jpg
       role: Assistant Professor of Computer Engineering at Sharif University of Technology
       contact:
@@ -98,5 +92,16 @@ instructor:
       - link: https://www.linkedin.com/in/mohammad-hossein-rohban-75567677/
         icon: fab fa-linkedin
       - link: https://scholar.google.com/citations?user=pRyJ6FkAAAAJ&hl=en/
+        icon: fab fa-google
+      kind: person
+    - name: Mahdieh Soleymani Baghshah
+      role: Assistant Professor of Computer Engineering at Sharif University of Technology
+      image: http://sharif.edu/~soleymani/Soleymani.jpg
+      contact:
+      - link: http://sharif.edu/~soleymani/
+        icon: fas fa-home
+      - link: mailto:soleymani@sharif.edu
+        icon: fas fa-envelope
+      - link: https://scholar.google.com/citations?user=S1U0KlgAAAAJ&hl=en
         icon: fab fa-google
       kind: person

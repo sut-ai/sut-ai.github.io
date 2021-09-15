@@ -28,7 +28,7 @@ teams:
     label: false
     kind: chapters
     content:
-    - title: Fall 2021
+    - title: Fall 2021 - Prof. Rohban
       team:
         kind: people
         label: false
@@ -322,7 +322,7 @@ teams:
           - icon: fas fa-envelope
             link: mailto:sepehramini83@gmail.com
           kind: person
-    - title: Spring 2021
+    - title: Spring 2021 - Prof. Rohban
       team:
         kind: people
         label: false
@@ -617,7 +617,8 @@ teams:
             icon: fab fa-github
           kind: person
           image: https://github.com/ahmadsalimi.png
-    - title: Fall 2020
+    - title: Fall 2020 - Prof. Soleymani
+    - title: Fall 2020 - Prof. Rohban
       team:
         kind: people
         label: false
@@ -793,7 +794,7 @@ teams:
           - icon: fas fa-envelope
             link: mailto:m.mohammadi1378@outlook.com
           kind: person
-    - title: Spring 2020
+    - title: Spring 2020 - Prof. Rohban
       team:
         kind: people
         label: false
@@ -881,7 +882,8 @@ teams:
             link: https://github.com/Armin-Saadat
           kind: person
           image: https://github.com/Armin-Saadat.png
-    - title: Fall 2019
+    - title: Fall 2019 - Prof. Soleymani
+    - title: Fall 2019 - Prof. Rohban
       team:
         kind: people
         label: false
@@ -940,7 +942,8 @@ teams:
         - name: Ainaz Eftekhar
           role: HW, HWR, M/F
           kind: person
-    - title: Spring 2019
+    - title: Spring 2019 - Prof. Soleymani
+    - title: Spring 2019 - Prof. Rohban
       team:
         kind: people
         label: false
@@ -958,6 +961,11 @@ teams:
           - icon: fas fa-envelope
             link: mailto:kooshajaferiann@yahoo.co.uk
           kind: person
+    - title: Fall 2019 - Prof. Soleymani
+    - title: Spring 2018 - Prof. Soleymani
+    - title: Fall 2018 - Prof. Rohban
+    - title: Spring 2017 - Prof. Soleymani
+    - title: Spring 2016 - Prof. Soleymani
 webteam:
   label:
     position: left
@@ -1000,9 +1008,9 @@ feedback:
   background: /assets/images/header-bg-2.jpg
   description:
     label: false
-    content: "<p>As Elon Musk puts it:</p>\n<blockquote>\n<p>I think it\u2019s very\
-      \ important to have a feedback loop, where you\u2019re constantly thinking about\
-      \ what you\u2019ve done and\n    how you could be doing it better.</p>\n</blockquote>\n\
+    content: "<p>As Elon Musk puts it:</p>\n<blockquote>\n<p>... it\u2019s very important\
+      \ to have a feedback loop, where you\u2019re constantly thinking about what\
+      \ you\u2019ve done and\n    how you could be doing it better.</p>\n</blockquote>\n\
       <p>Help us improve by sending us feedback!</p>"
   comments:
     label: false

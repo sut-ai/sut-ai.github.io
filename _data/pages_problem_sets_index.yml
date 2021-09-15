@@ -10,7 +10,7 @@ previous-semesters:
   background: /assets/images/assignments.jpg
   kind: chapters
   content:
-  - title: Spring 2021
+  - title: Spring 2021 - Prof. Rohban
     exam:
       label:
         text: Exams
@@ -257,7 +257,7 @@ previous-semesters:
         text: P5 - Reinforcement Learning
         icon: fas fa-file-pdf
         kind: S2021, Practical, Questions
-  - title: Fall 2020
+  - title: Fall 2020 - Prof. Rohban
     exam:
       label:
         text: Exams

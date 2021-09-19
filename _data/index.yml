@@ -63,16 +63,16 @@ course-bio:
     background or not.'
   background: /assets/images/header-bg.jpg
   links:
-  - link: http://ce.sharif.edu/courses/99-00/1/ce417-2/index.php
+  - link: http://ce.sharif.edu/courses/00-01/1/ce417-1/index.php
     text: CE course webpage
     icon: fas fa-globe
-  - link: https://quera.ir/overview/add_to_course/course/7773/
+  - link: https://quera.ir/overview/add_to_course/course/9149
     text: Quera
     icon: icon-quera
   - link: https://t.me/AI_F2021
     text: Telegram
     icon: fab fa-telegram fa-lg
-  - link: https://docs.google.com/spreadsheets/d/1QECI6n7pxWSzFbjE4Jp62ppRnb8PO4hHLzIuJh0vEdo/edit#gid=430940475
+  - link: https://docs.google.com/spreadsheets/d/1srzJxpvxNL9rqtNUfraVWWdtsX7xLbcR-JIW_G6GL3w/edit#gid=1676081735
     text: Gradesheet
     icon: fas fa-scroll
 instructors:

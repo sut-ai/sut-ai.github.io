@@ -22,12 +22,12 @@
   description: <p>List of all TAs and people responsible for this course!</p>
   title: Team
   url: /pages/team/
-http://ce.sharif.edu/courses/99-00/1/ce417-2/index.php:
+http://ce.sharif.edu/courses/00-01/1/ce417-1/index.php:
   category: External
   content: ''
   description: ''
   title: CE course webpage
-  url: http://ce.sharif.edu/courses/99-00/1/ce417-2/index.php
+  url: http://ce.sharif.edu/courses/00-01/1/ce417-1/index.php
 http://ce.sharif.edu/courses/99-00/1/ce417-2/resources/root/Slides/PDF/Session%201.pdf:
   category: PDF
   content: ''
@@ -130,12 +130,12 @@ http://ce.sharif.edu/courses/99-00/1/ce417-2/resources/root/Slides/PDF/Session%2
   description: ''
   title: Adversarial Search
   url: http://ce.sharif.edu/courses/99-00/1/ce417-2/resources/root/Slides/PDF/Session%209_10.pdf
-https://docs.google.com/spreadsheets/d/1QECI6n7pxWSzFbjE4Jp62ppRnb8PO4hHLzIuJh0vEdo/edit#gid=430940475:
+https://docs.google.com/spreadsheets/d/1srzJxpvxNL9rqtNUfraVWWdtsX7xLbcR-JIW_G6GL3w/edit#gid=1676081735:
   category: External
   content: ''
   description: ''
   title: Gradesheet
-  url: https://docs.google.com/spreadsheets/d/1QECI6n7pxWSzFbjE4Jp62ppRnb8PO4hHLzIuJh0vEdo/edit#gid=430940475
+  url: https://docs.google.com/spreadsheets/d/1srzJxpvxNL9rqtNUfraVWWdtsX7xLbcR-JIW_G6GL3w/edit#gid=1676081735
 https://drive.google.com/file/d/17KiTM4LGnWS5WbxOKuJ-2HfBz-z12Veg/view:
   category: External
   content: ''
@@ -738,12 +738,12 @@ https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_s2021/exams/m
     S2021.</p>
   title: T7.2 - Reinforcement Learning
   url: https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_s2021/theoretical/series7/Theory%20-%20Chapter%207_MDP%20%26%20RL%2C%20part%202.pdf
-https://quera.ir/overview/add_to_course/course/7773/:
+https://quera.ir/overview/add_to_course/course/9149:
   category: External
   content: ''
   description: ''
   title: Quera
-  url: https://quera.ir/overview/add_to_course/course/7773/
+  url: https://quera.ir/overview/add_to_course/course/9149
 https://sut-ai.github.io/:
   category: External
   content: ''

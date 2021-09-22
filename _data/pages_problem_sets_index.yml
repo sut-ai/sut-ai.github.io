@@ -5,6 +5,25 @@ header:
   background: /assets/images/assignments.jpg
 footer:
   background: /assets/images/assignments.jpg
+current-semester:
+  label: Current Semester
+  background: /assets/images/assignments.jpg
+  kind: chapters
+  content:
+  - title: Fall 2021 - Prof. Rohban
+    theoretical:
+      label:
+        text: Assignments
+        position: top
+      t1:
+        label: Assignment 1 -
+        kind: block
+        content:
+        - link: https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_f2021/assignments/hw1/hw1.pdf
+          text: HW1
+          description: <p>Come back tomorrow</p>
+          kind: F2021, Theoretical, Practical, Questions
+          icon: fas fa-file-pdf
 previous-semesters:
   label: Previous Semesters
   background: /assets/images/assignments.jpg

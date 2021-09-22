@@ -6,7 +6,7 @@ theoretical:
     label: Theoretical Assignment 1 - Search
     kind: block
     content:
-      - link: https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_f2021/theoretical/T1-1/TQ1-1.pdf
+      - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2021/theoretical/T1-1/TQ1-1.pdf
         text: T1.1 - Intelligent Agents, Uninformed Search
         description: >
           Includes 3 theoretical questions covering Intelligent Agents and Uninformed Search, released in F2021 

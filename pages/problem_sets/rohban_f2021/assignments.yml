@@ -3,13 +3,13 @@ theoretical:
     text: Assignments
     position: top
   t1:
-    label: Assignment 1 -
+    label: Theoretical Assignment 1 - Search
     kind: block
     content:
-      - link: https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_f2021/assignments/hw1/hw1.pdf
-        text: HW1
+      - link: https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_f2021/theoretical/T1-1/TQ1-1.pdf
+        text: T1.1 - Intelligent Agents, Uninformed Search
         description: >
-          Come back tomorrow
-        kind: F2021, Theoretical, Practical, Questions
+          Includes 3 theoretical questions covering Intelligent Agents and Uninformed Search, released in F2021 
+        kind: F2021, Theoretical, Questions
         icon: fas fa-file-pdf
       ####################

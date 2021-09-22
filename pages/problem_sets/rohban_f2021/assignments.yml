@@ -6,10 +6,10 @@ theoretical:
     label: Assignment 1 -
     kind: block
     content:
-      - link:
-        text:
+      - link: https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_f2021/assignments/hw1/hw1.pdf
+        text: HW1
         description: >
-
+          Come back tomorrow
         kind: F2021, Theoretical, Practical, Questions
         icon: fas fa-file-pdf
       ####################

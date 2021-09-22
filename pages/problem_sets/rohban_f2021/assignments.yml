@@ -1,0 +1,15 @@
+theoretical:
+  label:
+    text: Assignments
+    position: top
+  t1:
+    label: Assignment 1 -
+    kind: block
+    content:
+      - link:
+        text:
+        description: >
+
+        kind: F2021, Theoretical, Practical, Questions
+        icon: fas fa-file-pdf
+      ####################

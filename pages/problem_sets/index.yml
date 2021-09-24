@@ -1,5 +1,9 @@
 title: Problem Sets
 
+search:
+  links: true
+  content: true
+
 header:
   title: Problem Sets
   description: Sets of Artificial Intelligence problems

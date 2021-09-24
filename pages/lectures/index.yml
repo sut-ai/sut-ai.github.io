@@ -1,5 +1,9 @@
 title: SUT-AI | Lectures
 
+search:
+  links: true
+  content: true
+
 header:
   title: Lectures
   description: Presented lectures based on subjects

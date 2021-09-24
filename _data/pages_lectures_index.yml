@@ -1,4 +1,7 @@
 title: SUT-AI | Lectures
+search:
+  links: true
+  content: true
 header:
   title: <p>Lectures</p>
   description: <p>Presented lectures based on subjects</p>
@@ -377,6 +380,3 @@ chapters:
           - link: https://www.aparat.com/v/TaPwF/
             text: 'Session 29: Reinforcement Learning, part 2'
             icon: fas fa-play-circle
-search:
-  content: true
-  links: false

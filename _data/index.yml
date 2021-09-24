@@ -48,7 +48,9 @@ config:
     theme: github-light
     crossorigin: anonymous
   google_analytics_id: G-VZRZHCJ5V0
-  search: true
+  search:
+    links: false
+    content: true
 course-bio:
   label: Artificial Intelligence
   content: '<p>In this course you will learn what Artificial Intelligence (AI) is,

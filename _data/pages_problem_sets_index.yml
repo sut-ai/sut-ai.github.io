@@ -1,4 +1,7 @@
 title: Problem Sets
+search:
+  links: true
+  content: true
 header:
   title: <p>Problem Sets</p>
   description: <p>Sets of Artificial Intelligence problems</p>
@@ -595,6 +598,3 @@ previous-semesters:
             in F2020</p>
           kind: F2020, Practical, Solutions
           icon: fas fa-file-archive
-search:
-  content: true
-  links: false

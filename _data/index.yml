@@ -13,7 +13,7 @@ nav:
   - index: index
     text: Home
     description: Sharif University of Technology
-    link: /
+    link: index.html
     kind: Page
   - index: pages/lectures/index
     text: Lectures
@@ -105,3 +105,6 @@ instructors:
       - link: https://scholar.google.com/citations?user=S1U0KlgAAAAJ&hl=en
         icon: fab fa-google
       kind: person
+search:
+  content: true
+  links: false

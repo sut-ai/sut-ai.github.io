@@ -1015,3 +1015,6 @@ feedback:
   comments:
     label: false
     kind: comments
+search:
+  content: true
+  links: false

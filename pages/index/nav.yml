@@ -1,7 +1,6 @@
 brand:
-  text: CE417
+  text: SUT-AI
   link: https://sut-ai.github.io/
-  # TODO: Sharif logo
 content:
   - index: index
     text: Home

@@ -22,34 +22,52 @@ teams:
     content:
       - title: Fall 2021 - Prof. Rohban
         team:
+          style:
+            person:
+              normal_class: col-xl-2 col-lg-2 col-md-3 col-sm-4 col-12 mb-1 mb-lg-0
           kind: people
           label: false
           patch: pages/team/rohban_f2021.yml
       - title: Spring 2021 - Prof. Rohban
         team:
+          style:
+            person:
+              normal_class: col-xl-2 col-lg-2 col-md-3 col-sm-4 col-12 mb-1 mb-lg-0
           kind: people
           label: false
           patch: pages/team/rohban_s2021.yml
       - title: Fall 2020 - Prof. Soleymani
       - title: Fall 2020 - Prof. Rohban
         team:
+          style:
+            person:
+              normal_class: col-xl-2 col-lg-2 col-md-3 col-sm-4 col-12 mb-1 mb-lg-0
           kind: people
           label: false
           patch: pages/team/rohban_f2020.yml
       - title: Spring 2020 - Prof. Rohban
         team:
+          style:
+            person:
+              normal_class: col-xl-2 col-lg-2 col-md-3 col-sm-4 col-12 mb-1 mb-lg-0
           kind: people
           label: false
           patch: pages/team/rohban_s2020.yml
       - title: Fall 2019 - Prof. Soleymani
       - title: Fall 2019 - Prof. Rohban
         team:
+          style:
+            person:
+              normal_class: col-xl-2 col-lg-2 col-md-3 col-sm-4 col-12 mb-1 mb-lg-0
           kind: people
           label: false
           patch: pages/team/rohban_f2019.yml
       - title: Spring 2019 - Prof. Soleymani
       - title: Spring 2019 - Prof. Rohban
         team:
+          style:
+            person:
+              normal_class: col-xl-2 col-lg-2 col-md-3 col-sm-4 col-12 mb-1 mb-lg-0
           kind: people
           label: false
           patch: pages/team/rohban_s2019.yml

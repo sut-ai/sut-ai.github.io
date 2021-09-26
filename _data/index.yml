@@ -7,7 +7,7 @@ footer:
   background: /assets/images/header-bg.jpg
 nav:
   brand:
-    text: CE417
+    text: SUT-AI
     link: https://sut-ai.github.io/
   content:
   - index: index

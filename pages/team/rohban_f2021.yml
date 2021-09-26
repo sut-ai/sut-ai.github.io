@@ -53,7 +53,7 @@
 
 - name: Arash Lagzian
   role: Sup
-  image: images/ta/ArashLagzian
+  image: images/ta/ArashLagzian.jpg
   contact:
     - icon: fas fa-envelope
       link: mailto:arash.lagzian94@gmail.com

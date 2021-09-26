@@ -66,7 +66,7 @@ teams:
           - icon: fas fa-envelope
             link: mailto:ehsanihaniyeh@gmail.com
           kind: person
-        - name: Afhsin Karimi
+        - name: Afshin Karimi
           role: Sup
           image: /assets/images/ta/AfshinKarimi.jpg
           contact:
@@ -90,6 +90,7 @@ teams:
           kind: person
         - name: Arash Lagzian
           role: Sup
+          image: /assets/images/ta/ArashLagzian.jpg
           contact:
           - icon: fas fa-envelope
             link: mailto:arash.lagzian94@gmail.com
@@ -102,6 +103,7 @@ teams:
           kind: person
         - name: Mohammadreza Yazdanifar
           role: Sup
+          image: /assets/images/ta/MohammadrezaYazdanifar.jpg
           contact:
           - icon: fab fa-linkedin
             link: linkedin.com/in/mohammadreza-yazdanifar

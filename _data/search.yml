@@ -1,16 +1,16 @@
 /:
   category: ''
-  content: '<p>Artificial Intelligence Course</p> M.H. Rohban <p>In this course you
-    will learn what Artificial Intelligence (AI) is, explore use cases and applications
-    of AI, understand AI concepts and terms like machine learning, deep learning and
-    neural networks. You will be exposed to various issues and concerns surrounding
-    AI such as ethics and bias, &amp; jobs, and get advice from experts about learning
-    and starting a career in AI. You will also demonstrate AI in action with a mini
-    project. </p>
+  content: '<p>In this course you will learn what Artificial Intelligence (AI) is,
+    explore use cases and applications of AI, understand AI concepts and terms like
+    machine learning, deep learning and neural networks. You will be exposed to various
+    issues and concerns surrounding AI such as ethics and bias, &amp; jobs, and get
+    advice from experts about learning and starting a career in AI. You will also
+    demonstrate AI in action with a mini project. </p>
 
     This course does not require any programming or computer science expertise and
     is designed to introduce the basics of AI to anyone whether you have a technical
-    background or not. M. Soleymani Baghshah <p>Sharif University of Technology</p>'
+    background or not. <p>Sharif University of Technology</p> <p>Artificial Intelligence
+    Course</p> M. Soleymani Baghshah M.H. Rohban'
   description: Sharif University of Technology
   title: Artificial Intelligence Course
   url: /
@@ -28,24 +28,25 @@
   url: /pages/problem_sets/
 /pages/team/:
   category: ''
-  content: "<p>Educational Team</p> Mohsen Larni Ahmad Salimi <p>Over the years, many\
-    \ enthusiastic volunteer students helped shape this course as it is presented\
-    \ today and created\n    its material. What follows is a list of these people:<sup\
-    \ id=\"fnref:roles\"><a class=\"footnote-ref\" href=\"#fn:roles\">1</a></sup></p>\n\
-    <div class=\"footnote\">\n<hr/>\n<ol>\n<li id=\"fn:roles\">\n<p>Roles are shortened:</p>\n\
-    <dl>\n<dt>Sup</dt>\n<dd>Supervisor</dd>\n<dt>HW &amp; HWR</dt>\n<dd>Theoretical\
-    \ assignments creator and Reviewer</dd>\n<dt>P &amp; PR</dt>\n<dd>Practical assignments\
-    \ creator and Reviewer</dd>\n<dt>C(O)</dt>\n<dd>Supplementary content creator\
-    \ and Organizer of the supplementary \ncontent creators and reviewer </dd>\n<dt>LN(O)</dt>\n\
+  content: "Ahmad Salimi <p>List of all TAs and people responsible for this course!</p>\
+    \ <p>As Elon Musk puts it:</p>\n<blockquote>\n<p>... it\u2019s very important\
+    \ to have a feedback loop, where you\u2019re constantly thinking about what you\u2019\
+    ve done and\n    how you could be doing it better.</p>\n</blockquote>\n<p>Help\
+    \ us improve by sending us feedback!</p> <p>Over the years, many enthusiastic\
+    \ volunteer students helped shape this course as it is presented today and created\n\
+    \    its material. What follows is a list of these people:<sup id=\"fnref:roles\"\
+    ><a class=\"footnote-ref\" href=\"#fn:roles\">1</a></sup></p>\n<div class=\"footnote\"\
+    >\n<hr/>\n<ol>\n<li id=\"fn:roles\">\n<p>Roles are shortened:</p>\n<dl>\n<dt>Sup</dt>\n\
+    <dd>Supervisor</dd>\n<dt>HW &amp; HWR</dt>\n<dd>Theoretical assignments creator\
+    \ and Reviewer</dd>\n<dt>P &amp; PR</dt>\n<dd>Practical assignments creator and\
+    \ Reviewer</dd>\n<dt>C(O)</dt>\n<dd>Supplementary content creator and Organizer\
+    \ of the supplementary \ncontent creators and reviewer </dd>\n<dt>LN(O)</dt>\n\
     <dd>Lecture notes mentor and reviewer and their Organizer</dd>\n<dt>Recitation</dt>\n\
     <dd>Lecture notes mentor and reviewer and their Organizer</dd>\n<dt>F/M</dt>\n\
     <dd>Finals/Midterm grader</dd>\n<dt>Web/Git</dt>\n<dd>Webmaster</dd>\n</dl>\n\
     <p><a class=\"footnote-backref\" href=\"#fnref:roles\" title=\"Jump back to footnote\
-    \ 1 in the text\">\u21A9</a></p>\n</li>\n</ol>\n</div> <p>List of all TAs and\
-    \ people responsible for this course!</p> Vahid Zehtab <p>As Elon Musk puts it:</p>\n\
-    <blockquote>\n<p>... it\u2019s very important to have a feedback loop, where you\u2019\
-    re constantly thinking about what you\u2019ve done and\n    how you could be doing\
-    \ it better.</p>\n</blockquote>\n<p>Help us improve by sending us feedback!</p>"
+    \ 1 in the text\">\u21A9</a></p>\n</li>\n</ol>\n</div> Vahid Zehtab <p>Educational\
+    \ Team</p> Mohsen Larni"
   description: List of all TAs and people responsible for this course!
   title: Educational Team
   url: /pages/team/

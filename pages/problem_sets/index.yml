@@ -12,16 +12,18 @@ header:
 footer:
   background: images/assignments.jpg
 
-current-semester:
-  label: Current Semester
+current-semester-ce417:
+  label: 
+    position: top
+    text:  CE-417 | Current Semester
   background: images/assignments.jpg
-  kind: chapters
-  patch-content:
-    - pages/problem_sets/rohban_f2021/index.yml
+  patch-content: pages/problem_sets/rohban_f2021/index.yml
 
 
 previous-semesters:
-  label: Previous Semesters
+  label: 
+    position: top
+    text:  CE-417 | Previous Semesters
   background: images/assignments.jpg
   kind: chapters
   patch-content:

@@ -29,7 +29,7 @@
     - icon: fas fa-envelope
       link: mailto:ehsanihaniyeh@gmail.com
 
-- name: Afhsin Karimi
+- name: Afshin Karimi
   role: Sup
   image: images/ta/AfshinKarimi.jpg
   contact:
@@ -53,6 +53,7 @@
 
 - name: Arash Lagzian
   role: Sup
+  image: images/ta/ArashLagzian
   contact:
     - icon: fas fa-envelope
       link: mailto:arash.lagzian94@gmail.com
@@ -65,6 +66,7 @@
 
 - name: Mohammadreza Yazdanifar
   role: Sup
+  image: images/ta/MohammadrezaYazdanifar.jpg
   contact:
     - icon: fab fa-linkedin
       link: linkedin.com/in/mohammadreza-yazdanifar

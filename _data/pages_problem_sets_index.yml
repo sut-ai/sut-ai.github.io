@@ -10,7 +10,7 @@ footer:
   background: /assets/images/assignments.jpg
 current-semester-ce417:
   label:
-    position: top
+    positon: top
     text: CE-417 | Current Semester
   background: /assets/images/assignments.jpg
   content: "<p>One of CE-417's goals is to prepare you to apply fundamental Artificial\
@@ -55,7 +55,7 @@ current-semester-ce417:
         icon: fas fa-file-pdf
 previous-semesters:
   label:
-    position: top
+    positon: top
     text: CE-417 | Previous Semesters
   background: /assets/images/assignments.jpg
   kind: chapters
@@ -307,6 +307,7 @@ previous-semesters:
         text: P5 - Reinforcement Learning
         icon: fas fa-file-pdf
         kind: S2021, Practical, Questions
+    kind: Index
   - title: Fall 2020 - Prof. Rohban
     exam:
       label:
@@ -625,4 +626,5 @@ previous-semesters:
             in F2020</p>
           kind: F2020, Practical, Solutions
           icon: fas fa-file-archive
+    kind: Index
 kind: Index

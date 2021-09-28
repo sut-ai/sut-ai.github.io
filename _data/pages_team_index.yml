@@ -327,6 +327,7 @@ teams:
           - icon: fas fa-envelope
             link: mailto:sepehramini83@gmail.com
           kind: person
+      kind: Index
     - title: Spring 2021 - Prof. Rohban
       team:
         style:
@@ -625,7 +626,9 @@ teams:
             icon: fab fa-github
           kind: person
           image: https://github.com/ahmadsalimi.png
+      kind: Index
     - title: Fall 2020 - Prof. Soleymani
+      kind: Index
     - title: Fall 2020 - Prof. Rohban
       team:
         style:
@@ -805,6 +808,7 @@ teams:
           - icon: fas fa-envelope
             link: mailto:m.mohammadi1378@outlook.com
           kind: person
+      kind: Index
     - title: Spring 2020 - Prof. Rohban
       team:
         style:
@@ -896,7 +900,9 @@ teams:
             link: https://github.com/Armin-Saadat
           kind: person
           image: https://github.com/Armin-Saadat.png
+      kind: Index
     - title: Fall 2019 - Prof. Soleymani
+      kind: Index
     - title: Fall 2019 - Prof. Rohban
       team:
         style:
@@ -959,7 +965,9 @@ teams:
         - name: Ainaz Eftekhar
           role: HW, HWR, M/F
           kind: person
+      kind: Index
     - title: Spring 2019 - Prof. Soleymani
+      kind: Index
     - title: Spring 2019 - Prof. Rohban
       team:
         style:
@@ -981,11 +989,17 @@ teams:
           - icon: fas fa-envelope
             link: mailto:kooshajaferiann@yahoo.co.uk
           kind: person
+      kind: Index
     - title: Fall 2019 - Prof. Soleymani
+      kind: Index
     - title: Spring 2018 - Prof. Soleymani
+      kind: Index
     - title: Fall 2018 - Prof. Rohban
+      kind: Index
     - title: Spring 2017 - Prof. Soleymani
+      kind: Index
     - title: Spring 2016 - Prof. Soleymani
+      kind: Index
 webteam:
   label:
     position: left
@@ -1035,7 +1049,7 @@ feedback:
   comments:
     label: false
     kind: comments
+kind: Index
 search:
   content: true
   links: false
-kind: Index

@@ -105,7 +105,7 @@ instructors:
       - link: https://scholar.google.com/citations?user=S1U0KlgAAAAJ&hl=en
         icon: fab fa-google
       kind: person
+kind: Index
 search:
   content: true
   links: false
-kind: Index

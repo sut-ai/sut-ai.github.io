@@ -38,6 +38,7 @@ chapters:
           - link: https://www.aparat.com/v/aXusO/
             text: 'Session 2: Uninformed Search methods'
             icon: fas fa-play-circle
+      kind: Index
     - title: Informed Search and Advanced Heuistics
       resources:
         label: Resources
@@ -65,6 +66,7 @@ chapters:
           - link: https://www.aparat.com/v/75AQq/
             text: 'Session 5: designing Heuristic Functions (cont.) - Local Search'
             icon: fas fa-play-circle
+      kind: Index
   chapter2:
     label: Chapter 2
     kind: chapters
@@ -89,6 +91,7 @@ chapters:
           - link: https://www.aparat.com/v/QzSrX/
             text: 'Session 6: Local Search (cont.)'
             icon: fas fa-play-circle
+      kind: Index
     - title: Search in Continuous Space (Convex Optimization and Gradient descent)
       resources:
         label: Resources
@@ -106,6 +109,7 @@ chapters:
           - link: https://www.aparat.com/v/9eaT3/
             text: 'Session 7: Continuous Search'
             icon: fas fa-play-circle
+      kind: Index
   chapter3:
     label: Chapter 3
     kind: chapters
@@ -130,6 +134,7 @@ chapters:
           - link: https://www.aparat.com/v/Wlcax/
             text: 'Session 9: Constraint Satisfaction Problems, part 2'
             icon: fas fa-play-circle
+      kind: Index
     - title: Adversarial Search (minimax, alpha-beta pruning, expectimax)
       resources:
         label: Resources
@@ -150,6 +155,7 @@ chapters:
           - link: https://www.aparat.com/v/dprI1/
             text: 'Session 11: Adversarial Search, part 2'
             icon: fas fa-play-circle
+      kind: Index
   chapter4:
     label: Chapter 4
     kind: chapters
@@ -181,6 +187,7 @@ chapters:
           - link: https://www.aparat.com/v/IBVET/
             text: 'Session 14: Probabilistic Graphical Models, part 3 (D-separation)'
             icon: fas fa-play-circle
+      kind: Index
     - title: Inference in Bayesian Networks
       resources:
         label: Resources
@@ -204,6 +211,7 @@ chapters:
           - link: https://www.aparat.com/v/Jadn0/
             text: 'Session 16: Probabilistic Graphical Models Sampling, part 5'
             icon: fas fa-play-circle
+      kind: Index
   chapter5:
     label: Chapter 5
     kind: chapters
@@ -234,6 +242,7 @@ chapters:
           - link: https://www.aparat.com/v/8f2A6/
             text: 'Session 19: Markov Models, part 3'
             icon: fas fa-play-circle
+      kind: Index
     - title: Intro to Machine Learning (key concepts) & Learning a Decision Tree (classification)
       resources:
         label: Resources
@@ -268,6 +277,7 @@ chapters:
           - link: https://www.aparat.com/v/IeZMP/
             text: 'Session 22: Decision Tree (cont.) - Regression'
             icon: fas fa-play-circle
+      kind: Index
   chapter6:
     label: Chapter 6
     kind: chapters
@@ -303,6 +313,7 @@ chapters:
           - link: https://www.aparat.com/v/rS3k6/
             text: 'Session 23: Regression (cont.) - Perceptron'
             icon: fas fa-play-circle
+      kind: Index
     - title: Neural Networks (Multilayer Perceptron and Convolutional Neural Networks)
       resources:
         label: Resources
@@ -330,6 +341,7 @@ chapters:
           - link: https://www.aparat.com/v/cj3oS/
             text: 'Session 25: Convolutional Networks'
             icon: fas fa-play-circle
+      kind: Index
   chapter7:
     label: Chapter 7
     kind: chapters
@@ -357,6 +369,7 @@ chapters:
           - link: https://www.aparat.com/v/GzNqP/
             text: 'Session 27: Markov Decision Processes, part 2'
             icon: fas fa-play-circle
+      kind: Index
     - title: Reinforcement Learning
       resources:
         label: Resources
@@ -380,4 +393,5 @@ chapters:
           - link: https://www.aparat.com/v/TaPwF/
             text: 'Session 29: Reinforcement Learning, part 2'
             icon: fas fa-play-circle
+      kind: Index
 kind: Index

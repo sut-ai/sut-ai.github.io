@@ -53,7 +53,7 @@ current-semester-ce417:
           and Uninformed Search, released in F2021 </p>
         kind: F2021, Theoretical, Questions
         icon: fas fa-file-pdf
-      - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2021/assignments/T1-1/TA1-1.pdf
+      - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2021/theoretical/T1-1/TA1-1.pdf
         text: T1.1 - Intelligent Agents, Uninformed Search [sol]
         description: <p>Including solution for theoretical questions of T1.1, released
           in F2021</p>

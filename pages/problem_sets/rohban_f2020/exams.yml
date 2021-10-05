@@ -18,7 +18,7 @@ exam:
         description: >
           Solutions for F2020 midterm exam.
         kind: F2020, Theoretical, Solutions, Exam, Midterm
-        icon: fas fa-file-pdf
+        icon: far fa-file-pdf
         ####################
   final:
     label: Final
@@ -36,7 +36,7 @@ exam:
         description: >
           Solutions for F2020 final exam.
         kind: F2020, Theoretical, Solutions, Exam, Final
-        icon: fas fa-file-archive
+        icon: far fa-file-archive
         ####################
 
         

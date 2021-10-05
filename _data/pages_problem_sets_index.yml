@@ -90,7 +90,7 @@ previous-semesters:
           text: Midterm [sol]
           description: <p>Solutions for S2021 midterm exam.</p>
           kind: S2021, Theoretical, Solutions, Exam, Midterm
-          icon: fas fa-file-pdf
+          icon: far fa-file-pdf
       final:
         label: Final
         kind: block
@@ -105,7 +105,7 @@ previous-semesters:
           text: Final [sol]
           description: <p>Solutions for S2021 final exam.</p>
           kind: S2021, Theoretical, Solutions, Exam, Final
-          icon: fas fa-file-archive
+          icon: far fa-file-archive
     theoretical:
       label:
         text: Theoretical Assignments
@@ -339,7 +339,7 @@ previous-semesters:
           text: Midterm [sol]
           description: <p>Solutions for F2020 midterm exam.</p>
           kind: F2020, Theoretical, Solutions, Exam, Midterm
-          icon: fas fa-file-pdf
+          icon: far fa-file-pdf
       final:
         label: Final
         kind: block
@@ -353,7 +353,7 @@ previous-semesters:
           text: Final [sol]
           description: <p>Solutions for F2020 final exam.</p>
           kind: F2020, Theoretical, Solutions, Exam, Final
-          icon: fas fa-file-archive
+          icon: far fa-file-archive
     theoretical:
       label:
         text: Assignments
@@ -373,13 +373,13 @@ previous-semesters:
           description: <p>Including solution for theoretical questions of HW1.1, released
             in F2020</p>
           kind: F2020, Theoretical, Solutions
-          icon: fas fa-file-pdf
+          icon: far fa-file-pdf
         - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2020/assignments/hw1-1/practical-sol.zip
           text: P1.1 - Intelligent Agents [sol]
           description: <p>Including solution for practical questions of HW1.1, released
             in F2020</p>
           kind: F2020, Practical, Solutions
-          icon: fas fa-file-archive
+          icon: far fa-file-archive
         - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2020/assignments/hw1-2/hw1-2.pdf
           text: HW1.2 - Informed Search
           description: <p>Including 4 theoretical questions and 1 practical questions
@@ -391,13 +391,13 @@ previous-semesters:
           description: <p>Including solution for theoretical questions of HW1.2, released
             in F2020</p>
           kind: F2020, Theoretical, Solutions
-          icon: fas fa-file-pdf
+          icon: far fa-file-pdf
         - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2020/assignments/hw1-2/practical-sol.zip
           text: P1.2 - Informed Search [sol]
           description: <p>Including solution for practical questions of HW1.2, released
             in F2020</p>
           kind: F2020, Practical, Solutions
-          icon: fas fa-file-archive
+          icon: far fa-file-archive
       t2:
         label: Assignment 2 - Local Search and Search In Continuous Space
         kind: block
@@ -419,7 +419,7 @@ previous-semesters:
           description: <p>Including solution for practical questions of HW2.1, released
             in F2020</p>
           kind: F2020, Practical, Solutions
-          icon: fas fa-file-archive
+          icon: far fa-file-archive
         - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2020/assignments/hw2-2/hw2-2.pdf
           text: HW2.2 - Search In Continuous Space
           description: <p>Including 2 theoretical questions and 1 practical question
@@ -431,13 +431,13 @@ previous-semesters:
           description: <p>Including solution for theoretical questions of HW2.2, released
             in F2020</p>
           kind: F2020, Theoretical, Solutions
-          icon: fas fa-file-pdf
+          icon: far fa-file-pdf
         - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2020/assignments/hw2-2/practical-sol.zip
           text: P2.2 - Search In Continuous Space [sol]
           description: <p>Including solution for practical questions of HW2.2, released
             in F2020</p>
           kind: F2020, Practical, Solutions
-          icon: fas fa-file-archive
+          icon: far fa-file-archive
       t3:
         label: Assignment 3 - CSP & Adversarial Search
         kind: block
@@ -453,31 +453,31 @@ previous-semesters:
           description: <p>Including solution for theoretical questions of HW3.1, released
             in F2020</p>
           kind: F2020, Theoretical, Solutions
-          icon: fas fa-file-pdf
+          icon: far fa-file-pdf
         - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2020/assignments/hw3-1/practical-sol.zip
           text: P3.1 - CSP [sol]
           description: <p>Including solution for practical questions of HW3.1, released
             in F2020</p>
           kind: F2020, Practical, Solutions
-          icon: fas fa-file-archive
+          icon: far fa-file-archive
         - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2020/assignments/hw3-2/hw3-2.pdf
           text: HW3.2 - Adversarial Search
           description: <p>Including 2 theoretical questions and 1 practical question
             covering Adversarial Search, released in F2020</p>
           kind: F2020, Theoretical, Practical, Questions
-          icon: fas fa-file-pdf
+          icon: far fa-file-pdf
         - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2020/assignments/hw3-2/sol3-2.pdf
           text: T3.2 - Adversarial Search [sol]
           description: <p>Including solution for theoretical questions of HW3.2, released
             in F2020</p>
           kind: F2020, Theoretical, Solutions
-          icon: fas fa-file-pdf
+          icon: far fa-file-pdf
         - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2020/assignments/hw3-2/practical-sol.zip
           text: P3.2 - Adversarial Search [sol]
           description: <p>Including solution for practical questions of HW3.2, released
             in F2020</p>
           kind: F2020, Practical, Solutions
-          icon: fas fa-file-archive
+          icon: far fa-file-archive
       t4:
         label: Assignment 4 - Bayesian Networks
         kind: block
@@ -493,13 +493,13 @@ previous-semesters:
           description: <p>Including solution for theoretical questions of HW4.1, released
             in F2020</p>
           kind: F2020, Theoretical, Solutions
-          icon: fas fa-file-pdf
+          icon: far fa-file-pdf
         - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2020/assignments/hw4-1/practical-sol.zip
           text: P4.1 - Introduction to Bayesian Networks [sol]
           description: <p>Including solution for practical questions of HW4.1, released
             in F2020</p>
           kind: F2020, Practical, Solutions
-          icon: fas fa-file-archive
+          icon: far fa-file-archive
         - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2020/assignments/hw4-2/hw4-2.pdf
           text: HW4.2 - Inference in the Bayesian Networks
           description: <p>Including 3 theoretical questions and 1 practical question
@@ -511,13 +511,13 @@ previous-semesters:
           description: <p>Including solution for theoretical questions of HW4.2, released
             in F2020</p>
           kind: F2020, Theoretical, Solutions
-          icon: fas fa-file-pdf
+          icon: far fa-file-pdf
         - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2020/assignments/hw4-2/practical-sol.zip
           text: P4.2 - Inference in the Bayesian Networks [sol]
           description: <p>Including solution for practical questions of HW4.2, released
             in F2020</p>
           kind: F2020, Practical, Solutions
-          icon: fas fa-file-archive
+          icon: far fa-file-archive
       t5:
         label: Assignment 5 - Temporal Probability Models & Intro to Machine Learning
         kind: block
@@ -533,13 +533,13 @@ previous-semesters:
           description: <p>Including solution for theoretical questions of HW5.1, released
             in F2020</p>
           kind: F2020, Theoretical, Solutions
-          icon: fas fa-file-pdf
+          icon: far fa-file-pdf
         - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2020/assignments/hw5-1/practical-sol.zip
           text: P5.1 - Temporal Probability Models [sol]
           description: <p>Including solution for practical questions of HW5.1, released
             in F2020</p>
           kind: F2020, Practical, Solutions
-          icon: fas fa-file-archive
+          icon: far fa-file-archive
         - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2020/assignments/hw5-2/hw5-2.pdf
           text: HW5.2 - Intro to Machine Learning
           description: <p>Including 3 theoretical questions and 1 practical question
@@ -551,13 +551,13 @@ previous-semesters:
           description: <p>Including solution for theoretical questions of HW5.2, released
             in F2020</p>
           kind: F2020, Theoretical, Solutions
-          icon: fas fa-file-pdf
+          icon: far fa-file-pdf
         - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2020/assignments/hw5-2/practical-sol.zip
           text: P5.2 - Intro to Machine Learning [sol]
           description: <p>Including solution for practical questions of HW5.2, released
             in F2020</p>
           kind: F2020, Practical, Solutions
-          icon: fas fa-file-archive
+          icon: far fa-file-archive
       t6:
         label: Assignment 6 - Machine Learning & Deep Neural Networks
         kind: block
@@ -573,13 +573,13 @@ previous-semesters:
           description: <p>Including solution for theoretical questions of HW6.1, released
             in F2020</p>
           kind: F2020, Theoretical, Solutions
-          icon: fas fa-file-pdf
+          icon: far fa-file-pdf
         - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2020/assignments/hw6-1/practical-sol.zip
           text: P6.1 - Machine Learning [sol]
           description: <p>Including solution for practical questions of HW6.1, released
             in F2020</p>
           kind: F2020, Practical, Solutions
-          icon: fas fa-file-archive
+          icon: far fa-file-archive
         - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2020/assignments/hw6-2/hw6-2.pdf
           text: HW6.2 - Deep Neural Networks
           description: <p>Including 2 theoretical questions and 1 practical question
@@ -591,13 +591,13 @@ previous-semesters:
           description: <p>Including solution for theoretical questions of HW6.2, released
             in F2020</p>
           kind: F2020, Theoretical, Solutions
-          icon: fas fa-file-pdf
+          icon: far fa-file-pdf
         - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2020/assignments/hw6-2/practical-sol.zip
           text: P6.2 - Deep Neural Networks [sol]
           description: <p>Including solution for practical questions of HW6.2, released
             in F2020</p>
           kind: F2020, Practical, Solutions
-          icon: fas fa-file-archive
+          icon: far fa-file-archive
       t7:
         label: Assignment 7 - Markov Decision Processes & Reinforcement Learning
         kind: block
@@ -613,13 +613,13 @@ previous-semesters:
           description: <p>Including solution for theoretical questions of HW7.1, released
             in F2020</p>
           kind: F2020, Theoretical, Solutions
-          icon: fas fa-file-pdf
+          icon: far fa-file-pdf
         - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2020/assignments/hw7-1/practical-sol.zip
           text: P7.1 - Markov Decision Processes [sol]
           description: <p>Including solution for practical questions of HW7.1, released
             in F2020</p>
           kind: F2020, Practical, Solutions
-          icon: fas fa-file-archive
+          icon: far fa-file-archive
         - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2020/assignments/hw7-2/hw7-2.pdf
           text: HW7.2 - Reinforcement Learning
           description: <p>Including 2 theoretical questions and 2 practical question
@@ -631,12 +631,12 @@ previous-semesters:
           description: <p>Including solution for theoretical questions of HW7.2, released
             in F2020</p>
           kind: F2020, Theoretical, Solutions
-          icon: fas fa-file-pdf
+          icon: far fa-file-pdf
         - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2020/assignments/hw7-2/practical-sol.zip
           text: P7.2 - Reinforcement Learning [sol]
           description: <p>Including solution for practical questions of HW7.2, released
             in F2020</p>
           kind: F2020, Practical, Solutions
-          icon: fas fa-file-archive
+          icon: far fa-file-archive
     kind: Index
 kind: Index

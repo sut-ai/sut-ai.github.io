@@ -17,7 +17,7 @@ exam:
         description: >
           Solutions for S2021 midterm exam.
         kind: S2021, Theoretical, Solutions, Exam, Midterm
-        icon: fas fa-file-pdf
+        icon: far fa-file-pdf
   final:
     label: Final
     kind: block
@@ -33,6 +33,6 @@ exam:
         description: >
           Solutions for S2021 final exam.
         kind: S2021, Theoretical, Solutions, Exam, Final
-        icon: fas fa-file-archive
+        icon: far fa-file-archive
 
         

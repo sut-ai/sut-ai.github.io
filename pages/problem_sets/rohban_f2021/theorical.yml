@@ -27,6 +27,10 @@ theoretical:
         kind: F2021, Theoretical, Questions
         icon: fas fa-file-pdf
       ####################
+  t2:
+    label: Theoretical Assignment 2 - Search, Local Search & Search In Continuous Space
+    kind: block
+    content:
       - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2021/theoretical/T2/TQ2-1.pdf
         text: T2.1 - Advanced Heuistics
         description: >

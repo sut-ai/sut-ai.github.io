@@ -82,6 +82,7 @@ current-semester-ce417:
       text: Mini-projects
       position: top
     mp1:
+      label: Mini-project 1
       kind: block
       content:
       - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2021/mini_project/MP1/MPQ1.zip

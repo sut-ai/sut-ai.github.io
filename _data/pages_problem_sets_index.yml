@@ -65,6 +65,24 @@ current-semester-ce417:
           and Advanced Heuistics, released in F2021 </p>
         kind: F2021, Theoretical, Questions
         icon: fas fa-file-pdf
+      - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2021/theoretical/T2/TQ2-1.pdf
+        text: T2.1 - Advanced Heuistics
+        description: <p>Includes 1 theoretical question covering Advanced Heuistics,
+          released in F2021 </p>
+        kind: F2021, Theoretical, Questions
+        icon: fas fa-file-pdf
+  mini_project:
+    label:
+      text: Mini-project Assignments
+      position: top
+    content:
+    - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2021/mini_project/MP1/MPQ1.zip
+      text: P1 - Search, Local Search
+      description: <p>Includes 4 practical and 3 theorical questions covering the
+        first and second chapters of the course syllabus (intelligent agents &amp;
+        search), released in Spring 2021.</p>
+      kind: F2021, Practical, Questions
+      icon: fas fa-file-archive
 previous-semesters:
   label:
     positon: top

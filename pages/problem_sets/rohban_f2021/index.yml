@@ -29,4 +29,5 @@ content: |
   everything up until the deadlines.
 
 
-patch-assignments: pages/problem_sets/rohban_f2021/assignments.yml
+patch-assignments: pages/problem_sets/rohban_f2021/theorical.yml
+patch-practical: pages/problem_sets/rohban_f2021/miniproject.yml

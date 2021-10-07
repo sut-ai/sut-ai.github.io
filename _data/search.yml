@@ -1,94 +1,93 @@
 /:
   category: Index
-  content: "M.H. Rohban <p>In this course you will learn what Artificial Intelligence\
-    \ (AI) is, explore use cases and applications of AI, understand AI concepts and\
-    \ terms like machine learning, deep learning and neural networks. You will be\
-    \ exposed to various issues and concerns surrounding AI such as ethics and bias,\
-    \ &amp; jobs, and get advice from experts about learning and starting a career\
-    \ in AI. You will also demonstrate AI in action with a mini project. \nThis course\
-    \ does not require any programming or computer science expertise and is designed\
-    \ to introduce the basics of AI to anyone whether you have a technical background\
-    \ or not.</p> <p>Artificial Intelligence Course</p> M. Soleymani Baghshah <p>Sharif\
-    \ University of Technology</p>"
+  content: "M.H. Rohban <p>Artificial Intelligence Course</p> <p>In this course you\
+    \ will learn what Artificial Intelligence (AI) is, explore use cases and applications\
+    \ of AI, understand AI concepts and terms like machine learning, deep learning\
+    \ and neural networks. You will be exposed to various issues and concerns surrounding\
+    \ AI such as ethics and bias, &amp; jobs, and get advice from experts about learning\
+    \ and starting a career in AI. You will also demonstrate AI in action with a mini\
+    \ project. \nThis course does not require any programming or computer science\
+    \ expertise and is designed to introduce the basics of AI to anyone whether you\
+    \ have a technical background or not.</p> <p>Sharif University of Technology</p>\
+    \ M. Soleymani Baghshah"
   description: Sharif University of Technology
   title: Artificial Intelligence Course
   url: /
 /pages/lectures/:
   category: Index
-  content: ' <p>Lectures</p> <p>Presented lectures based on subjects</p>'
+  content: ' <p>Presented lectures based on subjects</p> <p>Lectures</p>'
   description: Presented lectures based on subjects
   title: Lectures
   url: /pages/lectures/
 /pages/problem_sets/:
   category: Index
-  content: "<p>Problem Sets</p> <p>Sets of Artificial Intelligence problems</p> <p>One\
-    \ of CE-417's goals is to prepare you to apply fundamental Artificial Intelligence\
-    \ and \nMachine Learning algorithms to semi-realistic tasks and ensure that you\
-    \ have a solid \nunderstanding of the fundamentals of AI. The extensive problem\
-    \ sets of the course are \ncurated to serve as a means for achieving this purpose.</p>\n\
-    <p>Please upload your answers to Quera on time; otherwise you would not earn any\
-    \ \ncredit for them. Take a note of these points regarding your assignments:</p>\n\
-    <ul>\n<li>Weekly Theoretical assignments will be released every Thursday covering\
-    \ \n  that week's topics. (Accounting for 10.5% of your overall grading)</li>\n\
-    <li>You will have <strong>five mini-projects</strong> (Accounting for 29.5% of\
-    \ your overall grading 7% of which \n  would be for potential theoretical questions)</li>\n\
-    <li>You are given <strong>15 \u201Cgrace days\u201D</strong> (self-granted extensions)\
-    \ in total for each assignment,\n  which you can use to give yourself extra time\
-    \ without penalty.</li>\n<li>Every assignment has a hard deadline \u2014for theoretical\
-    \ assignments <strong>three</strong> and for practical \n  assignments <strong>seven</strong>\
-    \ days after the original due date (except for the last practical assignment \n\
-    \  which has no delay)\u2014 after which no submission is accepted. </li>\n<li>Delays\
-    \ are calculated hourly; minutes and seconds are rounded up.</li>\n<li>You can\
-    \ choose how you wish to distribute your grace-days among your assignments at\
-    \ the\n  end o the semester.</li>\n</ul>\n<p>If you have any questions regarding\
-    \ the problems, visit the appropriate forum in Quera. \nKeep in mind that no changes\
-    \ can be made to assignments at the last minute; therefore, please \nhave a look\
-    \ at the questions at least three days before Weekly deadlines and a week before\
-    \ the \nmini-projects due date. No deadline will be extended, and it is entirely\
-    \ on you to manage your \ntime and use your grace days accordingly. Finally, A\
-    \ word of advice, don't procrastinate \neverything up until the deadlines.</p>\
-    \ <p>Fall 2021 - Prof. Rohban</p>"
+  content: "<p>One of CE-417's goals is to prepare you to apply fundamental Artificial\
+    \ Intelligence and \nMachine Learning algorithms to semi-realistic tasks and ensure\
+    \ that you have a solid \nunderstanding of the fundamentals of AI. The extensive\
+    \ problem sets of the course are \ncurated to serve as a means for achieving this\
+    \ purpose.</p>\n<p>Please upload your answers to Quera on time; otherwise you\
+    \ would not earn any \ncredit for them. Take a note of these points regarding\
+    \ your assignments:</p>\n<ul>\n<li>Weekly Theoretical assignments will be released\
+    \ every Thursday covering \n  that week's topics. (Accounting for 10.5% of your\
+    \ overall grading)</li>\n<li>You will have <strong>five mini-projects</strong>\
+    \ (Accounting for 29.5% of your overall grading 7% of which \n  would be for potential\
+    \ theoretical questions)</li>\n<li>You are given <strong>15 \u201Cgrace days\u201D\
+    </strong> (self-granted extensions) in total for each assignment,\n  which you\
+    \ can use to give yourself extra time without penalty.</li>\n<li>Every assignment\
+    \ has a hard deadline \u2014for theoretical assignments <strong>three</strong>\
+    \ and for practical \n  assignments <strong>seven</strong> days after the original\
+    \ due date (except for the last practical assignment \n  which has no delay)\u2014\
+    \ after which no submission is accepted. </li>\n<li>Delays are calculated hourly;\
+    \ minutes and seconds are rounded up.</li>\n<li>You can choose how you wish to\
+    \ distribute your grace-days among your assignments at the\n  end o the semester.</li>\n\
+    </ul>\n<p>If you have any questions regarding the problems, visit the appropriate\
+    \ forum in Quera. \nKeep in mind that no changes can be made to assignments at\
+    \ the last minute; therefore, please \nhave a look at the questions at least three\
+    \ days before Weekly deadlines and a week before the \nmini-projects due date.\
+    \ No deadline will be extended, and it is entirely on you to manage your \ntime\
+    \ and use your grace days accordingly. Finally, A word of advice, don't procrastinate\
+    \ \neverything up until the deadlines.</p> <p>Problem Sets</p> <p>Fall 2021 -\
+    \ Prof. Rohban</p> <p>Sets of Artificial Intelligence problems</p>"
   description: Sets of Artificial Intelligence problems
   title: Problem Sets
   url: /pages/problem_sets/
 /pages/team/:
   category: Index
-  content: "Koosha Jaferian Vahid Zehtab Parham Saremi Sina Nadi Nima Fathi <p>Over\
-    \ the years, many enthusiastic volunteer students helped shape this course as\
-    \ it is presented today and created\n    its material. What follows is a list\
-    \ of these people:<sup id=\"fnref:roles\"><a class=\"footnote-ref\" href=\"#fn:roles\"\
-    >1</a></sup></p>\n<div class=\"footnote\">\n<hr/>\n<ol>\n<li id=\"fn:roles\">\n\
-    <p>Roles are shortened:</p>\n<dl>\n<dt>Sup</dt>\n<dd>Supervisor</dd>\n<dt>HW &amp;\
-    \ HWR</dt>\n<dd>Theoretical assignments creator and Reviewer</dd>\n<dt>P &amp;\
-    \ PR</dt>\n<dd>Practical assignments creator and Reviewer</dd>\n<dt>C(O)</dt>\n\
-    <dd>Supplementary content creator and Organizer of the supplementary \ncontent\
-    \ creators and reviewer </dd>\n<dt>LN(O)</dt>\n<dd>Lecture notes mentor and reviewer\
-    \ and their Organizer</dd>\n<dt>Recitation</dt>\n<dd>Lecture notes mentor and\
-    \ reviewer and their Organizer</dd>\n<dt>F/M</dt>\n<dd>Finals/Midterm grader</dd>\n\
-    <dt>Web/Git</dt>\n<dd>Webmaster</dd>\n</dl>\n<p><a class=\"footnote-backref\"\
-    \ href=\"#fnref:roles\" title=\"Jump back to footnote 1 in the text\">\u21A9</a></p>\n\
-    </li>\n</ol>\n</div> Reza Shirkavand Rojhin Nobahari Sajjad Shahabi Sepehr Amini\
-    \ Afshar Matin Yousefabadi Mahtab Bigverdi Amin Ravanbakhsh Sepehr Ashrafzadeh\
-    \ Arash Lagzian Mehrnaz Mofakhami Mahdi Asmaee Mohammadreza Yazdanifar Pedram\
-    \ Khorsandi Soroush Vafaie Tabar Fereshteh Forghani Kimia Yazdani Hamidreza Kamkari\
-    \ Mehrdad Saberi Shayesteh Arasti Aida Ramezani Kian Bakhtari Sana Ayromlou Kimia\
-    \ Talaei Shadi Ghasemi Nima Jamali Matin Khajavi Amirhossein Estiri Elahe Akbari\
-    \ Leily Goli Ahmad Salimi Kiarash Banihashem Arman Zarei Pouya Moeini Zeinab Sadat\
-    \ Saghi Ehsan Pajhouheshgar MohammadMahdi Maheri <p>Educational Team</p> Soroush\
-    \ Farghadani Ainaz Eftekhar Haniyeh Ehsani Amir Hossein Ameli Amirmahdi Namjoo\
-    \ Atoosa Chegini Saber Dinpajhouh Parsa Eskandar Sara Rajabzadeh Matina Mehdizadeh\
-    \ Arvin Azarmina Roodabeh Safavi Negin Jafari Ali Ghorbanpour Mohsen Larni Mohammad\
-    \ Mohammadi Alireza Dizaji <p>As Elon Musk puts it:</p>\n<blockquote>\n<p>...\
-    \ it\u2019s very important to have a feedback loop, where you\u2019re constantly\
-    \ thinking about what you\u2019ve done and\n    how you could be doing it better.</p>\n\
-    </blockquote>\n<p>Help us improve by sending us feedback!</p> Alireza Tajmirriahi\
-    \ Mahdi Erfanian Mohammad Mahdi Jarrahi Mahbod Majid Ali Rabiee Rouzbeh Meshkinnejad\
-    \ Arghavan Rezvani Mahsa Dalirrooyfard Afshin Karimi Mohammad Azizmalayeri <p>List\
-    \ of all TAs and people responsible for this course!</p> Ali Garjani Armin Moradi\
-    \ Mohammad Saneian Amirhossein Ghobadizadeh Mohammadmahdi Samiee Sara Khosravi\
-    \ Alireza Tavakkoli Mohammad Mahdi Asmae Kimia Noorbakhsh Armin Saadat Sadjad\
-    \ Faqfoor Maqrebi Amirmahdi Hosseinabadi Ali J. Alaee Amin Meghrazi Reza Amini\
-    \ Majd Kourosh Shariat"
+  content: "Kimia Yazdani Sajjad Shahabi Sadjad Faqfoor Maqrebi Ehsan Pajhouheshgar\
+    \ Amirmahdi Hosseinabadi MohammadMahdi Maheri Sana Ayromlou Hamidreza Kamkari\
+    \ Mehrdad Saberi Mohammadreza Yazdanifar Sepehr Amini Afshar Mahtab Bigverdi Matin\
+    \ Yousefabadi Armin Saadat Amirhossein Estiri Roodabeh Safavi Sara Khosravi Shadi\
+    \ Ghasemi Atoosa Chegini Negin Jafari Mohammad Saneian Haniyeh Ehsani Amirhossein\
+    \ Ghobadizadeh Afshin Karimi Mohammad Mahdi Asmae Mehrnaz Mofakhami Nima Jamali\
+    \ Elahe Akbari Rojhin Nobahari Alireza Dizaji Sepehr Ashrafzadeh Mahbod Majid\
+    \ Sara Rajabzadeh Mohsen Larni <p>Over the years, many enthusiastic volunteer\
+    \ students helped shape this course as it is presented today and created\n   \
+    \ its material. What follows is a list of these people:<sup id=\"fnref:roles\"\
+    ><a class=\"footnote-ref\" href=\"#fn:roles\">1</a></sup></p>\n<div class=\"footnote\"\
+    >\n<hr/>\n<ol>\n<li id=\"fn:roles\">\n<p>Roles are shortened:</p>\n<dl>\n<dt>Sup</dt>\n\
+    <dd>Supervisor</dd>\n<dt>HW &amp; HWR</dt>\n<dd>Theoretical assignments creator\
+    \ and Reviewer</dd>\n<dt>P &amp; PR</dt>\n<dd>Practical assignments creator and\
+    \ Reviewer</dd>\n<dt>C(O)</dt>\n<dd>Supplementary content creator and Organizer\
+    \ of the supplementary \ncontent creators and reviewer </dd>\n<dt>LN(O)</dt>\n\
+    <dd>Lecture notes mentor and reviewer and their Organizer</dd>\n<dt>Recitation</dt>\n\
+    <dd>Lecture notes mentor and reviewer and their Organizer</dd>\n<dt>F/M</dt>\n\
+    <dd>Finals/Midterm grader</dd>\n<dt>Web/Git</dt>\n<dd>Webmaster</dd>\n</dl>\n\
+    <p><a class=\"footnote-backref\" href=\"#fnref:roles\" title=\"Jump back to footnote\
+    \ 1 in the text\">\u21A9</a></p>\n</li>\n</ol>\n</div> Pedram Khorsandi Kian Bakhtari\
+    \ Arghavan Rezvani Koosha Jaferian Kimia Noorbakhsh Soroush Farghadani Ainaz Eftekhar\
+    \ Aida Ramezani Armin Moradi Alireza Tavakkoli Reza Amini Majd Sina Nadi Mohammad\
+    \ Mahdi Jarrahi Saber Dinpajhouh Reza Shirkavand Arman Zarei Ali Ghorbanpour Ali\
+    \ Garjani Amin Meghrazi Ali Rabiee Amin Ravanbakhsh <p>List of all TAs and people\
+    \ responsible for this course!</p> Kourosh Shariat Parsa Eskandar Mahsa Dalirrooyfard\
+    \ Matin Khajavi Alireza Tajmirriahi Kimia Talaei Kiarash Banihashem Pouya Moeini\
+    \ Ahmad Salimi Parham Saremi Amirmahdi Namjoo Rouzbeh Meshkinnejad Shayesteh Arasti\
+    \ <p>Educational Team</p> Fereshteh Forghani Mohammad Mohammadi Vahid Zehtab Mahdi\
+    \ Asmaee Zeinab Sadat Saghi Mohammad Azizmalayeri Mahdi Erfanian Leily Goli Nima\
+    \ Fathi Ali J. Alaee Arvin Azarmina Arash Lagzian Mohammadmahdi Samiee Amir Hossein\
+    \ Ameli Matina Mehdizadeh Soroush Vafaie Tabar <p>As Elon Musk puts it:</p>\n\
+    <blockquote>\n<p>... it\u2019s very important to have a feedback loop, where you\u2019\
+    re constantly thinking about what you\u2019ve done and\n    how you could be doing\
+    \ it better.</p>\n</blockquote>\n<p>Help us improve by sending us feedback!</p>"
   description: List of all TAs and people responsible for this course!
   title: Educational Team
   url: /pages/team/
@@ -579,7 +578,7 @@ https://sut-ai.github.io/resources/problem_sets/rohban_f2021/mini_project/MP1/MP
   description: <p>Includes 4 practical and 3 theorical questions covering the first
     and second chapters of the course syllabus (intelligent agents &amp; search),
     released in Fall 2021.</p>
-  title: MP1 - Search, Local Search
+  title: MP1 - Intelligent Agents, Search
   url: https://sut-ai.github.io/resources/problem_sets/rohban_f2021/mini_project/MP1/MPQ1.zip
 https://sut-ai.github.io/resources/problem_sets/rohban_f2021/theoretical/T1/TA1-1.pdf:
   category: F2021, Theoretical, Solutions

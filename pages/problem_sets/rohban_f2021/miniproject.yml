@@ -7,7 +7,7 @@ mini_project:
     kind: block
     content:
       - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2021/mini_project/MP1/MPQ1.zip
-        text: MP1 - Search, Local Search
+        text: MP1 - Intelligent Agents, Search
         description: >
           Includes 4 practical and 3 theorical questions covering the first and second chapters of the course syllabus (intelligent agents & search),
           released in Fall 2021.

@@ -13,6 +13,7 @@ current-semester-ce417:
     positon: top
     text: CE-417 | Current Semester
   background: /assets/images/assignments.jpg
+  title: <p>Fall 2021 - Prof. Rohban</p>
   content: "<p>One of CE-417's goals is to prepare you to apply fundamental Artificial\
     \ Intelligence and \nMachine Learning algorithms to semi-realistic tasks and ensure\
     \ that you have a solid \nunderstanding of the fundamentals of AI. The extensive\
@@ -77,7 +78,7 @@ current-semester-ce417:
       position: top
     content:
     - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2021/mini_project/MP1/MPQ1.zip
-      text: P1 - Search, Local Search
+      text: MP1 - Search, Local Search
       description: <p>Includes 4 practical and 3 theorical questions covering the
         first and second chapters of the course syllabus (intelligent agents &amp;
         search), released in Spring 2021.</p>

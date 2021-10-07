@@ -1,4 +1,4 @@
-# title: Fall 2021 - Prof. Rohban
+title: Fall 2021 - Prof. Rohban
 content: |
   One of CE-417's goals is to prepare you to apply fundamental Artificial Intelligence and 
   Machine Learning algorithms to semi-realistic tasks and ensure that you have a solid 
@@ -29,5 +29,5 @@ content: |
   everything up until the deadlines.
 
 
-patch-assignments: pages/problem_sets/rohban_f2021/theorical.yml
-patch-practical: pages/problem_sets/rohban_f2021/miniproject.yml
+patch-theorical: pages/problem_sets/rohban_f2021/theorical.yml
+patch-miniproject: pages/problem_sets/rohban_f2021/miniproject.yml

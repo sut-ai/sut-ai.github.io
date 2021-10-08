@@ -1,27 +1,27 @@
 /:
   category: Index
-  content: "M.H. Rohban M. Soleymani Baghshah <p>Artificial Intelligence Course</p>\
-    \ <p>In this course you will learn what Artificial Intelligence (AI) is, explore\
-    \ use cases and applications of AI, understand AI concepts and terms like machine\
-    \ learning, deep learning and neural networks. You will be exposed to various\
-    \ issues and concerns surrounding AI such as ethics and bias, &amp; jobs, and\
-    \ get advice from experts about learning and starting a career in AI. You will\
-    \ also demonstrate AI in action with a mini project. \nThis course does not require\
-    \ any programming or computer science expertise and is designed to introduce the\
-    \ basics of AI to anyone whether you have a technical background or not.</p> <p>Sharif\
-    \ University of Technology</p>"
+  content: "<p>In this course you will learn what Artificial Intelligence (AI) is,\
+    \ explore use cases and applications of AI, understand AI concepts and terms like\
+    \ machine learning, deep learning and neural networks. You will be exposed to\
+    \ various issues and concerns surrounding AI such as ethics and bias, &amp; jobs,\
+    \ and get advice from experts about learning and starting a career in AI. You\
+    \ will also demonstrate AI in action with a mini project. \nThis course does not\
+    \ require any programming or computer science expertise and is designed to introduce\
+    \ the basics of AI to anyone whether you have a technical background or not.</p>\
+    \ M. Soleymani Baghshah <p>Sharif University of Technology</p> M.H. Rohban <p>Artificial\
+    \ Intelligence Course</p>"
   description: Sharif University of Technology
   title: Artificial Intelligence Course
   url: /
 /pages/lectures/:
   category: Index
-  content: <p>Lectures</p>  <p>Presented lectures based on subjects</p>
+  content: ' <p>Lectures</p> <p>Presented lectures based on subjects</p>'
   description: Presented lectures based on subjects
   title: Lectures
   url: /pages/lectures/
 /pages/problem_sets/:
   category: Index
-  content: "<p>Fall 2021 - Prof. Rohban</p> <p>Problem Sets</p> <p>Sets of Artificial\
+  content: "<p>Problem Sets</p> <p>Fall 2021 - Prof. Rohban</p> <p>Sets of Artificial\
     \ Intelligence problems</p> <p>One of CE-417's goals is to prepare you to apply\
     \ fundamental Artificial Intelligence and \nMachine Learning algorithms to semi-realistic\
     \ tasks and ensure that you have a solid \nunderstanding of the fundamentals of\
@@ -53,42 +53,41 @@
   url: /pages/problem_sets/
 /pages/team/:
   category: Index
-  content: "Reza Amini Majd Mahdi Erfanian Rojhin Nobahari Roodabeh Safavi <p>Over\
-    \ the years, many enthusiastic volunteer students helped shape this course as\
-    \ it is presented today and created\n    its material. What follows is a list\
-    \ of these people:<sup id=\"fnref:roles\"><a class=\"footnote-ref\" href=\"#fn:roles\"\
-    >1</a></sup></p>\n<div class=\"footnote\">\n<hr/>\n<ol>\n<li id=\"fn:roles\">\n\
-    <p>Roles are shortened:</p>\n<dl>\n<dt>Sup</dt>\n<dd>Supervisor</dd>\n<dt>HW &amp;\
-    \ HWR</dt>\n<dd>Theoretical assignments creator and Reviewer</dd>\n<dt>P &amp;\
-    \ PR</dt>\n<dd>Practical assignments creator and Reviewer</dd>\n<dt>C(O)</dt>\n\
-    <dd>Supplementary content creator and Organizer of the supplementary \ncontent\
-    \ creators and reviewer </dd>\n<dt>LN(O)</dt>\n<dd>Lecture notes mentor and reviewer\
-    \ and their Organizer</dd>\n<dt>Recitation</dt>\n<dd>Lecture notes mentor and\
-    \ reviewer and their Organizer</dd>\n<dt>F/M</dt>\n<dd>Finals/Midterm grader</dd>\n\
-    <dt>Web/Git</dt>\n<dd>Webmaster</dd>\n</dl>\n<p><a class=\"footnote-backref\"\
-    \ href=\"#fnref:roles\" title=\"Jump back to footnote 1 in the text\">\u21A9</a></p>\n\
-    </li>\n</ol>\n</div> Pouya Moeini Soroush Farghadani Mohammad Mohammadi Sepehr\
-    \ Ashrafzadeh Arvin Azarmina Amirmahdi Namjoo Parham Saremi Alireza Dizaji Shayesteh\
-    \ Arasti Kimia Noorbakhsh Armin Moradi Parsa Eskandar Reza Shirkavand Mehrnaz\
-    \ Mofakhami Mohammadmahdi Samiee Mohammad Azizmalayeri Afshin Karimi Amin Meghrazi\
-    \ Amin Ravanbakhsh Shadi Ghasemi Amir Hossein Ameli Arghavan Rezvani Mahsa Dalirrooyfard\
-    \ Saber Dinpajhouh Ali Ghorbanpour Mahtab Bigverdi Negin Jafari Ali Garjani Sara\
-    \ Khosravi Mohammad Saneian Alireza Tavakkoli Haniyeh Ehsani Ahmad Salimi Kiarash\
-    \ Banihashem Matin Yousefabadi Sina Nadi Ali Rabiee Kian Bakhtari Ehsan Pajhouheshgar\
-    \ Mohammad Mahdi Jarrahi Ali J. Alaee Sara Rajabzadeh Rouzbeh Meshkinnejad Atoosa\
-    \ Chegini Amirhossein Ghobadizadeh Mehrdad Saberi Sana Ayromlou Soroush Vafaie\
-    \ Tabar Arash Lagzian Elahe Akbari Aida Ramezani Kourosh Shariat Mohammadreza\
-    \ Yazdanifar Nima Jamali Amirmahdi Hosseinabadi Mohsen Larni Sepehr Amini Afshar\
-    \ <p>As Elon Musk puts it:</p>\n<blockquote>\n<p>... it\u2019s very important\
-    \ to have a feedback loop, where you\u2019re constantly thinking about what you\u2019\
-    ve done and\n    how you could be doing it better.</p>\n</blockquote>\n<p>Help\
-    \ us improve by sending us feedback!</p> <p>Educational Team</p> Nima Fathi MohammadMahdi\
-    \ Maheri Fereshteh Forghani Mohammad Mahdi Asmae Matin Khajavi Leily Goli Mahbod\
-    \ Majid Hamidreza Kamkari Sadjad Faqfoor Maqrebi Vahid Zehtab Amirhossein Estiri\
-    \ Armin Saadat Pedram Khorsandi Zeinab Sadat Saghi <p>List of all TAs and people\
-    \ responsible for this course!</p> Arman Zarei Sajjad Shahabi Alireza Tajmirriahi\
-    \ Koosha Jaferian Kimia Yazdani Kimia Talaei Ainaz Eftekhar Mahdi Asmaee Matina\
-    \ Mehdizadeh"
+  content: "Sana Ayromlou Sajjad Shahabi Alireza Tavakkoli Kian Bakhtari Armin Saadat\
+    \ Soroush Farghadani Mohsen Larni Vahid Zehtab Armin Moradi <p>Educational Team</p>\
+    \ Mahdi Erfanian Afshin Karimi Mohammad Azizmalayeri Ainaz Eftekhar Ali J. Alaee\
+    \ Amir Hossein Ameli Parham Saremi Sara Rajabzadeh Nima Jamali Rouzbeh Meshkinnejad\
+    \ Reza Shirkavand Shayesteh Arasti Mahbod Majid Matina Mehdizadeh Soroush Vafaie\
+    \ Tabar Sina Nadi Sepehr Amini Afshar Matin Khajavi Ahmad Salimi Sara Khosravi\
+    \ Kimia Noorbakhsh Nima Fathi Fereshteh Forghani Ali Ghorbanpour Mohammad Mahdi\
+    \ Jarrahi Amin Ravanbakhsh Arghavan Rezvani Ali Garjani Arash Lagzian Kimia Talaei\
+    \ Kourosh Shariat Mohammadmahdi Samiee MohammadMahdi Maheri Amin Meghrazi Kimia\
+    \ Yazdani Hamidreza Kamkari Shadi Ghasemi Haniyeh Ehsani Alireza Dizaji Reza Amini\
+    \ Majd Koosha Jaferian Mahsa Dalirrooyfard Aida Ramezani <p>List of all TAs and\
+    \ people responsible for this course!</p> <p>Over the years, many enthusiastic\
+    \ volunteer students helped shape this course as it is presented today and created\n\
+    \    its material. What follows is a list of these people:<sup id=\"fnref:roles\"\
+    ><a class=\"footnote-ref\" href=\"#fn:roles\">1</a></sup></p>\n<div class=\"footnote\"\
+    >\n<hr/>\n<ol>\n<li id=\"fn:roles\">\n<p>Roles are shortened:</p>\n<dl>\n<dt>Sup</dt>\n\
+    <dd>Supervisor</dd>\n<dt>HW &amp; HWR</dt>\n<dd>Theoretical assignments creator\
+    \ and Reviewer</dd>\n<dt>P &amp; PR</dt>\n<dd>Practical assignments creator and\
+    \ Reviewer</dd>\n<dt>C(O)</dt>\n<dd>Supplementary content creator and Organizer\
+    \ of the supplementary \ncontent creators and reviewer </dd>\n<dt>LN(O)</dt>\n\
+    <dd>Lecture notes mentor and reviewer and their Organizer</dd>\n<dt>Recitation</dt>\n\
+    <dd>Lecture notes mentor and reviewer and their Organizer</dd>\n<dt>F/M</dt>\n\
+    <dd>Finals/Midterm grader</dd>\n<dt>Web/Git</dt>\n<dd>Webmaster</dd>\n</dl>\n\
+    <p><a class=\"footnote-backref\" href=\"#fnref:roles\" title=\"Jump back to footnote\
+    \ 1 in the text\">\u21A9</a></p>\n</li>\n</ol>\n</div> Mehrnaz Mofakhami Arvin\
+    \ Azarmina Leily Goli Roodabeh Safavi Mohammad Mohammadi Kiarash Banihashem Mohammadreza\
+    \ Yazdanifar Mehrdad Saberi Matin Yousefabadi Rojhin Nobahari Mohammad Saneian\
+    \ Pouya Moeini Mohammad Mahdi Asmae Alireza Tajmirriahi Mahdi Asmaee Amirmahdi\
+    \ Hosseinabadi Parsa Eskandar Ali Rabiee Arman Zarei Negin Jafari Amirhossein\
+    \ Ghobadizadeh Atoosa Chegini Sadjad Faqfoor Maqrebi Mahtab Bigverdi Sepehr Ashrafzadeh\
+    \ Amirhossein Estiri Amirmahdi Namjoo Zeinab Sadat Saghi <p>As Elon Musk puts\
+    \ it:</p>\n<blockquote>\n<p>... it\u2019s very important to have a feedback loop,\
+    \ where you\u2019re constantly thinking about what you\u2019ve done and\n    how\
+    \ you could be doing it better.</p>\n</blockquote>\n<p>Help us improve by sending\
+    \ us feedback!</p> Saber Dinpajhouh Ehsan Pajhouheshgar Elahe Akbari Pedram Khorsandi"
   description: List of all TAs and people responsible for this course!
   title: Educational Team
   url: /pages/team/

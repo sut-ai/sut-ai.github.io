@@ -29,5 +29,5 @@ content: |
   everything up until the deadlines.
 
 
-patch-theorical: pages/problem_sets/rohban_f2021/theorical.yml
+patch-theoretical: pages/problem_sets/rohban_f2021/theoretical.yml
 patch-miniproject: pages/problem_sets/rohban_f2021/miniproject.yml

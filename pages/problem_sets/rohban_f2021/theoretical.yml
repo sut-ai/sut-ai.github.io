@@ -28,7 +28,7 @@ theoretical:
         icon: fas fa-file-pdf
       ####################
       - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2021/theoretical/T1/TA1-2.pdf
-        text: T1.2 - Informed Search - Advanced Heuistics
+        text: T1.2 - Informed Search - Advanced Heuistics [sol]
         description: >
           Includes 2 theoretical questions covering Informed Search and Advanced Heuistics, released in F2021 
         kind: F2021, Theoretical, Solutions
@@ -46,7 +46,7 @@ theoretical:
         icon: fas fa-file-pdf
       ####################
       - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2021/theoretical/T2/TA2-1.pdf
-        text: T2.1 - Advanced Heuistics
+        text: T2.1 - Advanced Heuistics [sol]
         description: >
           Includes 1 theoretical question covering Advanced Heuistics, released in F2021 
         kind: F2021, Theoretical, Solutions

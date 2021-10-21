@@ -95,6 +95,16 @@ current-semester-ce417:
           Search In Continuous Space, released in F2021 </p>
         kind: F2021, Theoretical, Questions
         icon: fas fa-file-pdf
+    t3:
+      label: Theoretical Assignment 3 - CSP, Adverserial
+      kind: block
+      content:
+      - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2021/theoretical/T3/TQ3-1.pdf
+        text: T3.1 - Constraint Satisfaction Programming
+        description: <p>Includes 1 theoretical question covering Constraint Satisfaction
+          Programming, released in F2021 </p>
+        kind: F2021, Theoretical, Questions
+        icon: fas fa-file-pdf
   mini_project:
     label:
       text: Mini-projects

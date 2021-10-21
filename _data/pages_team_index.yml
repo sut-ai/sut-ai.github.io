@@ -43,8 +43,6 @@ teams:
             icon: fab fa-github
           - link: https://www.linkedin.com/in/Vahidzee/
             icon: fab fa-linkedin
-          - link: mailto://vahid98zee@gmail.com
-            icon: fas fa-envelope
           kind: person
           image: https://github.com/vahidzee.png
         - name: Parham Saremi
@@ -343,8 +341,6 @@ teams:
             icon: fab fa-github
           - link: https://www.linkedin.com/in/Vahidzee/
             icon: fab fa-linkedin
-          - link: mailto://vahid98zee@gmail.com
-            icon: fas fa-envelope
           kind: person
           image: https://github.com/vahidzee.png
         - name: Parham Saremi
@@ -490,6 +486,17 @@ teams:
           - icon: fas fa-envelope
             link: mailto:atenasaghi@ce.sharif.edu
           kind: person
+        - name: Sabrineh Mokhtari
+          role: P4, PR5, C7
+          contact:
+          - icon: fab fa-github
+            link: https://github.com/SabrinehM
+          - icon: fab fa-linkedin
+            link: https://www.linkedin.com/in/atena-saghi/
+          - icon: fas fa-envelope
+            link: mailto:smokhtari@ce.sharif.edu
+          kind: person
+          image: https://github.com/SabrinehM.png
         - name: Kourosh Shariat
           role: HW6, P3, C5
           image: /assets/images/ta/KouroshShariat.jpeg
@@ -653,8 +660,6 @@ teams:
             icon: fab fa-github
           - link: https://www.linkedin.com/in/Vahidzee/
             icon: fab fa-linkedin
-          - link: mailto://vahid98zee@gmail.com
-            icon: fas fa-envelope
           kind: person
           image: https://github.com/vahidzee.png
         - name: Elahe Akbari
@@ -887,8 +892,6 @@ teams:
             icon: fab fa-github
           - link: https://www.linkedin.com/in/Vahidzee/
             icon: fab fa-linkedin
-          - link: mailto://vahid98zee@gmail.com
-            icon: fas fa-envelope
           kind: person
           image: https://github.com/vahidzee.png
         - name: Armin Saadat

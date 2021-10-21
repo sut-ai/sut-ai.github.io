@@ -5,9 +5,7 @@
       icon: fab fa-github
     - link: https://www.linkedin.com/in/Vahidzee/
       icon: fab fa-linkedin
-    - link: mailto://vahid98zee@gmail.com
-      icon: fas fa-envelope
-
+    
 - name: Parham Saremi
   role: Head TA
   contact:
@@ -145,6 +143,16 @@
       link: https://www.linkedin.com/in/atena-saghi/
     - icon: fas fa-envelope
       link: mailto:atenasaghi@ce.sharif.edu
+
+- name: Sabrineh Mokhtari
+  role: P4, PR5, C7
+  contact:
+    - icon: fab fa-github
+      link: https://github.com/SabrinehM
+    - icon: fab fa-linkedin
+      link: https://www.linkedin.com/in/atena-saghi/
+    - icon: fas fa-envelope
+      link: mailto:smokhtari@ce.sharif.edu
 
 - name: Kourosh Shariat
   role: HW6, P3, C5

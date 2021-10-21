@@ -64,9 +64,9 @@ theoretical:
     kind: block
     content:
       - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2021/theoretical/T3/TQ3-1.pdf
-        text: T3.1 - Constraint Satisfaction Programming
+        text: T3.1 - Constraint Satisfaction Problems
         description: >
-          Includes 1 theoretical question covering Constraint Satisfaction Programming, released in F2021 
+          Includes 1 theoretical question covering Constraint Satisfaction Problems, released in F2021 
         kind: F2021, Theoretical, Questions
         icon: fas fa-file-pdf
       ####################

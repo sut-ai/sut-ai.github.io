@@ -59,6 +59,13 @@ theoretical:
         kind: F2021, Theoretical, Questions
         icon: fas fa-file-pdf
       ####################
+      - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2021/theoretical/T2/TA2-2.pdf
+        text: T2.2 - Local Search - Search In Continuous Space [sol]
+        description: >
+          Includes 2 theoretical question covering Local Search & Search In Continuous Space, released in F2021 
+        kind: F2021, Theoretical, Solutions
+        icon: far fa-file-pdf
+      ####################
   t3:
     label: Theoretical Assignment 3 - CSP, Adverserial
     kind: block

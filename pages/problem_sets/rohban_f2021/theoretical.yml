@@ -4,7 +4,6 @@ theoretical:
     position: top
   t1:
     label: Theoretical Assignment 1 - Search
-    kind: block
     content:
       - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2021/theoretical/T1/TQ1-1.pdf
         text: T1.1 - Intelligent Agents, Uninformed Search
@@ -36,7 +35,6 @@ theoretical:
       ####################
   t2:
     label: Theoretical Assignment 2 - Search, Local Search & Search In Continuous Space
-    kind: block
     content:
       - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2021/theoretical/T2/TQ2-1.pdf
         text: T2.1 - Advanced Heuistics

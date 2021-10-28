@@ -100,12 +100,12 @@ current-semester-ce417:
         kind: F2021, Theoretical, Solutions
         icon: far fa-file-pdf
     t3:
-      label: Theoretical Assignment 3 - CSP, Adverserial
+      label: Theoretical Assignment 3 - CSP, Adversarial
       kind: block
       content:
-      - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2021/theoretical/T3/TQ3-1.pdf
-        text: T3.1 - Constraint Satisfaction Problems
-        description: <p>Includes 1 theoretical question covering Constraint Satisfaction
+      - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2021/theoretical/T3/TQ3-2.pdf
+        text: T3.2 - Adversarial Search
+        description: <p>Includes 1 theoretical question covering Adversarial Search
           Problems, released in F2021 </p>
         kind: F2021, Theoretical, Questions
         icon: fas fa-file-pdf

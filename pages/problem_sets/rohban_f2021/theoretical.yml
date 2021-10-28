@@ -75,7 +75,6 @@ theoretical:
         kind: F2021, Theoretical, Questions
         icon: fas fa-file-pdf
       ####################
-    content:
       - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2021/theoretical/T3/TQ3-2.pdf
         text: T3.2 - Adversarial Search
         description: >

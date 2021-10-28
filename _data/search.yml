@@ -1,31 +1,31 @@
 /:
   category: Index
-  content: "<p>Sharif University of Technology</p> <p>Artificial Intelligence Course</p>\
-    \ M.H. Rohban <p>In this course you will learn what Artificial Intelligence (AI)\
-    \ is, explore use cases and applications of AI, understand AI concepts and terms\
-    \ like machine learning, deep learning and neural networks. You will be exposed\
-    \ to various issues and concerns surrounding AI such as ethics and bias, &amp;\
-    \ jobs, and get advice from experts about learning and starting a career in AI.\
-    \ You will also demonstrate AI in action with a mini project. \nThis course does\
-    \ not require any programming or computer science expertise and is designed to\
-    \ introduce the basics of AI to anyone whether you have a technical background\
-    \ or not.</p> M. Soleymani Baghshah"
+  content: "M.H. Rohban <p>Sharif University of Technology</p> <p>Artificial Intelligence\
+    \ Course</p> M. Soleymani Baghshah <p>In this course you will learn what Artificial\
+    \ Intelligence (AI) is, explore use cases and applications of AI, understand AI\
+    \ concepts and terms like machine learning, deep learning and neural networks.\
+    \ You will be exposed to various issues and concerns surrounding AI such as ethics\
+    \ and bias, &amp; jobs, and get advice from experts about learning and starting\
+    \ a career in AI. You will also demonstrate AI in action with a mini project.\
+    \ \nThis course does not require any programming or computer science expertise\
+    \ and is designed to introduce the basics of AI to anyone whether you have a technical\
+    \ background or not.</p>"
   description: Sharif University of Technology
   title: Artificial Intelligence Course
   url: /
 /pages/lectures/:
   category: Index
-  content: ' <p>Lectures</p> <p>Presented lectures based on subjects</p>'
+  content: <p>Lectures</p>  <p>Presented lectures based on subjects</p>
   description: Presented lectures based on subjects
   title: Lectures
   url: /pages/lectures/
 /pages/problem_sets/:
   category: Index
-  content: "<p>Fall 2021 - Prof. Rohban</p> <p>Sets of Artificial Intelligence problems</p>\
-    \ <p>One of CE-417's goals is to prepare you to apply fundamental Artificial Intelligence\
-    \ and \nMachine Learning algorithms to semi-realistic tasks and ensure that you\
-    \ have a solid \nunderstanding of the fundamentals of AI. The extensive problem\
-    \ sets of the course are \ncurated to serve as a means for achieving this purpose.</p>\n\
+  content: "<p>Fall 2021 - Prof. Rohban</p> <p>Problem Sets</p> <p>One of CE-417's\
+    \ goals is to prepare you to apply fundamental Artificial Intelligence and \n\
+    Machine Learning algorithms to semi-realistic tasks and ensure that you have a\
+    \ solid \nunderstanding of the fundamentals of AI. The extensive problem sets\
+    \ of the course are \ncurated to serve as a means for achieving this purpose.</p>\n\
     <p>Please upload your answers to Quera on time; otherwise you would not earn any\
     \ \ncredit for them. Take a note of these points regarding your assignments:</p>\n\
     <ul>\n<li>Weekly Theoretical assignments will be released every Thursday covering\
@@ -47,48 +47,47 @@
     \ the \nmini-projects due date. No deadline will be extended, and it is entirely\
     \ on you to manage your \ntime and use your grace days accordingly. Finally, A\
     \ word of advice, don't procrastinate \neverything up until the deadlines.</p>\
-    \ <p>Problem Sets</p>"
+    \ <p>Sets of Artificial Intelligence problems</p>"
   description: Sets of Artificial Intelligence problems
   title: Problem Sets
   url: /pages/problem_sets/
 /pages/team/:
   category: Index
-  content: "Ali J. Alaee Pedram Khorsandi Hamidreza Kamkari Sepehr Ashrafzadeh Amirmahdi\
-    \ Namjoo Mohammad Saneian Elahe Akbari <p>Educational Team</p> Alireza Tavakkoli\
-    \ Mohammad Mohammadi Pouya Moeini Kimia Talaei Ali Ghorbanpour Mahdi Asmaee Amin\
-    \ Ravanbakhsh Mohammad Mahdi Asmae Arash Lagzian Parham Saremi Sadjad Faqfoor\
-    \ Maqrebi Kimia Yazdani Shayesteh Arasti Fereshteh Forghani Ali Rabiee Amin Meghrazi\
-    \ Kiarash Banihashem Nima Jamali Amirhossein Estiri Kourosh Shariat Armin Saadat\
-    \ Soroush Vafaie Tabar Atoosa Chegini Negin Jafari Reza Shirkavand Kian Bakhtari\
-    \ Amirhossein Ghobadizadeh Sara Rajabzadeh Ali Garjani Reza Amini Majd Mahdi Erfanian\
-    \ Mohammad Mahdi Jarrahi Sepehr Amini Afshar Rouzbeh Meshkinnejad Mohammadmahdi\
-    \ Samiee Parsa Eskandar Sajjad Shahabi Nima Fathi Vahid Zehtab Zeinab Sadat Saghi\
-    \ Ainaz Eftekhar Haniyeh Ehsani Amirmahdi Hosseinabadi Roodabeh Safavi Koosha\
-    \ Jaferian Mehrnaz Mofakhami Sara Khosravi Sana Ayromlou <p>As Elon Musk puts\
-    \ it:</p>\n<blockquote>\n<p>... it\u2019s very important to have a feedback loop,\
-    \ where you\u2019re constantly thinking about what you\u2019ve done and\n    how\
-    \ you could be doing it better.</p>\n</blockquote>\n<p>Help us improve by sending\
-    \ us feedback!</p> Mehrdad Saberi MohammadMahdi Maheri Amir Hossein Ameli Rojhin\
-    \ Nobahari Mohammadreza Yazdanifar Arghavan Rezvani Mahsa Dalirrooyfard Matin\
-    \ Yousefabadi Soroush Farghadani <p>List of all TAs and people responsible for\
-    \ this course!</p> Alireza Tajmirriahi Ahmad Salimi Sina Nadi Saber Dinpajhouh\
-    \ Matina Mehdizadeh Sabrineh Mokhtari Leily Goli Shadi Ghasemi Mahtab Bigverdi\
-    \ Alireza Dizaji Afshin Karimi Arman Zarei Matin Khajavi Mohsen Larni Kimia Noorbakhsh\
-    \ Arvin Azarmina Armin Moradi Ehsan Pajhouheshgar Mohammad Azizmalayeri Aida Ramezani\
-    \ Mahbod Majid <p>Over the years, many enthusiastic volunteer students helped\
-    \ shape this course as it is presented today and created\n    its material. What\
-    \ follows is a list of these people:<sup id=\"fnref:roles\"><a class=\"footnote-ref\"\
-    \ href=\"#fn:roles\">1</a></sup></p>\n<div class=\"footnote\">\n<hr/>\n<ol>\n\
-    <li id=\"fn:roles\">\n<p>Roles are shortened:</p>\n<dl>\n<dt>Sup</dt>\n<dd>Supervisor</dd>\n\
-    <dt>HW &amp; HWR</dt>\n<dd>Theoretical assignments creator and Reviewer</dd>\n\
-    <dt>P &amp; PR</dt>\n<dd>Practical assignments creator and Reviewer</dd>\n<dt>C(O)</dt>\n\
-    <dd>Supplementary content creator and Organizer of the supplementary \ncontent\
-    \ creators and reviewer </dd>\n<dt>LN(O)</dt>\n<dd>Lecture notes mentor and reviewer\
-    \ and their Organizer</dd>\n<dt>Recitation</dt>\n<dd>Lecture notes mentor and\
-    \ reviewer and their Organizer</dd>\n<dt>F/M</dt>\n<dd>Finals/Midterm grader</dd>\n\
-    <dt>Web/Git</dt>\n<dd>Webmaster</dd>\n</dl>\n<p><a class=\"footnote-backref\"\
-    \ href=\"#fnref:roles\" title=\"Jump back to footnote 1 in the text\">\u21A9</a></p>\n\
-    </li>\n</ol>\n</div>"
+  content: "Saber Dinpajhouh Shadi Ghasemi Amirhossein Ghobadizadeh Mohammadreza Yazdanifar\
+    \ Ali Garjani <p>As Elon Musk puts it:</p>\n<blockquote>\n<p>... it\u2019s very\
+    \ important to have a feedback loop, where you\u2019re constantly thinking about\
+    \ what you\u2019ve done and\n    how you could be doing it better.</p>\n</blockquote>\n\
+    <p>Help us improve by sending us feedback!</p> Alireza Dizaji Sepehr Amini Afshar\
+    \ Matin Yousefabadi Soroush Farghadani Alireza Tavakkoli Nima Jamali Mahtab Bigverdi\
+    \ Ali J. Alaee Arash Lagzian Afshin Karimi <p>List of all TAs and people responsible\
+    \ for this course!</p> Alireza Tajmirriahi Mahsa Dalirrooyfard Arman Zarei Atoosa\
+    \ Chegini Vahid Zehtab Leily Goli Kimia Noorbakhsh Ehsan Pajhouheshgar Amirhossein\
+    \ Estiri Mohammad Mohammadi Nima Fathi Negin Jafari Sabrineh Mokhtari Parham Saremi\
+    \ Hamidreza Kamkari Kourosh Shariat Amirmahdi Hosseinabadi Mohammad Mahdi Jarrahi\
+    \ Elahe Akbari Reza Shirkavand Mehrnaz Mofakhami Mahbod Majid <p>Over the years,\
+    \ many enthusiastic volunteer students helped shape this course as it is presented\
+    \ today and created\n    its material. What follows is a list of these people:<sup\
+    \ id=\"fnref:roles\"><a class=\"footnote-ref\" href=\"#fn:roles\">1</a></sup></p>\n\
+    <div class=\"footnote\">\n<hr/>\n<ol>\n<li id=\"fn:roles\">\n<p>Roles are shortened:</p>\n\
+    <dl>\n<dt>Sup</dt>\n<dd>Supervisor</dd>\n<dt>HW &amp; HWR</dt>\n<dd>Theoretical\
+    \ assignments creator and Reviewer</dd>\n<dt>P &amp; PR</dt>\n<dd>Practical assignments\
+    \ creator and Reviewer</dd>\n<dt>C(O)</dt>\n<dd>Supplementary content creator\
+    \ and Organizer of the supplementary \ncontent creators and reviewer </dd>\n<dt>LN(O)</dt>\n\
+    <dd>Lecture notes mentor and reviewer and their Organizer</dd>\n<dt>Recitation</dt>\n\
+    <dd>Lecture notes mentor and reviewer and their Organizer</dd>\n<dt>F/M</dt>\n\
+    <dd>Finals/Midterm grader</dd>\n<dt>Web/Git</dt>\n<dd>Webmaster</dd>\n</dl>\n\
+    <p><a class=\"footnote-backref\" href=\"#fnref:roles\" title=\"Jump back to footnote\
+    \ 1 in the text\">\u21A9</a></p>\n</li>\n</ol>\n</div> Arghavan Rezvani Reza Amini\
+    \ Majd Ali Ghorbanpour Aida Ramezani Haniyeh Ehsani Sajjad Shahabi Sina Nadi Mohammad\
+    \ Azizmalayeri Sadjad Faqfoor Maqrebi Fereshteh Forghani Mohammad Saneian Amir\
+    \ Hossein Ameli Mohsen Larni <p>Educational Team</p> Zeinab Sadat Saghi Mohammad\
+    \ Mahdi Asmae Mohammadmahdi Samiee Mahdi Asmaee Mehrdad Saberi Pedram Khorsandi\
+    \ Koosha Jaferian Ahmad Salimi Ali Rabiee MohammadMahdi Maheri Amirmahdi Namjoo\
+    \ Armin Saadat Mahdi Erfanian Shayesteh Arasti Ainaz Eftekhar Sana Ayromlou Rojhin\
+    \ Nobahari Kian Bakhtari Amin Ravanbakhsh Kimia Talaei Rouzbeh Meshkinnejad Parsa\
+    \ Eskandar Arvin Azarmina Sara Khosravi Kiarash Banihashem Matina Mehdizadeh Soroush\
+    \ Vafaie Tabar Pouya Moeini Roodabeh Safavi Armin Moradi Amin Meghrazi Sepehr\
+    \ Ashrafzadeh Kimia Yazdani Matin Khajavi Sara Rajabzadeh"
   description: List of all TAs and people responsible for this course!
   title: Educational Team
   url: /pages/team/
@@ -637,6 +636,13 @@ https://sut-ai.github.io/resources/problem_sets/rohban_f2021/theoretical/T2/TQ2-
     In Continuous Space, released in F2021 </p>
   title: T2.2 - Local Search - Search In Continuous Space
   url: https://sut-ai.github.io/resources/problem_sets/rohban_f2021/theoretical/T2/TQ2-2.pdf
+https://sut-ai.github.io/resources/problem_sets/rohban_f2021/theoretical/T3/TQ3-1.pdf:
+  category: F2021, Theoretical, Questions
+  content: ''
+  description: <p>Includes 1 theoretical question covering Constraint Satisfaction
+    Problems, released in F2021 </p>
+  title: T3.1 - Constraint Satisfaction Problems
+  url: https://sut-ai.github.io/resources/problem_sets/rohban_f2021/theoretical/T3/TQ3-1.pdf
 https://sut-ai.github.io/resources/problem_sets/rohban_f2021/theoretical/T3/TQ3-2.pdf:
   category: F2021, Theoretical, Questions
   content: ''

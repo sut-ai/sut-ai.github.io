@@ -113,7 +113,7 @@ current-semester-ce417:
         text: T3.1 - Constraint Satisfaction Problems [sol]
         description: <p>Includes 1 theoretical question covering Constraint Satisfaction
           Problems, released in F2021 </p>
-        kind: F2021, Theoretical, solutions
+        kind: F2021, Theoretical, Solutions
         icon: far fa-file-pdf
       - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2021/theoretical/T3/TQ3-2.pdf
         text: T3.2 - Adversarial Search

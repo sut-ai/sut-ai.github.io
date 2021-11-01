@@ -125,21 +125,28 @@ current-semester-ce417:
     label:
       text: Mini-projects
       position: top
-    content:
-    - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2021/mini_project/MP1/MPQ1.zip
-      text: MP1 - Intelligent Agents, Search
-      description: <p>Includes 4 practical and 3 theorical questions covering the
-        first and second chapters of the course syllabus (intelligent agents &amp;
-        search), released in Fall 2021.</p>
-      kind: F2021, Practical, Theoretical, Questions
-      icon: fas fa-file-archive
-    - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2021/mini_project/MP2/MPQ2.zip
-      text: MP2 - Continuous, CSP, Adversarial
-      description: <p>Includes 3 practical and 3 theorical questions covering the
-        secondd and third chapters of the course syllabus (Continuous, CSP, Adversarial),
-        released in Fall 2021.</p>
-      kind: F2021, Practical, Theoretical, Questions
-      icon: fas fa-file-archive
+    mp1:
+      label: Mini-project 1
+      kind: block
+      content:
+      - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2021/mini_project/MP1/MPQ1.zip
+        text: MP1 - Intelligent Agents, Search
+        description: <p>Includes 4 practical and 3 theorical questions covering the
+          first and second chapters of the course syllabus (intelligent agents &amp;
+          search), released in Fall 2021.</p>
+        kind: F2021, Practical, Theoretical, Questions
+        icon: fas fa-file-archive
+    mp2:
+      label: Mini-project 2
+      kind: block
+      content:
+      - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2021/mini_project/MP2/MPQ2.zip
+        text: MP2 - Continuous, CSP, Adversarial
+        description: <p>Includes 3 practical and 3 theorical questions covering the
+          secondd and third chapters of the course syllabus (Continuous, CSP, Adversarial),
+          released in Fall 2021.</p>
+        kind: F2021, Practical, Theoretical, Questions
+        icon: fas fa-file-archive
 previous-semesters:
   label:
     positon: top

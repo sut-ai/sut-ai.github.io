@@ -15,14 +15,13 @@
   url: /
 /pages/lectures/:
   category: Index
-  content: '<p>Presented lectures based on subjects</p> <p>Lectures</p> '
+  content: ' <p>Presented lectures based on subjects</p> <p>Lectures</p>'
   description: Presented lectures based on subjects
   title: Lectures
   url: /pages/lectures/
 /pages/problem_sets/:
   category: Index
-  content: "<p>Problem Sets</p> <p>Fall 2021 - Prof. Rohban</p> <p>Sets of Artificial\
-    \ Intelligence problems</p> <p>One of CE-417's goals is to prepare you to apply\
+  content: "<p>Problem Sets</p> <p>One of CE-417's goals is to prepare you to apply\
     \ fundamental Artificial Intelligence and \nMachine Learning algorithms to semi-realistic\
     \ tasks and ensure that you have a solid \nunderstanding of the fundamentals of\
     \ AI. The extensive problem sets of the course are \ncurated to serve as a means\
@@ -47,47 +46,49 @@
     \ days before Weekly deadlines and a week before the \nmini-projects due date.\
     \ No deadline will be extended, and it is entirely on you to manage your \ntime\
     \ and use your grace days accordingly. Finally, A word of advice, don't procrastinate\
-    \ \neverything up until the deadlines.</p>"
+    \ \neverything up until the deadlines.</p> <p>Fall 2021 - Prof. Rohban</p> <p>Sets\
+    \ of Artificial Intelligence problems</p>"
   description: Sets of Artificial Intelligence problems
   title: Problem Sets
   url: /pages/problem_sets/
 /pages/team/:
   category: Index
-  content: "Kiarash Banihashem Ahmad Salimi Mehrdad Saberi Mohammad Azizmalayeri Alireza\
-    \ Tajmirriahi Sana Ayromlou Mahbod Majid Mohammadreza Yazdanifar Rouzbeh Meshkinnejad\
-    \ Vahid Zehtab Amirmahdi Hosseinabadi Atoosa Chegini Saber Dinpajhouh Reza Amini\
-    \ Majd Amirhossein Ghobadizadeh Mohammadmahdi Samiee Arghavan Rezvani Leily Goli\
-    \ Pouya Moeini Shadi Ghasemi Ali Rabiee Mohsen Larni Arman Zarei Mahsa Dalirrooyfard\
-    \ Ainaz Eftekhar Sajjad Shahabi Amirhossein Estiri <p>Over the years, many enthusiastic\
-    \ volunteer students helped shape this course as it is presented today and created\n\
-    \    its material. What follows is a list of these people:<sup id=\"fnref:roles\"\
-    ><a class=\"footnote-ref\" href=\"#fn:roles\">1</a></sup></p>\n<div class=\"footnote\"\
-    >\n<hr/>\n<ol>\n<li id=\"fn:roles\">\n<p>Roles are shortened:</p>\n<dl>\n<dt>Sup</dt>\n\
-    <dd>Supervisor</dd>\n<dt>HW &amp; HWR</dt>\n<dd>Theoretical assignments creator\
-    \ and Reviewer</dd>\n<dt>P &amp; PR</dt>\n<dd>Practical assignments creator and\
-    \ Reviewer</dd>\n<dt>C(O)</dt>\n<dd>Supplementary content creator and Organizer\
-    \ of the supplementary \ncontent creators and reviewer </dd>\n<dt>LN(O)</dt>\n\
-    <dd>Lecture notes mentor and reviewer and their Organizer</dd>\n<dt>Recitation</dt>\n\
-    <dd>Lecture notes mentor and reviewer and their Organizer</dd>\n<dt>F/M</dt>\n\
-    <dd>Finals/Midterm grader</dd>\n<dt>Web/Git</dt>\n<dd>Webmaster</dd>\n</dl>\n\
-    <p><a class=\"footnote-backref\" href=\"#fnref:roles\" title=\"Jump back to footnote\
-    \ 1 in the text\">\u21A9</a></p>\n</li>\n</ol>\n</div> Amin Ravanbakhsh Mohammad\
-    \ Saneian Reza Shirkavand Alireza Tavakkoli Ali J. Alaee Mohammad Mohammadi Fereshteh\
-    \ Forghani Mahdi Erfanian Kimia Noorbakhsh Mahdi Asmaee <p>List of all TAs and\
-    \ people responsible for this course!</p> Parsa Eskandar Sara Khosravi Aida Ramezani\
-    \ Kourosh Shariat Soroush Vafaie Tabar Ali Garjani Ali Ghorbanpour Matin Yousefabadi\
-    \ Mahtab Bigverdi Sina Nadi Sepehr Amini Afshar Mohammad Mahdi Jarrahi Zeinab\
-    \ Sadat Saghi Armin Moradi Sara Rajabzadeh Mohammad Mahdi Asmae Matin Khajavi\
-    \ Afshin Karimi Kimia Talaei Amir Hossein Ameli Pedram Khorsandi Roodabeh Safavi\
-    \ Kian Bakhtari Arvin Azarmina <p>Educational Team</p> Alireza Dizaji Kimia Yazdani\
-    \ Parham Saremi Sadjad Faqfoor Maqrebi Amirmahdi Namjoo <p>As Elon Musk puts it:</p>\n\
-    <blockquote>\n<p>... it\u2019s very important to have a feedback loop, where you\u2019\
-    re constantly thinking about what you\u2019ve done and\n    how you could be doing\
-    \ it better.</p>\n</blockquote>\n<p>Help us improve by sending us feedback!</p>\
-    \ Elahe Akbari Shayesteh Arasti Sabrineh Mokhtari Matina Mehdizadeh MohammadMahdi\
-    \ Maheri Negin Jafari Sepehr Ashrafzadeh Armin Saadat Rojhin Nobahari Koosha Jaferian\
-    \ Arash Lagzian Soroush Farghadani Haniyeh Ehsani Nima Jamali Amin Meghrazi Ehsan\
-    \ Pajhouheshgar Hamidreza Kamkari Mehrnaz Mofakhami Nima Fathi"
+  content: "Mehrnaz Mofakhami Amin Meghrazi Rouzbeh Meshkinnejad Zeinab Sadat Saghi\
+    \ Nima Fathi Soroush Vafaie Tabar Nima Jamali Ali Rabiee Kimia Yazdani Ali Ghorbanpour\
+    \ Sina Nadi Armin Moradi Sadjad Faqfoor Maqrebi Amin Ravanbakhsh Arvin Azarmina\
+    \ Negin Jafari Leily Goli Sepehr Amini Afshar Amirhossein Ghobadizadeh Mahdi Erfanian\
+    \ Soroush Farghadani Mohammadreza Yazdanifar Matin Khajavi Alireza Dizaji Saber\
+    \ Dinpajhouh Amirmahdi Namjoo Mohammad Mahdi Jarrahi Afshin Karimi Elahe Akbari\
+    \ Mehrdad Saberi Reza Amini Majd Pedram Khorsandi Mohammadmahdi Samiee Mohammad\
+    \ Mahdi Asmae Ali Garjani Atoosa Chegini Shayesteh Arasti Amir Hossein Ameli Kian\
+    \ Bakhtari Ali J. Alaee Kiarash Banihashem Ahmad Salimi Alireza Tajmirriahi Aida\
+    \ Ramezani Hamidreza Kamkari Kimia Talaei Mohammad Mohammadi Kimia Noorbakhsh\
+    \ Rojhin Nobahari MohammadMahdi Maheri Mohammad Azizmalayeri Fereshteh Forghani\
+    \ Alireza Tavakkoli Arash Lagzian Mohammad Saneian Sepehr Ashrafzadeh Parham Saremi\
+    \ <p>Over the years, many enthusiastic volunteer students helped shape this course\
+    \ as it is presented today and created\n    its material. What follows is a list\
+    \ of these people:<sup id=\"fnref:roles\"><a class=\"footnote-ref\" href=\"#fn:roles\"\
+    >1</a></sup></p>\n<div class=\"footnote\">\n<hr/>\n<ol>\n<li id=\"fn:roles\">\n\
+    <p>Roles are shortened:</p>\n<dl>\n<dt>Sup</dt>\n<dd>Supervisor</dd>\n<dt>HW &amp;\
+    \ HWR</dt>\n<dd>Theoretical assignments creator and Reviewer</dd>\n<dt>P &amp;\
+    \ PR</dt>\n<dd>Practical assignments creator and Reviewer</dd>\n<dt>C(O)</dt>\n\
+    <dd>Supplementary content creator and Organizer of the supplementary \ncontent\
+    \ creators and reviewer </dd>\n<dt>LN(O)</dt>\n<dd>Lecture notes mentor and reviewer\
+    \ and their Organizer</dd>\n<dt>Recitation</dt>\n<dd>Lecture notes mentor and\
+    \ reviewer and their Organizer</dd>\n<dt>F/M</dt>\n<dd>Finals/Midterm grader</dd>\n\
+    <dt>Web/Git</dt>\n<dd>Webmaster</dd>\n</dl>\n<p><a class=\"footnote-backref\"\
+    \ href=\"#fnref:roles\" title=\"Jump back to footnote 1 in the text\">\u21A9</a></p>\n\
+    </li>\n</ol>\n</div> Sara Khosravi Matina Mehdizadeh Shadi Ghasemi Reza Shirkavand\
+    \ Mahdi Asmaee Kourosh Shariat Mohsen Larni Parsa Eskandar Ainaz Eftekhar <p>As\
+    \ Elon Musk puts it:</p>\n<blockquote>\n<p>... it\u2019s very important to have\
+    \ a feedback loop, where you\u2019re constantly thinking about what you\u2019\
+    ve done and\n    how you could be doing it better.</p>\n</blockquote>\n<p>Help\
+    \ us improve by sending us feedback!</p> Pouya Moeini Sara Rajabzadeh Sajjad Shahabi\
+    \ <p>Educational Team</p> Mahtab Bigverdi Mahbod Majid Amirhossein Estiri Roodabeh\
+    \ Safavi Arman Zarei Amirmahdi Hosseinabadi <p>List of all TAs and people responsible\
+    \ for this course!</p> Koosha Jaferian Haniyeh Ehsani Armin Saadat Arghavan Rezvani\
+    \ Sabrineh Mokhtari Sana Ayromlou Vahid Zehtab Mahsa Dalirrooyfard Matin Yousefabadi\
+    \ Ehsan Pajhouheshgar"
   description: List of all TAs and people responsible for this course!
   title: Educational Team
   url: /pages/team/

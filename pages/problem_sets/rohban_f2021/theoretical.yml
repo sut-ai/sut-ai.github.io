@@ -79,7 +79,7 @@ theoretical:
         text: T3.1 - Constraint Satisfaction Problems [sol]
         description: >
           Includes 1 theoretical question covering Constraint Satisfaction Problems, released in F2021 
-        kind: F2021, Theoretical, solutions
+        kind: F2021, Theoretical, Solutions
         icon: far fa-file-pdf
       ####################
       - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2021/theoretical/T3/TQ3-2.pdf

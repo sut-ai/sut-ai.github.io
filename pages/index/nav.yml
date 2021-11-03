@@ -1,17 +1,17 @@
 brand:
   text: SUT-AI
-  link: https://sut-ai.github.io/
+  link: /
 content:
   - index: index
     text: Home
   - index: pages/lectures/index
     text: Lectures
-  - link: https://sut-ai.github.io/notes/
+  - link: /notes/
     text: Notes
     description: Lecture Notes and Handouts
-  - link: https://sut-ai.github.io/supplementary/
+  - link: /supplementary/
     text: Supplementary
   - index: pages/problem_sets/index
     text: Problem Sets
-  - index: pages/team/index
-    text: Team
+  - index: pages/people/index
+    text: People

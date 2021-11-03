@@ -13,7 +13,7 @@ current-semester-ce417:
     positon: top
     text: CE-417 | Current Semester
   background: /assets/images/assignments.jpg
-  title: <p>Fall 2021 - Prof. Rohban</p>
+  title: <p>CE417 - Fall 2021 - Prof. Rohban</p>
   content: "<p>One of CE-417's goals is to prepare you to apply fundamental Artificial\
     \ Intelligence and \nMachine Learning algorithms to semi-realistic tasks and ensure\
     \ that you have a solid \nunderstanding of the fundamentals of AI. The extensive\
@@ -154,14 +154,13 @@ previous-semesters:
   background: /assets/images/assignments.jpg
   kind: chapters
   content:
-  - title: Spring 2021 - Prof. Rohban
+  - title: CE417 - Spring 2021 - Prof. Rohban
     exam:
       label:
         text: Exams
         position: top
       midterm:
         label: Midterm
-        kind: block
         content:
         - link: https://sut-ai.github.io/resources/problem_sets/rohban_s2021/exams/midterm-sol.pdf
           text: Midterm
@@ -175,7 +174,6 @@ previous-semesters:
           icon: far fa-file-pdf
       final:
         label: Final
-        kind: block
         content:
         - link: https://sut-ai.github.io/resources/problem_sets/rohban_s2021/exams/final.pdf
           text: Final
@@ -194,7 +192,6 @@ previous-semesters:
         position: top
       t1:
         label: Theoretical Assignment 1 - Search
-        kind: block
         content:
         - link: https://sut-ai.github.io/resources/problem_sets/rohban_s2021/theoretical/series1/Theory%20-%20Chapter%201_Search%2C%20part%201.pdf
           text: T1.1 - Intelligent Agents
@@ -220,7 +217,6 @@ previous-semesters:
           kind: S2021, Theoretical, Solutions
       t2:
         label: Theoretical Assignment 2 - Local Search & Search In Continuous Space
-        kind: block
         content:
         - link: https://sut-ai.github.io/resources/problem_sets/rohban_s2021/theoretical/series2/Theory%20-%20Chapter%202_Local%20Search%2C%20part%201.pdf
           text: T2.1 - Local Search
@@ -246,7 +242,6 @@ previous-semesters:
           kind: S2021, Theoretical, Solutions
       t3:
         label: Theoretical Assignment 3 - CSP & Adversarial Search
-        kind: block
         content:
         - link: https://sut-ai.github.io/resources/problem_sets/rohban_s2021/theoretical/series3/Theory%20-%20Chapter%203_CSPs%20%26%20Adversarial%20Search.pdf
           text: T3 - CSPs & Adversarial Search
@@ -261,7 +256,6 @@ previous-semesters:
           kind: S2021, Theoretical, Solutions
       t4:
         label: Theoretical Assignment 4 - Bayesian Networks
-        kind: block
         content:
         - link: https://sut-ai.github.io/resources/problem_sets/rohban_s2021/theoretical/series4/Theory%20-%20Chapter%204_Bayesian%20Networks%2C%20part%201.pdf
           text: T4.1 - Introduction to Bayesian Networks
@@ -288,7 +282,6 @@ previous-semesters:
       t5:
         label: Theoretical Assignment 5 - Temporal Probability Models & Intro to Machine
           Learning
-        kind: block
         content:
         - link: https://sut-ai.github.io/resources/problem_sets/rohban_s2021/theoretical/series5/Theory%20-%20Chapter%205_Temporal%20Probability%20Models%20and%20Intro%20to%20Machine%20Learning%2C%20part%201.pdf
           text: T5.1 - Temporal Probability Models
@@ -314,7 +307,6 @@ previous-semesters:
           kind: S2021, Theoretical, Solutions
       t6:
         label: Theoretical Assignment 6 - Machine Learning & Deep Neural Networks
-        kind: block
         content:
         - link: https://sut-ai.github.io/resources/problem_sets/rohban_s2021/theoretical/series6/Theory%20-%20Chapter%206_Machine%20Learning%20and%20Neural%20Networks%2C%20part%201.pdf
           text: T6.1 - Machine Learning
@@ -340,7 +332,6 @@ previous-semesters:
           kind: S2021, Theoretical, Solutions
       t7:
         label: Theoretical Assignment 7 - MDP & RL
-        kind: block
         content:
         - link: https://sut-ai.github.io/resources/problem_sets/rohban_s2021/theoretical/series7/Theory%20-%20Chapter%207_MDP%20%26%20RL%2C%20part%201.pdf
           text: T7.1 - Markov Decision Processes
@@ -402,14 +393,13 @@ previous-semesters:
         icon: fas fa-file-pdf
         kind: S2021, Practical, Questions
     kind: Index
-  - title: Fall 2020 - Prof. Rohban
+  - title: CE417 - Fall 2020 - Prof. Rohban
     exam:
       label:
         text: Exams
         position: top
       midterm:
         label: Midterm
-        kind: block
         content:
         - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2020/exams/midterm.pdf
           text: Midterm
@@ -424,7 +414,6 @@ previous-semesters:
           icon: far fa-file-pdf
       final:
         label: Final
-        kind: block
         content:
         - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2020/exams/final.pdf
           text: Final
@@ -442,7 +431,6 @@ previous-semesters:
         position: top
       t1:
         label: Assignment 1 - Intelligent Aagents and Informed Search
-        kind: block
         content:
         - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2020/assignments/hw1-1/hw1-1.pdf
           text: HW1.1 - Intelligent Agents
@@ -482,7 +470,6 @@ previous-semesters:
           icon: far fa-file-archive
       t2:
         label: Assignment 2 - Local Search and Search In Continuous Space
-        kind: block
         content:
         - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2020/assignments/hw2-1/hw2-1.pdf
           text: HW2.1 - Local Search
@@ -522,7 +509,6 @@ previous-semesters:
           icon: far fa-file-archive
       t3:
         label: Assignment 3 - CSP & Adversarial Search
-        kind: block
         content:
         - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2020/assignments/hw3-1/hw3-1.pdf
           text: HW3.1 - CSP
@@ -562,7 +548,6 @@ previous-semesters:
           icon: far fa-file-archive
       t4:
         label: Assignment 4 - Bayesian Networks
-        kind: block
         content:
         - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2020/assignments/hw4-1/hw4-1.pdf
           text: HW4.1 - Introduction to Bayesian Networks
@@ -602,7 +587,6 @@ previous-semesters:
           icon: far fa-file-archive
       t5:
         label: Assignment 5 - Temporal Probability Models & Intro to Machine Learning
-        kind: block
         content:
         - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2020/assignments/hw5-1/hw5-1.pdf
           text: HW5.1 - Temporal Probability Models
@@ -642,7 +626,6 @@ previous-semesters:
           icon: far fa-file-archive
       t6:
         label: Assignment 6 - Machine Learning & Deep Neural Networks
-        kind: block
         content:
         - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2020/assignments/hw6-1/hw6-1.pdf
           text: HW6.1 - Machine Learning
@@ -682,7 +665,6 @@ previous-semesters:
           icon: far fa-file-archive
       t7:
         label: Assignment 7 - Markov Decision Processes & Reinforcement Learning
-        kind: block
         content:
         - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2020/assignments/hw7-1/hw7-1.pdf
           text: HW7.1 - Markov Decision Processes

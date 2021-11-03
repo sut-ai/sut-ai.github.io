@@ -4,7 +4,6 @@ exam:
     position: top
   midterm:
     label: Midterm
-    kind: block
     content:
       - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2020/exams/midterm.pdf
         text: Midterm
@@ -12,17 +11,16 @@ exam:
           Midterm examl of F2020 course covering up to Adversarial Search.
         kind: F2020, Theoretical, Exam, Midterm, Questions
         icon: fas fa-file-pdf
-      ####################
+      
       - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2020/exams/midterm-sol.pdf
         text: Midterm [sol]
         description: >
           Solutions for F2020 midterm exam.
         kind: F2020, Theoretical, Solutions, Exam, Midterm
         icon: far fa-file-pdf
-        ####################
+        
   final:
     label: Final
-    kind: block
     content:
       - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2020/exams/final.pdf
         text: Final
@@ -30,13 +28,13 @@ exam:
           Final examl of F2020 course covering from Bayesian Networks.
         kind: F2020, Theoretical, Exam, Final, Questions
         icon: fas fa-file-pdf
-      ####################
+      
       - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2020/exams/final-sol.zip
         text: Final [sol]
         description: >
           Solutions for F2020 final exam.
         kind: F2020, Theoretical, Solutions, Exam, Final
         icon: far fa-file-archive
-        ####################
+        
 
         

@@ -4,7 +4,6 @@ exam:
     position: top
   midterm:
     label: Midterm
-    kind: block
     content:
       - link: https://sut-ai.github.io/resources/problem_sets/rohban_s2021/exams/midterm-sol.pdf
         text: Midterm
@@ -20,7 +19,6 @@ exam:
         icon: far fa-file-pdf
   final:
     label: Final
-    kind: block
     content:
       - link: https://sut-ai.github.io/resources/problem_sets/rohban_s2021/exams/final.pdf
         text: Final

@@ -8,7 +8,7 @@ footer:
 nav:
   brand:
     text: SUT-AI
-    link: https://sut-ai.github.io/
+    link: /
   content:
   - index: index
     text: Home
@@ -20,20 +20,21 @@ nav:
     description: <p>Presented lectures based on subjects</p>
     link: /pages/lectures/
     kind: Index
-  - link: https://sut-ai.github.io/notes/
+  - link: /notes/
     text: Notes
     description: <p>Lecture Notes and Handouts</p>
-  - link: https://sut-ai.github.io/supplementary/
+  - link: /supplementary/
     text: Supplementary
   - index: pages/problem_sets/index
     text: Problem Sets
     description: <p>Sets of Artificial Intelligence problems</p>
     link: /pages/problem_sets/
     kind: Index
-  - index: pages/team/index
-    text: Team
-    description: <p>List of all TAs and people responsible for this course!</p>
-    link: /pages/team/
+  - index: pages/people/index
+    text: People
+    description: <p>List of all TAs and people responsible for Sharif's Artificial
+      Intelligence courses!</p>
+    link: /pages/people/
     kind: Index
 meta:
 - name: keywords

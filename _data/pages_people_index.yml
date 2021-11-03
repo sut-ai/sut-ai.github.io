@@ -1,34 +1,24 @@
-title: SUT-AI | Team
+title: SUT-AI | People
 header:
-  title: <p>Educational Team</p>
+  title: <p>SUT-AI People</p>
   background: /assets/images/header-bg-2.jpg
-  description: <p>List of all TAs and people responsible for this course!</p>
+  description: <p>List of all TAs and people responsible for Sharif's Artificial Intelligence
+    courses!</p>
 footer:
   background: /assets/images/header-bg-2.jpg
 teams:
   background: /assets/images/header-bg-2.jpg
   label:
-    position: top
     text: Teaching Assistants
-  content: "<p>Over the years, many enthusiastic volunteer students helped shape this\
-    \ course as it is presented today and created\n    its material. What follows\
-    \ is a list of these people:<sup id=\"fnref:roles\"><a class=\"footnote-ref\"\
-    \ href=\"#fn:roles\">1</a></sup></p>\n<div class=\"footnote\">\n<hr/>\n<ol>\n\
-    <li id=\"fn:roles\">\n<p>Roles are shortened:</p>\n<dl>\n<dt>Sup</dt>\n<dd>Supervisor</dd>\n\
-    <dt>HW &amp; HWR</dt>\n<dd>Theoretical assignments creator and Reviewer</dd>\n\
-    <dt>P &amp; PR</dt>\n<dd>Practical assignments creator and Reviewer</dd>\n<dt>C(O)</dt>\n\
-    <dd>Supplementary content creator and Organizer of the supplementary \ncontent\
-    \ creators and reviewer </dd>\n<dt>LN(O)</dt>\n<dd>Lecture notes mentor and reviewer\
-    \ and their Organizer</dd>\n<dt>Recitation</dt>\n<dd>Lecture notes mentor and\
-    \ reviewer and their Organizer</dd>\n<dt>F/M</dt>\n<dd>Finals/Midterm grader</dd>\n\
-    <dt>Web/Git</dt>\n<dd>Webmaster</dd>\n</dl>\n<p><a class=\"footnote-backref\"\
-    \ href=\"#fnref:roles\" title=\"Jump back to footnote 1 in the text\">\u21A9</a></p>\n\
-    </li>\n</ol>\n</div>"
-  teams:
+  content:
+    content: "<p>Over the years, many enthusiastic volunteer students helped shape\
+      \ this course as it is presented today and created\n    its material. What follows\
+      \ is a list of these amazing people:</p>"
     label: false
+  teams:
     kind: chapters
     content:
-    - title: Fall 2021 - Prof. Rohban
+    - title: CE417 - Fall 2021 - Prof. Rohban
       team:
         style:
           person:
@@ -326,7 +316,7 @@ teams:
             link: mailto:sepehramini83@gmail.com
           kind: person
       kind: Index
-    - title: Spring 2021 - Prof. Rohban
+    - title: CE417 - Spring 2021 - Prof. Rohban
       team:
         style:
           person:
@@ -634,9 +624,9 @@ teams:
           kind: person
           image: https://github.com/ahmadsalimi.png
       kind: Index
-    - title: Fall 2020 - Prof. Soleymani
+    - title: CE417 - Fall 2020 - Prof. Soleymani
       kind: Index
-    - title: Fall 2020 - Prof. Rohban
+    - title: CE417 - Fall 2020 - Prof. Rohban
       team:
         style:
           person:
@@ -814,7 +804,7 @@ teams:
             link: mailto:m.mohammadi1378@outlook.com
           kind: person
       kind: Index
-    - title: Spring 2020 - Prof. Rohban
+    - title: CE417 - Spring 2020 - Prof. Rohban
       team:
         style:
           person:
@@ -904,9 +894,9 @@ teams:
           kind: person
           image: https://github.com/Armin-Saadat.png
       kind: Index
-    - title: Fall 2019 - Prof. Soleymani
+    - title: CE417 - Fall 2019 - Prof. Soleymani
       kind: Index
-    - title: Fall 2019 - Prof. Rohban
+    - title: CE417 - Fall 2019 - Prof. Rohban
       team:
         style:
           person:
@@ -969,9 +959,9 @@ teams:
           role: HW, HWR, M/F
           kind: person
       kind: Index
-    - title: Spring 2019 - Prof. Soleymani
+    - title: CE417 - Spring 2019 - Prof. Soleymani
       kind: Index
-    - title: Spring 2019 - Prof. Rohban
+    - title: CE417 - Spring 2019 - Prof. Rohban
       team:
         style:
           person:
@@ -993,16 +983,25 @@ teams:
             link: mailto:kooshajaferiann@yahoo.co.uk
           kind: person
       kind: Index
-    - title: Fall 2019 - Prof. Soleymani
+    - title: CE417 - Spring 2018 - Prof. Soleymani
       kind: Index
-    - title: Spring 2018 - Prof. Soleymani
+    - title: CE417 - Fall 2018 - Prof. Rohban
       kind: Index
-    - title: Fall 2018 - Prof. Rohban
+    - title: CE417 - Spring 2017 - Prof. Soleymani
       kind: Index
-    - title: Spring 2017 - Prof. Soleymani
+    - title: CE417 - Spring 2016 - Prof. Soleymani
       kind: Index
-    - title: Spring 2016 - Prof. Soleymani
-      kind: Index
+    label: false
+  details:
+    content: "<details>\n<summary>Roles are shortened</summary>\n<p class=\"ps-3\"\
+      >\n<b>Sup</b>:   Supervisor<br/>\n<b>HW &amp; HWR</b>:   Theoretical assignments\
+      \ creator and Reviewer<br/>\n<b>P &amp; PR</b>:   Practical assignments creator\
+      \ and Reviewer<br/>\n<b>C(O)</b>:   Supplementary content creator and Organizer\
+      \ of the supplementary\n    content creators and reviewer<br/>\n<b>LN(O)</b>:\
+      \   Lecture notes mentor and reviewer and their Organizer<br/>\n<b>Recitation</b>:\
+      \   Lecture notes mentor and reviewer and their Organizer<br/>\n<b>F/M</b>:\
+      \   Finals/Midterm grader<br/>\n<b>Web/Git</b>:   Webmaster <br/>\n</p>\n</details>"
+    label: false
 webteam:
   label:
     position: left

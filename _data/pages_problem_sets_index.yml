@@ -121,6 +121,16 @@ current-semester-ce417:
           Problems, released in F2021 </p>
         kind: F2021, Theoretical, Questions
         icon: fas fa-file-pdf
+    t4:
+      label: Theoretical Assignment 4 - CSP, Adversarial
+      kind: block
+      content:
+      - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2021/theoretical/T4/TQ4-1.pdf
+        text: T4.1 - Inference under uncertainty - Introduction to Bayesian Networks
+        description: <p>Includes 1 theoretical question covering Inference under uncertainty,
+          Introduction to Bayesian Networks, released in F2021 </p>
+        kind: F2021, Theoretical, Questions
+        icon: fas fa-file-pdf
   mini_project:
     label:
       text: Mini-projects

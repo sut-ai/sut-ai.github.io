@@ -13,7 +13,6 @@ mini_project:
         kind: F2021, Practical, Theoretical, Questions
         icon: fas fa-file-archive
     ####################
-    content:
       - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2021/mini_project/MP1/MPA1.zip
         text: MP1 - Intelligent Agents, Search [sol]
         description: >

@@ -4,7 +4,6 @@ mini_project:
     position: top
   mp1:
     label: Mini-project 1
-    kind: block
     content:
       - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2021/mini_project/MP1/MPQ1.zip
         text: MP1 - Intelligent Agents, Search
@@ -13,6 +12,16 @@ mini_project:
           released in Fall 2021.
         kind: F2021, Practical, Theoretical, Questions
         icon: fas fa-file-archive
+    ####################
+    content:
+      - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2021/mini_project/MP1/MPA1.zip
+        text: MP1 - Intelligent Agents, Search [sol]
+        description: >
+          Includes 4 practical and 3 theorical questions covering the first and second chapters of the course syllabus (intelligent agents & search),
+          released in Fall 2021.
+        kind: F2021, Practical, Theoretical, Solutions
+        icon: far fa-file-archive
+    ####################
   mp2:
     label: Mini-project 2
     kind: block

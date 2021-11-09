@@ -101,7 +101,6 @@ current-semester-ce417:
         icon: far fa-file-pdf
     t3:
       label: Theoretical Assignment 3 - CSP, Adversarial
-      kind: block
       content:
       - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2021/theoretical/T3/TQ3-1.pdf
         text: T3.1 - Constraint Satisfaction Problems
@@ -121,6 +120,12 @@ current-semester-ce417:
           Problems, released in F2021 </p>
         kind: F2021, Theoretical, Questions
         icon: fas fa-file-pdf
+      - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2021/theoretical/T3/TA3-2.pdf
+        text: T3.2 - Adversarial Search [sol]
+        description: <p>Includes 1 theoretical question covering Adversarial Search
+          Problems, released in F2021 </p>
+        kind: F2021, Theoretical, Solutions
+        icon: far fa-file-pdf
     t4:
       label: Theoretical Assignment 4 - CSP, Adversarial
       kind: block
@@ -137,15 +142,14 @@ current-semester-ce417:
       position: top
     mp1:
       label: Mini-project 1
-      kind: block
       content:
-      - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2021/mini_project/MP1/MPQ1.zip
-        text: MP1 - Intelligent Agents, Search
+      - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2021/mini_project/MP1/MPA1.zip
+        text: MP1 - Intelligent Agents, Search [sol]
         description: <p>Includes 4 practical and 3 theorical questions covering the
           first and second chapters of the course syllabus (intelligent agents &amp;
           search), released in Fall 2021.</p>
-        kind: F2021, Practical, Theoretical, Questions
-        icon: fas fa-file-archive
+        kind: F2021, Practical, Theoretical, Solutions
+        icon: far fa-file-archive
     mp2:
       label: Mini-project 2
       kind: block

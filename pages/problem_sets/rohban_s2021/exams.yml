@@ -5,7 +5,7 @@ exam:
   midterm:
     label: Midterm
     content:
-      - link: https://sut-ai.github.io/resources/problem_sets/rohban_s2021/exams/midterm-sol.pdf
+      - link: https://sut-ai.github.io/resources/problem_sets/rohban_s2021/exams/midterm.pdf
         text: Midterm
         description: >
           Midterm examl of S2021 course covering up to Bayesian Networks.

@@ -106,9 +106,9 @@ theoretical:
         kind: F2021, Theoretical, Questions
         icon: fas fa-file-pdf
       ####################
-        - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2021/theoretical/T4/TA4-1.pdf
-        text: T4.1 - Inference Under Uncertainty - Introduction to Bayesian Networks [sol]
-        description: >
-          Includes 1 theoretical question covering Inference Under Uncertainty, Introduction to Bayesian Networks, released in F2021 
-        kind: F2021, Theoretical, Solutions
-        icon: far fa-file-pdf
+      - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2021/theoretical/T4/TA4-1.pdf
+      text: T4.1 - Inference Under Uncertainty - Introduction to Bayesian Networks [sol]
+      description: >
+        Includes 1 theoretical question covering Inference Under Uncertainty, Introduction to Bayesian Networks, released in F2021 
+      kind: F2021, Theoretical, Solutions
+      icon: far fa-file-pdf

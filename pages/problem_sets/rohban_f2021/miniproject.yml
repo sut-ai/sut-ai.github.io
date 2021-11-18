@@ -28,7 +28,19 @@ mini_project:
       - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2021/mini_project/MP2/MPQ2.zip
         text: MP2 - Continuous, CSP, Adversarial
         description: >
-          Includes 3 practical and 3 theorical questions covering the secondd and third chapters of the course syllabus (Continuous, CSP, Adversarial),
+          Includes 3 practical and 3 theorical questions covering the second and third chapters of the course syllabus (Continuous, CSP, Adversarial),
+          released in Fall 2021.
+        kind: F2021, Practical, Theoretical, Questions
+        icon: fas fa-file-archive
+    ####################
+  mp3:
+    label: Mini-project 3
+    kind: block
+    content:
+      - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2021/mini_project/MP3/MPQ3.zip
+        text: MP3 - Baysian Networks, Temporal Probability Models
+        description: >
+          Includes 3 practical and 3 theorical questions covering the third and fourth chapters of the course syllabus (Baysian Networks, Temporal Probability Models),
           released in Fall 2021.
         kind: F2021, Practical, Theoretical, Questions
         icon: fas fa-file-archive

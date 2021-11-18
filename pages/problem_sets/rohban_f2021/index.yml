@@ -28,6 +28,6 @@ content: |
   time and use your grace days accordingly. Finally, A word of advice, don't procrastinate 
   everything up until the deadlines.
 
-
+patch-exam: pages/problem_sets/rohban_f2021/exams.yml
 patch-theoretical: pages/problem_sets/rohban_f2021/theoretical.yml
 patch-miniproject: pages/problem_sets/rohban_f2021/miniproject.yml

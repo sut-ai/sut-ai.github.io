@@ -167,6 +167,17 @@ current-semester-ce417:
           Bayesian Networks, released in F2021 </p>
         kind: F2021, Theoretical, Questions
         icon: fas fa-file-pdf
+    t5:
+      label: Theoretical Assignment 5 - Temporal Probability Models - Intro to Machine
+        Learning
+      kind: block
+      content:
+      - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2021/theoretical/T5/TQ5-1.pdf
+        text: T5.1 - Temporal Probability Models (Markov Models and Particle Filtering)
+        description: <p>Includes 1 theoretical question covering Temporal Probability
+          Models (Markov Models and Particle Filtering), released in F2021 </p>
+        kind: F2021, Theoretical, Questions
+        icon: fas fa-file-pdf
   mini_project:
     label:
       text: Mini-projects

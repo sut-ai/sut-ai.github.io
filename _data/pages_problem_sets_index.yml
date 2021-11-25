@@ -144,7 +144,7 @@ current-semester-ce417:
         kind: F2021, Theoretical, Solutions
         icon: far fa-file-pdf
     t4:
-      label: Theoretical Assignment 4 - Inference Under Uncertainty - Introduction
+      label: Theoretical Assignment 4 - Inference Under Uncertainty, Introduction
         to Bayesian Networks
       kind: block
       content:
@@ -168,7 +168,7 @@ current-semester-ce417:
         kind: F2021, Theoretical, Questions
         icon: fas fa-file-pdf
     t5:
-      label: Theoretical Assignment 5 - Temporal Probability Models - Intro to Machine
+      label: Theoretical Assignment 5 - Temporal Probability Models, Intro to Machine
         Learning
       kind: block
       content:

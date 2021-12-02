@@ -137,3 +137,10 @@ theoretical:
         kind: F2021, Theoretical, Questions
         icon: fas fa-file-pdf
       ####################
+      - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2021/theoretical/T5/TQ5-2.pdf
+        text: T5.2 - Intro to Machine Learning (key concepts) - Learning a decision tree (classification)
+        description: >
+          Includes 1 theoretical question covering Intro to Machine Learning (key concepts) and Learning a decision tree (classification), released in F2021 
+        kind: F2021, Theoretical, Questions
+        icon: fas fa-file-pdf
+      ####################

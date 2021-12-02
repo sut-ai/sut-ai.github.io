@@ -183,6 +183,14 @@ current-semester-ce417:
           Models (Markov Models and Particle Filtering), released in F2021 </p>
         kind: F2021, Theoretical, Questions
         icon: fas fa-file-pdf
+      - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2021/theoretical/T5/TQ5-2.pdf
+        text: T5.2 - Intro to Machine Learning (key concepts) - Learning a decision
+          tree (classification)
+        description: <p>Includes 1 theoretical question covering Intro to Machine
+          Learning (key concepts) and Learning a decision tree (classification), released
+          in F2021 </p>
+        kind: F2021, Theoretical, Questions
+        icon: fas fa-file-pdf
   mini_project:
     label:
       text: Mini-projects

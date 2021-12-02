@@ -146,7 +146,6 @@ current-semester-ce417:
     t4:
       label: Theoretical Assignment 4 - Inference Under Uncertainty, Introduction
         to Bayesian Networks
-      kind: block
       content:
       - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2021/theoretical/T4/TQ4-1.pdf
         text: T4.1 - Inference Under Uncertainty - Introduction to Bayesian Networks
@@ -167,6 +166,12 @@ current-semester-ce417:
           Bayesian Networks, released in F2021 </p>
         kind: F2021, Theoretical, Questions
         icon: fas fa-file-pdf
+      - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2021/theoretical/T4/TA4-2.pdf
+        text: T4.2 - Inference in the Bayesian Networks [sol]
+        description: <p>Includes 1 theoretical question covering Inference in the
+          Bayesian Networks, released in F2021 </p>
+        kind: F2021, Theoretical, Solutions
+        icon: far fa-file-pdf
     t5:
       label: Theoretical Assignment 5 - Temporal Probability Models, Intro to Machine
         Learning

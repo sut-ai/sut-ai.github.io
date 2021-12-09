@@ -23,7 +23,6 @@ mini_project:
     ####################
   mp2:
     label: Mini-project 2
-    kind: block
     content:
       - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2021/mini_project/MP2/MPQ2.zip
         text: MP2 - Continuous, CSP, Adversarial
@@ -41,6 +40,18 @@ mini_project:
         text: MP3 - Baysian Networks, Temporal Probability Models
         description: >
           Includes 3 practical and 3 theorical questions covering the third and fourth chapters of the course syllabus (Baysian Networks, Temporal Probability Models),
+          released in Fall 2021.
+        kind: F2021, Practical, Theoretical, Questions
+        icon: fas fa-file-archive
+    ####################
+  mp4:
+    label: Mini-project 4
+    kind: block
+    content:
+      - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2021/mini_project/MP4/MPQ4.zip
+        text: MP4 - intro to ML, Regression, Perceptrons, DL
+        description: >
+          Includes 3 practical and 3 theorical questions covering the fourth and fifth chapters of the course syllabus (intro to ML, Regression, Perceptrons, DL),
           released in Fall 2021.
         kind: F2021, Practical, Theoretical, Questions
         icon: fas fa-file-archive

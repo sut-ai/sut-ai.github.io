@@ -183,12 +183,30 @@ current-semester-ce417:
           Models (Markov Models and Particle Filtering), released in F2021 </p>
         kind: F2021, Theoretical, Questions
         icon: fas fa-file-pdf
+      - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2021/theoretical/T5/TA5-1.pdf
+        text: T5.1 - Temporal Probability Models (Markov Models and Particle Filtering)
+          [sol]
+        description: <p>Includes 1 theoretical question covering Temporal Probability
+          Models (Markov Models and Particle Filtering), released in F2021 </p>
+        kind: F2021, Theoretical, Solutions
+        icon: far fa-file-pdf
       - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2021/theoretical/T5/TQ5-2.pdf
         text: T5.2 - Intro to Machine Learning (key concepts) - Learning a decision
           tree (classification)
         description: <p>Includes 1 theoretical question covering Intro to Machine
           Learning (key concepts) and Learning a decision tree (classification), released
           in F2021 </p>
+        kind: F2021, Theoretical, Questions
+        icon: fas fa-file-pdf
+    t6:
+      label: Theoretical Assignment 6 - Linear and Logistic Regression, Perceptrons,
+        and Neural Networks
+      kind: block
+      content:
+      - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2021/theoretical/T6/TQ6-1.pdf
+        text: T6.1 - Linear and Logistic Regression, Perceptrons
+        description: <p>Includes 1 theoretical question covering Linear and Logistic
+          Regression, Perceptrons, released in F2021 </p>
         kind: F2021, Theoretical, Questions
         icon: fas fa-file-pdf
   mini_project:
@@ -214,7 +232,6 @@ current-semester-ce417:
         icon: far fa-file-archive
     mp2:
       label: Mini-project 2
-      kind: block
       content:
       - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2021/mini_project/MP2/MPQ2.zip
         text: MP2 - Continuous, CSP, Adversarial
@@ -232,6 +249,17 @@ current-semester-ce417:
         description: <p>Includes 3 practical and 3 theorical questions covering the
           third and fourth chapters of the course syllabus (Baysian Networks, Temporal
           Probability Models), released in Fall 2021.</p>
+        kind: F2021, Practical, Theoretical, Questions
+        icon: fas fa-file-archive
+    mp4:
+      label: Mini-project 4
+      kind: block
+      content:
+      - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2021/mini_project/MP4/MPQ4.zip
+        text: MP4 - intro to ML, Regression, Perceptrons, DL
+        description: <p>Includes 3 practical and 3 theorical questions covering the
+          fourth and fifth chapters of the course syllabus (intro to ML, Regression,
+          Perceptrons, DL), released in Fall 2021.</p>
         kind: F2021, Practical, Theoretical, Questions
         icon: fas fa-file-archive
 previous-semesters:

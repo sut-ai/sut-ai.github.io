@@ -151,6 +151,13 @@ theoretical:
         kind: F2021, Theoretical, Questions
         icon: fas fa-file-pdf
       ####################
+      - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2021/theoretical/T5/TA5-2.pdf
+        text: T5.2 - Intro to Machine Learning (key concepts) - Learning a decision tree (classification) [sol]
+        description: >
+          Includes 1 theoretical question covering Intro to Machine Learning (key concepts) and Learning a decision tree (classification), released in F2021 
+        kind: F2021, Theoretical, Solutions
+        icon: far fa-file-pdf
+      ####################
   t6:
     label: Theoretical Assignment 6 - Linear and Logistic Regression, Perceptrons, and Neural Networks
     kind: block
@@ -159,6 +166,13 @@ theoretical:
         text: T6.1 - Linear and Logistic Regression, Perceptrons
         description: >
           Includes 1 theoretical question covering Linear and Logistic Regression, Perceptrons, released in F2021 
+        kind: F2021, Theoretical, Questions
+        icon: fas fa-file-pdf
+      ####################
+      - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2021/theoretical/T6/TQ6-2.pdf
+        text: T6.2 - Neural Networks (Multilayer Perceptron and Convolutional Neural Networks)
+        description: >
+          Includes 1 theoretical question covering Neural Networks, released in F2021 
         kind: F2021, Theoretical, Questions
         icon: fas fa-file-pdf
       ####################

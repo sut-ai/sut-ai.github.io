@@ -175,7 +175,6 @@ current-semester-ce417:
     t5:
       label: Theoretical Assignment 5 - Temporal Probability Models, Intro to Machine
         Learning
-      kind: block
       content:
       - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2021/theoretical/T5/TQ5-1.pdf
         text: T5.1 - Temporal Probability Models (Markov Models and Particle Filtering)

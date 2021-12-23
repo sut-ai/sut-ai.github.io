@@ -168,10 +168,28 @@ theoretical:
         kind: F2021, Theoretical, Questions
         icon: fas fa-file-pdf
       ####################
+      - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2021/theoretical/T6/TA6-1.pdf
+        text: T6.1 - Linear and Logistic Regression, Perceptrons [sol]
+        description: >
+          Includes 1 theoretical question covering Linear and Logistic Regression, Perceptrons, released in F2021 
+        kind: F2021, Theoretical, Solutions
+        icon: far fa-file-pdf
+      ####################
       - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2021/theoretical/T6/TQ6-2.pdf
         text: T6.2 - Neural Networks (Multilayer Perceptron and Convolutional Neural Networks)
         description: >
           Includes 1 theoretical question covering Neural Networks, released in F2021 
+        kind: F2021, Theoretical, Questions
+        icon: fas fa-file-pdf
+      ####################
+  t7:
+    label: Theoretical Assignment 7 - Markov Decision Processes, Reinforcement Learning
+    kind: block
+    content:
+      - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2021/theoretical/T7/TQ7-1.pdf
+        text: T7.1 - Markov Decision Processes
+        description: >
+          Includes 1 theoretical question covering Markov Decision Processes, released in F2021 
         kind: F2021, Theoretical, Questions
         icon: fas fa-file-pdf
       ####################

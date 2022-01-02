@@ -1,15 +1,15 @@
 /:
   category: Index
-  content: "<p>In this course you will learn what Artificial Intelligence (AI) is,\
-    \ explore use cases and applications of AI, understand AI concepts and terms like\
-    \ machine learning, deep learning and neural networks. You will be exposed to\
-    \ various issues and concerns surrounding AI such as ethics and bias, &amp; jobs,\
-    \ and get advice from experts about learning and starting a career in AI. You\
-    \ will also demonstrate AI in action with a mini project. \nThis course does not\
-    \ require any programming or computer science expertise and is designed to introduce\
-    \ the basics of AI to anyone whether you have a technical background or not.</p>\
-    \ <p>Artificial Intelligence Course</p> <p>Sharif University of Technology</p>\
-    \ M.H. Rohban M. Soleymani Baghshah"
+  content: "M. Soleymani Baghshah M.H. Rohban <p>Artificial Intelligence Course</p>\
+    \ <p>Sharif University of Technology</p> <p>In this course you will learn what\
+    \ Artificial Intelligence (AI) is, explore use cases and applications of AI, understand\
+    \ AI concepts and terms like machine learning, deep learning and neural networks.\
+    \ You will be exposed to various issues and concerns surrounding AI such as ethics\
+    \ and bias, &amp; jobs, and get advice from experts about learning and starting\
+    \ a career in AI. You will also demonstrate AI in action with a mini project.\
+    \ \nThis course does not require any programming or computer science expertise\
+    \ and is designed to introduce the basics of AI to anyone whether you have a technical\
+    \ background or not.</p>"
   description: Sharif University of Technology
   title: Artificial Intelligence Course
   url: /
@@ -21,46 +21,46 @@
   url: /pages/lectures/
 /pages/people/:
   category: Index
-  content: "Mahdi Asmaee Pedram Khorsandi Soroush Farghadani Mehrdad Saberi Alireza\
-    \ Tavakkoli MohammadMahdi Maheri Parham Saremi Arghavan Rezvani Sina Nadi Vahid\
-    \ Zehtab Mohammad Saneian Kian Bakhtari Sana Ayromlou Mohammad Azizmalayeri Negin\
-    \ Jafari Roodabeh Safavi Rojhin Nobahari Amirhossein Estiri Amin Ravanbakhsh Zeinab\
-    \ Sadat Saghi Ali Ghorbanpour Ali Garjani Amirmahdi Hosseinabadi Mahtab Bigverdi\
-    \ Mohammadreza Yazdanifar Sajjad Shahabi Sepehr Ashrafzadeh Leily Goli Mohammadmahdi\
-    \ Samiee Ehsan Pajhouheshgar Fereshteh Forghani Mohammad Mohammadi Hamidreza Kamkari\
-    \ Mohammad Mahdi Jarrahi Arman Zarei <p>As Elon Musk puts it:</p>\n<blockquote>\n\
-    <p>... it\u2019s very important to have a feedback loop, where you\u2019re constantly\
-    \ thinking about what you\u2019ve done and\n    how you could be doing it better.</p>\n\
-    </blockquote>\n<p>Help us improve by sending us feedback!</p> Sara Khosravi Pouya\
-    \ Moeini Arash Lagzian <p>List of all TAs and people responsible for Sharif's\
-    \ Artificial Intelligence courses!</p> Ali Rabiee Mahsa Dalirrooyfard Arvin Azarmina\
-    \ Kimia Talaei Kimia Noorbakhsh Sadjad Faqfoor Maqrebi Mahbod Majid Soroush Vafaie\
-    \ Tabar Alireza Dizaji Atoosa Chegini Amirhossein Ghobadizadeh Alireza Tajmirriahi\
-    \ Kiarash Banihashem <p>SUT-AI People</p> Amin Meghrazi Ainaz Eftekhar Matina\
-    \ Mehdizadeh Kourosh Shariat Rouzbeh Meshkinnejad Mahdi Erfanian Saber Dinpajhouh\
-    \ Elahe Akbari Aida Ramezani Shadi Ghasemi Amirmahdi Namjoo Armin Moradi <p>Over\
-    \ the years, many enthusiastic volunteer students helped shape this course as\
-    \ it is presented today and created\n    its material. What follows is a list\
-    \ of these amazing people:</p> Parsa Eskandar Armin Saadat Sepehr Amini Afshar\
-    \ Shayesteh Arasti Koosha Jaferian Ali J. Alaee Reza Amini Majd Mohsen Larni Sara\
-    \ Rajabzadeh <details>\n<summary>Roles are shortened</summary>\n<p class=\"ps-3\"\
-    >\n<b>Sup</b>:   Supervisor<br/>\n<b>HW &amp; HWR</b>:   Theoretical assignments\
-    \ creator and Reviewer<br/>\n<b>P &amp; PR</b>:   Practical assignments creator\
-    \ and Reviewer<br/>\n<b>C(O)</b>:   Supplementary content creator and Organizer\
-    \ of the supplementary\n    content creators and reviewer<br/>\n<b>LN(O)</b>:\
+  content: "Arash Lagzian Matina Mehdizadeh Sara Rajabzadeh Kimia Talaei Arghavan\
+    \ Rezvani Sana Ayromlou Mohammad Azizmalayeri Mohammad Saneian Mohammad Mohammadi\
+    \ Mohammadreza Yazdanifar Atoosa Chegini Matin Yousefabadi Haniyeh Ehsani Leily\
+    \ Goli Mohammad Mahdi Jarrahi Reza Amini Majd <p>Over the years, many enthusiastic\
+    \ volunteer students helped shape this course as it is presented today and created\n\
+    \    its material. What follows is a list of these amazing people:</p> Negin Jafari\
+    \ Amirmahdi Hosseinabadi Sina Nadi Parham Saremi Soroush Farghadani Mohammadmahdi\
+    \ Samiee Vahid Zehtab Amirhossein Ghobadizadeh Alireza Tavakkoli Kimia Noorbakhsh\
+    \ Kian Bakhtari Koosha Jaferian Ali Garjani Amin Meghrazi MohammadMahdi Maheri\
+    \ Pouya Moeini Fereshteh Forghani Mahbod Majid Matin Khajavi Reza Shirkavand Ali\
+    \ Ghorbanpour Amir Hossein Ameli <details>\n<summary>Roles are shortened</summary>\n\
+    <p class=\"ps-3\">\n<b>Sup</b>:   Supervisor<br/>\n<b>HW &amp; HWR</b>:   Theoretical\
+    \ assignments creator and Reviewer<br/>\n<b>P &amp; PR</b>:   Practical assignments\
+    \ creator and Reviewer<br/>\n<b>C(O)</b>:   Supplementary content creator and\
+    \ Organizer of the supplementary\n    content creators and reviewer<br/>\n<b>LN(O)</b>:\
     \   Lecture notes mentor and reviewer and their Organizer<br/>\n<b>Recitation</b>:\
     \   Lecture notes mentor and reviewer and their Organizer<br/>\n<b>F/M</b>:  \
     \ Finals/Midterm grader<br/>\n<b>Web/Git</b>:   Webmaster <br/>\n</p>\n</details>\
-    \ Kimia Yazdani Matin Khajavi Nima Jamali Haniyeh Ehsani Ahmad Salimi Mehrnaz\
-    \ Mofakhami Mohammad Mahdi Asmae Reza Shirkavand Matin Yousefabadi Nima Fathi\
-    \ Afshin Karimi Sabrineh Mokhtari Amir Hossein Ameli"
+    \ Arvin Azarmina Parsa Eskandar Ainaz Eftekhar Rojhin Nobahari Mehrdad Saberi\
+    \ Roodabeh Safavi Alireza Tajmirriahi Soroush Vafaie Tabar Saber Dinpajhouh Kiarash\
+    \ Banihashem Zeinab Sadat Saghi Mohsen Larni Amirhossein Estiri Amirmahdi Namjoo\
+    \ Pedram Khorsandi Afshin Karimi Mohammad Mahdi Asmae Elahe Akbari Rouzbeh Meshkinnejad\
+    \ Nima Fathi Arman Zarei Hamidreza Kamkari Sepehr Ashrafzadeh Mehrnaz Mofakhami\
+    \ <p>As Elon Musk puts it:</p>\n<blockquote>\n<p>... it\u2019s very important\
+    \ to have a feedback loop, where you\u2019re constantly thinking about what you\u2019\
+    ve done and\n    how you could be doing it better.</p>\n</blockquote>\n<p>Help\
+    \ us improve by sending us feedback!</p> Sabrineh Mokhtari Kourosh Shariat Amin\
+    \ Ravanbakhsh Mahdi Erfanian Mahdi Asmaee Armin Saadat Nima Jamali Mahtab Bigverdi\
+    \ Mahsa Dalirrooyfard Ehsan Pajhouheshgar Ali Rabiee Ahmad Salimi Shayesteh Arasti\
+    \ <p>List of all TAs and people responsible for Sharif's Artificial Intelligence\
+    \ courses!</p> Sajjad Shahabi Sara Khosravi Ali J. Alaee Shadi Ghasemi Sepehr\
+    \ Amini Afshar Aida Ramezani Alireza Dizaji Kimia Yazdani Armin Moradi <p>SUT-AI\
+    \ People</p> Sadjad Faqfoor Maqrebi"
   description: List of all TAs and people responsible for Sharif's Artificial Intelligence
     courses!
   title: SUT-AI People
   url: /pages/people/
 /pages/problem_sets/:
   category: Index
-  content: "<p>Problem Sets</p> <p>Sets of Artificial Intelligence problems</p> <p>CE417\
+  content: "<p>Sets of Artificial Intelligence problems</p> <p>Problem Sets</p> <p>CE417\
     \ - Fall 2021 - Prof. Rohban</p> <p>One of CE-417's goals is to prepare you to\
     \ apply fundamental Artificial Intelligence and \nMachine Learning algorithms\
     \ to semi-realistic tasks and ensure that you have a solid \nunderstanding of\
@@ -618,19 +618,26 @@ https://sut-ai.github.io/resources/problem_sets/rohban_f2021/mini_project/MP2/MP
 https://sut-ai.github.io/resources/problem_sets/rohban_f2021/mini_project/MP3/MPQ3.zip:
   category: F2021, Practical, Theoretical, Questions
   content: ''
-  description: <p>Includes 3 practical and 3 theorical questions covering the third
-    and fourth chapters of the course syllabus (Baysian Networks, Temporal Probability
+  description: <p>Includes 3 practical and 3 theorical questions covering the fourth
+    and fifth chapters of the course syllabus (Baysian Networks, Temporal Probability
     Models), released in Fall 2021.</p>
   title: MP3 - Baysian Networks, Temporal Probability Models
   url: https://sut-ai.github.io/resources/problem_sets/rohban_f2021/mini_project/MP3/MPQ3.zip
 https://sut-ai.github.io/resources/problem_sets/rohban_f2021/mini_project/MP4/MPQ4.zip:
   category: F2021, Practical, Theoretical, Questions
   content: ''
-  description: <p>Includes 3 practical and 3 theorical questions covering the fourth
-    and fifth chapters of the course syllabus (intro to ML, Regression, Perceptrons,
+  description: <p>Includes 3 practical and 3 theorical questions covering the fifth
+    and sixth chapters of the course syllabus (intro to ML, Regression, Perceptrons,
     DL), released in Fall 2021.</p>
   title: MP4 - intro to ML, Regression, Perceptrons, DL
   url: https://sut-ai.github.io/resources/problem_sets/rohban_f2021/mini_project/MP4/MPQ4.zip
+https://sut-ai.github.io/resources/problem_sets/rohban_f2021/mini_project/MP5/MPQ5.zip:
+  category: F2021, Practical, Theoretical, Questions
+  content: ''
+  description: <p>Includes 2 practical and 2 theorical questions covering the seventh
+    chapter of the course syllabus (MDP, RL), released in Fall 2021.</p>
+  title: MP5 - MDP, RL
+  url: https://sut-ai.github.io/resources/problem_sets/rohban_f2021/mini_project/MP5/MPQ5.zip
 https://sut-ai.github.io/resources/problem_sets/rohban_f2021/theoretical/T1/TA1-1.pdf:
   category: F2021, Theoretical, Solutions
   content: ''

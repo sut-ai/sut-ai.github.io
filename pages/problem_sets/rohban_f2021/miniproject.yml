@@ -42,12 +42,11 @@ mini_project:
     ####################
   mp3:
     label: Mini-project 3
-    kind: block
     content:
       - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2021/mini_project/MP3/MPQ3.zip
         text: MP3 - Baysian Networks, Temporal Probability Models
         description: >
-          Includes 3 practical and 3 theorical questions covering the third and fourth chapters of the course syllabus (Baysian Networks, Temporal Probability Models),
+          Includes 3 practical and 3 theorical questions covering the fourth and fifth chapters of the course syllabus (Baysian Networks, Temporal Probability Models),
           released in Fall 2021.
         kind: F2021, Practical, Theoretical, Questions
         icon: fas fa-file-archive
@@ -59,7 +58,19 @@ mini_project:
       - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2021/mini_project/MP4/MPQ4.zip
         text: MP4 - intro to ML, Regression, Perceptrons, DL
         description: >
-          Includes 3 practical and 3 theorical questions covering the fourth and fifth chapters of the course syllabus (intro to ML, Regression, Perceptrons, DL),
+          Includes 3 practical and 3 theorical questions covering the fifth and sixth chapters of the course syllabus (intro to ML, Regression, Perceptrons, DL),
+          released in Fall 2021.
+        kind: F2021, Practical, Theoretical, Questions
+        icon: fas fa-file-archive
+    ####################
+  mp5:
+    label: Mini-project 5
+    kind: block
+    content:
+      - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2021/mini_project/MP5/MPQ5.zip
+        text: MP5 - MDP, RL
+        description: >
+          Includes 2 practical and 2 theorical questions covering the seventh chapter of the course syllabus (MDP, RL),
           released in Fall 2021.
         kind: F2021, Practical, Theoretical, Questions
         icon: fas fa-file-archive

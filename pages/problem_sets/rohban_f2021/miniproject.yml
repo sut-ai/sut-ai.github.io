@@ -62,7 +62,6 @@ mini_project:
         kind: F2021, Practical, Theoretical, Questions
         icon: fas fa-file-archive
     ####################
-    content:
       - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2021/mini_project/MP4/MPA4.zip
         text: MP4 - intro to ML, Regression, Perceptrons, DL [sol]
         description: >

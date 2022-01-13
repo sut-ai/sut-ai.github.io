@@ -237,7 +237,6 @@ current-semester-ce417:
         icon: far fa-file-pdf
     t7:
       label: Theoretical Assignment 7 - Markov Decision Processes, Reinforcement Learning
-      kind: block
       content:
       - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2021/theoretical/T7/TQ7-1.pdf
         text: T7.1 - Markov Decision Processes
@@ -245,6 +244,12 @@ current-semester-ce417:
           released in F2021 </p>
         kind: F2021, Theoretical, Questions
         icon: fas fa-file-pdf
+      - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2021/theoretical/T7/TA7-1.pdf
+        text: T7.1 - Markov Decision Processes [sol]
+        description: <p>Includes 1 theoretical question covering Markov Decision Processes,
+          released in F2021 </p>
+        kind: F2021, Theoretical, Solutions
+        icon: far fa-file-pdf
       - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2021/theoretical/T7/TQ7-2.pdf
         text: T7.2 - Reinforcement Learning
         description: <p>Includes 1 theoretical question covering Reinforcement Learning,
@@ -301,15 +306,14 @@ current-semester-ce417:
         icon: fas fa-file-archive
     mp4:
       label: Mini-project 4
-      kind: block
       content:
-      - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2021/mini_project/MP4/MPQ4.zip
-        text: MP4 - intro to ML, Regression, Perceptrons, DL
+      - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2021/mini_project/MP4/MPA4.zip
+        text: MP4 - intro to ML, Regression, Perceptrons, DL [sol]
         description: <p>Includes 3 practical and 3 theorical questions covering the
           fifth and sixth chapters of the course syllabus (intro to ML, Regression,
           Perceptrons, DL), released in Fall 2021.</p>
-        kind: F2021, Practical, Theoretical, Questions
-        icon: fas fa-file-archive
+        kind: F2021, Practical, Theoretical, Solutions
+        icon: far fa-file-archive
     mp5:
       label: Mini-project 5
       kind: block

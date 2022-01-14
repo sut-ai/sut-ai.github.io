@@ -212,3 +212,10 @@ theoretical:
         kind: F2021, Theoretical, Questions
         icon: fas fa-file-pdf
       ####################
+      - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2021/theoretical/T7/TA7-2.pdf
+        text: T7.2 - Reinforcement Learning [sol]
+        description: >
+          Includes 1 theoretical question covering Reinforcement Learning, released in F2021 
+        kind: F2021, Theoretical, Solutions
+        icon: far fa-file-pdf
+      ####################

@@ -310,6 +310,13 @@ current-semester-ce417:
           Probability Models), released in Fall 2021.</p>
         kind: F2021, Practical, Theoretical, Questions
         icon: fas fa-file-archive
+      - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2021/mini_project/MP3/MPA3.zip
+        text: MP3 - Baysian Networks, Temporal Probability Models [sol]
+        description: <p>Includes 3 practical and 3 theorical questions covering the
+          fourth and fifth chapters of the course syllabus (Baysian Networks, Temporal
+          Probability Models), released in Fall 2021.</p>
+        kind: F2021, Practical, Theoretical, Solutions
+        icon: far fa-file-archive
     mp4:
       label: Mini-project 4
       content:

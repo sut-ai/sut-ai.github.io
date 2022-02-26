@@ -20,7 +20,7 @@ sub:
 current-semester-ce417:
   label: CE-417 | Current Semester
   background: images/assignments.jpg
-  patch-content: pages/problem_sets/rohban_f2021/index.yml
+  patch-content: pages/problem_sets/rohban_s2022/index.yml
 
 
 previous-semesters:
@@ -28,5 +28,6 @@ previous-semesters:
   background: images/assignments.jpg
   kind: chapters
   patch-content:
+    - pages/problem_sets/rohban_f2021/index.yml
     - pages/problem_sets/rohban_s2021/index.yml
     - pages/problem_sets/rohban_f2020/index.yml

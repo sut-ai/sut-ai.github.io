@@ -9,7 +9,7 @@ theoretical:
       - link: https://sut-ai.github.io/resources/problem_sets/rohban_s2022/assignments/A1/A1.pdf
         text: Intelligent Agents, Uninformed Search, Informed Search - Advanced Heuistics
         description: >
-          Includes 2 practical and 6 theorical questions covering the first chapter of the course syllabus (MDP, RL),
+          Includes 2 practical and 6 theorical questions covering the first chapter of the course syllabus (Intelligent Agents, Uninformed Search, Informed Search - Advanced Heuistics),
           released in Fall 2021.
         kind: S2022, Practical, Theoretical, Questions
         icon: fas fa-file-archive

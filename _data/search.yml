@@ -15,33 +15,18 @@
   url: /
 /pages/lectures/:
   category: Index
-  content: ' <p>Presented lectures based on subjects</p> <p>Lectures</p>'
+  content: ' <p>Lectures</p> <p>Presented lectures based on subjects</p>'
   description: Presented lectures based on subjects
   title: Lectures
   url: /pages/lectures/
 /pages/people/:
   category: Index
-  content: "Ahmad Salimi Arvin Azarmina Mehrnaz Mofakhami Mohammad Azizmalayeri Shadi\
-    \ Ghasemi Mohammad Mahdi Asmae <p>List of all TAs and people responsible for Sharif's\
-    \ Artificial Intelligence courses!</p> Mohammadreza Yazdanifar Mehrdad Saberi\
-    \ Armin Moradi Koosha Jaferian Sara Rajabzadeh Afshin Karimi Ali Garjani Leily\
-    \ Goli Elahe Akbari Matin Khajavi Soroush Farghadani Negin Jafari Mohammadmahdi\
-    \ Samiee Kimia Noorbakhsh Ali Ghorbanpour Arash Lagzian Amin Ravanbakhsh Mohammad\
-    \ Mahdi Jarrahi Sepehr Ashrafzadeh Rojhin Nobahari Kiarash Banihashem Aida Ramezani\
-    \ Amin Meghrazi Atoosa Chegini Kimia Yazdani Nima Jamali Alireza Tajmirriahi Sabrineh\
-    \ Mokhtari Vahid Zehtab Amirmahdi Hosseinabadi Matina Mehdizadeh Mahdi Asmaee\
-    \ Hamidreza Kamkari Rouzbeh Meshkinnejad Parham Saremi Haniyeh Ehsani Zeinab Sadat\
-    \ Saghi Amirmahdi Namjoo <p>SUT-AI People</p> Amirhossein Estiri Alireza Tavakkoli\
-    \ Sina Nadi Mohammad Mohammadi Pouya Moeini Armin Saadat Reza Amini Majd Nima\
-    \ Fathi Mohammad Saneian Saber Dinpajhouh MohammadMahdi Maheri Kimia Talaei Amir\
-    \ Hossein Ameli Ainaz Eftekhar Parsa Eskandar Mohsen Larni Reza Shirkavand Sara\
-    \ Khosravi Kian Bakhtari Arghavan Rezvani Mahtab Bigverdi Shayesteh Arasti Kourosh\
-    \ Shariat Mahsa Dalirrooyfard Mahbod Majid Matin Yousefabadi Roodabeh Safavi Fereshteh\
-    \ Forghani Arman Zarei Mahdi Erfanian Sana Ayromlou <p>Over the years, many enthusiastic\
-    \ volunteer students helped shape this course as it is presented today and created\n\
-    \    its material. What follows is a list of these amazing people:</p> Pedram\
-    \ Khorsandi Ali J. Alaee Ali Rabiee Soroush Vafaie Tabar Sadjad Faqfoor Maqrebi\
-    \ Sepehr Amini Afshar <details>\n<summary>Roles are shortened</summary>\n<p class=\"\
+  content: "Shayesteh Arasti Alireza Tavakkoli Pedram Khorsandi MohammadMahdi Maheri\
+    \ Kourosh Shariat Ali J. Alaee Roodabeh Safavi <p>As Elon Musk puts it:</p>\n\
+    <blockquote>\n<p>... it\u2019s very important to have a feedback loop, where you\u2019\
+    re constantly thinking about what you\u2019ve done and\n    how you could be doing\
+    \ it better.</p>\n</blockquote>\n<p>Help us improve by sending us feedback!</p>\
+    \ Amirmahdi Namjoo <details>\n<summary>Roles are shortened</summary>\n<p class=\"\
     ps-3\">\n<b>Sup</b>:   Supervisor<br/>\n<b>HW &amp; HWR</b>:   Theoretical assignments\
     \ creator and Reviewer<br/>\n<b>P &amp; PR</b>:   Practical assignments creator\
     \ and Reviewer<br/>\n<b>C(O)</b>:   Supplementary content creator and Organizer\
@@ -49,24 +34,39 @@
     \   Lecture notes mentor and reviewer and their Organizer<br/>\n<b>Recitation</b>:\
     \   Lecture notes mentor and reviewer and their Organizer<br/>\n<b>F/M</b>:  \
     \ Finals/Midterm grader<br/>\n<b>Web/Git</b>:   Webmaster <br/>\n</p>\n</details>\
-    \ Ehsan Pajhouheshgar Sajjad Shahabi <p>As Elon Musk puts it:</p>\n<blockquote>\n\
-    <p>... it\u2019s very important to have a feedback loop, where you\u2019re constantly\
-    \ thinking about what you\u2019ve done and\n    how you could be doing it better.</p>\n\
-    </blockquote>\n<p>Help us improve by sending us feedback!</p> Alireza Dizaji Amirhossein\
-    \ Ghobadizadeh"
+    \ Sepehr Amini Afshar Mohammad Azizmalayeri Nima Fathi Soroush Vafaie Tabar Mahdi\
+    \ Erfanian Alireza Dizaji Kimia Yazdani Zeinab Sadat Saghi Parham Saremi Amin\
+    \ Meghrazi Koosha Jaferian Soroush Farghadani Ainaz Eftekhar Kimia Noorbakhsh\
+    \ Arvin Azarmina Ehsan Pajhouheshgar Vahid Zehtab Mohammad Mohammadi Amirhossein\
+    \ Estiri Mohammad Mahdi Asmae Mohammad Saneian Mohammad Mahdi Jarrahi Kian Bakhtari\
+    \ Amir Hossein Ameli Sadjad Faqfoor Maqrebi Mohammadreza Yazdanifar Mohammadmahdi\
+    \ Samiee Amirmahdi Hosseinabadi <p>SUT-AI People</p> Pouya Moeini Matin Khajavi\
+    \ Kiarash Banihashem Mehrnaz Mofakhami Ahmad Salimi Elahe Akbari Kimia Talaei\
+    \ Ali Garjani Alireza Tajmirriahi Reza Amini Majd Rouzbeh Meshkinnejad Shadi Ghasemi\
+    \ Ali Rabiee Rojhin Nobahari Armin Moradi Amirhossein Ghobadizadeh Amin Ravanbakhsh\
+    \ Mahsa Dalirrooyfard Mehrdad Saberi <p>Over the years, many enthusiastic volunteer\
+    \ students helped shape this course as it is presented today and created\n   \
+    \ its material. What follows is a list of these amazing people:</p> Ali Ghorbanpour\
+    \ Leily Goli Sina Nadi Mahdi Asmaee Nima Jamali Sajjad Shahabi Sara Khosravi Sana\
+    \ Ayromlou Armin Saadat Mahtab Bigverdi Sara Rajabzadeh Sabrineh Mokhtari Matina\
+    \ Mehdizadeh Arghavan Rezvani Aida Ramezani Haniyeh Ehsani Negin Jafari Sepehr\
+    \ Ashrafzadeh Atoosa Chegini Mohsen Larni Hamidreza Kamkari Fereshteh Forghani\
+    \ Afshin Karimi Arman Zarei <p>List of all TAs and people responsible for Sharif's\
+    \ Artificial Intelligence courses!</p> Mahbod Majid Matin Yousefabadi Parsa Eskandar\
+    \ Saber Dinpajhouh Reza Shirkavand Arash Lagzian"
   description: List of all TAs and people responsible for Sharif's Artificial Intelligence
     courses!
   title: SUT-AI People
   url: /pages/people/
 /pages/problem_sets/:
   category: Index
-  content: "<p>One of CE-417's goals is to prepare you to apply fundamental Artificial\
-    \ Intelligence and \nMachine Learning algorithms to semi-realistic tasks and ensure\
-    \ that you have a solid \nunderstanding of the fundamentals of AI. The extensive\
-    \ problem sets of the course are \ncurated to serve as a means for achieving this\
-    \ purpose.</p>\n<p>Please upload your answers to Quera on time; otherwise you\
-    \ would not earn any \ncredit for them. Take a note of these points regarding\
-    \ your assignments:</p>\n<ul>\n<li>You will have <strong>7 Assignments</strong>\
+  content: "<p>Problem Sets</p> <p>One of CE-417's goals is to prepare you to apply\
+    \ fundamental Artificial Intelligence and \nMachine Learning algorithms to semi-realistic\
+    \ tasks and ensure that you have a solid \nunderstanding of the fundamentals of\
+    \ AI. The extensive problem sets of the course are \ncurated to serve as a means\
+    \ for achieving this purpose.</p>\n<p>Please upload your answers to Quera on time;\
+    \ otherwise you would not earn any \ncredit for them. Take a note of these points\
+    \ regarding your assignments:</p>\n<ul>\n<li>You will have <strong>7 Assignments</strong>\
     \ Accounting for 50% of your overall grading</li>\n<li>You are given <strong>20\
     \ \u201Cgrace days\u201D</strong> (self-granted extensions) in total for each\
     \ assignment,\n  which you can use to give yourself extra time without penalty.</li>\n\
@@ -82,7 +82,7 @@
     \ will \nbe extended, and it is entirely on you to manage your \ntime and use\
     \ your grace days accordingly. Finally, A word of advice, don't procrastinate\
     \ \neverything up until the deadlines.</p> <p>CE417 - Spring 2022 - Prof. Rohban</p>\
-    \ <p>Problem Sets</p> <p>Sets of Artificial Intelligence problems</p>"
+    \ <p>Sets of Artificial Intelligence problems</p>"
   description: Sets of Artificial Intelligence problems
   title: Problem Sets
   url: /pages/problem_sets/
@@ -1085,7 +1085,8 @@ https://sut-ai.github.io/resources/problem_sets/rohban_s2022/assignments/A1/A1.p
   category: S2022, Practical, Theoretical, Questions
   content: ''
   description: <p>Includes 2 practical and 6 theorical questions covering the first
-    chapter of the course syllabus (MDP, RL), released in Fall 2021.</p>
+    chapter of the course syllabus (Intelligent Agents, Uninformed Search, Informed
+    Search - Advanced Heuistics), released in Fall 2021.</p>
   title: Intelligent Agents, Uninformed Search, Informed Search - Advanced Heuistics
   url: https://sut-ai.github.io/resources/problem_sets/rohban_s2022/assignments/A1/A1.pdf
 https://www.aparat.com/v/5Moed/:

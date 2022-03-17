@@ -46,13 +46,23 @@ current-semester-ce417:
       position: top
     a1:
       label: Assignment 1 - Search
-      kind: block
       content:
       - link: https://sut-ai.github.io/resources/problem_sets/rohban_s2022/assignments/A1/A1.pdf
         text: Intelligent Agents, Uninformed Search, Informed Search - Advanced Heuistics
         description: <p>Includes 2 practical and 6 theorical questions covering the
           first chapter of the course syllabus (Intelligent Agents, Uninformed Search,
           Informed Search - Advanced Heuistics), released in Spring 2022.</p>
+        kind: S2022, Practical, Theoretical, Questions
+        icon: fas fa-file-pdf
+    a2:
+      label: Assignment 2 - Local Search
+      kind: block
+      content:
+      - link: https://sut-ai.github.io/resources/problem_sets/rohban_s2022/assignments/A2/A2.pdf
+        text: Local Search, Continues Optimization
+        description: <p>Includes 2 practical and 8 theorical questions covering the
+          second chapter of the course syllabus (Local Search, Continues Optimization),
+          released in Spring 2022.</p>
         kind: S2022, Practical, Theoretical, Questions
         icon: fas fa-file-pdf
 previous-semesters:

@@ -23,3 +23,14 @@ theoretical:
           released in Spring 2022.
         kind: S2022, Practical, Theoretical, Questions
         icon: fas fa-file-pdf
+  a3:
+    label: Assignment 3 - Adversarial Search and CSP
+    kind: block
+    content:
+      - link: https://sut-ai.github.io/resources/problem_sets/rohban_s2022/assignments/A3/A3.pdf
+        text: Adversarial Search and CSP
+        description: >
+          Includes 2 practical and 5 theorical questions covering the third chapter of the course syllabus (Adversarial Search and CSP),
+          released in Spring 2022.
+        kind: S2022, Practical, Theoretical, Questions
+        icon: fas fa-file-pdf

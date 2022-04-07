@@ -56,7 +56,6 @@ current-semester-ce417:
         icon: fas fa-file-pdf
     a2:
       label: Assignment 2 - Local Search
-      kind: block
       content:
       - link: https://sut-ai.github.io/resources/problem_sets/rohban_s2022/assignments/A2/A2.pdf
         text: Local Search, Continues Optimization

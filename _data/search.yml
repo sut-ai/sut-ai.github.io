@@ -1,87 +1,88 @@
 /:
   category: Index
-  content: "<p>Artificial Intelligence Course</p> <p>In this course you will learn\
-    \ what Artificial Intelligence (AI) is, explore use cases and applications of\
-    \ AI, understand AI concepts and terms like machine learning, deep learning and\
-    \ neural networks. You will be exposed to various issues and concerns surrounding\
-    \ AI such as ethics and bias, &amp; jobs, and get advice from experts about learning\
-    \ and starting a career in AI. You will also demonstrate AI in action with a mini\
-    \ project. \nThis course does not require any programming or computer science\
-    \ expertise and is designed to introduce the basics of AI to anyone whether you\
-    \ have a technical background or not.</p> <p>Sharif University of Technology</p>\
-    \ M.H. Rohban M. Soleymani Baghshah"
+  content: "<p>In this course you will learn what Artificial Intelligence (AI) is,\
+    \ explore use cases and applications of AI, understand AI concepts and terms like\
+    \ machine learning, deep learning and neural networks. You will be exposed to\
+    \ various issues and concerns surrounding AI such as ethics and bias, &amp; jobs,\
+    \ and get advice from experts about learning and starting a career in AI. You\
+    \ will also demonstrate AI in action with a mini project. \nThis course does not\
+    \ require any programming or computer science expertise and is designed to introduce\
+    \ the basics of AI to anyone whether you have a technical background or not.</p>\
+    \ <p>Sharif University of Technology</p> M.H. Rohban M. Soleymani Baghshah <p>Artificial\
+    \ Intelligence Course</p>"
   description: Sharif University of Technology
   title: Artificial Intelligence Course
   url: /
 /pages/lectures/:
   category: Index
-  content: ' <p>Lectures</p> <p>Presented lectures based on subjects</p>'
+  content: ' <p>Presented lectures based on subjects</p> <p>Lectures</p>'
   description: Presented lectures based on subjects
   title: Lectures
   url: /pages/lectures/
 /pages/people/:
   category: Index
-  content: "Soroush Vafaie Tabar Mehrdad Saberi <details>\n<summary>Roles are shortened</summary>\n\
-    <p class=\"ps-3\">\n<b>Sup</b>:   Supervisor<br/>\n<b>HW &amp; HWR</b>:   Theoretical\
-    \ assignments creator and Reviewer<br/>\n<b>P &amp; PR</b>:   Practical assignments\
-    \ creator and Reviewer<br/>\n<b>C(O)</b>:   Supplementary content creator and\
-    \ Organizer of the supplementary\n    content creators and reviewer<br/>\n<b>LN(O)</b>:\
-    \   Lecture notes mentor and reviewer and their Organizer<br/>\n<b>Recitation</b>:\
-    \   Lecture notes mentor and reviewer and their Organizer<br/>\n<b>F/M</b>:  \
-    \ Finals/Midterm grader<br/>\n<b>Web/Git</b>:   Webmaster <br/>\n</p>\n</details>\
-    \ Soroush Farghadani Mahdi Asmaee Pedram Khorsandi Nima Jamali Mahbod Majid Mohammad\
-    \ Mahdi Jarrahi Matin Khajavi Amir Hossein Ameli Haniyeh Ehsani Sepehr Amini Afshar\
-    \ Ali Ghorbanpour Amirmahdi Namjoo Amin Ravanbakhsh Hamidreza Kamkari Ehsan Pajhouheshgar\
-    \ Mohammadmahdi Samiee Mohammad Mohammadi Pouya Moeini Ali Garjani Kian Bakhtari\
-    \ Mahsa Dalirrooyfard Sara Rajabzadeh Amin Meghrazi Negin Jafari Alireza Tajmirriahi\
-    \ Mohsen Larni Armin Moradi Koosha Jaferian Reza Shirkavand Rouzbeh Meshkinnejad\
-    \ MohammadMahdi Maheri Elahe Akbari <p>As Elon Musk puts it:</p>\n<blockquote>\n\
-    <p>... it\u2019s very important to have a feedback loop, where you\u2019re constantly\
-    \ thinking about what you\u2019ve done and\n    how you could be doing it better.</p>\n\
-    </blockquote>\n<p>Help us improve by sending us feedback!</p> Parham Saremi Ahmad\
-    \ Salimi Fereshteh Forghani Leily Goli Sina Nadi Arvin Azarmina Atoosa Chegini\
-    \ Alireza Tavakkoli <p>SUT-AI People</p> Parsa Eskandar Arash Lagzian Ainaz Eftekhar\
-    \ Arman Zarei Kourosh Shariat Amirhossein Ghobadizadeh Kimia Noorbakhsh Matin\
-    \ Yousefabadi Mahtab Bigverdi Alireza Dizaji Vahid Zehtab Sajjad Shahabi Kimia\
-    \ Talaei Ali J. Alaee Kimia Yazdani Mohammad Saneian Roodabeh Safavi Afshin Karimi\
-    \ Sara Khosravi Amirmahdi Hosseinabadi Shayesteh Arasti Aida Ramezani Mohammad\
-    \ Mahdi Asmae Matina Mehdizadeh Kiarash Banihashem Shadi Ghasemi <p>List of all\
-    \ TAs and people responsible for Sharif's Artificial Intelligence courses!</p>\
-    \ Zeinab Sadat Saghi <p>Over the years, many enthusiastic volunteer students helped\
-    \ shape this course as it is presented today and created\n    its material. What\
-    \ follows is a list of these amazing people:</p> Arghavan Rezvani Sabrineh Mokhtari\
-    \ Armin Saadat Mohammadreza Yazdanifar Saber Dinpajhouh Rojhin Nobahari Mahdi\
-    \ Erfanian Nima Fathi Sadjad Faqfoor Maqrebi Sana Ayromlou Mohammad Azizmalayeri\
-    \ Reza Amini Majd Ali Rabiee Mehrnaz Mofakhami Amirhossein Estiri Sepehr Ashrafzadeh"
+  content: "Kourosh Shariat Vahid Zehtab Matina Mehdizadeh Mohammad Saneian Roodabeh\
+    \ Safavi Sina Nadi Parham Saremi Amirmahdi Hosseinabadi Hamidreza Kamkari Alireza\
+    \ Tavakkoli <p>List of all TAs and people responsible for Sharif's Artificial\
+    \ Intelligence courses!</p> Mahbod Majid Sajjad Shahabi Soroush Farghadani Mehrnaz\
+    \ Mofakhami Amirhossein Estiri Arash Lagzian Armin Saadat Mehrdad Saberi Sepehr\
+    \ Amini Afshar Mohammad Azizmalayeri Rouzbeh Meshkinnejad Sabrineh Mokhtari Amin\
+    \ Ravanbakhsh Sana Ayromlou Mohsen Larni Matin Yousefabadi Koosha Jaferian <p>As\
+    \ Elon Musk puts it:</p>\n<blockquote>\n<p>... it\u2019s very important to have\
+    \ a feedback loop, where you\u2019re constantly thinking about what you\u2019\
+    ve done and\n    how you could be doing it better.</p>\n</blockquote>\n<p>Help\
+    \ us improve by sending us feedback!</p> Armin Moradi Reza Amini Majd Arvin Azarmina\
+    \ Atoosa Chegini Amin Meghrazi Reza Shirkavand Amirhossein Ghobadizadeh Pouya\
+    \ Moeini Mahsa Dalirrooyfard Mohammadmahdi Samiee Kiarash Banihashem Ahmad Salimi\
+    \ Haniyeh Ehsani Kimia Yazdani Ainaz Eftekhar Amir Hossein Ameli Mohammad Mahdi\
+    \ Jarrahi Arman Zarei Kian Bakhtari <p>SUT-AI People</p> Fereshteh Forghani Pedram\
+    \ Khorsandi Kimia Talaei Mohammad Mahdi Asmae Mohammadreza Yazdanifar Ali Ghorbanpour\
+    \ Sara Khosravi Mahdi Erfanian Ali Garjani Zeinab Sadat Saghi <details>\n<summary>Roles\
+    \ are shortened</summary>\n<p class=\"ps-3\">\n<b>Sup</b>:   Supervisor<br/>\n\
+    <b>HW &amp; HWR</b>:   Theoretical assignments creator and Reviewer<br/>\n<b>P\
+    \ &amp; PR</b>:   Practical assignments creator and Reviewer<br/>\n<b>C(O)</b>:\
+    \   Supplementary content creator and Organizer of the supplementary\n    content\
+    \ creators and reviewer<br/>\n<b>LN(O)</b>:   Lecture notes mentor and reviewer\
+    \ and their Organizer<br/>\n<b>Recitation</b>:   Lecture notes mentor and reviewer\
+    \ and their Organizer<br/>\n<b>F/M</b>:   Finals/Midterm grader<br/>\n<b>Web/Git</b>:\
+    \   Webmaster <br/>\n</p>\n</details> Ehsan Pajhouheshgar Leily Goli Aida Ramezani\
+    \ Sepehr Ashrafzadeh Soroush Vafaie Tabar Alireza Tajmirriahi Amirmahdi Namjoo\
+    \ Shayesteh Arasti Saber Dinpajhouh Alireza Dizaji Nima Jamali Parsa Eskandar\
+    \ <p>Over the years, many enthusiastic volunteer students helped shape this course\
+    \ as it is presented today and created\n    its material. What follows is a list\
+    \ of these amazing people:</p> Mohammad Mohammadi Arghavan Rezvani Mahdi Asmaee\
+    \ Shadi Ghasemi Rojhin Nobahari Mahtab Bigverdi MohammadMahdi Maheri Afshin Karimi\
+    \ Nima Fathi Sadjad Faqfoor Maqrebi Elahe Akbari Sara Rajabzadeh Kimia Noorbakhsh\
+    \ Ali J. Alaee Negin Jafari Ali Rabiee Matin Khajavi"
   description: List of all TAs and people responsible for Sharif's Artificial Intelligence
     courses!
   title: SUT-AI People
   url: /pages/people/
 /pages/problem_sets/:
   category: Index
-  content: "<p>Problem Sets</p> <p>Sets of Artificial Intelligence problems</p> <p>CE417\
-    \ - Spring 2022 - Prof. Rohban</p> <p>One of CE-417's goals is to prepare you\
-    \ to apply fundamental Artificial Intelligence and \nMachine Learning algorithms\
-    \ to semi-realistic tasks and ensure that you have a solid \nunderstanding of\
-    \ the fundamentals of AI. The extensive problem sets of the course are \ncurated\
-    \ to serve as a means for achieving this purpose.</p>\n<p>Please upload your answers\
-    \ to Quera on time; otherwise you would not earn any \ncredit for them. Take a\
-    \ note of these points regarding your assignments:</p>\n<ul>\n<li>You will have\
-    \ <strong>7 Assignments</strong> Accounting for 50% of your overall grading</li>\n\
-    <li>You are given <strong>20 \u201Cgrace days\u201D</strong> (self-granted extensions)\
-    \ in total for each assignment,\n  which you can use to give yourself extra time\
-    \ without penalty.</li>\n<li>Every assignment has a hard deadline \u2014 which\
-    \ is <strong>seven</strong> days after the original due date (except for the last\
-    \ assignment \n  which has no delay)\u2014 after which no submission is accepted.\
-    \ </li>\n<li>Delays are calculated hourly; minutes and seconds are rounded up.</li>\n\
-    <li>You can choose how you wish to distribute your grace-days among your assignments\
-    \ at the\n  end of the semester.</li>\n</ul>\n<p>If you have any questions regarding\
-    \ the problems, visit the appropriate forum in Quera. \nKeep in mind that no changes\
+  content: "<p>Sets of Artificial Intelligence problems</p> <p>CE417 - Spring 2022\
+    \ - Prof. Rohban</p> <p>One of CE-417's goals is to prepare you to apply fundamental\
+    \ Artificial Intelligence and \nMachine Learning algorithms to semi-realistic\
+    \ tasks and ensure that you have a solid \nunderstanding of the fundamentals of\
+    \ AI. The extensive problem sets of the course are \ncurated to serve as a means\
+    \ for achieving this purpose.</p>\n<p>Please upload your answers to Quera on time;\
+    \ otherwise you would not earn any \ncredit for them. Take a note of these points\
+    \ regarding your assignments:</p>\n<ul>\n<li>You will have <strong>7 Assignments</strong>\
+    \ Accounting for 50% of your overall grading</li>\n<li>You are given <strong>20\
+    \ \u201Cgrace days\u201D</strong> (self-granted extensions) in total for each\
+    \ assignment,\n  which you can use to give yourself extra time without penalty.</li>\n\
+    <li>Every assignment has a hard deadline \u2014 which is <strong>seven</strong>\
+    \ days after the original due date (except for the last assignment \n  which has\
+    \ no delay)\u2014 after which no submission is accepted. </li>\n<li>Delays are\
+    \ calculated hourly; minutes and seconds are rounded up.</li>\n<li>You can choose\
+    \ how you wish to distribute your grace-days among your assignments at the\n \
+    \ end of the semester.</li>\n</ul>\n<p>If you have any questions regarding the\
+    \ problems, visit the appropriate forum in Quera. \nKeep in mind that no changes\
     \ can be made to assignments at the last minute; therefore, please \nhave a look\
     \ at the questions at least a week before the assignment's due date. No deadline\
     \ will \nbe extended, and it is entirely on you to manage your \ntime and use\
     \ your grace days accordingly. Finally, A word of advice, don't procrastinate\
-    \ \neverything up until the deadlines.</p>"
+    \ \neverything up until the deadlines.</p> <p>Problem Sets</p>"
   description: Sets of Artificial Intelligence problems
   title: Problem Sets
   url: /pages/problem_sets/
@@ -1093,6 +1094,14 @@ https://sut-ai.github.io/resources/problem_sets/rohban_s2021/exams/midterm.pdf:
     S2021.</p>
   title: T7.2 - Reinforcement Learning
   url: https://sut-ai.github.io/resources/problem_sets/rohban_s2021/theoretical/series7/Theory%20-%20Chapter%207_MDP%20%26%20RL%2C%20part%202.pdf
+https://sut-ai.github.io/resources/problem_sets/rohban_s2022/assignments/A1/A1.pdf:
+  category: S2022, Practical, Theoretical, Questions
+  content: ''
+  description: <p>Includes 2 practical and 6 theorical questions covering the first
+    chapter of the course syllabus (Intelligent Agents, Uninformed Search, Informed
+    Search - Advanced Heuistics), released in Spring 2022.</p>
+  title: Intelligent Agents, Uninformed Search, Informed Search - Advanced Heuistics
+  url: https://sut-ai.github.io/resources/problem_sets/rohban_s2022/assignments/A1/A1.pdf
 https://sut-ai.github.io/resources/problem_sets/rohban_s2022/assignments/A1/HW1_solution.zip:
   category: S2022, Practical, Theoretical, Solutions
   content: ''

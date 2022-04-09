@@ -42,7 +42,7 @@ current-semester-ce417:
       position: top
   theoretical:
     label:
-      text: Solutions
+      text: Assignments
       position: top
     a1:
       label: Assignment 1 - Search
@@ -54,9 +54,6 @@ current-semester-ce417:
           Informed Search - Advanced Heuistics), released in Spring 2022.</p>
         kind: S2022, Practical, Theoretical, Questions
         icon: fas fa-file-pdf
-    b1:
-      label: Solution 1 - Search
-      content:
       - link: https://sut-ai.github.io/resources/problem_sets/rohban_s2022/assignments/A1/HW1_solution.zip
         text: Intelligent Agents, Uninformed Search, Informed Search - Advanced Heuistics
         description: <p>Includes solution for 2 practical and 6 theorical questions

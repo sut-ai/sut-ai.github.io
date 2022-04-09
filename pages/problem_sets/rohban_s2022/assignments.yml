@@ -15,7 +15,7 @@ theoretical:
   label:
     text: Solutions
     position: top
-  a1:
+  a11:
     label: Solution 1 - Search
     content:
       - link: https://sut-ai.github.io/resources/problem_sets/rohban_s2022/assignments/A1/HW1_solution.zip

@@ -54,7 +54,7 @@ current-semester-ce417:
           Informed Search - Advanced Heuistics), released in Spring 2022.</p>
         kind: S2022, Practical, Theoretical, Questions
         icon: fas fa-file-pdf
-    a11:
+    b1:
       label: Solution 1 - Search
       content:
       - link: https://sut-ai.github.io/resources/problem_sets/rohban_s2022/assignments/A1/HW1_solution.zip

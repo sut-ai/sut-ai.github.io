@@ -12,12 +12,7 @@ theoretical:
           released in Spring 2022.
         kind: S2022, Practical, Theoretical, Questions
         icon: fas fa-file-pdf
-  label:
-    text: Solutions
-    position: top
-  b1:
-    label: Solution 1 - Search
-    content:
+        #################################
       - link: https://sut-ai.github.io/resources/problem_sets/rohban_s2022/assignments/A1/HW1_solution.zip
         text: Intelligent Agents, Uninformed Search, Informed Search - Advanced Heuistics
         description: >

@@ -13,7 +13,7 @@ theoretical:
         kind: S2022, Practical, Theoretical, Questions
         icon: fas fa-file-pdf
         #################################
-      - link: https://github.com/sut-ai/resources/blob/master/problem_sets/rohban_s2022/assignments/A1/HW1_solution.zip
+      - link: https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_s2022/assignments/A1/HW1_solution.zip
         text: Intelligent Agents, Uninformed Search, Informed Search - Advanced Heuistics [sol]
         description: >
           Includes solution for 2 practical and 6 theorical questions covering the first chapter of the course syllabus (Intelligent Agents, Uninformed Search, Informed Search - Advanced Heuistics),

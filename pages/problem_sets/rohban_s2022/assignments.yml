@@ -18,7 +18,7 @@ theoretical:
         description: >
           Includes solution for 2 practical and 6 theorical questions covering the first chapter of the course syllabus (Intelligent Agents, Uninformed Search, Informed Search - Advanced Heuistics),
           released in Spring 2022.
-        kind: S2022, Practical, Theoretical, Solutions
+        kind: S2022, Practical, Theoretical, Solutions 
         icon: fas fa-file-pdf
   a2:
     label: Assignment 2 - Local Search

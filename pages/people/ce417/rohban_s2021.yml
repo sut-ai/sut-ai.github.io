@@ -28,7 +28,6 @@
 
 - name: Sina Nadi
   role: Sup
-  image: images/ta/SinaNadi.jpg
 
 - name: Sepehr Ashrafzadeh
   role: HWR6, PR4, F

@@ -357,7 +357,6 @@ teams:
           image: https://github.com/AmirHosseinAmeli.png
         - name: Sina Nadi
           role: Sup
-          image: /assets/images/ta/SinaNadi.jpg
           kind: person
         - name: Sepehr Ashrafzadeh
           role: HWR6, PR4, F

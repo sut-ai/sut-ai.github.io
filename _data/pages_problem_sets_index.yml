@@ -53,7 +53,7 @@ current-semester-ce417:
           first chapter of the course syllabus (Intelligent Agents, Uninformed Search,
           Informed Search - Advanced Heuistics), released in Spring 2022.</p>
         kind: S2022, Practical, Theoretical, Questions
-        icon: fas fa-file-pdf
+        icon: far fa-file-archive
       - link: https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_s2022/assignments/A1/HW1_solution.zip
         text: Intelligent Agents, Uninformed Search, Informed Search - Advanced Heuistics
           [sol]

@@ -32,7 +32,6 @@ theoretical:
         icon: fas fa-file-pdf
   a3:
     label: Assignment 3 - Adversarial Search and CSP
-    kind: block
     content:
       - link: https://sut-ai.github.io/resources/problem_sets/rohban_s2022/assignments/A3/A3.pdf
         text: Adversarial Search and CSP
@@ -42,3 +41,14 @@ theoretical:
         kind: S2022, Practical, Theoretical, Questions
         icon: fas fa-file-pdf
         
+  a4:
+    label: Assignment 4 - Bayesian Networks
+    kind: block
+    content:
+      - link: https://sut-ai.github.io/resources/problem_sets/rohban_s2022/assignments/A4/A4.pdf
+        text: Bayesian Networks
+        description: >
+          Includes 2 practical and 6 theorical questions covering the fourth chapter of the course syllabus (Bayesian Networks),
+          released in Spring 2022.
+        kind: S2022, Practical, Theoretical, Questions
+        icon: fas fa-file-pdf

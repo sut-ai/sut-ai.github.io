@@ -30,6 +30,14 @@ theoretical:
           released in Spring 2022.
         kind: S2022, Practical, Theoretical, Questions
         icon: fas fa-file-pdf
+        #################################
+      - link: https://github.com/sut-ai/resources/blob/master/problem_sets/rohban_s2022/assignments/A2/HW2_solution.zip
+        text: Local Search, Continues Optimization [sol]
+        description: >
+          Includes solution 1 practical and 8 theorical questions covering the second chapter of the course syllabus (Local Search, Continues Optimization),
+          released in Spring 2022.
+        kind: S2022, Practical, Theoretical, Solutions 
+        icon: far fa-file-archive
   a3:
     label: Assignment 3 - Adversarial Search and CSP
     content:

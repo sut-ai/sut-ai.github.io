@@ -2,3 +2,18 @@ exam:
   label:
     text: Exams
     position: top
+  midterm:
+    label: Midterm
+    content:
+      - link: https://sut-ai.github.io/resources/problem_sets/rohban_s2022/exams/midterm.pdf
+        text: Midterm
+        description: >
+          Midterm examl of S2022 course covering up to Bayesian Networks.
+        kind: S2022, Theoretical, Exam, Midterm, Questions
+        icon: fas fa-file-pdf
+      - link: https://sut-ai.github.io/resources/problem_sets/rohban_s2022/exams/midterm-sol.pdf
+        text: Midterm [sol]
+        description: >
+          Solutions for S2022 midterm exam.
+        kind: S2022, Theoretical, Solutions, Exam, Midterm
+        icon: far fa-file-pdf

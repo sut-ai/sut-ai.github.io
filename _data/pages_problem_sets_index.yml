@@ -85,7 +85,7 @@ current-semester-ce417:
           released in Spring 2022.</p>
         kind: S2022, Practical, Theoretical, Questions
         icon: fas fa-file-pdf
-      - link: https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_s2022/assignments/A2/HW2_solution.zip
+      - link: https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_s2022/assignments/A2/HW2-solution.zip
         text: Local Search, Continues Optimization [sol]
         description: <p>Includes solution 1 practical and 8 theorical questions covering
           the second chapter of the course syllabus (Local Search, Continues Optimization),

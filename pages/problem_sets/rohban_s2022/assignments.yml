@@ -48,6 +48,7 @@ theoretical:
           released in Spring 2022.
         kind: S2022, Practical, Theoretical, Questions
         icon: fas fa-file-pdf 
+        #################################
         - link: https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_s2022/assignments/A3/HW3-solution.zip
         text: Adversarial Search and CSP [sol]
         description: >

@@ -49,13 +49,13 @@ theoretical:
         kind: S2022, Practical, Theoretical, Questions
         icon: fas fa-file-pdf 
         #################################
-        - link: https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_s2022/assignments/A3/HW3-solution.zip
-        text: Adversarial Search and CSP [sol]
-        description: >
-          Includes solution for 2 practical and 5 theorical questions covering the second chapter of the course syllabus (Adversarial Search and CSP),
-          released in Spring 2022.
-        kind: S2022, Practical, Theoretical, Solutions 
-        icon: far fa-file-archive
+        # - link: https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_s2022/assignments/A3/HW3-solution.zip
+        # text: Adversarial Search and CSP [sol]
+        # description: >
+        #   Includes solution for 2 practical and 5 theorical questions covering the second chapter of the course syllabus (Adversarial Search and CSP),
+        #   released in Spring 2022.
+        # kind: S2022, Practical, Theoretical, Solutions 
+        # icon: far fa-file-archive
         
   a4:
     label: Assignment 4 - Bayesian Networks

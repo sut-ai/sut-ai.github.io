@@ -1,6 +1,6 @@
 /:
   category: Index
-  content: "<p>Artificial Intelligence Course</p> M.H. Rohban M. Soleymani Baghshah\
+  content: "<p>Artificial Intelligence Course</p> M. Soleymani Baghshah M.H. Rohban\
     \ <p>In this course you will learn what Artificial Intelligence (AI) is, explore\
     \ use cases and applications of AI, understand AI concepts and terms like machine\
     \ learning, deep learning and neural networks. You will be exposed to various\
@@ -15,18 +15,13 @@
   url: /
 /pages/lectures/:
   category: Index
-  content: ' <p>Presented lectures based on subjects</p> <p>Lectures</p>'
+  content: ' <p>Lectures</p> <p>Presented lectures based on subjects</p>'
   description: Presented lectures based on subjects
   title: Lectures
   url: /pages/lectures/
 /pages/people/:
   category: Index
-  content: "Koosha Jaferian Afshin Karimi Amirmahdi Hosseinabadi Alireza Tajmirriahi\
-    \ Amin Meghrazi Matin Yousefabadi Amin Ravanbakhsh Shadi Ghasemi Sabrineh Mokhtari\
-    \ Mehrdad Saberi Mahsa Dalirrooyfard Nima Fathi Mahdi Erfanian <p>SUT-AI People</p>\
-    \ Parsa Eskandar Amir Hossein Ameli Kimia Talaei Mohammad Mahdi Asmae Mohammadreza\
-    \ Yazdanifar Parham Saremi Reza Amini Majd Kian Bakhtari Hamidreza Kamkari Ehsan\
-    \ Pajhouheshgar <details>\n<summary>Roles are shortened</summary>\n<p class=\"\
+  content: "Mahbod Majid <details>\n<summary>Roles are shortened</summary>\n<p class=\"\
     ps-3\">\n<b>Sup</b>:   Supervisor<br/>\n<b>HW &amp; HWR</b>:   Theoretical assignments\
     \ creator and Reviewer<br/>\n<b>P &amp; PR</b>:   Practical assignments creator\
     \ and Reviewer<br/>\n<b>C(O)</b>:   Supplementary content creator and Organizer\
@@ -34,37 +29,41 @@
     \   Lecture notes mentor and reviewer and their Organizer<br/>\n<b>Recitation</b>:\
     \   Lecture notes mentor and reviewer and their Organizer<br/>\n<b>F/M</b>:  \
     \ Finals/Midterm grader<br/>\n<b>Web/Git</b>:   Webmaster <br/>\n</p>\n</details>\
-    \ Roodabeh Safavi Sara Rajabzadeh Mohammadmahdi Samiee Zeinab Sadat Saghi Sajjad\
-    \ Shahabi Ali J. Alaee <p>As Elon Musk puts it:</p>\n<blockquote>\n<p>... it\u2019\
-    s very important to have a feedback loop, where you\u2019re constantly thinking\
-    \ about what you\u2019ve done and\n    how you could be doing it better.</p>\n\
-    </blockquote>\n<p>Help us improve by sending us feedback!</p> Mohammad Mohammadi\
-    \ Kimia Yazdani Reza Shirkavand Amirmahdi Namjoo Amirhossein Estiri Vahid Zehtab\
-    \ Leily Goli Mohammad Mahdi Jarrahi Sadjad Faqfoor Maqrebi Fereshteh Forghani\
-    \ MohammadMahdi Maheri Sara Khosravi Kiarash Banihashem Saber Dinpajhouh Mohsen\
-    \ Larni Kourosh Shariat Haniyeh Ehsani Amirhossein Ghobadizadeh Matina Mehdizadeh\
-    \ Sana Ayromlou Mohammad Azizmalayeri Mahbod Majid Alireza Dizaji Mohammad Saneian\
-    \ Rojhin Nobahari Ainaz Eftekhar Rouzbeh Meshkinnejad Mahtab Bigverdi Soroush\
-    \ Farghadani Atoosa Chegini Aida Ramezani Mehrnaz Mofakhami Pedram Khorsandi Ali\
-    \ Ghorbanpour Armin Moradi Mahdi Asmaee Ali Rabiee <p>Over the years, many enthusiastic\
-    \ volunteer students helped shape this course as it is presented today and created\n\
-    \    its material. What follows is a list of these amazing people:</p> Armin Saadat\
-    \ Matin Khajavi Kimia Noorbakhsh <p>List of all TAs and people responsible for\
-    \ Sharif's Artificial Intelligence courses!</p> Pouya Moeini Elahe Akbari Arvin\
-    \ Azarmina Sepehr Ashrafzadeh Arghavan Rezvani Sina Nadi Arman Zarei Alireza Tavakkoli\
-    \ Shayesteh Arasti Sepehr Amini Afshar Ahmad Salimi Negin Jafari Ali Garjani Arash\
-    \ Lagzian Soroush Vafaie Tabar Nima Jamali"
+    \ Soroush Vafaie Tabar Koosha Jaferian Ali Ghorbanpour Amin Meghrazi Sara Khosravi\
+    \ Sina Nadi <p>List of all TAs and people responsible for Sharif's Artificial\
+    \ Intelligence courses!</p> Pedram Khorsandi Kimia Yazdani Alireza Tajmirriahi\
+    \ Mohammad Mahdi Asmae Mohsen Larni Amir Hossein Ameli Nima Jamali Kimia Talaei\
+    \ Sajjad Shahabi Mohammad Mohammadi Matin Khajavi Ali J. Alaee Afshin Karimi Matin\
+    \ Yousefabadi Parsa Eskandar Nima Fathi Kian Bakhtari Shadi Ghasemi Haniyeh Ehsani\
+    \ MohammadMahdi Maheri Mohammad Saneian Elahe Akbari Ainaz Eftekhar Aida Ramezani\
+    \ Alireza Tavakkoli Fereshteh Forghani Mahdi Erfanian Kiarash Banihashem <p>Over\
+    \ the years, many enthusiastic volunteer students helped shape this course as\
+    \ it is presented today and created\n    its material. What follows is a list\
+    \ of these amazing people:</p> Reza Amini Majd Saber Dinpajhouh Kimia Noorbakhsh\
+    \ Hamidreza Kamkari Mohammad Mahdi Jarrahi Mahtab Bigverdi Mahdi Asmaee Amirmahdi\
+    \ Namjoo Arman Zarei Sabrineh Mokhtari Ehsan Pajhouheshgar Parham Saremi Sepehr\
+    \ Amini Afshar Soroush Farghadani Atoosa Chegini <p>As Elon Musk puts it:</p>\n\
+    <blockquote>\n<p>... it\u2019s very important to have a feedback loop, where you\u2019\
+    re constantly thinking about what you\u2019ve done and\n    how you could be doing\
+    \ it better.</p>\n</blockquote>\n<p>Help us improve by sending us feedback!</p>\
+    \ Reza Shirkavand Sara Rajabzadeh Sepehr Ashrafzadeh Amirhossein Ghobadizadeh\
+    \ Mahsa Dalirrooyfard Amin Ravanbakhsh Arghavan Rezvani Mohammadreza Yazdanifar\
+    \ Mehrnaz Mofakhami Rouzbeh Meshkinnejad Sana Ayromlou Alireza Dizaji Ahmad Salimi\
+    \ Matina Mehdizadeh Negin Jafari Arvin Azarmina Ali Rabiee Leily Goli Rojhin Nobahari\
+    \ Armin Saadat Amirmahdi Hosseinabadi Sadjad Faqfoor Maqrebi Zeinab Sadat Saghi\
+    \ Mehrdad Saberi Mohammadmahdi Samiee Amirhossein Estiri Kourosh Shariat Shayesteh\
+    \ Arasti Vahid Zehtab Arash Lagzian Armin Moradi Mohammad Azizmalayeri Roodabeh\
+    \ Safavi Pouya Moeini <p>SUT-AI People</p> Ali Garjani"
   description: List of all TAs and people responsible for Sharif's Artificial Intelligence
     courses!
   title: SUT-AI People
   url: /pages/people/
 /pages/problem_sets/:
   category: Index
-  content: "<p>Sets of Artificial Intelligence problems</p> <p>CE417 - Spring 2022\
-    \ - Prof. Rohban</p> <p>Problem Sets</p> <p>One of CE-417's goals is to prepare\
-    \ you to apply fundamental Artificial Intelligence and \nMachine Learning algorithms\
-    \ to semi-realistic tasks and ensure that you have a solid \nunderstanding of\
-    \ the fundamentals of AI. The extensive problem sets of the course are \ncurated\
+  content: "<p>CE417 - Spring 2022 - Prof. Rohban</p> <p>One of CE-417's goals is\
+    \ to prepare you to apply fundamental Artificial Intelligence and \nMachine Learning\
+    \ algorithms to semi-realistic tasks and ensure that you have a solid \nunderstanding\
+    \ of the fundamentals of AI. The extensive problem sets of the course are \ncurated\
     \ to serve as a means for achieving this purpose.</p>\n<p>Please upload your answers\
     \ to Quera on time; otherwise you would not earn any \ncredit for them. Take a\
     \ note of these points regarding your assignments:</p>\n<ul>\n<li>You will have\
@@ -82,7 +81,8 @@
     \ at the questions at least a week before the assignment's due date. No deadline\
     \ will \nbe extended, and it is entirely on you to manage your \ntime and use\
     \ your grace days accordingly. Finally, A word of advice, don't procrastinate\
-    \ \neverything up until the deadlines.</p>"
+    \ \neverything up until the deadlines.</p> <p>Sets of Artificial Intelligence\
+    \ problems</p> <p>Problem Sets</p>"
   description: Sets of Artificial Intelligence problems
   title: Problem Sets
   url: /pages/problem_sets/
@@ -1150,6 +1150,13 @@ https://sut-ai.github.io/resources/problem_sets/rohban_s2022/assignments/A4/A4.p
     chapter of the course syllabus (Bayesian Networks), released in Spring 2022.</p>
   title: Bayesian Networks
   url: https://sut-ai.github.io/resources/problem_sets/rohban_s2022/assignments/A4/A4.pdf
+https://sut-ai.github.io/resources/problem_sets/rohban_s2022/assignments/A5/A5.pdf:
+  category: S2022, Practical, Theoretical, Questions
+  content: ''
+  description: <p>Includes 2 practical and 5 theorical questions covering the fifth
+    chapter of the course syllabus (TPMs and ML), released in Spring 2022.</p>
+  title: Temporal probability models and introduction to machine learning
+  url: https://sut-ai.github.io/resources/problem_sets/rohban_s2022/assignments/A5/A5.pdf
 https://sut-ai.github.io/resources/problem_sets/rohban_s2022/exams/midterm-sol.pdf:
   category: S2022, Theoretical, Solutions, Exam, Midterm
   content: ''

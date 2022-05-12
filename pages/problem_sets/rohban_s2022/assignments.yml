@@ -59,12 +59,23 @@ theoretical:
         
   a4:
     label: Assignment 4 - Bayesian Networks
-    kind: block
     content:
       - link: https://sut-ai.github.io/resources/problem_sets/rohban_s2022/assignments/A4/A4.pdf
         text: Bayesian Networks
         description: >
           Includes 2 practical and 6 theorical questions covering the fourth chapter of the course syllabus (Bayesian Networks),
+          released in Spring 2022.
+        kind: S2022, Practical, Theoretical, Questions
+        icon: fas fa-file-pdf
+
+  a5:
+    label: Assignment 4 - Bayesian Networks
+    kind: block
+    content:
+      - link: https://sut-ai.github.io/resources/problem_sets/rohban_s2022/assignments/A5/A5.pdf
+        text: Temporal probability models and introduction to machine learning
+        description: >
+          Includes 2 practical and 5 theorical questions covering the fifth chapter of the course syllabus (TPMs and ML),
           released in Spring 2022.
         kind: S2022, Practical, Theoretical, Questions
         icon: fas fa-file-pdf

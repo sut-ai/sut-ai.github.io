@@ -31,7 +31,7 @@ theoretical:
         kind: S2022, Practical, Theoretical, Questions
         icon: fas fa-file-pdf
         #################################
-      - link: https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_s2022/assignments/A2/HW2-solution.zip 
+      - link: https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_s2022/assignments/A2/HW2-solution.zip  
         text: Local Search, Continues Optimization [sol]
         description: >
           Includes solution for 2 practical and 8 theorical questions covering the second chapter of the course syllabus (Local Search, Continues Optimization),
@@ -73,7 +73,7 @@ theoretical:
     kind: block
     content:
       - link: https://sut-ai.github.io/resources/problem_sets/rohban_s2022/assignments/A5/A5.pdf
-        text: Temporal Probability Models and Introduction to Machine Learning
+        text: Temporal probability models and introduction to machine learning
         description: >
           Includes 2 practical and 5 theorical questions covering the fifth chapter of the course syllabus (TPMs and ML),
           released in Spring 2022.

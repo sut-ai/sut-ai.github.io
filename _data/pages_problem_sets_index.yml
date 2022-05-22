@@ -124,7 +124,7 @@ current-semester-ce417:
       kind: block
       content:
       - link: https://sut-ai.github.io/resources/problem_sets/rohban_s2022/assignments/A5/A5.pdf
-        text: Temporal Probability Models and Introduction to Machine Learning
+        text: Temporal probability models and introduction to machine learning
         description: <p>Includes 2 practical and 5 theorical questions covering the
           fifth chapter of the course syllabus (TPMs and ML), released in Spring 2022.</p>
         kind: S2022, Practical, Theoretical, Questions

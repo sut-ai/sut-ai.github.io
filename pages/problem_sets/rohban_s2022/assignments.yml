@@ -86,7 +86,7 @@ theoretical:
       - link: https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_s2022/assignments/A6/HW6.zip
         text: Machine learning and neural networks
         description: >
-          Includes 3 practical and 6 theorical questions covering the sixth chapter of the course syllabus (ML and NN),
+          Includes 2 practical and 6 theorical questions covering the sixth chapter of the course syllabus (ML and NN),
           released in Spring 2022.
         kind: S2022, Practical, Theoretical, Questions
         icon: fas fa-file-pdf

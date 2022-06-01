@@ -120,7 +120,8 @@ current-semester-ce417:
         kind: S2022, Practical, Theoretical, Questions
         icon: fas fa-file-pdf
     a5:
-      label: Assignment 5 - Bayesian Networks
+      label: Assignment 5 - Temporal Probability Models and Introduction to Machine
+        Learning
       content:
       - link: https://sut-ai.github.io/resources/problem_sets/rohban_s2022/assignments/A5/A5.pdf
         text: Temporal probability models and introduction to machine learning
@@ -129,7 +130,7 @@ current-semester-ce417:
         kind: S2022, Practical, Theoretical, Questions
         icon: fas fa-file-pdf
     a6:
-      label: Assignment 5 - Bayesian Networks
+      label: Assignment 6 - Machine Learning and Nueral Networks
       kind: block
       content:
       - link: https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_s2022/assignments/A6/HW6.zip

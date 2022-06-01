@@ -121,7 +121,6 @@ current-semester-ce417:
         icon: fas fa-file-pdf
     a5:
       label: Assignment 5 - Bayesian Networks
-      kind: block
       content:
       - link: https://sut-ai.github.io/resources/problem_sets/rohban_s2022/assignments/A5/A5.pdf
         text: Temporal probability models and introduction to machine learning

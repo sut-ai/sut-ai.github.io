@@ -67,6 +67,15 @@ theoretical:
           released in Spring 2022.
         kind: S2022, Practical, Theoretical, Questions
         icon: fas fa-file-pdf
+        #################################
+      - link: https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_s2022/assignments/A4/HW4 - solution.zip
+        text: Bayesian Networks [sol]
+        description: >
+          Includes solution for 2 practical and 6 theorical questions covering the fourth chapter of the course syllabus (Bayesian Networks),
+          released in Spring 2022.
+        kind: S2022, Practical, Theoretical, Solutions 
+        icon: far fa-file-archive
+
 
   a5:
     label: Assignment 5 - Temporal Probability Models and Introduction to Machine Learning

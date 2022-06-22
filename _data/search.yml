@@ -1,7 +1,6 @@
 /:
   category: Index
-  content: "M.H. Rohban <p>Artificial Intelligence Course</p> <p>Sharif University\
-    \ of Technology</p> M. Soleymani Baghshah <p>In this course you will learn what\
+  content: "M. Soleymani Baghshah M.H. Rohban <p>In this course you will learn what\
     \ Artificial Intelligence (AI) is, explore use cases and applications of AI, understand\
     \ AI concepts and terms like machine learning, deep learning and neural networks.\
     \ You will be exposed to various issues and concerns surrounding AI such as ethics\
@@ -9,51 +8,52 @@
     \ a career in AI. You will also demonstrate AI in action with a mini project.\
     \ \nThis course does not require any programming or computer science expertise\
     \ and is designed to introduce the basics of AI to anyone whether you have a technical\
-    \ background or not.</p>"
+    \ background or not.</p> <p>Sharif University of Technology</p> <p>Artificial\
+    \ Intelligence Course</p>"
   description: Sharif University of Technology
   title: Artificial Intelligence Course
   url: /
 /pages/lectures/:
   category: Index
-  content: <p>Lectures</p>  <p>Presented lectures based on subjects</p>
+  content: ' <p>Lectures</p> <p>Presented lectures based on subjects</p>'
   description: Presented lectures based on subjects
   title: Lectures
   url: /pages/lectures/
 /pages/people/:
   category: Index
-  content: "Sepehr Ashrafzadeh Ali Ghorbanpour Arghavan Rezvani Sabrineh Mokhtari\
-    \ Mohsen Larni Ali J. Alaee Matina Mehdizadeh Roodabeh Safavi Mohammadreza Yazdanifar\
-    \ Sana Ayromlou Hamidreza Kamkari Sadjad Faqfoor Maqrebi Mehrnaz Mofakhami Mahbod\
-    \ Majid Amirmahdi Hosseinabadi Mohammad Azizmalayeri Mahsa Dalirrooyfard Soroush\
-    \ Farghadani Arash Lagzian Sepehr Amini Afshar Alireza Tavakkoli Nima Fathi Sara\
-    \ Khosravi Kiarash Banihashem Mohammad Saneian Ali Garjani Atoosa Chegini Amin\
-    \ Ravanbakhsh Soroush Vafaie Tabar Amirhossein Ghobadizadeh Amirhossein Estiri\
-    \ Armin Moradi Mahdi Erfanian Amir Hossein Ameli Aida Ramezani Matin Khajavi Rojhin\
-    \ Nobahari Mahtab Bigverdi Kimia Noorbakhsh Reza Amini Majd Arvin Azarmina Mohammadmahdi\
-    \ Samiee Sina Nadi Kian Bakhtari Shadi Ghasemi Fereshteh Forghani Kimia Yazdani\
-    \ Pedram Khorsandi Shayesteh Arasti Ahmad Salimi Nima Jamali <p>Over the years,\
-    \ many enthusiastic volunteer students helped shape this course as it is presented\
-    \ today and created\n    its material. What follows is a list of these amazing\
-    \ people:</p> Mohammad Mohammadi <p>As Elon Musk puts it:</p>\n<blockquote>\n\
-    <p>... it\u2019s very important to have a feedback loop, where you\u2019re constantly\
-    \ thinking about what you\u2019ve done and\n    how you could be doing it better.</p>\n\
-    </blockquote>\n<p>Help us improve by sending us feedback!</p> MohammadMahdi Maheri\
-    \ Parham Saremi Arman Zarei Saber Dinpajhouh Koosha Jaferian Leily Goli Matin\
-    \ Yousefabadi <p>List of all TAs and people responsible for Sharif's Artificial\
-    \ Intelligence courses!</p> Haniyeh Ehsani Pouya Moeini Mahdi Asmaee Sajjad Shahabi\
-    \ Amin Meghrazi Alireza Tajmirriahi Negin Jafari <p>SUT-AI People</p> Kimia Talaei\
-    \ Mohammad Mahdi Asmae <details>\n<summary>Roles are shortened</summary>\n<p class=\"\
-    ps-3\">\n<b>Sup</b>:   Supervisor<br/>\n<b>HW &amp; HWR</b>:   Theoretical assignments\
-    \ creator and Reviewer<br/>\n<b>P &amp; PR</b>:   Practical assignments creator\
-    \ and Reviewer<br/>\n<b>C(O)</b>:   Supplementary content creator and Organizer\
-    \ of the supplementary\n    content creators and reviewer<br/>\n<b>LN(O)</b>:\
-    \   Lecture notes mentor and reviewer and their Organizer<br/>\n<b>Recitation</b>:\
-    \   Lecture notes mentor and reviewer and their Organizer<br/>\n<b>F/M</b>:  \
-    \ Finals/Midterm grader<br/>\n<b>Web/Git</b>:   Webmaster <br/>\n</p>\n</details>\
-    \ Vahid Zehtab Amirmahdi Namjoo Reza Shirkavand Afshin Karimi Elahe Akbari Kourosh\
-    \ Shariat Ehsan Pajhouheshgar Ainaz Eftekhar Ali Rabiee Rouzbeh Meshkinnejad Armin\
-    \ Saadat Alireza Dizaji Zeinab Sadat Saghi Mohammad Mahdi Jarrahi Sara Rajabzadeh\
-    \ Parsa Eskandar Mehrdad Saberi"
+  content: "Amirmahdi Namjoo <p>As Elon Musk puts it:</p>\n<blockquote>\n<p>... it\u2019\
+    s very important to have a feedback loop, where you\u2019re constantly thinking\
+    \ about what you\u2019ve done and\n    how you could be doing it better.</p>\n\
+    </blockquote>\n<p>Help us improve by sending us feedback!</p> Mahtab Bigverdi\
+    \ Amin Ravanbakhsh Sepehr Ashrafzadeh Negin Jafari Sadjad Faqfoor Maqrebi Ali\
+    \ J. Alaee Ahmad Salimi Ainaz Eftekhar Matin Khajavi Soroush Vafaie Tabar Armin\
+    \ Moradi Roodabeh Safavi Haniyeh Ehsani Parham Saremi Kimia Yazdani MohammadMahdi\
+    \ Maheri Arvin Azarmina Kimia Talaei Mahdi Erfanian Alireza Tavakkoli Pedram Khorsandi\
+    \ <details>\n<summary>Roles are shortened</summary>\n<p class=\"ps-3\">\n<b>Sup</b>:\
+    \   Supervisor<br/>\n<b>HW &amp; HWR</b>:   Theoretical assignments creator and\
+    \ Reviewer<br/>\n<b>P &amp; PR</b>:   Practical assignments creator and Reviewer<br/>\n\
+    <b>C(O)</b>:   Supplementary content creator and Organizer of the supplementary\n\
+    \    content creators and reviewer<br/>\n<b>LN(O)</b>:   Lecture notes mentor\
+    \ and reviewer and their Organizer<br/>\n<b>Recitation</b>:   Lecture notes mentor\
+    \ and reviewer and their Organizer<br/>\n<b>F/M</b>:   Finals/Midterm grader<br/>\n\
+    <b>Web/Git</b>:   Webmaster <br/>\n</p>\n</details> Sepehr Amini Afshar Parsa\
+    \ Eskandar Aida Ramezani Atoosa Chegini Vahid Zehtab Ali Ghorbanpour Alireza Tajmirriahi\
+    \ Kimia Noorbakhsh <p>Over the years, many enthusiastic volunteer students helped\
+    \ shape this course as it is presented today and created\n    its material. What\
+    \ follows is a list of these amazing people:</p> Shadi Ghasemi Mehrnaz Mofakhami\
+    \ Reza Shirkavand Sina Nadi Leily Goli Pouya Moeini Sara Rajabzadeh Reza Amini\
+    \ Majd Mohsen Larni <p>SUT-AI People</p> Koosha Jaferian Mahbod Majid Nima Fathi\
+    \ Hamidreza Kamkari Mahdi Asmaee Sana Ayromlou Arman Zarei Arash Lagzian Mahsa\
+    \ Dalirrooyfard Mohammad Azizmalayeri Elahe Akbari Mohammad Mahdi Asmae Armin\
+    \ Saadat Amin Meghrazi Afshin Karimi Ehsan Pajhouheshgar Rojhin Nobahari Mohammad\
+    \ Mahdi Jarrahi Nima Jamali Sajjad Shahabi Amir Hossein Ameli Kian Bakhtari Amirmahdi\
+    \ Hosseinabadi Arghavan Rezvani Sara Khosravi <p>List of all TAs and people responsible\
+    \ for Sharif's Artificial Intelligence courses!</p> Soroush Farghadani Zeinab\
+    \ Sadat Saghi Mohammadmahdi Samiee Saber Dinpajhouh Mehrdad Saberi Amirhossein\
+    \ Estiri Shayesteh Arasti Mohammadreza Yazdanifar Alireza Dizaji Kiarash Banihashem\
+    \ Mohammad Saneian Mohammad Mohammadi Matina Mehdizadeh Ali Rabiee Rouzbeh Meshkinnejad\
+    \ Sabrineh Mokhtari Kourosh Shariat Matin Yousefabadi Ali Garjani Fereshteh Forghani\
+    \ Amirhossein Ghobadizadeh"
   description: List of all TAs and people responsible for Sharif's Artificial Intelligence
     courses!
   title: SUT-AI People
@@ -283,6 +283,13 @@ https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_s2022/assignm
   title: Bayesian Networks [sol]
   url: https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_s2022/assignments/A4/HW4
     - solution.zip
+https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_s2022/assignments/A5/HW5-solution.zip:
+  category: S2022, Practical, Theoretical, Solutions
+  content: ''
+  description: <p>Includes solution for 2 practical and 5 theorical questions covering
+    the fifth chapter of the course syllabus (TPMs and ML), released in Spring 2022.</p>
+  title: Temporal Probability Models and Introduction to Machine Learning [sol]
+  url: https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_s2022/assignments/A5/HW5-solution.zip
 https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_s2022/assignments/A6/HW6.zip:
   category: S2022, Practical, Theoretical, Questions
   content: ''

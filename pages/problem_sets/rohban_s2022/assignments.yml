@@ -87,6 +87,14 @@ theoretical:
           released in Spring 2022.
         kind: S2022, Practical, Theoretical, Questions
         icon: fas fa-file-pdf
+        #################################
+      - link: https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_s2022/assignments/A5/HW5-solution.zip
+        text: Temporal Probability Models and Introduction to Machine Learning [sol]
+        description: >
+          Includes solution for 2 practical and 5 theorical questions covering the fifth chapter of the course syllabus (TPMs and ML),
+          released in Spring 2022.
+        kind: S2022, Practical, Theoretical, Solutions 
+        icon: far fa-file-archive
         
   a6:
     label: Assignment 6 - Machine Learning and Nueral Networks

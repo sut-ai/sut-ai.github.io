@@ -146,12 +146,22 @@ current-semester-ce417:
         icon: far fa-file-archive
     a6:
       label: Assignment 6 - Machine Learning and Nueral Networks
-      kind: block
       content:
       - link: https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_s2022/assignments/A6/HW6.zip
         text: Machine learning and neural networks
         description: <p>Includes 2 practical and 6 theorical questions covering the
           sixth chapter of the course syllabus (ML and NN), released in Spring 2022.</p>
+        kind: S2022, Practical, Theoretical, Questions
+        icon: fas fa-file-pdf
+    a7:
+      label: Assignment 7 - Reinforcement Learning
+      kind: block
+      content:
+      - link: https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_s2022/assignments/A7/HW7.zip
+        text: Reinforcement Learning
+        description: <p>Includes 2 practical and 2 theorical questions covering the
+          seventh chapter of the course syllabus (Reinforcement learning)), released
+          in Spring 2022.</p>
         kind: S2022, Practical, Theoretical, Questions
         icon: fas fa-file-pdf
 previous-semesters:

@@ -114,7 +114,7 @@ theoretical:
       - link: https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_s2022/assignments/A7/HW7.zip
         text: Reinforcement Learning
         description: >
-          Includes 2 practical and 2 theorical questions covering the seventh chapter of the course syllabus (Reinforcement learning)),
+          Includes 2 practical and 2 theorical questions covering the seventh chapter of the course syllabus (Reinforcement learning),
           released in Spring 2022.
         kind: S2022, Practical, Theoretical, Questions
         icon: fas fa-file-pdf

@@ -54,7 +54,7 @@ current-semester-ce417:
         kind: S2022, Theoretical, Solutions, Exam, Midterm
         icon: far fa-file-pdf
     final:
-      label: final
+      label: Final
       content:
       - link: https://sut-ai.github.io/resources/problem_sets/rohban_s2022/exams/final.pdf
         text: Final

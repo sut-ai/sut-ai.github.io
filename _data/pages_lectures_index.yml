@@ -356,7 +356,7 @@ chapters:
           - link: https://drive.google.com/file/d/1ndKUp-lhaZoA2c9Eqgs1dzXo-JYeT6Y0/view
             text: Markov Decision Process and its solution (annotated)
             icon: fas fa-file-pdf
-          - link: http://ce.sharif.edu/courses/99-00/1/ce417-2/resources/root/Slides/PDF/Session%2023_24.pdf
+          - link: https://github.com/sut-ai/resources/blob/master/Slides/Session%2023_24.pdf
             text: Markov Decision Processes (MDPs)
             icon: fas fa-file-pdf
             kind: PDF
@@ -380,7 +380,7 @@ chapters:
           - link: https://drive.google.com/file/d/1SpNyKsEIhg6I3A95_tu1aCtdUMdkmPkO/view
             text: Reinforcement Learning (annotated)
             icon: fas fa-file-pdf
-          - link: http://ce.sharif.edu/courses/99-00/1/ce417-2/resources/root/Slides/PDF/Session%2025_26.pdf
+          - link: https://github.com/sut-ai/resources/blob/master/Slides/Session%2025_26.pdf
             text: Reinforcement Learning
             icon: fas fa-file-pdf
             kind: PDF

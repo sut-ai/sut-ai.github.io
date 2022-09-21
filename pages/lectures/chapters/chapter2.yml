@@ -5,7 +5,7 @@
     slides:
       label: Slides
       content:
-        - link: http://ce.sharif.edu/courses/99-00/1/ce417-2/resources/root/Slides/PDF/Session%205.pdf
+        - link: https://github.com/sut-ai/resources/blob/master/Slides/Session%205.pdf
           text: Local Search (Hill Climbing, Beam Search and Simulated Annealing)
           icon: fas fa-file-pdf
     videos:
@@ -24,7 +24,7 @@
     slides:
       label: Slides
       content:
-        - link: http://ce.sharif.edu/courses/99-00/1/ce417-2/resources/root/Slides/PDF/Session%206.pdf
+        - link: https://github.com/sut-ai/resources/blob/master/Slides/Session%206.pdf
           text: Continuous Search (Gradient Descent, Convex Optimization)
           icon: fas fa-file-pdf
     videos:

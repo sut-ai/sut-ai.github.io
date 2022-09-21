@@ -5,10 +5,10 @@
     slides:
       label: Slides
       content:
-        - link: http://ce.sharif.edu/courses/99-00/1/ce417-2/resources/root/Slides/PDF/Session%201.pdf
+        - link: https://github.com/sut-ai/resources/blob/master/Slides/Session%201.pdf
           text: Intro. to AI - Intelligent Agents
           icon: fas fa-file-pdf
-        - link: http://ce.sharif.edu/courses/99-00/1/ce417-2/resources/root/Slides/PDF/Session%202.pdf
+        - link: https://github.com/sut-ai/resources/blob/master/Slides/Session%202.pdf
           text: Uninformed Search
           icon: fas fa-file-pdf
     videos:
@@ -27,10 +27,10 @@
     slides:
       label: Slides
       content:
-        - link: http://ce.sharif.edu/courses/99-00/1/ce417-2/resources/root/Slides/PDF/Session%203.pdf
+        - link: https://github.com/sut-ai/resources/blob/master/Slides/Session%203.pdf
           text: Informed Search (Greedy, A*, IDS*, SMA*)
           icon: fas fa-file-pdf
-        - link: http://ce.sharif.edu/courses/99-00/1/ce417-2/resources/root/Slides/PDF/Session%204.pdf
+        - link: https://github.com/sut-ai/resources/blob/master/Slides/Session%204.pdf
           text: Pattern DBs (heuristic function)
           icon: fas fa-file-pdf
     videos:

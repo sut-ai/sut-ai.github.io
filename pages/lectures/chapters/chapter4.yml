@@ -8,7 +8,7 @@
         - link: https://drive.google.com/file/d/1y5DjTDnPqOW73QIhjCYNW37Z8t5CGHo6/view
           text: Introduction to Bayesian Networks and D-separation (annotated)
           icon: fas fa-file-pdf
-        - link: http://ce.sharif.edu/courses/99-00/1/ce417-2/resources/root/Slides/PDF/Session%2011_12.pdf
+        - link: https://github.com/sut-ai/resources/blob/master/Slides/Session%2011_12.pdf
           text: Intro. to Bayes Nets + Conditional Independence
           icon: fas fa-file-pdf
     videos:
@@ -33,7 +33,7 @@
         - link: https://drive.google.com/file/d/1997HrLkpMFSvNWh3C0pFQpjzVo9SGLQ4/view
           text: Inference and Sampling methods (annotated)
           icon: fas fa-file-pdf
-        - link: http://ce.sharif.edu/courses/99-00/1/ce417-2/resources/root/Slides/PDF/Session%2013_14.pdf
+        - link: https://github.com/sut-ai/resources/blob/master/Slides/Session%2013_14.pdf
           text: Inference in Bayes Nets
           icon: fas fa-file-pdf
     videos:

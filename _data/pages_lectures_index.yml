@@ -121,7 +121,7 @@ chapters:
         slides:
           label: Slides
           content:
-          - link: http://ce.sharif.edu/courses/99-00/1/ce417-2/resources/root/Slides/PDF/Session%207_8.pdf
+          - link: https://github.com/sut-ai/resources/blob/master/Slides/Session%207_8.pdf
             text: Constraint Satisfaction Problems
             icon: fas fa-file-pdf
             kind: PDF
@@ -142,7 +142,7 @@ chapters:
         slides:
           label: Slides
           content:
-          - link: http://ce.sharif.edu/courses/99-00/1/ce417-2/resources/root/Slides/PDF/Session%209_10.pdf
+          - link: https://github.com/sut-ai/resources/blob/master/Slides/Session%209_10.pdf
             text: Adversarial Search
             icon: fas fa-file-pdf
             kind: PDF

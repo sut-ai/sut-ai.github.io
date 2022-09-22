@@ -5,7 +5,7 @@
     slides:
       label: Slides
       content:
-        - link: https://github.com/sut-ai/resources/blob/master/Slides/Session%205.pdf
+        - link: https://sut-ai.github.io/resources/Slides/Session%205.pdf
           text: Local Search (Hill Climbing, Beam Search and Simulated Annealing)
           icon: fas fa-file-pdf
     videos:
@@ -24,7 +24,7 @@
     slides:
       label: Slides
       content:
-        - link: https://github.com/sut-ai/resources/blob/master/Slides/Session%206.pdf
+        - link: https://sut-ai.github.io/resources/Slides/Session%206.pdf
           text: Continuous Search (Gradient Descent, Convex Optimization)
           icon: fas fa-file-pdf
     videos:

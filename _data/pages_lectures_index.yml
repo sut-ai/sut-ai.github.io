@@ -226,7 +226,7 @@ chapters:
           - link: https://drive.google.com/file/d/1LFmm8NkvV2kqypIucJJgp2IermJ7PjTs/view
             text: Hidden Markov Models (HMMs) (annotated)
             icon: fas fa-file-pdf
-          - link: https://github.com/sut-ai/resources/blob/master/Slides/Session%2015_16.pdf
+          - link: https://sut-ai.github.io/resources/Slides/Session%2015_16.pdf
             text: Temporal Probability Models (Markov Models, HMMs and Particle Filtering)
             icon: fas fa-file-pdf
             kind: PDF
@@ -256,11 +256,11 @@ chapters:
           - link: https://drive.google.com/file/d/1r3Ky1n-J0vwqn2UH7jc4-KUQaVZWitPi/view
             text: Decision Tree (annotated)
             icon: fas fa-file-pdf
-          - link: https://github.com/sut-ai/resources/blob/master/Slides/Session%2017.pdf
+          - link: https://sut-ai.github.io/resources/Slides/Session%2017.pdf
             text: Intro. to Machine Learning (key concepts + Naive Bayes classifier)
             icon: fas fa-file-pdf
             kind: PDF
-          - link: https://github.com/sut-ai/resources/blob/master/Slides/Session%2018.pdf
+          - link: https://sut-ai.github.io/resources/Slides/Session%2018.pdf
             text: Decision Trees
             icon: fas fa-file-pdf
             kind: PDF

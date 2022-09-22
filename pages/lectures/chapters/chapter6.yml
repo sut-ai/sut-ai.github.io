@@ -11,10 +11,10 @@
         - link: https://drive.google.com/file/d/1BFZ8zZmeev3pk61n_SN2L5GOpjY-FKtN/view
           text: Perceptron and its learning - MLP (multilayer perceptron) - Convolutional Networks (annotated)
           icon: fas fa-file-pdf
-        - link: https://github.com/sut-ai/resources/blob/master/Slides/Session%2019.pdf
+        - link: https://sut-ai.github.io/resources/Slides/Session%2019.pdf
           text: Regression
           icon: fas fa-file-pdf
-        - link: https://github.com/sut-ai/resources/blob/master/Slides/Session%2020_21.pdf
+        - link: https://sut-ai.github.io/resources/Slides/Session%2020_21.pdf
           text: Neural Networks
           icon: fas fa-file-pdf
     videos:
@@ -39,7 +39,7 @@
         - link: https://drive.google.com/file/d/1xmYlzN_hbkH0o8cKEfkre45AFD7i1hgT/view
           text: Backpropagation algorithm generalization (annotated)
           icon: fas fa-file-pdf
-        - link: https://github.com/sut-ai/resources/blob/master/Slides/Session%2020_21.pdf
+        - link: https://sut-ai.github.io/resources/Slides/Session%2020_21.pdf
           text: Neural Networks
           icon: fas fa-file-pdf
     videos:

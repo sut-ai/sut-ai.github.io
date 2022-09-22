@@ -1,15 +1,15 @@
 /:
   category: Index
-  content: "<p>In this course you will learn what Artificial Intelligence (AI) is,\
-    \ explore use cases and applications of AI, understand AI concepts and terms like\
-    \ machine learning, deep learning and neural networks. You will be exposed to\
-    \ various issues and concerns surrounding AI such as ethics and bias, &amp; jobs,\
-    \ and get advice from experts about learning and starting a career in AI. You\
-    \ will also demonstrate AI in action with a mini project. \nThis course does not\
-    \ require any programming or computer science expertise and is designed to introduce\
-    \ the basics of AI to anyone whether you have a technical background or not.</p>\
-    \ <p>Sharif University of Technology</p> M.H. Rohban M. Soleymani Baghshah <p>Artificial\
-    \ Intelligence Course</p>"
+  content: "<p>Artificial Intelligence Course</p> M. Soleymani Baghshah M.H. Rohban\
+    \ <p>Sharif University of Technology</p> <p>In this course you will learn what\
+    \ Artificial Intelligence (AI) is, explore use cases and applications of AI, understand\
+    \ AI concepts and terms like machine learning, deep learning and neural networks.\
+    \ You will be exposed to various issues and concerns surrounding AI such as ethics\
+    \ and bias, &amp; jobs, and get advice from experts about learning and starting\
+    \ a career in AI. You will also demonstrate AI in action with a mini project.\
+    \ \nThis course does not require any programming or computer science expertise\
+    \ and is designed to introduce the basics of AI to anyone whether you have a technical\
+    \ background or not.</p>"
   description: Sharif University of Technology
   title: Artificial Intelligence Course
   url: /
@@ -21,46 +21,46 @@
   url: /pages/lectures/
 /pages/people/:
   category: Index
-  content: "Ali J. Alaee Reza Amini Majd Arvin Azarmina Pedram Khorsandi Hamidreza\
-    \ Kamkari Nima Fathi Alireza Tajmirriahi Alireza Dizaji Mahsa Dalirrooyfard Sajjad\
-    \ Shahabi Amirhossein Ghobadizadeh Ali Ghorbanpour Mahdi Erfanian Haniyeh Ehsani\
-    \ Sepehr Ashrafzadeh Atoosa Chegini Pouya Moeini Sina Nadi Kiarash Banihashem\
-    \ Matin Yousefabadi Mahtab Bigverdi MohammadMahdi Maheri Ehsan Pajhouheshgar Rojhin\
-    \ Nobahari Shayesteh Arasti Amirmahdi Hosseinabadi Zeinab Sadat Saghi Ainaz Eftekhar\
-    \ Soroush Vafaie Tabar Mahdi Asmaee Sara Khosravi Amir Hossein Ameli Leily Goli\
-    \ Parham Saremi <p>List of all TAs and people responsible for Sharif's Artificial\
-    \ Intelligence courses!</p> Mohammad Azizmalayeri Mohammad Mahdi Asmae Nima Jamali\
-    \ Negin Jafari Mehrdad Saberi Matina Mehdizadeh Mohammadreza Yazdanifar Ahmad\
-    \ Salimi Vahid Zehtab Soroush Farghadani Sana Ayromlou Aida Ramezani Fereshteh\
-    \ Forghani Mohammad Mohammadi Mahbod Majid Alireza Tavakkoli Armin Moradi Amirmahdi\
-    \ Namjoo Roodabeh Safavi Ali Rabiee Sepehr Amini Afshar Kimia Yazdani Rouzbeh\
-    \ Meshkinnejad Afshin Karimi Mohsen Larni Sabrineh Mokhtari <p>As Elon Musk puts\
+  content: "Amin Meghrazi Mohammad Mohammadi Amirmahdi Namjoo Amirhossein Estiri Nima\
+    \ Fathi Arash Lagzian Parham Saremi Mohammadmahdi Samiee Ahmad Salimi Soroush\
+    \ Farghadani Mahtab Bigverdi Sepehr Amini Afshar Armin Moradi Atoosa Chegini Shadi\
+    \ Ghasemi Matin Khajavi Mahsa Dalirrooyfard Sara Rajabzadeh Mohammad Azizmalayeri\
+    \ Reza Amini Majd Arvin Azarmina Armin Saadat Mahdi Erfanian <p>As Elon Musk puts\
     \ it:</p>\n<blockquote>\n<p>... it\u2019s very important to have a feedback loop,\
     \ where you\u2019re constantly thinking about what you\u2019ve done and\n    how\
     \ you could be doing it better.</p>\n</blockquote>\n<p>Help us improve by sending\
-    \ us feedback!</p> Amin Meghrazi Shadi Ghasemi Amirhossein Estiri Ali Garjani\
-    \ <p>Over the years, many enthusiastic volunteer students helped shape this course\
-    \ as it is presented today and created\n    its material. What follows is a list\
-    \ of these amazing people:</p> Parsa Eskandar Elahe Akbari Arghavan Rezvani Kimia\
-    \ Noorbakhsh Arash Lagzian Mohammad Mahdi Jarrahi Amin Ravanbakhsh <p>SUT-AI People</p>\
-    \ Kourosh Shariat Armin Saadat Reza Shirkavand Sadjad Faqfoor Maqrebi Kian Bakhtari\
-    \ Sara Rajabzadeh Mehrnaz Mofakhami Matin Khajavi Saber Dinpajhouh <details>\n\
-    <summary>Roles are shortened</summary>\n<p class=\"ps-3\">\n<b>Sup</b>:   Supervisor<br/>\n\
-    <b>HW &amp; HWR</b>:   Theoretical assignments creator and Reviewer<br/>\n<b>P\
-    \ &amp; PR</b>:   Practical assignments creator and Reviewer<br/>\n<b>C(O)</b>:\
-    \   Supplementary content creator and Organizer of the supplementary\n    content\
-    \ creators and reviewer<br/>\n<b>LN(O)</b>:   Lecture notes mentor and reviewer\
-    \ and their Organizer<br/>\n<b>Recitation</b>:   Lecture notes mentor and reviewer\
-    \ and their Organizer<br/>\n<b>F/M</b>:   Finals/Midterm grader<br/>\n<b>Web/Git</b>:\
-    \   Webmaster <br/>\n</p>\n</details> Mohammad Saneian Mohammadmahdi Samiee Arman\
-    \ Zarei Koosha Jaferian Kimia Talaei"
+    \ us feedback!</p> <p>Over the years, many enthusiastic volunteer students helped\
+    \ shape this course as it is presented today and created\n    its material. What\
+    \ follows is a list of these amazing people:</p> Arghavan Rezvani Matina Mehdizadeh\
+    \ Mahbod Majid Amirhossein Ghobadizadeh Haniyeh Ehsani Alireza Tavakkoli Vahid\
+    \ Zehtab Hamidreza Kamkari Amir Hossein Ameli Parsa Eskandar Kimia Talaei Mohsen\
+    \ Larni Kimia Yazdani Alireza Tajmirriahi Amin Ravanbakhsh Kourosh Shariat Mehrnaz\
+    \ Mofakhami Ainaz Eftekhar Rouzbeh Meshkinnejad Sina Nadi Alireza Dizaji Ehsan\
+    \ Pajhouheshgar Soroush Vafaie Tabar Fereshteh Forghani Mohammad Mahdi Asmae Afshin\
+    \ Karimi Ali Garjani Pedram Khorsandi Ali Rabiee Koosha Jaferian Ali J. Alaee\
+    \ Negin Jafari Saber Dinpajhouh Sepehr Ashrafzadeh <p>SUT-AI People</p> Mahdi\
+    \ Asmaee Shayesteh Arasti Matin Yousefabadi Kiarash Banihashem Mohammadreza Yazdanifar\
+    \ <p>List of all TAs and people responsible for Sharif's Artificial Intelligence\
+    \ courses!</p> Elahe Akbari Sajjad Shahabi Kian Bakhtari Sara Khosravi Amirmahdi\
+    \ Hosseinabadi Roodabeh Safavi Pouya Moeini Aida Ramezani Leily Goli Zeinab Sadat\
+    \ Saghi Kimia Noorbakhsh Mohammad Saneian MohammadMahdi Maheri Arman Zarei Nima\
+    \ Jamali Mohammad Mahdi Jarrahi <details>\n<summary>Roles are shortened</summary>\n\
+    <p class=\"ps-3\">\n<b>Sup</b>:   Supervisor<br/>\n<b>HW &amp; HWR</b>:   Theoretical\
+    \ assignments creator and Reviewer<br/>\n<b>P &amp; PR</b>:   Practical assignments\
+    \ creator and Reviewer<br/>\n<b>C(O)</b>:   Supplementary content creator and\
+    \ Organizer of the supplementary\n    content creators and reviewer<br/>\n<b>LN(O)</b>:\
+    \   Lecture notes mentor and reviewer and their Organizer<br/>\n<b>Recitation</b>:\
+    \   Lecture notes mentor and reviewer and their Organizer<br/>\n<b>F/M</b>:  \
+    \ Finals/Midterm grader<br/>\n<b>Web/Git</b>:   Webmaster <br/>\n</p>\n</details>\
+    \ Sadjad Faqfoor Maqrebi Sabrineh Mokhtari Sana Ayromlou Rojhin Nobahari Ali Ghorbanpour\
+    \ Mehrdad Saberi Reza Shirkavand"
   description: List of all TAs and people responsible for Sharif's Artificial Intelligence
     courses!
   title: SUT-AI People
   url: /pages/people/
 /pages/problem_sets/:
   category: Index
-  content: "<p>Problem Sets</p> <p>Sets of Artificial Intelligence problems</p> <p>CE417\
+  content: "<p>Sets of Artificial Intelligence problems</p> <p>Problem Sets</p> <p>CE417\
     \ - Spring 2022 - Prof. Rohban</p> <p>One of CE-417's goals is to prepare you\
     \ to apply fundamental Artificial Intelligence and \nMachine Learning algorithms\
     \ to semi-realistic tasks and ensure that you have a solid \nunderstanding of\
@@ -147,12 +147,6 @@ https://drive.google.com/file/d/1y5DjTDnPqOW73QIhjCYNW37Z8t5CGHo6/view:
   description: ''
   title: Introduction to Bayesian Networks and D-separation (annotated)
   url: https://drive.google.com/file/d/1y5DjTDnPqOW73QIhjCYNW37Z8t5CGHo6/view
-https://github.com/sut-ai/resources/blob/master/Slides/Session%201.pdf:
-  category: PDF
-  content: ''
-  description: ''
-  title: Intro. to AI - Intelligent Agents
-  url: https://github.com/sut-ai/resources/blob/master/Slides/Session%201.pdf
 https://github.com/sut-ai/resources/blob/master/Slides/Session%2011_12.pdf:
   category: PDF
   content: ''
@@ -189,12 +183,6 @@ https://github.com/sut-ai/resources/blob/master/Slides/Session%2019.pdf:
   description: ''
   title: Regression
   url: https://github.com/sut-ai/resources/blob/master/Slides/Session%2019.pdf
-https://github.com/sut-ai/resources/blob/master/Slides/Session%202.pdf:
-  category: PDF
-  content: ''
-  description: ''
-  title: Uninformed Search
-  url: https://github.com/sut-ai/resources/blob/master/Slides/Session%202.pdf
 https://github.com/sut-ai/resources/blob/master/Slides/Session%2020_21.pdf:
   category: PDF
   content: ''
@@ -213,18 +201,6 @@ https://github.com/sut-ai/resources/blob/master/Slides/Session%2025_26.pdf:
   description: ''
   title: Reinforcement Learning
   url: https://github.com/sut-ai/resources/blob/master/Slides/Session%2025_26.pdf
-https://github.com/sut-ai/resources/blob/master/Slides/Session%203.pdf:
-  category: PDF
-  content: ''
-  description: ''
-  title: Informed Search (Greedy, A*, IDS*, SMA*)
-  url: https://github.com/sut-ai/resources/blob/master/Slides/Session%203.pdf
-https://github.com/sut-ai/resources/blob/master/Slides/Session%204.pdf:
-  category: PDF
-  content: ''
-  description: ''
-  title: Pattern DBs (heuristic function)
-  url: https://github.com/sut-ai/resources/blob/master/Slides/Session%204.pdf
 https://github.com/sut-ai/resources/blob/master/Slides/Session%205.pdf:
   category: PDF
   content: ''
@@ -319,6 +295,30 @@ https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_s2022/assignm
     chapter of the course syllabus (Reinforcement learning), released in Spring 2022.</p>
   title: Reinforcement Learning
   url: https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_s2022/assignments/A7/HW7.zip
+https://sut-ai.github.io/resources/Slides/Session%201.pdf:
+  category: PDF
+  content: ''
+  description: ''
+  title: Intro. to AI - Intelligent Agents
+  url: https://sut-ai.github.io/resources/Slides/Session%201.pdf
+https://sut-ai.github.io/resources/Slides/Session%202.pdf:
+  category: PDF
+  content: ''
+  description: ''
+  title: Uninformed Search
+  url: https://sut-ai.github.io/resources/Slides/Session%202.pdf
+https://sut-ai.github.io/resources/Slides/Session%203.pdf:
+  category: PDF
+  content: ''
+  description: ''
+  title: Informed Search (Greedy, A*, IDS*, SMA*)
+  url: https://sut-ai.github.io/resources/Slides/Session%203.pdf
+https://sut-ai.github.io/resources/Slides/Session%204.pdf:
+  category: PDF
+  content: ''
+  description: ''
+  title: Pattern DBs (heuristic function)
+  url: https://sut-ai.github.io/resources/Slides/Session%204.pdf
 https://sut-ai.github.io/resources/problem_sets/rohban_f2020/assignments/hw1-1/hw1-1.pdf:
   category: F2020, Theoretical, Practical, Questions
   content: ''

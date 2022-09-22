@@ -1,49 +1,35 @@
 /:
   category: Index
-  content: "<p>Artificial Intelligence Course</p> M. Soleymani Baghshah <p>In this\
-    \ course you will learn what Artificial Intelligence (AI) is, explore use cases\
-    \ and applications of AI, understand AI concepts and terms like machine learning,\
-    \ deep learning and neural networks. You will be exposed to various issues and\
-    \ concerns surrounding AI such as ethics and bias, &amp; jobs, and get advice\
-    \ from experts about learning and starting a career in AI. You will also demonstrate\
-    \ AI in action with a mini project. \nThis course does not require any programming\
-    \ or computer science expertise and is designed to introduce the basics of AI\
-    \ to anyone whether you have a technical background or not.</p> <p>Sharif University\
-    \ of Technology</p> M.H. Rohban"
+  content: "<p>In this course you will learn what Artificial Intelligence (AI) is,\
+    \ explore use cases and applications of AI, understand AI concepts and terms like\
+    \ machine learning, deep learning and neural networks. You will be exposed to\
+    \ various issues and concerns surrounding AI such as ethics and bias, &amp; jobs,\
+    \ and get advice from experts about learning and starting a career in AI. You\
+    \ will also demonstrate AI in action with a mini project. \nThis course does not\
+    \ require any programming or computer science expertise and is designed to introduce\
+    \ the basics of AI to anyone whether you have a technical background or not.</p>\
+    \ M. Soleymani Baghshah M.H. Rohban <p>Sharif University of Technology</p> <p>Artificial\
+    \ Intelligence Course</p>"
   description: Sharif University of Technology
   title: Artificial Intelligence Course
   url: /
 /pages/lectures/:
   category: Index
-  content: ' <p>Presented lectures based on subjects</p> <p>Lectures</p>'
+  content: ' <p>Lectures</p> <p>Presented lectures based on subjects</p>'
   description: Presented lectures based on subjects
   title: Lectures
   url: /pages/lectures/
 /pages/people/:
   category: Index
-  content: "Arghavan Rezvani Ali Ghorbanpour Arvin Azarmina <p>Over the years, many\
-    \ enthusiastic volunteer students helped shape this course as it is presented\
-    \ today and created\n    its material. What follows is a list of these amazing\
-    \ people:</p> Amirhossein Estiri Armin Moradi Ehsan Pajhouheshgar Haniyeh Ehsani\
-    \ <p>SUT-AI People</p> Reza Amini Majd Mohammad Mohammadi Arman Zarei Sepehr Amini\
-    \ Afshar Zeinab Sadat Saghi Mahtab Bigverdi Rouzbeh Meshkinnejad Aida Ramezani\
-    \ Atoosa Chegini Mehrdad Saberi Matina Mehdizadeh Alireza Tavakkoli Sadjad Faqfoor\
-    \ Maqrebi Mohammadreza Yazdanifar Kimia Talaei Roodabeh Safavi Soroush Vafaie\
-    \ Tabar Reza Shirkavand Ali Rabiee Alireza Dizaji Alireza Tajmirriahi Sepehr Ashrafzadeh\
-    \ Amin Meghrazi Saber Dinpajhouh Ahmad Salimi Fereshteh Forghani Vahid Zehtab\
-    \ Ali Garjani Armin Saadat Mohammad Mahdi Jarrahi Mohammad Saneian Sara Rajabzadeh\
-    \ Amin Ravanbakhsh Ali J. Alaee Sajjad Shahabi Negin Jafari Shayesteh Arasti Mahsa\
-    \ Dalirrooyfard Mohammad Mahdi Asmae Kian Bakhtari Parham Saremi <p>As Elon Musk\
-    \ puts it:</p>\n<blockquote>\n<p>... it\u2019s very important to have a feedback\
-    \ loop, where you\u2019re constantly thinking about what you\u2019ve done and\n\
-    \    how you could be doing it better.</p>\n</blockquote>\n<p>Help us improve\
-    \ by sending us feedback!</p> Amirmahdi Hosseinabadi Nima Jamali Kourosh Shariat\
-    \ Mehrnaz Mofakhami Leily Goli Ainaz Eftekhar Kimia Yazdani Amirhossein Ghobadizadeh\
-    \ Sina Nadi Hamidreza Kamkari Mahdi Erfanian Rojhin Nobahari Koosha Jaferian Elahe\
-    \ Akbari Soroush Farghadani Nima Fathi <p>List of all TAs and people responsible\
-    \ for Sharif's Artificial Intelligence courses!</p> Kiarash Banihashem Afshin\
-    \ Karimi Sara Khosravi Matin Yousefabadi Pedram Khorsandi Kimia Noorbakhsh Shadi\
-    \ Ghasemi MohammadMahdi Maheri Amir Hossein Ameli Pouya Moeini <details>\n<summary>Roles\
+  content: "MohammadMahdi Maheri Soroush Farghadani Mehrdad Saberi Leily Goli Mohammad\
+    \ Mahdi Asmae Mohammadmahdi Samiee Arash Lagzian Amirhossein Ghobadizadeh Pedram\
+    \ Khorsandi Mahdi Erfanian Sara Khosravi Nima Fathi Rouzbeh Meshkinnejad Atoosa\
+    \ Chegini Elahe Akbari Kimia Talaei Mohammad Saneian Kian Bakhtari Ali J. Alaee\
+    \ Saber Dinpajhouh Sepehr Ashrafzadeh Rojhin Nobahari Sina Nadi Ali Rabiee Haniyeh\
+    \ Ehsani Mohammad Azizmalayeri Matina Mehdizadeh Ehsan Pajhouheshgar Mahbod Majid\
+    \ Shayesteh Arasti Mehrnaz Mofakhami Kiarash Banihashem Amirmahdi Hosseinabadi\
+    \ Reza Amini Majd Sepehr Amini Afshar Ainaz Eftekhar Pouya Moeini Amin Ravanbakhsh\
+    \ Sabrineh Mokhtari Armin Saadat Amirhossein Estiri Ali Garjani <details>\n<summary>Roles\
     \ are shortened</summary>\n<p class=\"ps-3\">\n<b>Sup</b>:   Supervisor<br/>\n\
     <b>HW &amp; HWR</b>:   Theoretical assignments creator and Reviewer<br/>\n<b>P\
     \ &amp; PR</b>:   Practical assignments creator and Reviewer<br/>\n<b>C(O)</b>:\
@@ -51,38 +37,52 @@
     \ creators and reviewer<br/>\n<b>LN(O)</b>:   Lecture notes mentor and reviewer\
     \ and their Organizer<br/>\n<b>Recitation</b>:   Lecture notes mentor and reviewer\
     \ and their Organizer<br/>\n<b>F/M</b>:   Finals/Midterm grader<br/>\n<b>Web/Git</b>:\
-    \   Webmaster <br/>\n</p>\n</details> Mahdi Asmaee Sabrineh Mokhtari Mohsen Larni\
-    \ Arash Lagzian Parsa Eskandar Matin Khajavi Mahbod Majid Sana Ayromlou Mohammadmahdi\
-    \ Samiee Mohammad Azizmalayeri Amirmahdi Namjoo"
+    \   Webmaster <br/>\n</p>\n</details> Nima Jamali Mohammad Mohammadi <p>List of\
+    \ all TAs and people responsible for Sharif's Artificial Intelligence courses!</p>\
+    \ Alireza Dizaji Soroush Vafaie Tabar Hamidreza Kamkari Arvin Azarmina Amir Hossein\
+    \ Ameli Reza Shirkavand Ahmad Salimi Matin Khajavi Kourosh Shariat <p>SUT-AI People</p>\
+    \ Arman Zarei Koosha Jaferian Mohammadreza Yazdanifar Alireza Tavakkoli Mahdi\
+    \ Asmaee Aida Ramezani Mahsa Dalirrooyfard Sajjad Shahabi Sadjad Faqfoor Maqrebi\
+    \ Sana Ayromlou Amirmahdi Namjoo Kimia Yazdani Negin Jafari <p>Over the years,\
+    \ many enthusiastic volunteer students helped shape this course as it is presented\
+    \ today and created\n    its material. What follows is a list of these amazing\
+    \ people:</p> <p>As Elon Musk puts it:</p>\n<blockquote>\n<p>... it\u2019s very\
+    \ important to have a feedback loop, where you\u2019re constantly thinking about\
+    \ what you\u2019ve done and\n    how you could be doing it better.</p>\n</blockquote>\n\
+    <p>Help us improve by sending us feedback!</p> Sara Rajabzadeh Roodabeh Safavi\
+    \ Ali Ghorbanpour Fereshteh Forghani Afshin Karimi Shadi Ghasemi Parham Saremi\
+    \ Mahtab Bigverdi Parsa Eskandar Kimia Noorbakhsh Armin Moradi Matin Yousefabadi\
+    \ Zeinab Sadat Saghi Amin Meghrazi Mohsen Larni Mohammad Mahdi Jarrahi Vahid Zehtab\
+    \ Alireza Tajmirriahi Arghavan Rezvani"
   description: List of all TAs and people responsible for Sharif's Artificial Intelligence
     courses!
   title: SUT-AI People
   url: /pages/people/
 /pages/problem_sets/:
   category: Index
-  content: "<p>Sets of Artificial Intelligence problems</p> <p>CE417 - Spring 2022\
-    \ - Prof. Rohban</p> <p>Problem Sets</p> <p>One of CE-417's goals is to prepare\
-    \ you to apply fundamental Artificial Intelligence and \nMachine Learning algorithms\
-    \ to semi-realistic tasks and ensure that you have a solid \nunderstanding of\
-    \ the fundamentals of AI. The extensive problem sets of the course are \ncurated\
-    \ to serve as a means for achieving this purpose.</p>\n<p>Please upload your answers\
-    \ to Quera on time; otherwise you would not earn any \ncredit for them. Take a\
-    \ note of these points regarding your assignments:</p>\n<ul>\n<li>You will have\
-    \ <strong>7 Assignments</strong> Accounting for 50% of your overall grading</li>\n\
-    <li>You are given <strong>20 \u201Cgrace days\u201D</strong> (self-granted extensions)\
-    \ in total for each assignment,\n  which you can use to give yourself extra time\
-    \ without penalty.</li>\n<li>Every assignment has a hard deadline \u2014 which\
-    \ is <strong>seven</strong> days after the original due date (except for the last\
-    \ assignment \n  which has no delay)\u2014 after which no submission is accepted.\
-    \ </li>\n<li>Delays are calculated hourly; minutes and seconds are rounded up.</li>\n\
-    <li>You can choose how you wish to distribute your grace-days among your assignments\
-    \ at the\n  end of the semester.</li>\n</ul>\n<p>If you have any questions regarding\
-    \ the problems, visit the appropriate forum in Quera. \nKeep in mind that no changes\
-    \ can be made to assignments at the last minute; therefore, please \nhave a look\
-    \ at the questions at least a week before the assignment's due date. No deadline\
-    \ will \nbe extended, and it is entirely on you to manage your \ntime and use\
-    \ your grace days accordingly. Finally, A word of advice, don't procrastinate\
-    \ \neverything up until the deadlines.</p>"
+  content: "<p>Problem Sets</p> <p>Sets of Artificial Intelligence problems</p> <p>One\
+    \ of CE-417's goals is to prepare you to apply fundamental Artificial Intelligence\
+    \ and \nMachine Learning algorithms to semi-realistic tasks and ensure that you\
+    \ have a solid \nunderstanding of the fundamentals of AI. The extensive problem\
+    \ sets of the course are \ncurated to serve as a means for achieving this purpose.</p>\n\
+    <p>Please upload your answers to Quera on time; otherwise you would not earn any\
+    \ \ncredit for them. Take a note of these points regarding your assignments:</p>\n\
+    <ul>\n<li>You will have <strong>7 Assignments</strong> Accounting for 50% of your\
+    \ overall grading</li>\n<li>You are given <strong>20 \u201Cgrace days\u201D</strong>\
+    \ (self-granted extensions) in total for each assignment,\n  which you can use\
+    \ to give yourself extra time without penalty.</li>\n<li>Every assignment has\
+    \ a hard deadline \u2014 which is <strong>seven</strong> days after the original\
+    \ due date (except for the last assignment \n  which has no delay)\u2014 after\
+    \ which no submission is accepted. </li>\n<li>Delays are calculated hourly; minutes\
+    \ and seconds are rounded up.</li>\n<li>You can choose how you wish to distribute\
+    \ your grace-days among your assignments at the\n  end of the semester.</li>\n\
+    </ul>\n<p>If you have any questions regarding the problems, visit the appropriate\
+    \ forum in Quera. \nKeep in mind that no changes can be made to assignments at\
+    \ the last minute; therefore, please \nhave a look at the questions at least a\
+    \ week before the assignment's due date. No deadline will \nbe extended, and it\
+    \ is entirely on you to manage your \ntime and use your grace days accordingly.\
+    \ Finally, A word of advice, don't procrastinate \neverything up until the deadlines.</p>\
+    \ <p>CE417 - Spring 2022 - Prof. Rohban</p>"
   description: Sets of Artificial Intelligence problems
   title: Problem Sets
   url: /pages/problem_sets/
@@ -147,18 +147,6 @@ https://drive.google.com/file/d/1y5DjTDnPqOW73QIhjCYNW37Z8t5CGHo6/view:
   description: ''
   title: Introduction to Bayesian Networks and D-separation (annotated)
   url: https://drive.google.com/file/d/1y5DjTDnPqOW73QIhjCYNW37Z8t5CGHo6/view
-https://github.com/sut-ai/resources/blob/master/Slides/Session%2011_12.pdf:
-  category: PDF
-  content: ''
-  description: ''
-  title: Intro. to Bayes Nets + Conditional Independence
-  url: https://github.com/sut-ai/resources/blob/master/Slides/Session%2011_12.pdf
-https://github.com/sut-ai/resources/blob/master/Slides/Session%2013_14.pdf:
-  category: PDF
-  content: ''
-  description: ''
-  title: Inference in Bayes Nets
-  url: https://github.com/sut-ai/resources/blob/master/Slides/Session%2013_14.pdf
 https://github.com/sut-ai/resources/blob/master/Slides/Session%2015_16.pdf:
   category: PDF
   content: ''
@@ -277,6 +265,18 @@ https://sut-ai.github.io/resources/Slides/Session%201.pdf:
   description: ''
   title: Intro. to AI - Intelligent Agents
   url: https://sut-ai.github.io/resources/Slides/Session%201.pdf
+https://sut-ai.github.io/resources/Slides/Session%2011_12.pdf:
+  category: PDF
+  content: ''
+  description: ''
+  title: Intro. to Bayes Nets + Conditional Independence
+  url: https://sut-ai.github.io/resources/Slides/Session%2011_12.pdf
+https://sut-ai.github.io/resources/Slides/Session%2013_14.pdf:
+  category: PDF
+  content: ''
+  description: ''
+  title: Inference in Bayes Nets
+  url: https://sut-ai.github.io/resources/Slides/Session%2013_14.pdf
 https://sut-ai.github.io/resources/Slides/Session%202.pdf:
   category: PDF
   content: ''

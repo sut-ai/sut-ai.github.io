@@ -2,16 +2,16 @@ theoretical:
   label:
     text: Assignments
     position: top
-#   a1:
-#     label: Assignment 1 - Search
-#     content:
-#       - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2022/assignments/A1/A1.pdf
-#         text: Intelligent Agents, Informed Search, Local Search, Continues Optimization
-#         description: >
-#           Includes 3 practical and 6 theorical questions covering the first chapter of the course syllabus (Intelligent Agents, Informed Search, Local Search, Continues Optimization),
-#           released in Fall 2022.
-#         kind: F2022, Practical, Theoretical, Questions
-#         icon: fas fa-file-pdf
+  a1:
+    label: Assignment 1 - Search
+    content:
+      - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2022/assignments/A1/A1.pdf
+        text: Intelligent Agents, Informed Search, Local Search, Continues Optimization
+        description: >
+          Includes 3 practical and 6 theorical questions covering the first chapter of the course syllabus (Intelligent Agents, Informed Search, Local Search, Continues Optimization),
+          released in Fall 2022.
+        kind: F2022, Practical, Theoretical, Questions
+        icon: fas fa-file-pdf
         #################################
 #       - link: https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_s2022/assignments/A1/HW1_solution.zip
 #         text: Intelligent Agents, Informed Search, Local Search, Continues Optimization [sol]

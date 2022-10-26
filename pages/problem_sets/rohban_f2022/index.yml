@@ -20,6 +20,6 @@ content: |
   be extended, and it is entirely on you to manage your 
   time and use your grace days accordingly. Finally, A word of advice, don't procrastinate 
   everything up until the deadlines.
-# patch-exams: pages/problem_sets/rohban_f2022/exams.yml
-# patch-theoretical: pages/problem_sets/rohban_f2022/theoretical.yml
-# patch-practical: pages/problem_sets/rohban_f2022/practical.yml
+  
+# patch-exam: pages/problem_sets/rohban_f2022/exams.yml
+# patch-assignments: pages/problem_sets/rohban_f2022/assignments.yml

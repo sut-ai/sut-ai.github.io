@@ -43,6 +43,16 @@ current-semester-ce417:
     label:
       text: Assignments
       position: top
+    a1:
+      label: Assignment 1 - Search
+      content:
+      - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2022/assignments/A1/A1.pdf
+        text: Intelligent Agents, Informed Search, Local Search, Continues Optimization
+        description: <p>Includes 3 practical and 6 theorical questions covering the
+          first chapter of the course syllabus (Intelligent Agents, Informed Search,
+          Local Search, Continues Optimization), released in Fall 2022.</p>
+        kind: F2022, Practical, Theoretical, Questions
+        icon: fas fa-file-pdf
 previous-semesters:
   label:
     positon: top

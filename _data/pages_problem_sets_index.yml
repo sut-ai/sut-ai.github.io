@@ -57,28 +57,6 @@ previous-semesters:
   kind: chapters
   content:
   - title: CE417 - Spring 2022 - Prof. Rohban
-    content: "<p>One of CE-417's goals is to prepare you to apply fundamental Artificial\
-      \ Intelligence and \nMachine Learning algorithms to semi-realistic tasks and\
-      \ ensure that you have a solid \nunderstanding of the fundamentals of AI. The\
-      \ extensive problem sets of the course are \ncurated to serve as a means for\
-      \ achieving this purpose.</p>\n<p>Please upload your answers to Quera on time;\
-      \ otherwise you would not earn any \ncredit for them. Take a note of these points\
-      \ regarding your assignments:</p>\n<ul>\n<li>You will have <strong>7 Assignments</strong>\
-      \ Accounting for 50% of your overall grading</li>\n<li>You are given <strong>20\
-      \ \u201Cgrace days\u201D</strong> (self-granted extensions) in total for each\
-      \ assignment,\n  which you can use to give yourself extra time without penalty.</li>\n\
-      <li>Every assignment has a hard deadline \u2014 which is <strong>seven</strong>\
-      \ days after the original due date (except for the last assignment \n  which\
-      \ has no delay)\u2014 after which no submission is accepted. </li>\n<li>Delays\
-      \ are calculated hourly; minutes and seconds are rounded up.</li>\n<li>You can\
-      \ choose how you wish to distribute your grace-days among your assignments at\
-      \ the\n  end of the semester.</li>\n</ul>\n<p>If you have any questions regarding\
-      \ the problems, visit the appropriate forum in Quera. \nKeep in mind that no\
-      \ changes can be made to assignments at the last minute; therefore, please \n\
-      have a look at the questions at least a week before the assignment's due date.\
-      \ No deadline will \nbe extended, and it is entirely on you to manage your \n\
-      time and use your grace days accordingly. Finally, A word of advice, don't procrastinate\
-      \ \neverything up until the deadlines.</p>"
     exam:
       label:
         text: Exams

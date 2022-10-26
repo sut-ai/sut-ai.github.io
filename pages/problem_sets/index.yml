@@ -21,7 +21,6 @@ current-semester-ce417:
   label: CE-417 | Current Semester
   background: images/assignments.jpg
   patch-content: pages/problem_sets/rohban_f2022/index.yml
-#   patch-content: pages/problem_sets/rohban_s2022/index.yml
 
 
 previous-semesters:

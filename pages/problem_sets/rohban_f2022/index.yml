@@ -22,4 +22,4 @@ content: |
   everything up until the deadlines.
   
 # patch-exam: pages/problem_sets/rohban_f2022/exams.yml
-# patch-assignments: pages/problem_sets/rohban_f2022/assignments.yml
+patch-assignments: pages/problem_sets/rohban_f2022/assignments.yml

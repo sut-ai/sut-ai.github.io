@@ -14,7 +14,7 @@ theoretical:
         icon: fas fa-file-archive
         #################################
       - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2022/assignments/A1/HW1_Theoretical_solution.pdf
-        text: Intelligent Agents, Informed Search, Local Search, Continues Optimization [sol]
+        text: Intelligent Agents, Informed Search, Local Search, Continues Optimization [Theoretical sol]
         description: >
           Includes solution for 6 theorical questions covering the first chapter of the course syllabus (Intelligent Agents, Informed Search, Local Search, Continues Optimization),
           released in Fall 2022.

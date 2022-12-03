@@ -71,6 +71,13 @@ current-semester-ce417:
           in Fall 2022.</p>
         kind: F2022, Practical, Theoretical, Questions
         icon: fas fa-file-archive
+      - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2022/assignments/A2/HW2_Theoretical_solution.pdf
+        text: Adversarial Search and CSP [Theoretical sol]
+        description: <p>Includes solution for 5 theorical questions covering the second
+          chapter of the course syllabus (Adversarial Search and CSP), released in
+          Fall 2022.</p>
+        kind: F2022, Theoretical, Solutions
+        icon: far fa-file-pdf
     a3:
       label: Assignment 3 - Bayesian Networks and Temporal Probability Models
       content:

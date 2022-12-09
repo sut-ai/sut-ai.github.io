@@ -101,6 +101,16 @@ current-semester-ce417:
           Models), released in Fall 2022.</p>
         kind: F2022, Practical, Theoretical, Questions
         icon: fas fa-file-archive
+    a4:
+      label: Assignment 4 - Introduction to Machine Learning, Decision Tree, Regression
+      content:
+      - link: https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_f2022/assignments/A4/HW4.zip
+        text: Introduction to Machine Learning, Decision Tree, Regression
+        description: <p>Includes 2 practical and 6 theorical questions covering the
+          third chapter of the course syllabus (Introduction to Machine Learning,
+          Decision Tree, Regression), released in Fall 2022.</p>
+        kind: F2022, Practical, Theoretical, Questions
+        icon: fas fa-file-pdf
 previous-semesters:
   label:
     positon: top

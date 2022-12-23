@@ -20,6 +20,14 @@ theoretical:
           released in Fall 2022.
         kind: F2022, Theoretical, Solutions 
         icon: far fa-file-pdf
+        #################################
+      - link: https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_f2022/assignments/A1/HW1_Practical_solution.zip
+        text: Intelligent Agents, Informed Search, Local Search, Continues Optimization [Practical sol]
+        description: >
+          Includes 3 practical questions covering the first chapter of the course syllabus (Intelligent Agents, Informed Search, Local Search, Continues Optimization),
+          released in Fall 2022.
+        kind: F2022, Practical, Solutions 
+        icon: far fa-file-archive
   a2:
     label: Assignment 2 - Adversarial Search and CSP
     content:
@@ -59,7 +67,8 @@ theoretical:
           Includes 2 practical and 6 theoretical questions covering the third chapter of the course syllabus (Introduction to Machine Learning, Decision Tree, Regression),
           released in Fall 2022.
         kind: F2022, Practical, Theoretical, Questions
-        icon: fas fa-file-pdf
+        icon: fas fa-file-archive
+
   a5:
     label: Assignment 5 - Neural Networks
     content:

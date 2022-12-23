@@ -61,17 +61,17 @@ current-semester-ce417:
       content:
       - link: https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_f2022/assignments/A1/HW1.zip
         text: Intelligent Agents, Informed Search, Local Search, Continues Optimization
-        description: <p>Includes 3 practical and 6 theorical questions covering the
-          first chapter of the course syllabus (Intelligent Agents, Informed Search,
+        description: <p>Includes 3 practical and 6 theoretical questions covering
+          the first chapter of the course syllabus (Intelligent Agents, Informed Search,
           Local Search, Continues Optimization), released in Fall 2022.</p>
         kind: F2022, Practical, Theoretical, Questions
         icon: fas fa-file-archive
       - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2022/assignments/A1/HW1_Theoretical_solution.pdf
         text: Intelligent Agents, Informed Search, Local Search, Continues Optimization
           [Theoretical sol]
-        description: <p>Includes solution for 6 theorical questions covering the first
-          chapter of the course syllabus (Intelligent Agents, Informed Search, Local
-          Search, Continues Optimization), released in Fall 2022.</p>
+        description: <p>Includes solution for 6 theoretical questions covering the
+          first chapter of the course syllabus (Intelligent Agents, Informed Search,
+          Local Search, Continues Optimization), released in Fall 2022.</p>
         kind: F2022, Theoretical, Solutions
         icon: far fa-file-pdf
       - link: https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_f2022/assignments/A1/HW1_Practical_solution.zip
@@ -94,9 +94,9 @@ current-semester-ce417:
         icon: fas fa-file-archive
       - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2022/assignments/A2/HW2_Theoretical_solution.pdf
         text: Adversarial Search and CSP [Theoretical sol]
-        description: <p>Includes solution for 5 theorical questions covering the second
-          chapter of the course syllabus (Adversarial Search and CSP), released in
-          Fall 2022.</p>
+        description: <p>Includes solution for 5 theoretical questions covering the
+          second chapter of the course syllabus (Adversarial Search and CSP), released
+          in Fall 2022.</p>
         kind: F2022, Theoretical, Solutions
         icon: far fa-file-pdf
     a3:
@@ -104,9 +104,9 @@ current-semester-ce417:
       content:
       - link: https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_f2022/assignments/A3/HW3.zip
         text: Bayesian Networks and Temporal Probability Models
-        description: <p>Includes 3 practical and 6 theorical questions covering the
-          third chapter of the course syllabus (Bayesian Networks and Temporal Probability
-          Models), released in Fall 2022.</p>
+        description: <p>Includes 3 practical and 6 theoretical questions covering
+          the third chapter of the course syllabus (Bayesian Networks and Temporal
+          Probability Models), released in Fall 2022.</p>
         kind: F2022, Practical, Theoretical, Questions
         icon: fas fa-file-archive
     a4:
@@ -114,11 +114,20 @@ current-semester-ce417:
       content:
       - link: https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_f2022/assignments/A4/HW4.zip
         text: Introduction to Machine Learning, Decision Tree, Regression
-        description: <p>Includes 2 practical and 6 theorical questions covering the
-          third chapter of the course syllabus (Introduction to Machine Learning,
+        description: <p>Includes 2 practical and 6 theoretical questions covering
+          the third chapter of the course syllabus (Introduction to Machine Learning,
           Decision Tree, Regression), released in Fall 2022.</p>
         kind: F2022, Practical, Theoretical, Questions
         icon: fas fa-file-archive
+    a5:
+      label: Assignment 5 - Neural Networks
+      content:
+      - link: https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_f2022/assignments/A5/theory/A5.pdf
+        text: Neural Networks (Theory)
+        description: <p>Includes 5 theoretical questions covering the third chapter
+          of the course syllabus (Neural Networks), released in Fall 2022.</p>
+        kind: F2022, Theoretical, Questions
+        icon: fas fa-file-pdf
 previous-semesters:
   label:
     positon: top

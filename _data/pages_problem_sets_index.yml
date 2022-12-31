@@ -115,7 +115,7 @@ current-semester-ce417:
       - link: https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_f2022/assignments/A4/HW4.zip
         text: Introduction to Machine Learning, Decision Tree, Regression
         description: <p>Includes 2 practical and 6 theoretical questions covering
-          the third chapter of the course syllabus (Introduction to Machine Learning,
+          the fourth chapter of the course syllabus (Introduction to Machine Learning,
           Decision Tree, Regression), released in Fall 2022.</p>
         kind: F2022, Practical, Theoretical, Questions
         icon: fas fa-file-archive
@@ -123,11 +123,17 @@ current-semester-ce417:
       label: Assignment 5 - Neural Networks
       content:
       - link: https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_f2022/assignments/A5/theory/A5.pdf
-        text: Neural Networks (Theory)
-        description: <p>Includes 5 theoretical questions covering the third chapter
+        text: Neural Networks (Theoretical)
+        description: <p>Includes 5 theoretical questions covering the fifth chapter
           of the course syllabus (Neural Networks), released in Fall 2022.</p>
         kind: F2022, Theoretical, Questions
         icon: fas fa-file-pdf
+      - link: https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_f2022/assignments/A5/practical.zip
+        text: Neural Networks (Practical)
+        description: <p>Includes 2 Practical questions covering the fifth chapter
+          of the course syllabus (Neural Networks), released in Fall 2022.</p>
+        kind: F2022, Practical, Questions
+        icon: fas fa-file-archive
 previous-semesters:
   label:
     positon: top

@@ -23,4 +23,4 @@ config:
 
 patch-syllabus: pages/index/syllabus.yml
 patch-instructors: pages/index/instructors.yml
- 
+

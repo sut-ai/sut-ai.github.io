@@ -147,7 +147,8 @@ current-semester-ce417:
       - link: https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_f2022/assignments/A6/HW6_Practical.zip
         text: Markov Decision Processes and Reinforcement Learning (Practical)
         description: <p>Includes 2 Practical questions covering the sixth chapter
-          of the course syllabus (Neural Networks), released in Fall 2022.</p>
+          of the course syllabus (Markov Decision Processes and Reinforcement Learning),
+          released in Fall 2022.</p>
         kind: F2022, Practical, Questions
         icon: fas fa-file-archive
 previous-semesters:

@@ -104,7 +104,7 @@ theoretical:
         kind: F2022, Practical, Questions
         icon: fas fa-file-archive
         #################################
-      - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2022/assignments/A5/HW5_Theoretical_solution.pdf 
+      - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2022/assignments/A5/theory/HW5_Theoretical_solution.pdf 
         text: Neural Networks [Theoretical sol] (to be released soon)
         description: >
           Includes solution for 5 theoretical questions covering the fifth chapter of the course syllabus (Neural Networks),
@@ -130,7 +130,7 @@ theoretical:
         kind: F2022, Practical, Questions
         icon: fas fa-file-archive
         #################################
-      - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2022/assignments/A6/HW6_Theoretical_solution.pdf 
+      - link: https://sut-ai.github.io/resources/problem_sets/rohban_f2022/assignments/A6/theory/HW6_Theoretical_solution.pdf 
         text: Markov Decision Processes and Reinforcement Learning [Theoretical sol] (to be released soon)
         description: >
           Includes solution for 5 theoretical questions covering the sixth chapter of the course syllabus (Markov Decision Processes and Reinforcement Learning),

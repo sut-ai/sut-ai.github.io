@@ -85,7 +85,7 @@ theoretical:
         kind: F2022, Theoretical, Solutions 
         icon: far fa-file-pdf
         #################################
-        - link: https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_f2022/assignments/A4/HW1_Practical_Solution.zip
+        - link: https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_f2022/assignments/A4/HW4_Practical_Solution.zip
         text: Introduction to Machine Learning, Decision Tree, Regression [Practical sol]
         description: >
           Includes solution for 2 practical questions covering the fourth chapter of the course syllabus (Introduction to Machine Learning, Decision Tree, Regression),

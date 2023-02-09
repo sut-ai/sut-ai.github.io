@@ -91,9 +91,9 @@ current-semester-ce417:
       - link: https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_f2022/assignments/A1/HW1_Practical_solution.zip
         text: Intelligent Agents, Informed Search, Local Search, Continues Optimization
           [Practical sol]
-        description: <p>Includes 3 practical questions covering the first chapter
-          of the course syllabus (Intelligent Agents, Informed Search, Local Search,
-          Continues Optimization), released in Fall 2022.</p>
+        description: <p>Includes solution for 2 practical questions covering the first
+          chapter of the course syllabus (Intelligent Agents, Informed Search, Local
+          Search, Continues Optimization), released in Fall 2022.</p>
         kind: F2022, Practical, Solutions
         icon: far fa-file-archive
     a2:
@@ -130,6 +130,13 @@ current-semester-ce417:
           Models), released in Fall 2022.</p>
         kind: F2022, Theoretical, Solutions
         icon: far fa-file-pdf
+      - link: https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_f2022/assignments/A3/HW3_Practical_Solution.zip
+        text: Bayesian Networks and Temporal Probability Models [Practical sol]
+        description: <p>Includes solution for 3 practical questions covering the third
+          chapter of the course syllabus (Bayesian Networks and Temporal Probability
+          Models), released in Fall 2022.</p>
+        kind: F2022, Practical, Solutions
+        icon: far fa-file-archive
     a4:
       label: Assignment 4 - Introduction to Machine Learning, Decision Tree, Regression
       content:
@@ -148,6 +155,14 @@ current-semester-ce417:
           Decision Tree, Regression), released in Fall 2022.</p>
         kind: F2022, Theoretical, Solutions
         icon: far fa-file-pdf
+      - link: https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_f2022/assignments/A4/HW4_Practical_Solution.zip
+        text: Introduction to Machine Learning, Decision Tree, Regression [Practical
+          sol]
+        description: <p>Includes solution for 2 practical questions covering the fourth
+          chapter of the course syllabus (Introduction to Machine Learning, Decision
+          Tree, Regression), released in Fall 2022.</p>
+        kind: F2022, Practical, Solutions
+        icon: far fa-file-archive
     a5:
       label: Assignment 5 - Neural Networks
       content:

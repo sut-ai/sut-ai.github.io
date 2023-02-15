@@ -2,3 +2,14 @@ theoretical:
   label:
     text: Assignments
     position: top
+  a1:
+    label: Assignment 1 - Search
+    content:
+      - link: https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_s2023/assignments/A1/HW1.zip
+        text: Intelligent Agents, Informed Search, Local Search, Continues Optimization
+        description: >
+          Includes 2 practical and 5 theoretical questions covering the first chapter of the course syllabus (Intelligent Agents, Informed Search, Local Search, Continues Optimization),
+          released in Spring 2023.
+        kind: S2023, Practical, Theoretical, Questions
+        icon: fas fa-file-archive
+        #################################

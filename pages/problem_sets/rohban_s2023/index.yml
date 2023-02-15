@@ -18,8 +18,8 @@ content: |
   Keep in mind that no changes can be made to assignments at the last minute; therefore, please 
   have a look at the questions at least a week before the assignment's due date. No deadline will 
   be extended, and it is entirely on you to manage your 
-  time and use your grace days accordingly. Finally, A word of advice, don't procrastinate 
+  time and use your grace days accordingly. Finally, a word of advice, don't procrastinate 
   everything up until the deadlines.
   
 # patch-exam: pages/problem_sets/rohban_s2023/exams.yml
-# patch-assignments: pages/problem_sets/rohban_s2023/assignments.yml
+patch-assignments: pages/problem_sets/rohban_s2023/assignments.yml

@@ -53,7 +53,7 @@
 
 - name: Sara Khosravi
   role: TA
-  image: images/ta/F2022/khosravi.jpg
+  image: images/ta/F2022/khosravi.jpeg
   contact:
     - icon: fab fa-github
       link: https://github.com/sarakh1999

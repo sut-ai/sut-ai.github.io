@@ -43,7 +43,7 @@
 
 - name: Saba Hashemi
   role: TA
-  image: images/ta/F2022/hashemi.jpg
+  image: images/ta/F2022/hashemi.jpeg
   contact:
     - icon: fab fa-github
       link: https://github.com/savaw

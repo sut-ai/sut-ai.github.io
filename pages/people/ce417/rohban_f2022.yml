@@ -43,6 +43,7 @@
 
 - name: Saba Hashemi
   role: -
+  image: images/ta/F2022/hashemi.jpg
   contact:
     - icon: fab fa-github
       link: https://github.com/savaw
@@ -52,6 +53,7 @@
 
 - name: Sara Khosravi
   role: -
+  image: images/ta/F2022/khosravi.jpg
   contact:
     - icon: fab fa-github
       link: https://github.com/sarakh1999
@@ -62,6 +64,7 @@
 
 - name: Alireza Tajmirriahi
   role: -
+  image: images/ta/F2022/tajmir.jpg
   contact:
     - icon: fab fa-github
       link: https://github.com/AlirezaT99
@@ -72,6 +75,7 @@
 
 - name: AmirPouya Moeini
   role: -
+  image: images/ta/F2022/moeni.jpg
   contact:
     - icon: fab fa-linkedin
       link: https://www.linkedin.com/in/pouya-moeini-472b29177/
@@ -89,6 +93,7 @@
 
 - name: Ali Balapour
   role: -
+  image: images/ta/F2022/Balapour.jpg
   contact:
     - icon: fab fa-github
       link: https://github.com/alibalapour
@@ -97,10 +102,21 @@
     - icon: fas fa-envelope
       link: mailto:alibalapour93.ab@gmail.com
 
+- name: Amin Meghrazi
+  role: -
+  image: images/ta/AminMeghrazi.jpg
+  contact:
+    - icon: fab fa-linkedin
+      link: https://www.linkedin.com/mwlite/in/amin-meghrazi-708671173
+    - icon: fas fa-envelope
+      link: mailto:aminmeghrazi7899@gmail.com
 
+- name: Reza Abdollahzadeh
+  role: -
 
 - name: Feraidoon Mehri
   role: -
+  image: images/ta/F2022/mehri.jpg
   contact:
     - icon: fab fa-github
       link: https://github.com/NightMachinery
@@ -112,6 +128,7 @@
 
 - name: Soroush Jahanzad
   role: -
+  image: images/ta/F2022/jahanzad.jpg
   contact:
     - icon: fab fa-linkedin
       link: https://www.linkedin.com/in/soroush-jahanzad/
@@ -121,6 +138,7 @@
 
 - name: Arya Jalali
   role: -
+  image: images/ta/F2022/jalali.PNG
   contact:
     - icon: fab fa-github
       link: https://github.com/nothatcreative5
@@ -128,6 +146,9 @@
       link: https://www.linkedin.com/in/arya-jalali-3128b9257/
     - icon: fas fa-envelope
       link: mailto:arya.jalali79@sharif.edu
+
+
+
 
 
 - name: Amirhossein Bagheri
@@ -141,6 +162,7 @@
 
 - name: Ali Abbasi
   role: -
+  image: images/ta/F2022/abbasi.jfif
   contact:
     - icon: fab fa-github
       link: https://github.com/a80-abbasi
@@ -150,6 +172,7 @@
 
 - name: Arshan Dalili
   role: -
+  image: images/ta/F2022/dalili.jpg
   contact:
     - icon: fab fa-github
       link: https://github.com/arshandalili
@@ -176,6 +199,7 @@
 
 - name: Amirhosein Javadi
   role: -
+  image: images/ta/F2022/Javadi.jpg
   contact:
     - icon: fab fa-github
       link: https://github.com/Amirhosein-javadi
@@ -187,6 +211,7 @@
 
 - name: Mohammad Mahdi Gheidi
   role: -
+  image: images/ta/F2022/gheidi.jpeg
   contact:
     - icon: fab fa-linkedin
       link: https://www.linkedin.com/in/mahdi-gheidi/
@@ -196,6 +221,7 @@
 
 - name: Mohammadreza Mofayezi
   role: -
+  image: images/ta/F2022/mofayezi.jpg
   contact:
     - icon: fab fa-github
       link: https://github.com/ckoorosh
@@ -207,6 +233,7 @@
 
 - name: Aryan Ahadinia
   role: -
+  image: images/ta/F2022/ahadinia.jpg
   contact:
     - icon: fab fa-github
       link: https://github.com/AryanAhadinia
@@ -216,6 +243,7 @@
 
 - name: Sina Elahimanesh
   role: -
+  image: images/ta/F2022/elahimanesh.jpg
   contact:
     - icon: fab fa-github
       link: https://github.com/SinaElahimanesh
@@ -227,6 +255,7 @@
 
 - name: Amirsadra Abdollahi
   role: -
+  image: images/ta/F2022/abdollahi.jpg
   contact:
     - icon: fab fa-linkedin
       link: http://linkedin.com/in/amirsadra-abdollahi
@@ -236,6 +265,7 @@
       
 - name: Ali Salesi
   role: -
+  image: images/ta/F2022/salesi.jpg
   contact:
     - icon: fab fa-github
       link: https://github.com/AlisaLC/
@@ -246,6 +276,7 @@
 
 - name: Amirreza Mirzaei
   role: -
+  image: images/ta/F2022/armirzaei.jpg
   contact:
     - icon: fab fa-github
       link: https://github.com/amirrezamirzaei
@@ -259,3 +290,12 @@
       link: https://github.com/MJavadHzr
     - icon: fas fa-envelope
       link: mailto:hezarej@gmail.com
+
+- name: Arman Babei
+  role: -
+
+- name: Sayeh Jarollahi
+  role: -
+
+- name: Bardia Mohammadi
+  role: -

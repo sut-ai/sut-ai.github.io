@@ -30,7 +30,7 @@
 
 
 - name: Parham Saremi
-  role: -
+  role: TA
   contact:
     - icon: fab fa-github
       link: https://github.com/parhamsaremi
@@ -42,7 +42,7 @@
 
 
 - name: Saba Hashemi
-  role: -
+  role: TA
   image: images/ta/F2022/hashemi.jpg
   contact:
     - icon: fab fa-github
@@ -52,7 +52,7 @@
 
 
 - name: Sara Khosravi
-  role: -
+  role: TA
   image: images/ta/F2022/khosravi.jpg
   contact:
     - icon: fab fa-github
@@ -63,7 +63,7 @@
       link: mailto:srkhsrv21@gmail.com
 
 - name: Alireza Tajmirriahi
-  role: -
+  role: TA
   image: images/ta/F2022/tajmir.jpg
   contact:
     - icon: fab fa-github
@@ -74,7 +74,7 @@
       link: mailto:tajmirriahia@yahoo.com
 
 - name: AmirPouya Moeini
-  role: -
+  role: TA
   image: images/ta/F2022/moeni.jpg
   contact:
     - icon: fab fa-linkedin
@@ -84,7 +84,7 @@
 
 
 - name: Zahra TehraniNasab
-  role: -
+  role: TA
   contact:
     - icon: fab fa-linkedin
       link: https://www.linkedin.com/in/zahra-tehraninasab/
@@ -92,7 +92,7 @@
 
 
 - name: Ali Balapour
-  role: -
+  role: TA
   image: images/ta/F2022/Balapour.jpg
   contact:
     - icon: fab fa-github
@@ -103,7 +103,7 @@
       link: mailto:alibalapour93.ab@gmail.com
 
 - name: Amin Meghrazi
-  role: -
+  role: TA
   image: images/ta/AminMeghrazi.jpg
   contact:
     - icon: fab fa-linkedin
@@ -112,10 +112,10 @@
       link: mailto:aminmeghrazi7899@gmail.com
 
 - name: Reza Abdollahzadeh
-  role: -
+  role: TA
 
 - name: Feraidoon Mehri
-  role: -
+  role: TA
   image: images/ta/F2022/mehri.jpg
   contact:
     - icon: fab fa-github
@@ -127,7 +127,7 @@
 
 
 - name: Soroush Jahanzad
-  role: -
+  role: TA
   image: images/ta/F2022/jahanzad.jpg
   contact:
     - icon: fab fa-linkedin
@@ -137,7 +137,7 @@
 
 
 - name: Arya Jalali
-  role: -
+  role: TA
   image: images/ta/F2022/jalali.PNG
   contact:
     - icon: fab fa-github
@@ -152,7 +152,7 @@
 
 
 - name: Amirhossein Bagheri
-  role: -
+  role: TA
   contact:
     - icon: fab fa-github
       link: https://github.com/ahbagheri01
@@ -161,7 +161,7 @@
 
 
 - name: Ali Abbasi
-  role: -
+  role: TA
   image: images/ta/F2022/abbasi.jfif
   contact:
     - icon: fab fa-github
@@ -171,7 +171,7 @@
 
 
 - name: Arshan Dalili
-  role: -
+  role: TA
   image: images/ta/F2022/dalili.jpg
   contact:
     - icon: fab fa-github
@@ -182,14 +182,14 @@
       link: mailto:arshandalili@gmail.com
 
 - name: Mahta Zarean
-  role: -
+  role: TA
   contact:
     - icon: fas fa-envelope
       link: mailto:mahta.zarean@gmail.com
 
 
 - name: M. Taha Jahani-Nezhad
-  role: -
+  role: TA
   contact:
     - icon: fab fa-github
       link: https://github.com/TahaJahani
@@ -198,7 +198,7 @@
 
 
 - name: Amirhosein Javadi
-  role: -
+  role: TA
   image: images/ta/F2022/Javadi.jpg
   contact:
     - icon: fab fa-github
@@ -210,7 +210,7 @@
 
 
 - name: Mohammad Mahdi Gheidi
-  role: -
+  role: TA
   image: images/ta/F2022/gheidi.jpeg
   contact:
     - icon: fab fa-linkedin
@@ -220,7 +220,7 @@
 
 
 - name: Mohammadreza Mofayezi
-  role: -
+  role: TA
   image: images/ta/F2022/mofayezi.jpg
   contact:
     - icon: fab fa-github
@@ -232,7 +232,7 @@
 
 
 - name: Aryan Ahadinia
-  role: -
+  role: TA
   image: images/ta/F2022/ahadinia.jpg
   contact:
     - icon: fab fa-github
@@ -242,7 +242,7 @@
 
 
 - name: Sina Elahimanesh
-  role: -
+  role: TA
   image: images/ta/F2022/elahimanesh.jpg
   contact:
     - icon: fab fa-github
@@ -254,7 +254,7 @@
 
 
 - name: Amirsadra Abdollahi
-  role: -
+  role: TA
   image: images/ta/F2022/abdollahi.jpg
   contact:
     - icon: fab fa-linkedin
@@ -264,7 +264,7 @@
 
       
 - name: Ali Salesi
-  role: -
+  role: TA
   image: images/ta/F2022/salesi.jpg
   contact:
     - icon: fab fa-github
@@ -275,7 +275,7 @@
       link: mailto:ali_sal1381@yahoo.com
 
 - name: Amirreza Mirzaei
-  role: -
+  role: TA
   image: images/ta/F2022/armirzaei.jpg
   contact:
     - icon: fab fa-github
@@ -284,7 +284,7 @@
       link: mailto:amirreza2001@gmail.com
 
 - name: Mohammad Javad Hezareh
-  role: -
+  role: TA
   contact:
     - icon: fab fa-github
       link: https://github.com/MJavadHzr
@@ -292,10 +292,10 @@
       link: mailto:hezarej@gmail.com
 
 - name: Arman Babei
-  role: -
+  role: TA
 
 - name: Sayeh Jarollahi
-  role: -
+  role: TA
 
 - name: Bardia Mohammadi
-  role: -
+  role: TA

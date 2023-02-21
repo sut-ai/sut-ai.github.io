@@ -75,7 +75,7 @@
 
 - name: AmirPouya Moeini
   role: TA
-  image: images/ta/F2022/moeni.jpg
+  image: images/ta/F2022/moeini.jpg
   contact:
     - icon: fab fa-linkedin
       link: https://www.linkedin.com/in/pouya-moeini-472b29177/

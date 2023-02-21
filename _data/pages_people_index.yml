@@ -18,6 +18,294 @@ teams:
   teams:
     kind: chapters
     content:
+    - title: CE417 - Fall 2022 - Prof. Rohban
+      team:
+        style:
+          person:
+            normal_class: col-xl-2 col-lg-2 col-md-3 col-sm-4 col-12 mb-1 mb-lg-0
+        kind: people
+        label: false
+        content:
+        - name: Amirmahdi Namjoo
+          role: Head TA
+          image: /assets/images/ta/F2022/namjoo.jpg
+          contact:
+          - link: https://github.com/titansarus
+            icon: fab fa-github
+          - link: https://www.linkedin.com/in/amirmahdi-namjoo-23b4b9192/
+            icon: fab fa-linkedin
+          - icon: fas fa-envelope
+            link: mailto:amirmahdi.namjoo1@gmail.com
+          kind: person
+        - name: Amirreza Soleiman Beigi
+          role: Head TA
+          contact:
+          - link: https://www.linkedin.com/in/amirreza-soleimanbeigi
+            icon: fab fa-linkedin
+          kind: person
+        - name: Parham Chavoshian
+          role: Head TA
+          image: /assets/images/ta/F2022/chavoshian.jpg
+          contact:
+          - link: https://github.com/parhampch
+            icon: fab fa-github
+          - icon: fas fa-envelope
+            link: parhampch@gmail.com
+          kind: person
+        - name: Parham Saremi
+          role: TA
+          contact:
+          - icon: fab fa-github
+            link: https://github.com/parhamsaremi
+          - icon: fab fa-linkedin
+            link: https://www.linkedin.com/in/parhamsaremi/
+          - icon: fas fa-envelope
+            link: mailto:parhaamsaremi@gmail.com
+          kind: person
+          image: https://github.com/parhamsaremi.png
+        - name: Saba Hashemi
+          role: TA
+          image: /assets/images/ta/F2022/hashemi.jpeg
+          contact:
+          - icon: fab fa-github
+            link: https://github.com/savaw
+          - icon: fab fa-linkedin
+            link: https://www.linkedin.com/in/savaw/
+          kind: person
+        - name: Sara Khosravi
+          role: TA
+          image: /assets/images/ta/F2022/khosravi.jpeg
+          contact:
+          - icon: fab fa-github
+            link: https://github.com/sarakh1999
+          - icon: fab fa-linkedin
+            link: https://www.linkedin.com/in/sara-khosravi-1237991a3/
+          - icon: fas fa-envelope
+            link: mailto:srkhsrv21@gmail.com
+          kind: person
+        - name: Alireza Tajmirriahi
+          role: TA
+          image: /assets/images/ta/F2022/tajmir.jpg
+          contact:
+          - icon: fab fa-github
+            link: https://github.com/AlirezaT99
+          - icon: fab fa-linkedin
+            link: https://www.linkedin.com/in/alireza-tajmirriahi/
+          - icon: fas fa-envelope
+            link: mailto:tajmirriahia@yahoo.com
+          kind: person
+        - name: AmirPouya Moeini
+          role: TA
+          image: /assets/images/ta/F2022/moeini.jpg
+          contact:
+          - icon: fab fa-linkedin
+            link: https://www.linkedin.com/in/pouya-moeini-472b29177/
+          - icon: fas fa-envelope
+            link: mailto:pooyamoini2000@gmail.com
+          kind: person
+        - name: Zahra TehraniNasab
+          role: TA
+          contact:
+          - icon: fab fa-linkedin
+            link: https://www.linkedin.com/in/zahra-tehraninasab/
+          kind: person
+        - name: Ali Balapour
+          role: TA
+          image: /assets/images/ta/F2022/Balapour.jpg
+          contact:
+          - icon: fab fa-github
+            link: https://github.com/alibalapour
+          - icon: fab fa-linkedin
+            link: https://www.linkedin.com/in/alibalapour/
+          - icon: fas fa-envelope
+            link: mailto:alibalapour93.ab@gmail.com
+          kind: person
+        - name: Amin Meghrazi
+          role: TA
+          image: /assets/images/ta/AminMeghrazi.jpg
+          contact:
+          - icon: fab fa-linkedin
+            link: https://www.linkedin.com/mwlite/in/amin-meghrazi-708671173
+          - icon: fas fa-envelope
+            link: mailto:aminmeghrazi7899@gmail.com
+          kind: person
+        - name: Reza Abdollahzadeh
+          role: TA
+          kind: person
+        - name: Feraidoon Mehri
+          role: TA
+          image: /assets/images/ta/F2022/mehri.jpg
+          contact:
+          - icon: fab fa-github
+            link: https://github.com/NightMachinery
+          - icon: fab fa-linkedin
+            link: https://www.linkedin.com/in/feraidoon-mehri
+          - icon: fas fa-envelope
+            link: mailto:feraidoonmehri@gmail.com
+          kind: person
+        - name: Soroush Jahanzad
+          role: TA
+          image: /assets/images/ta/F2022/jahanzad.jpg
+          contact:
+          - icon: fab fa-linkedin
+            link: https://www.linkedin.com/in/soroush-jahanzad/
+          - icon: fas fa-envelope
+            link: mailto:SoroushJahanzad@gmail.com
+          kind: person
+        - name: Arya Jalali
+          role: TA
+          image: /assets/images/ta/F2022/jalali.PNG
+          contact:
+          - icon: fab fa-github
+            link: https://github.com/nothatcreative5
+          - icon: fab fa-linkedin
+            link: https://www.linkedin.com/in/arya-jalali-3128b9257/
+          - icon: fas fa-envelope
+            link: mailto:arya.jalali79@sharif.edu
+          kind: person
+        - name: Amirhossein Bagheri
+          role: TA
+          contact:
+          - icon: fab fa-github
+            link: https://github.com/ahbagheri01
+          - icon: fas fa-envelope
+            link: mailto:ahbagheri01@gmail.com
+          kind: person
+          image: https://github.com/ahbagheri01.png
+        - name: Ali Abbasi
+          role: TA
+          image: /assets/images/ta/F2022/abbasi.jfif
+          contact:
+          - icon: fab fa-github
+            link: https://github.com/a80-abbasi
+          - icon: fas fa-envelope
+            link: mailto:a80.abbasi@gmail.com
+          kind: person
+        - name: Arshan Dalili
+          role: TA
+          image: /assets/images/ta/F2022/dalili.jpg
+          contact:
+          - icon: fab fa-github
+            link: https://github.com/arshandalili
+          - icon: fab fa-linkedin
+            link: https://www.linkedin.com/in/arshandalili
+          - icon: fas fa-envelope
+            link: mailto:arshandalili@gmail.com
+          kind: person
+        - name: Mahta Zarean
+          role: TA
+          contact:
+          - icon: fas fa-envelope
+            link: mailto:mahta.zarean@gmail.com
+          kind: person
+        - name: M. Taha Jahani-Nezhad
+          role: TA
+          contact:
+          - icon: fab fa-github
+            link: https://github.com/TahaJahani
+          - icon: fas fa-envelope
+            link: mailto:Taha7900@gmail.com
+          kind: person
+          image: https://github.com/TahaJahani.png
+        - name: Amirhosein Javadi
+          role: TA
+          image: /assets/images/ta/F2022/Javadi.jpg
+          contact:
+          - icon: fab fa-github
+            link: https://github.com/Amirhosein-javadi
+          - icon: fab fa-linkedin
+            link: https://www.linkedin.com/in/amirhosein-javadi/
+          - icon: fas fa-envelope
+            link: mailto:javadiamirhosein.2000@gmail.com
+          kind: person
+        - name: Mohammad Mahdi Gheidi
+          role: TA
+          image: /assets/images/ta/F2022/gheidi.jpeg
+          contact:
+          - icon: fab fa-linkedin
+            link: https://www.linkedin.com/in/mahdi-gheidi/
+          - icon: fas fa-envelope
+            link: mailto:gheidimahdi@gmail.com
+          kind: person
+        - name: Mohammadreza Mofayezi
+          role: TA
+          image: /assets/images/ta/F2022/mofayezi.jpg
+          contact:
+          - icon: fab fa-github
+            link: https://github.com/ckoorosh
+          - icon: fab fa-linkedin
+            link: https://www.linkedin.com/in/marmofayezi/
+          - icon: fas fa-envelope
+            link: mailto:mofayezi.m@gmail.com
+          kind: person
+        - name: Aryan Ahadinia
+          role: TA
+          image: /assets/images/ta/F2022/ahadinia.jpg
+          contact:
+          - icon: fab fa-github
+            link: https://github.com/AryanAhadinia
+          - icon: fab fa-linkedin
+            link: https://www.linkedin.com/in/ahadinia
+          kind: person
+        - name: Sina Elahimanesh
+          role: TA
+          image: /assets/images/ta/F2022/elahimanesh.jpg
+          contact:
+          - icon: fab fa-github
+            link: https://github.com/SinaElahimanesh
+          - icon: fab fa-linkedin
+            link: https://www.linkedin.com/in/sina-elahimanesh
+          - icon: fas fa-envelope
+            link: mailto:tajmirriahia@yahoo.com
+          kind: person
+        - name: Amirsadra Abdollahi
+          role: TA
+          image: /assets/images/ta/F2022/abdollahi.jpg
+          contact:
+          - icon: fab fa-linkedin
+            link: http://linkedin.com/in/amirsadra-abdollahi
+          - icon: fas fa-envelope
+            link: mailto:abdollahiamirsadra@gmail.com
+          kind: person
+        - name: Ali Salesi
+          role: TA
+          image: /assets/images/ta/F2022/salesi.jpg
+          contact:
+          - icon: fab fa-github
+            link: https://github.com/AlisaLC/
+          - icon: fab fa-linkedin
+            link: https://www.linkedin.com/in/alisalesi/
+          - icon: fas fa-envelope
+            link: mailto:ali_sal1381@yahoo.com
+          kind: person
+        - name: Amirreza Mirzaei
+          role: TA
+          image: /assets/images/ta/F2022/armirzaei.jpg
+          contact:
+          - icon: fab fa-github
+            link: https://github.com/amirrezamirzaei
+          - icon: fas fa-envelope
+            link: mailto:amirreza2001@gmail.com
+          kind: person
+        - name: Mohammad Javad Hezareh
+          role: TA
+          contact:
+          - icon: fab fa-github
+            link: https://github.com/MJavadHzr
+          - icon: fas fa-envelope
+            link: mailto:hezarej@gmail.com
+          kind: person
+          image: https://github.com/MJavadHzr.png
+        - name: Arman Babei
+          role: TA
+          kind: person
+        - name: Sayeh Jarollahi
+          role: TA
+          kind: person
+        - name: Bardia Mohammadi
+          role: TA
+          kind: person
+      kind: Index
     - title: CE417 - Fall 2021 - Prof. Rohban
       team:
         style:

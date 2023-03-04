@@ -13,3 +13,14 @@ theoretical:
         kind: S2023, Practical, Theoretical, Questions
         icon: fas fa-file-archive
         #################################
+  a2:
+    label: Assignment 2 - Adversarial Search and CSP
+    content:
+      - link: https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_s2023/assignments/A2/HW2.zip
+        text: Adversarial Search and CSP
+        description: >
+          Includes 2 practical and 5 theoretical questions covering the second chapter of the course syllabus (Adversarial Search and CSP),
+          released in Spring 2023.
+        kind: S2023, Practical, Theoretical, Questions
+        icon: fas fa-file-archive
+        #################################

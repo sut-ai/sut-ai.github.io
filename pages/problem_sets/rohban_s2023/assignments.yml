@@ -12,6 +12,13 @@ theoretical:
           released in Spring 2023.
         kind: S2023, Practical, Theoretical, Questions
         icon: fas fa-file-archive
+      - link: https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_s2023/assignments/A1/HW1-Solution.zip
+        text: Intelligent Agents, Informed Search, Local Search, Continues Optimization [sol]
+        description: >
+          Includes solution for 2 practical and 5 theoretical questions covering the first chapter of the course syllabus (Intelligent Agents, Informed Search, Local Search, Continues Optimization),
+          released in Spring 2023.
+        kind: S2023, Practical, Theoretical, Solutions 
+        icon: far fa-file-archive
         #################################
   a2:
     label: Assignment 2 - Adversarial Search and CSP

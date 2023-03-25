@@ -67,6 +67,16 @@ current-semester-ce417:
           released in Spring 2023.</p>
         kind: S2023, Practical, Theoretical, Questions
         icon: fas fa-file-archive
+    a3:
+      label: Assignment 3 - Markov Decision Processes and Reinforcement Learning
+      content:
+      - link: https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_s2023/assignments/A3/HW3.zip
+        text: Markov Decision Processes and Reinforcement Learning
+        description: <p>Includes 2 practical and 5 theoretical questions covering
+          the second chapter of the course syllabus (Markov Decision Processes and
+          Reinforcement Learning), released in Spring 2023.</p>
+        kind: S2023, Practical, Theoretical, Questions
+        icon: fas fa-file-archive
 previous-semesters:
   label:
     positon: top

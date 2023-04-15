@@ -68,7 +68,7 @@ current-semester-ce417:
         kind: S2023, Practical, Theoretical, Questions
         icon: fas fa-file-archive
       - link: https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_s2023/assignments/A2/HW2-Solution.zip
-        text: Adversarial Search and CSP
+        text: Adversarial Search and CSP [sol]
         description: <p>Includes solution for 2 practical and 5 theoretical questions
           covering the second chapter of the course syllabus (Adversarial Search and
           CSP), released in Spring 2023.</p>

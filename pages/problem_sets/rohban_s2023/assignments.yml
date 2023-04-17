@@ -37,7 +37,7 @@ theoretical:
           Includes solution for 2 practical and 5 theoretical questions covering the second chapter of the course syllabus (Adversarial Search and CSP),
           released in Spring 2023.
         kind: S2023, Practical, Theoretical, Solutions
-        icon: fas fa-file-archive
+        icon: far fa-file-archive
         #################################
   a3:
     label: Assignment 3 - Markov Decision Processes and Reinforcement Learning

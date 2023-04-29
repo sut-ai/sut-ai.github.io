@@ -45,7 +45,18 @@ theoretical:
       - link: https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_s2023/assignments/A3/HW3.zip
         text: Markov Decision Processes and Reinforcement Learning
         description: >
-          Includes 2 practical and 5 theoretical questions covering the second chapter of the course syllabus (Markov Decision Processes and Reinforcement Learning),
+          Includes 2 practical and 5 theoretical questions covering the third chapter of the course syllabus (Markov Decision Processes and Reinforcement Learning),
+          released in Spring 2023.
+        kind: S2023, Practical, Theoretical, Questions
+        icon: fas fa-file-archive
+        #################################
+  a4:
+    label: Assignment 4 - Bayesian Networks and Temporal Probability Models
+    content:
+      - link: https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_s2023/assignments/A4/HW4.zip
+        text: Bayesian Networks and Temporal Probability Models
+        description: >
+          Includes 1 practical and 5 theoretical questions covering the fourth chapter of the course syllabus (Bayesian Networks and Temporal Probability Models),
           released in Spring 2023.
         kind: S2023, Practical, Theoretical, Questions
         icon: fas fa-file-archive

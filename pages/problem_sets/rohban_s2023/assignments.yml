@@ -53,7 +53,7 @@ theoretical:
       - link: https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_s2023/assignments/A3/HW3-Solution.zip
         text: Markov Decision Processes and Reinforcement Learning [sol]
         description: >
-          Includes solution for 5 theoretical questions covering the third chapter of the course syllabus (Markov Decision Processes and Reinforcement Learning),
+          Includes solution for 2 practical and 5 theoretical questions covering the third chapter of the course syllabus (Markov Decision Processes and Reinforcement Learning),
           released in Spring 2023.
         kind: S2023, Practical, Theoretical, Solutions
         icon: far fa-file-archive

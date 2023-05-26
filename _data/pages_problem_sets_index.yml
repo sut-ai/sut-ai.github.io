@@ -127,6 +127,16 @@ current-semester-ce417:
           Probability Models), released in Spring 2023.</p>
         kind: S2023, Practical, Theoretical, Questions
         icon: fas fa-file-archive
+    a5:
+      label: Assignment 5 - Introduction to Machine Learning, Decision Tree, Regression
+      content:
+      - link: https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_s2023/assignments/A5/HW5.zip
+        text: Introduction to Machine Learning, Decision Tree, Regression
+        description: <p>Includes 2 practical and 4 theoretical questions covering
+          the fifth chapter of the course syllabus (Introduction to Machine Learning,
+          Decision Tree, Regression), released in Spring 2023.</p>
+        kind: S2023, Practical, Theoretical, Questions
+        icon: fas fa-file-archive
 previous-semesters:
   label:
     positon: top

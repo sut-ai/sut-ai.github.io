@@ -69,6 +69,14 @@ theoretical:
         kind: S2023, Practical, Theoretical, Questions
         icon: fas fa-file-archive
         #################################
+      - link: https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_s2023/assignments/A4/HW4-Solution.zip
+        text: Bayesian Networks and Temporal Probability Models [sol]
+        description: >
+          Includes solution for 5 theoretical questions covering the fourth chapter of the course syllabus (Bayesian Networks and Temporal Probability Models),
+          released in Spring 2023.
+        kind: S2023, Practical, Theoretical, Solutions
+        icon: far fa-file-archive
+        #################################
   a5:
     label: Assignment 5 - Introduction to Machine Learning, Decision Tree, Regression
     content:

@@ -11,6 +11,18 @@ exam:
           Quiz 1 exam of S2023 course.
         kind: S2023, Theoretical, Exam, Quiz, Questions
         icon: fas fa-file-pdf
+      - link: https://sut-ai.github.io/resources/problem_sets/rohban_s2023/exams/Quiz2.pdf
+        text: Quiz 2
+        description: >
+          Quiz 2 exam of S2023 course.
+        kind: S2023, Theoretical, Exam, Quiz, Questions
+        icon: fas fa-file-pdf
+      - link: https://sut-ai.github.io/resources/problem_sets/rohban_s2023/exams/Quiz2-Solution.pdf
+        text: Quiz 2 [sol]
+        description: >
+          Solution for S2023 quiz2 exam.
+        kind: S2023, Theoretical, Exam, Quiz, Questions
+        icon: fas fa-file-pdf
   midterm:
     label: Midterm
     content:

@@ -88,3 +88,22 @@ theoretical:
         kind: S2023, Practical, Theoretical, Questions
         icon: fas fa-file-archive
         #################################
+  a6:
+    label: Assignment 6 - Neural Networks
+    content:
+      - link: https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_s2023/assignments/A6/HW4.pdf
+        text: Neural Networks
+        description: >
+          Includes 7 theoretical questions covering the sixth chapter of the course syllabus (Neural Networks),
+          released in Spring 2023.
+        kind: S2023, Theoretical, Questions
+        icon: fas fa-file-pdf
+        #################################
+      - link: https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_s2023/assignments/A6/HW6-Solution.pdf
+        text: Neural Networks [sol]
+        description: >
+          Includes solution for 7 theoretical questions covering the sixth chapter of the course syllabus (Neural Networks),
+          released in Spring 2023.
+        kind: S2023, Theoretical, Solutions
+        icon: far fa-file-pdf
+        #################################

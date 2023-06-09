@@ -157,7 +157,7 @@ current-semester-ce417:
     a6:
       label: Assignment 6 - Neural Networks
       content:
-      - link: https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_s2023/assignments/A6/HW4.pdf
+      - link: https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_s2023/assignments/A6/HW6.pdf
         text: Neural Networks
         description: <p>Includes 7 theoretical questions covering the sixth chapter
           of the course syllabus (Neural Networks), released in Spring 2023.</p>

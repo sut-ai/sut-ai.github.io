@@ -154,6 +154,13 @@ current-semester-ce417:
           Decision Tree, Regression), released in Spring 2023.</p>
         kind: S2023, Practical, Theoretical, Questions
         icon: fas fa-file-archive
+      - link: https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_s2023/assignments/A5/HW5-Solution.pdf
+        text: Introduction to Machine Learning, Decision Tree, Regression [sol]
+        description: <p>Includes solution for 4 theoretical questions covering the
+          fifth chapter of the course syllabus (Introduction to Machine Learning,
+          Decision Tree, Regression), released in Spring 2023.</p>
+        kind: S2023, Theoretical, Solutions
+        icon: far fa-file-pdf
     a6:
       label: Assignment 6 - Neural Networks
       content:

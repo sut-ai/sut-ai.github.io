@@ -71,6 +71,20 @@ current-semester-ce417:
         description: <p>Solutions for S2023 midterm exam.</p>
         kind: S2023, Theoretical, Solutions, Exam, Midterm
         icon: far fa-file-pdf
+    final:
+      label: Final
+      content:
+      - link: https://sut-ai.github.io/resources/problem_sets/rohban_s2023/exams/Final.pdf
+        text: Final
+        description: <p>Final exam of S2023 course covering from Bayesian Networks
+          up to the end of the course syllabus.</p>
+        kind: S2023, Theoretical, Exam, Final, Questions
+        icon: fas fa-file-pdf
+      - link: https://sut-ai.github.io/resources/problem_sets/rohban_s2023/exams/Final-Solution.pdf
+        text: Final [sol]
+        description: <p>Solutions for S2023 final exam.</p>
+        kind: S2023, Theoretical, Solutions, Exam, Final
+        icon: far fa-file-pdf
   theoretical:
     label:
       text: Assignments

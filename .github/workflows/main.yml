@@ -15,9 +15,10 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Webify
-        uses: webifier/build@master
+        uses: mahdi-jfri/build@master
         with:
           baseurl: ''
+          templates_dir: templates
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3

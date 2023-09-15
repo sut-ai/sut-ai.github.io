@@ -1,4 +1,8 @@
 instructors:
+  label:
+    text: Instructors
+    extra_styles: text-primary fs-4 mb-2
+  inline: true
   background: images/header-bg.jpg
   content:
     label: false

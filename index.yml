@@ -1,14 +1,5 @@
 title: SUT-AI | Home
 
-header:
-  title: Artificial Intelligence Course
-  # todo put sth else?
-  description: Sharif University of Technology
-  background: images/header-bg.jpg
-
-footer:
-  background: images/header-bg.jpg
-
 # navbar
 nav:
   patch: pages/index/nav.yml

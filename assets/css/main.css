@@ -1,0 +1,33 @@
+:root {
+    --ai-primary: #155b8d;
+    --ai-primary-text: white;
+    --ai-primary-text-dimmed: rgba(255, 255, 255, 0.82);
+}
+
+.bg-primary {
+    background-color: var(--ai-primary) !important;
+    color: var(--ai-primary-text) !important;
+}
+
+.on-primary-text {
+    color: var(--ai-primary-text) !important;
+}
+
+.text-primary {
+    color: var(--ai-primary) !important;;
+}
+
+p {
+    text-align: justify;
+}
+
+.icon-quera {
+    position: relative;
+    background-image: url("/assets/quera.png");
+    background-size: cover; /* Adjust as needed */
+    background-repeat: no-repeat; /* Prevent image repetition */
+    display: inline-block;
+    width: 1.25rem;
+    height: 1.25rem;
+    bottom: -0.3125rem;
+}

@@ -5,6 +5,8 @@ nav:
   content:
     - index: index
       text: Home
+    - link: /#schedule
+      text: Schedule
     - index: lectures/index
       text: Lectures
     - index: problem_sets/index

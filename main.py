@@ -87,7 +87,7 @@ class Parser:
         context_path = os.path.join(os.path.dirname(index_path), "context.yml")
         if os.path.exists(context_path):
             with open(context_path) as f:
-                context = yaml.safe_load(f)
+                context = yaml.safe_load(f) or {}
         else:
             context = {}
         context.update(

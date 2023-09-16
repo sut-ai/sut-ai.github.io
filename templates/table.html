@@ -1,0 +1,47 @@
+{% macro table(table_data, title, id) %}
+<div id="{{ id }}">
+    <div class="text-primary font-bold mb-4 text-2xl">{{ title }}</div>
+    <table class="flex flex-row flex-no-wrap sm:bg-white md:inline-table">
+      <colgroup>
+        {% set total = sum_attr(table_data.columns.values(), 'size') %}
+        {% for col_data in table_data.columns.values() %}
+          <col style="width: {{ col_data['size'] / total }}%">
+        {% endfor %}
+      </colgroup>
+      <thead>
+        <tr class="bg-zinc-200 border-b-2 border-b-gray-500 hidden md:table-row">
+          {% for col_data in table_data.columns.values() %}
+            <th class="text-left px-4 py-2">{{ col_data.display_name }}</th>
+          {% endfor %}
+        </tr>
+      </thead>
+      <tbody class="flex-1 md:flex-none">
+          {% for row in table_data.rows %}
+            <tr class="
+              flex flex-col flex-no-wrap md:table-row mb-8 md:mb-0
+              border-2
+              md:border-0
+              {% if not loop.last %}md:border-b-2{% endif %}
+              {% if row.color == 'warning' %}
+              bg-amber-100
+              {% endif %}
+              md:border-b-gray-200"
+            >
+              {% for col_name, col_data in table_data.columns.items() %}
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  <span class="md:hidden">{{ col_data.display_name }}: </span>
+                  <span class="prose">{{ markdown(row[col_name] or '') }}</span>
+                </td>
+              {% endfor %}
+            </tr>
+          {% endfor %}
+      </tbody>
+    </table>
+</div>
+<style>
+  #{{ id }} {
+    margin-top: -5rem;
+    padding-top: 5rem;
+  }
+</style>
+{% endmacro %}

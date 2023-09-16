@@ -1,9 +1,10 @@
 {% extends 'base/main_layout.html' %}
+{% from 'table.html' import table with context %}
 
 {% block content %}
-salam bar to
-  {% for i in range(50) %}
-  <br>
-  {% endfor %}
-  salam
+  <!--Schedule-->
+  {% if schedule_table %}
+    {{ table(schedule_table, 'Schedule', 'schedule') }}
+  {% endif %}
+
 {% endblock %}

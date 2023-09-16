@@ -1,1 +1,60 @@
-something: abc
+schedule_table:
+  columns:
+    date:
+      display_name: Date
+      size: 1
+    description:
+      display_name: Description
+      size: 1
+    materials:
+      display_name: Course Materials
+      size: 3
+    events:
+      display_name: Events
+      size: 1
+    deadlines:
+      display_name: Deadlines
+      size: 1
+  rows:
+    - date: |
+        Tue Jan 10
+        <span class="font-bold text-primary">Week 1</span>
+      description: |
+        Word Vectors (*by John Hewitt*)
+        [[slides](https://google.com)][[notes](https://google.com)]
+      materials:  |
+        Suggested Readings: 
+        - [Efficient Estimation of Word Representations in Vector Space](https://google.com) (original word2vec paper)
+      events: |
+        Assignment 1 <span class="text-green-800 font-bold">out</span>
+        [[code](https://google.com)]
+        [[preview](https://google.com)]
+    - date: Tue Jan 10
+      description: |
+        Word Vectors (by John Hewitt)
+        [[slides](https://google.com)][[notes](https://google.com)]
+      materials:  |
+        Suggested Readings: 
+        - [Efficient Estimation of Word Representations in Vector Space](https://google.com) (original word2vec paper)
+      color: warning
+    - date: Tue Jan 10
+      description: |
+        Word Vectors (by John Hewitt)
+        [[slides](https://google.com)][[notes](https://google.com)]
+      materials:  |
+        Suggested Readings: 
+        - [Efficient Estimation of Word Representations in Vector Space](https://google.com) (original word2vec paper)
+    - date: Tue Jan 10
+      description: |
+        Word Vectors (by John Hewitt)
+        [[slides](https://google.com)][[notes](https://google.com)]
+      materials:  |
+        Suggested Readings: 
+        - [Efficient Estimation of Word Representations in Vector Space](https://google.com) (original word2vec paper)
+    - date: Tue Jan 10
+      description: |
+        Word Vectors (by John Hewitt)
+        [[slides](https://google.com)][[notes](https://google.com)]
+      materials:  |
+        Suggested Readings: 
+        - [Efficient Estimation of Word Representations in Vector Space](https://google.com) (original word2vec paper)

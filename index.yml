@@ -1,5 +1,7 @@
 title: SUT-AI | Home
 
+template: syllabus.html
+
 # navbar
 nav:
   patch: pages/index/nav.yml

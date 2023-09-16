@@ -1,0 +1,13 @@
+nav:
+  brand:
+    text: SUT-AI
+    link: /
+  content:
+    - index: index
+      text: Home
+    - index: lectures/index
+      text: Lectures
+    - index: problem_sets/index
+      text: Problem Sets
+    - index: people/index
+      text: People

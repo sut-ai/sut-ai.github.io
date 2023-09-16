@@ -1,10 +1,16 @@
 {% extends 'base/main_layout.html' %}
 {% from 'table.html' import table with context %}
+{% from 'section.html' import create_section with context %}
 
 {% block content %}
+
+  {% if sections %}
+    {% for section in sections %}
+      {{ create_section(section) }}
+    {% endfor %}
+  {% endif %}
   <!--Schedule-->
   {% if schedule_table %}
     {{ table(schedule_table, 'Schedule', 'schedule') }}
   {% endif %}
-
 {% endblock %}

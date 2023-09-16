@@ -1,5 +1,10 @@
 {% macro table(table_data, title, id) %}
-<div id="{{ id }}">
+<div
+    {% if id %}
+    id="{{ id }}"
+    class="scrollable-section"
+    {% endif %}
+>
     <div class="text-primary font-bold mb-4 text-2xl">{{ title }}</div>
     <table class="flex flex-row flex-no-wrap sm:bg-white md:inline-table">
       <colgroup>
@@ -38,10 +43,4 @@
       </tbody>
     </table>
 </div>
-<style>
-  #{{ id }} {
-    margin-top: -5rem;
-    padding-top: 5rem;
-  }
-</style>
 {% endmacro %}

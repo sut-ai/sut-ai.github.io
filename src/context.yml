@@ -1,3 +1,51 @@
+sections:
+  - title: Content
+    subsections:
+      - title: What is this course about?
+        text: >
+          In this course you will learn what Artificial Intelligence (AI) is, explore use cases and applications of AI,
+          understand AI concepts and terms like machine learning, deep learning and neural networks.
+          You will be exposed to various issues and concerns surrounding AI such as ethics and bias, & jobs,
+          and get advice from experts about learning and starting a career in AI. You will also demonstrate AI
+          in action with a mini project. This course does not require any programming or computer science expertise and
+          is designed to introduce the basics of AI to anyone whether you have a technical background or not.
+      - title: Some random text
+        text: >
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+          magna aliqua. Ut enim ad *minim veniam*, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+          commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+          fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
+          deserunt mollit anim id est laborum
+      - title: Stuff
+        text: >
+          "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti
+          atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique
+          sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum
+          facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil
+          impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor
+          repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut
+          et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente
+          delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis
+          doloribus asperiores repellat."
+  - title: Coursework
+    id: coursework
+    subsections:
+      - title: Assignments (50%)
+        text: |
+          There are five weekly assignments, which will improve both your theoretical understanding and your practical skills. All assignments contain both written questions and programming parts. In office hours, TAs may look at students’ code for assignments 1, 2 and 3 but not for assignments 4 and 5.
+
+          - **Credit**:
+              - Assignment 1 (6%): Introduction to word vectors
+              - Assignment 2 (12%): Derivatives and implementation of word2vec algorithm
+              - Assignment 3 (12%): Dependency parsing and neural network foundations
+              - Assignment 4 (12%): Neural Machine Translation with sequence-to-sequence, attention, and subwords
+              - Assignment 5 (12%): Self-supervised learning and fine-tuning with Transformers
+          - **Deadlines**: All assignments are due on either a Tuesday or a Thursday before class (i.e. before 4:30pm). All deadlines are listed in the schedule.
+          - **Submission**: Assignments are submitted via Gradescope. You will be able to access the course Gradescope page on Canvas. If you need to sign up for a Gradescope account, please use your @stanford.edu email address. Further instructions are given in each assignment handout. Do not email us your assignments.
+          - **Late start**: If the result gives you a higher grade, we will not use your assignment 1 score, and we will give you an assignment grade based on counting each of assignments 2–5 at 13.5%.
+          - **Collaboration**: Study groups are allowed, but students must understand and complete their own assignments, and hand in one assignment per student. If you worked in a group, please put the names of the members of your study group at the top of your assignment. Please ask if you have any questions about the collaboration policy.
+          - **Honor Code**: We expect students to not look at solutions or implementations online. Like all other classes at Stanford, we take the student Honor Code seriously. We sometimes use automated methods to detect overly similar assignment solutions.
+
 schedule_table:
   columns:
     date:
@@ -22,8 +70,9 @@ schedule_table:
       description: |
         Word Vectors (*by John Hewitt*)
         [[slides](https://google.com)][[notes](https://google.com)]
-      materials:  |
-        Suggested Readings: 
+      materials: |
+        Suggested Readings:
+        
         - [Efficient Estimation of Word Representations in Vector Space](https://google.com) (original word2vec paper)
       events: |
         Assignment 1 <span class="text-green-800 font-bold">out</span>
@@ -33,28 +82,32 @@ schedule_table:
       description: |
         Word Vectors (by John Hewitt)
         [[slides](https://google.com)][[notes](https://google.com)]
-      materials:  |
-        Suggested Readings: 
+      materials: |
+        Suggested Readings:
+        
         - [Efficient Estimation of Word Representations in Vector Space](https://google.com) (original word2vec paper)
       color: warning
     - date: Tue Jan 10
       description: |
         Word Vectors (by John Hewitt)
         [[slides](https://google.com)][[notes](https://google.com)]
-      materials:  |
-        Suggested Readings: 
+      materials: |
+        Suggested Readings:
+        
         - [Efficient Estimation of Word Representations in Vector Space](https://google.com) (original word2vec paper)
     - date: Tue Jan 10
       description: |
         Word Vectors (by John Hewitt)
         [[slides](https://google.com)][[notes](https://google.com)]
-      materials:  |
-        Suggested Readings: 
+      materials: |
+        Suggested Readings:
+        
         - [Efficient Estimation of Word Representations in Vector Space](https://google.com) (original word2vec paper)
     - date: Tue Jan 10
       description: |
         Word Vectors (by John Hewitt)
         [[slides](https://google.com)][[notes](https://google.com)]
-      materials:  |
-        Suggested Readings: 
+      materials: |
+        Suggested Readings:
+        
         - [Efficient Estimation of Word Representations in Vector Space](https://google.com) (original word2vec paper)

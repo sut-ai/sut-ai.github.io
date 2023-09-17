@@ -13,5 +13,5 @@ nav:
       text: Lectures
     - index: problem_sets/index
       text: Problem Sets
-    - index: people/index
+    - link: /#people
       text: People

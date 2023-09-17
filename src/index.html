@@ -1,6 +1,7 @@
 {% extends 'base/main_layout.html' %}
 {% from 'table.html' import table with context %}
 {% from 'section.html' import create_section with context %}
+{% from 'people.html' import people_section with context %}
 
 {% block content %}
 
@@ -12,5 +13,9 @@
   <!--Schedule-->
   {% if schedule_table %}
     {{ table(schedule_table, 'Schedule', 'schedule') }}
+  {% endif %}
+  <!--People-->
+  {% if people_data %}
+    {{ people_section(people_data, 'People', 'people') }}
   {% endif %}
 {% endblock %}

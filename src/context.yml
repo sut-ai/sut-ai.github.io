@@ -111,3 +111,46 @@ schedule_table:
         Suggested Readings:
         
         - [Efficient Estimation of Word Representations in Vector Space](https://google.com) (original word2vec paper)
+
+people_data:
+  - role: instructors
+    display_name: Instructors
+    people:
+      - name: M.H. Rohban
+        pic: https://sut-ai.github.io/assets/images/Rohban.jpeg
+        website: https://google.com
+
+      - name: M. Soleymani Baghshah
+        pic: https://sut-ai.github.io/assets/images/Soleymani.jpg
+        website: https://google.com
+
+  - role: assistant
+    display_name: Teaching Assistants
+    people:
+      - name: Olivia Johnson
+        pic: https://sut-ai.github.io/assets/images/Soleymani.jpg
+        website: https://google.com
+
+      - name: Noah Brown
+        pic: https://sut-ai.github.io/assets/images/Rohban.jpeg
+        website: https://google.com
+
+      - name: Emma Wilson
+        pic: https://sut-ai.github.io/assets/images/Soleymani.jpg
+        website: https://google.com
+
+      - name: Jackson Davis
+        pic: https://sut-ai.github.io/assets/images/Rohban.jpeg
+        website: https://google.com
+
+      - name: Ava Martinez
+        pic: https://sut-ai.github.io/assets/images/Soleymani.jpg
+        website: https://google.com
+
+      - name: Ethan Taylor
+        pic: https://sut-ai.github.io/assets/images/Rohban.jpeg
+        website: https://google.com
+
+      - name: Mia Anderson
+        pic: https://sut-ai.github.io/assets/images/Soleymani.jpg
+        website: https://google.com

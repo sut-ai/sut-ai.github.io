@@ -48,69 +48,238 @@ sections:
 
 schedule_table:
   columns:
+    session:
+      display_name: ''
+      size: 1
+      cell_class: text-center
     date:
       display_name: Date
-      size: 1
+      size: 5
     description:
       display_name: Description
-      size: 1
+      size: 8
     materials:
       display_name: Course Materials
-      size: 3
+      size: 16
     events:
       display_name: Events
-      size: 1
+      size: 4
     deadlines:
       display_name: Deadlines
-      size: 1
+      size: 4
   rows:
-    - date: |
-        Tue Jan 10
-        <span class="font-bold text-primary">Week 1</span>
+    - date: Tue Mehr 4
+      session: '1'
       description: |
-        Word Vectors (*by John Hewitt*)
-        [[slides](https://google.com)][[notes](https://google.com)]
-      materials: |
-        Suggested Readings:
-        
-        - [Efficient Estimation of Word Representations in Vector Space](https://google.com) (original word2vec paper)
+        Introduction & Intelligent Agents
+      materials:
+      events:
+    - date: Sun Mehr 9
+      session: '2'
+      description: |
+        Uninformed Search
+      materials:
+      events:
+    - date: Sat Mehr 15
+      session:
       events: |
-        Assignment 1 <span class="text-green-800 font-bold">out</span>
-        [[code](https://google.com)]
-        [[preview](https://google.com)]
-    - date: Tue Jan 10
+        HW1 <span class="text-green-500 font-bold" font-bold">out</span>
+    - date: Sun Mehr 16
+      session: '3'
       description: |
-        Word Vectors (by John Hewitt)
-        [[slides](https://google.com)][[notes](https://google.com)]
+        Informed Search
+      materials:
+    - date: Tue Mehr 18
+      session: '4'
+      description: |
+        Local Search
+      materials:
+      events:
+    - date: Sun Mehr 23
+      session: '5'
+      description: |
+        Search in Continuous spaces
+      materials:
+      events:
+    - date: Tue Mehr 25
+      session: '6'
+      description: |
+        Constraint Satisfaction Problems I
+      materials:
+      events:
+    - date: Sat Mehr 29
+      session:
+      color: deadline
+      deadlines: |
+        HW1 <span class="text-red-500 font-bold">due</span>
+    - date: Sun Mehr 30
+      session: '7'
+      description: |
+        Constraint Satisfaction Problems II
+      materials:
+      events:
+        HW2 <span class="text-green-500 font-bold" font-bold">out</span>
+    - date: Tue Aban 2
+      session: '8'
+      description: |
+        Adversarial Search
+      materials:
+      events:
+    - date: Sun Aban 7
+      session: '9'
+      description: |
+        Markov Decision Process
+      materials:
+      events:
+    - date: Tue Aban 9
+      session: '10'
+      description: |
+        Markov Decision Process: Value Iteration & Policy Iteration
+      materials:
+      events:
+    - date: Sat Aban 13
+      session:
+      color: deadline
+      deadlines: |
+        HW2 <span class="text-red-500 font-bold">due</span>
+    - date: Sun Aban 14
+      session: '11'
+      description: |
+        Reinforcement Learning: Passive
+      materials:
+      events:
+        HW3 <span class="text-green-500 font-bold" font-bold">out</span>
+    - date: Tue Aban 16
+      session: '12'
+      description: |
+        Reinforcement Learning: Active
+      materials:
+      events:
+    - date: Thr Aban 18
+      session:
+      description: |
+        Midterm Exam I
       materials: |
-        Suggested Readings:
-        
-        - [Efficient Estimation of Word Representations in Vector Space](https://google.com) (original word2vec paper)
+        Sessions 1-8
+      events:
       color: warning
-    - date: Tue Jan 10
+    - date: Sun Aban 21
+      session: '13'
       description: |
-        Word Vectors (by John Hewitt)
-        [[slides](https://google.com)][[notes](https://google.com)]
-      materials: |
-        Suggested Readings:
-        
-        - [Efficient Estimation of Word Representations in Vector Space](https://google.com) (original word2vec paper)
-    - date: Tue Jan 10
+        Reinforcement Learning: Approximate
+      materials:
+      events:
+    - date: Tue Aban 23
+      session: '14'
       description: |
-        Word Vectors (by John Hewitt)
-        [[slides](https://google.com)][[notes](https://google.com)]
-      materials: |
-        Suggested Readings:
-        
-        - [Efficient Estimation of Word Representations in Vector Space](https://google.com) (original word2vec paper)
-    - date: Tue Jan 10
+        Uncertainty & Inference
+      materials:
+      events:
+    - date: Sun Aban 28
+      session: '15'
       description: |
-        Word Vectors (by John Hewitt)
-        [[slides](https://google.com)][[notes](https://google.com)]
-      materials: |
-        Suggested Readings:
-        
-        - [Efficient Estimation of Word Representations in Vector Space](https://google.com) (original word2vec paper)
+        Bayesian Networks: Representation
+      materials:
+      events:
+    - date: Tue Aban 30
+      session: '16'
+      description: |
+        Inference in Bayesian Networks: Exact
+      materials:
+      events:
+    - date: Sat Azar 4
+      session:
+      color: deadline
+      deadlines: |
+        HW3 <span class="text-red-500 font-bold">due</span>
+    - date: Sun Azar 5
+      session: '17'
+      description: |
+        Inference in Bayesian Networks: Approximate
+      materials:
+      events:
+        HW4 <span class="text-green-500 font-bold" font-bold">out</span>
+    - date: Tue Azar 7
+      session: '18'
+      description: |
+        Temporal Probability Models: Markov Chains & HMMs
+      materials:
+      events:
+    - date: Sun Azar 12
+      session: '19'
+      description: |
+        Temporal Probability Models: Particle Filters
+      materials:
+      events:
+    - date: Tue Azar 14
+      session: '20'
+      description: |
+        Learning in Bayesian Networks & Naive Bayes
+      materials:
+      events:
+    - date: Sun Azar 19
+      session: '21'
+      description: |
+        Decision Tree
+      materials:
+      events:
+    - date: Tue Azar 21
+      session: '22'
+      description: |
+        Concepts of Machine Learning
+      materials:
+      events:
+    - date: Sat Azar 25
+      session:
+      color: deadline
+      deadlines: |
+        HW3 <span class="text-red-500 font-bold">due</span>
+    - date: Sun Azar 26
+      session:
+      events: |
+        HW5 <span class="text-green-500 font-bold" font-bold">out</span>
+    - date: Tue Azar 28
+      session: '23'
+      description: |
+         Regression & Optimization
+      materials:
+      events:
+    - date: Thr Azar 30
+      session:
+      description: |
+         Midterm Exam II
+      materials: Sessions 9-19
+      events:
+      color: warning
+    - date: Sun Dey 3
+      session: '24'
+      description: |
+         Perceptron
+      materials:
+      events:
+    - date: Tue Dey 5
+      session: '25'
+      description: |
+         Neural Networks I
+      materials:
+      events:
+    - date: Sun Dey 10
+      session: '26'
+      description: |
+         Neural Networks II
+      materials:
+      events:
+    - date: Tue Dey 12
+      session: '27'
+      description: |
+         Applications
+      materials:
+      events:
+    - date: Fri Dey 22
+      session:
+      color: deadline
+      deadlines: |
+        HW5 <span class="text-red-500 font-bold">due</span>
 
 people_data:
   - role: instructors

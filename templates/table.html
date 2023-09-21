@@ -36,7 +36,9 @@
             >
               {% for col_name, col_data in table_data.columns.items() %}
                 <td class="px-4 py-2 border-b-2 md:border-0">
-                  <span class="md:hidden">{{ col_data.display_name }}: </span>
+                  {% if col_data.display_name %}
+                    <span class="md:hidden">{{ col_data.display_name }}: </span>
+                  {% endif %}
                   <span class="prose {{ col_data.cell_class }}">{{ markdown(row[col_name] or '') }}</span>
                 </td>
               {% endfor %}

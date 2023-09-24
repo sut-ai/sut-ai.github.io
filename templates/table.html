@@ -1,11 +1,11 @@
-{% macro table(table_data, title, id) %}
+{% macro create_table(table_data) %}
 <div
-    {% if id %}
-    id="{{ id }}"
+    {% if table_data.id %}
+    id="{{ table_data.id }}"
     class="scrollable-section"
     {% endif %}
 >
-    <div class="text-primary font-bold mb-4 text-2xl">{{ title }}</div>
+    <div class="text-primary font-bold mb-4 text-2xl">{{ table_data.title }}</div>
     <table class="flex flex-row flex-no-wrap sm:bg-white md:inline-table">
       <colgroup>
         {% set total = sum_attr(table_data.columns.values(), 'size') %}

@@ -1,25 +1,29 @@
-{% macro people_section(people_data, title, id) %}
+{% macro create_people(people_data) %}
 <div
-        {% if id %}
-        id="{{ id }}"
+        {% if people_data.id %}
+        id="{{ people_data.id }}"
         class="scrollable-section"
         {% endif %}
 >
 
-  <div class="text-primary font-bold mb-4 text-2xl">{{ title }}</div>
+  <div class="text-primary font-bold mb-4 text-2xl">{{ people_data.title }}</div>
   <div class="mb-5"></div>
-  {% for role in people_data %}
-  <div class="text-primary font-bold mb-4 text-lg">{{ role.display_name }}</div>
+  {% for role in people_data.people_data %}
+  <div class="text-primary font-bold mb-4 text-xl">{{ role.display_name }}</div>
   <div class="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-6">
     {% for person in role.people %}
     <div class="bg-white rounded-lg overflow-hidden text-center p-2">
+      {% if person.website %}
       <a href="{{ person.website }}" target="_blank" class="bg-white rounded-lg overflow-hidden text-center">
-        <img src="{{ person.pic }}" alt="{{ person.name }}" class="w-full h-auto rounded-full">
+      {% endif %}
+        <img src="{{ static_or_abs_link(person.pic) }}" alt="{{ person.name }}" class="w-full h-auto rounded-full">
 
         <div class="p-2">
           <h2 class="text-md font-semibold">{{ person.name }}</h2>
         </div>
+      {% if person.website %}
       </a>
+      {% endif %}
     </div>
     {% endfor %}
   </div>

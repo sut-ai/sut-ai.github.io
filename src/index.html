@@ -1,21 +1,11 @@
 {% extends 'base/main_layout.html' %}
-{% from 'table.html' import table with context %}
-{% from 'section.html' import create_section with context %}
-{% from 'people.html' import people_section with context %}
+{% from 'part.html' import create_part with context %}
 
 {% block content %}
 
-  {% if sections %}
-    {% for section in sections %}
-      {{ create_section(section) }}
+  <div class="w-full max-w-full flex flex-col gap-y-6">
+    {% for part in parts %}
+      {{ create_part(part) }}
     {% endfor %}
-  {% endif %}
-  <!--Schedule-->
-  {% if schedule_table %}
-    {{ table(schedule_table, 'Schedule', 'schedule') }}
-  {% endif %}
-  <!--People-->
-  {% if people_data %}
-    {{ people_section(people_data, 'People', 'people') }}
-  {% endif %}
+  </div>
 {% endblock %}

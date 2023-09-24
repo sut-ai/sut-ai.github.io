@@ -5,13 +5,7 @@ nav:
   content:
     - index: index
       text: Home
-    - link: /#coursework
-      text: Coursework
-    - link: /#schedule
-      text: Schedule
-    - index: lectures/index
-      text: Lectures
-    - index: problem_sets/index
-      text: Problem Sets
     - link: /#people
       text: People
+    - link: /#schedule
+      text: Schedule

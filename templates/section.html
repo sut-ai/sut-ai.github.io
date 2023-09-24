@@ -2,7 +2,7 @@
   <div class="mb-2">
     <div class="text-xl font-bold mb-2">{{ subsection.title }}</div>
     {% if subsection.text %}
-      <div class="prose w-full max-w-full">{{ markdown(subsection.text) }}</div>
+      <div class="prose w-full max-w-full text-justify">{{ markdown(subsection.text) }}</div>
     {% endif %}
   </div>
 {% endmacro %}
@@ -16,7 +16,7 @@
   >
     <div class="text-primary text-2xl font-bold mb-2">{{ section.title }}</div>
     {% if section.text %}
-      <div class="prose w-full">{{ markdown(section.text) }}</div>
+      <div class="prose w-full max-w-full text-justify">{{ markdown(section.text) }}</div>
     {% endif %}
     {% for subsection in section.subsections %}
       {{ create_subsection(subsection) }}

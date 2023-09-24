@@ -1,4 +1,5 @@
 import os
+from urllib.parse import urlparse
 
 import yaml
 import markdown
@@ -27,11 +28,17 @@ class Globals:
 
         return "/" + link.removeprefix("/")
 
+    def static_or_abs_link(self, item):
+        parsed = urlparse(item)
+        if not parsed.netloc:
+            return self.static(parsed.path)
+        return item
+
     def sum_attr(self, list_, attr):
         return sum(int(x[attr]) for x in list_)
 
     def markdown(self, content):
-        return markdown.markdown(content, extensions=["nl2br"])
+        return markdown.markdown(content, extensions=["nl2br", "mdx_math"])
 
     def get(self):
         return {
@@ -40,4 +47,5 @@ class Globals:
             "get_nav_link": self.get_nav_link,
             "sum_attr": self.sum_attr,
             "markdown": self.markdown,
+            "static_or_abs_link": self.static_or_abs_link,
         }

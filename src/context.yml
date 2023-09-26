@@ -17,11 +17,11 @@ parts:
         display_name: Instructors
         people:
           - name: M.H. Rohban
-            pic: https://sut-ai.github.io/assets/images/Rohban.jpeg
+            pic: images/people/Rohban.jpeg
             website: http://sharif.ir/~rohban/
 
           - name: M. Soleymani Baghshah
-            pic: https://sut-ai.github.io/assets/images/Soleymani.jpg
+            pic: images/people/Soleymani.jpg
             website: https://sharif.edu/~soleymani/
 
       - role: head_assistant

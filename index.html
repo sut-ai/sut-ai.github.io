@@ -1,4 +1,2355 @@
----
-layout: home
-index: index
----
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>SUT-AI | Home</title>
+  <script src="/assets/js/fontawesome.js" crossorigin="anonymous"></script>
+  <link href="/assets/css/main.css" rel="stylesheet" />
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-AMS_HTML"></script>
+  <!-- MathJax configuration -->
+  <script type="text/x-mathjax-config" defer>
+    MathJax.Hub.Config({
+        config: ["MMLorHTML.js"],
+        jax: ["input/TeX", "output/HTML-CSS", "output/NativeMML"],
+        extensions: ["MathMenu.js", "MathZoom.js"],
+        tex2jax: {
+            inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+            displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
+            processEscapes: true,
+            processEnvironments: true
+        },
+        // Center justify equations in code and markdown cells. Elsewhere
+        // we use CSS to left justify single line equations in code cells.
+        displayAlign: 'center',
+        "HTML-CSS": {
+            styles: {'.MathJax_Display': {"margin": 0, "z-index":-10}},
+            linebreaks: { automatic: true }
+        }
+    });
+  </script>
+
+  <script src="/assets/js/tailwindcss.js"></script>
+  <script src="https://code.jquery.com/jquery-3.6.4.min.js"
+          integrity="sha256-oP6HI9z1XaZNBrJURtCoUT5SUnxFr8s3BzRl+cbzUq8=" crossorigin="anonymous"></script>
+</head>
+
+<body class="scroll-smooth">
+  
+  <div class="flex flex-col">
+    
+      <nav class="bg-primary shadow-sm w-full sticky top-0">
+  <div class="max-w-screen-2xl flex flex-wrap items-center justify-between md:justify-start mx-auto p-4 pb-0">
+    <a href="/" class="flex items-center mb-4">
+      <span class="self-center text-2xl font-semibold whitespace-nowrap text-white">SUT-AI</span>
+    </a>
+    <button data-collapse-toggle="navbar-default" type="button"
+            class="inline-flex items-center p-2 w-10 h-10 justify-center mb-4 text-sm text-white-500 rounded-lg md:hidden hover:bg-white-100 focus:outline-none focus:ring-2 focus:ring-white-200 text-gray-400 hover:bg-white-700 focus:ring-white-600"
+            aria-controls="navbar-default" aria-expanded="false">
+      <span class="sr-only">Open main menu</span>
+      <svg class="w-5 h-5" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 17 14">
+        <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+              d="M1 1h15M1 7h15M1 13h15"/>
+      </svg>
+    </button>
+    <div class="hidden w-full md:block md:w-auto md:mb-4 md:ml-12" id="navbar-default">
+      <ul class="font-medium flex flex-col p-2 bg-transparent text-center border-t-2 border-t-white md:flex-row md:space-x-4 md:mt-0 md:p-0 md:border-t-0">
+        
+        
+        <li>
+          <a href="/"
+             class="
+                  block py-2 pl-3 pr-4
+                  
+                  text-white
+                  
+                  hover:text-white
+               "
+          >Home</a>
+        </li>
+        
+        
+        <li>
+          <a href="/#people"
+             class="
+                  block py-2 pl-3 pr-4
+                  
+                  text-gray-400
+                  
+                  hover:text-white
+               "
+          >People</a>
+        </li>
+        
+        
+        <li>
+          <a href="/#schedule"
+             class="
+                  block py-2 pl-3 pr-4
+                  
+                  text-gray-400
+                  
+                  hover:text-white
+               "
+          >Schedule</a>
+        </li>
+        
+      </ul>
+    </div>
+  </div>
+</nav>
+    
+    <div class="flex-grow mt-1 px-4 md:px-10 pt-4 pb-4 md:max-w-screen-xl md:mx-auto md:w-full">
+      
+
+  <div class="w-full max-w-full flex flex-col gap-y-6">
+    
+      
+  
+    
+  <div
+      
+  >
+    <div class="text-primary text-2xl font-bold mb-2">Objective</div>
+    
+      <div class="prose w-full max-w-full text-justify"><p>This course offers a gentle introduction to the concepts and methodologies in Artificial Intelligence from both theoretical and practical perspectives. This includes designing intelligent agents through techniques such as state-space search methods, knowledge representation and inference, and Machine Learning. By the end of this course, students are expected to have the ability to develop intelligent solutions for semi-real world problems using the appropriate methods discussed in the course. Furthermore, they are expected to gain knowledge and experience in analyzing the inner workings of these methods and customizing them for specific problems.</p></div>
+    
+    
+  </div>
+
+  
+
+    
+      
+  
+    
+<div
+        
+        id="people"
+        class="scrollable-section"
+        
+>
+
+  <div class="text-primary font-bold mb-4 text-2xl">Instruction Team</div>
+  <div class="mb-5"></div>
+  
+  <div class="text-primary font-bold mb-4 text-xl">Instructors</div>
+  <div class="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-6">
+    
+    <div class="bg-white rounded-lg overflow-hidden text-center p-2">
+      
+      <a href="http://sharif.ir/~rohban/" target="_blank" class="bg-white rounded-lg overflow-hidden text-center">
+      
+        <img src="https://sut-ai.github.io/assets/images/Rohban.jpeg" alt="M.H. Rohban" class="w-full h-auto rounded-full">
+
+        <div class="p-2">
+          <h2 class="text-md font-semibold">M.H. Rohban</h2>
+        </div>
+      
+      </a>
+      
+    </div>
+    
+    <div class="bg-white rounded-lg overflow-hidden text-center p-2">
+      
+      <a href="https://sharif.edu/~soleymani/" target="_blank" class="bg-white rounded-lg overflow-hidden text-center">
+      
+        <img src="https://sut-ai.github.io/assets/images/Soleymani.jpg" alt="M. Soleymani Baghshah" class="w-full h-auto rounded-full">
+
+        <div class="p-2">
+          <h2 class="text-md font-semibold">M. Soleymani Baghshah</h2>
+        </div>
+      
+      </a>
+      
+    </div>
+    
+  </div>
+  <div class="mb-3"></div>
+  
+  <div class="text-primary font-bold mb-4 text-xl">Head Assistants</div>
+  <div class="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-6">
+    
+    <div class="bg-white rounded-lg overflow-hidden text-center p-2">
+      
+      <a href="mailto:soroush.vafaie96@sharif.edu" target="_blank" class="bg-white rounded-lg overflow-hidden text-center">
+      
+        <img src="/assets/images/people/blank.png" alt="Soroush Vafaei Tabar" class="w-full h-auto rounded-full">
+
+        <div class="p-2">
+          <h2 class="text-md font-semibold">Soroush Vafaei Tabar</h2>
+        </div>
+      
+      </a>
+      
+    </div>
+    
+    <div class="bg-white rounded-lg overflow-hidden text-center p-2">
+      
+      <a href="mailto:arash.marioriyad98@sharif.edu" target="_blank" class="bg-white rounded-lg overflow-hidden text-center">
+      
+        <img src="/assets/images/people/blank.png" alt="Arash Mari Oriyad" class="w-full h-auto rounded-full">
+
+        <div class="p-2">
+          <h2 class="text-md font-semibold">Arash Mari Oriyad</h2>
+        </div>
+      
+      </a>
+      
+    </div>
+    
+    <div class="bg-white rounded-lg overflow-hidden text-center p-2">
+      
+      <a href="mailto:aryan.ahadinia@sharif.edu" target="_blank" class="bg-white rounded-lg overflow-hidden text-center">
+      
+        <img src="/assets/images/people/blank.png" alt="Aryan Ahadinia" class="w-full h-auto rounded-full">
+
+        <div class="p-2">
+          <h2 class="text-md font-semibold">Aryan Ahadinia</h2>
+        </div>
+      
+      </a>
+      
+    </div>
+    
+    <div class="bg-white rounded-lg overflow-hidden text-center p-2">
+      
+      <a href="mailto:m.mofayezi@sharif.edu" target="_blank" class="bg-white rounded-lg overflow-hidden text-center">
+      
+        <img src="/assets/images/people/blank.png" alt="Mohammadreza Mofayazi" class="w-full h-auto rounded-full">
+
+        <div class="p-2">
+          <h2 class="text-md font-semibold">Mohammadreza Mofayazi</h2>
+        </div>
+      
+      </a>
+      
+    </div>
+    
+    <div class="bg-white rounded-lg overflow-hidden text-center p-2">
+      
+      <a href="mailto:moh.maher65@sharif.edu" target="_blank" class="bg-white rounded-lg overflow-hidden text-center">
+      
+        <img src="/assets/images/people/blank.png" alt="M.J. Maheronnaghsh" class="w-full h-auto rounded-full">
+
+        <div class="p-2">
+          <h2 class="text-md font-semibold">M.J. Maheronnaghsh</h2>
+        </div>
+      
+      </a>
+      
+    </div>
+    
+  </div>
+  
+  
+
+</div>
+
+  
+
+    
+      
+  
+    
+  <div
+      
+  >
+    <div class="text-primary text-2xl font-bold mb-2">Contacting Instruction Team</div>
+    
+      <div class="prose w-full max-w-full text-justify"><p>Please contact the administrative team only using the course's official email address, <a href="mailto:sharifaicentral@gmail.com"><strong>sharifaicentral@gmail.com</strong></a>. Avoid sending an email or a message directly to any member of the instruction team. Ensure that you use a proper subject for your email and include your name and student ID. It is strongly encouraged to use the <a href="https://webmail.sharif.edu/"><strong>@Sharif</strong> webmail service</a> to ensure easy identification by the instructional team. To ask questions about assignments and other course materials, please use Quera. Using Telegram and other messenger services is discouraged. Anything communicated in these messengers by any of the TAs will not be recognized as an official statement and will not be applicable to the grading process. Note that you can always have direct contact with the instructors via their email addresses.</p></div>
+    
+    
+  </div>
+
+  
+
+    
+      
+  
+    
+  <div
+      
+  >
+    <div class="text-primary text-2xl font-bold mb-2">Content</div>
+    
+    
+      
+  <div class="mb-2">
+    <div class="text-xl font-bold mb-2">Prerequisites</div>
+    
+      <div class="prose w-full max-w-full text-justify"><p>Knowledge and experience of a general-purpose programming language (Python), Data Structures and Algorithms, and ideally Probability and Statistics (Random Variables, (Joint) Probability Mass Functions, Conditional Probability, Independence, Bayes Theorem) and Linear Algebra. <em>It is highly recommended to have the Engineering Probability and Linear Algebra courses passed before taking this course.</em></p></div>
+    
+  </div>
+
+    
+      
+  <div class="mb-2">
+    <div class="text-xl font-bold mb-2">Classes</div>
+    
+      <div class="prose w-full max-w-full text-justify"><p>Even though the instruction of both groups is jointly coordinated, each instructor will have their own class. Dr. Soleymani's class will be held on Sundays and Tuesdays from 15:00 to 16:30, and Dr. Rohban's class will take place on Sundays and Tuesdays from 10:30 to 12:00. Classes will be held in person by default, but in special circumstances, the class might be conducted virtually (with prior announcements), at <a href="https://vc.sharif.edu/ch/soleymani">https://vc.sharif.edu/ch/soleymani</a> or <a href="https://vc.sharif.edu/ch/soleymani">https://vc.sharif.edu/ch/rohban</a>.</p></div>
+    
+  </div>
+
+    
+      
+  <div class="mb-2">
+    <div class="text-xl font-bold mb-2">Grading</div>
+    
+      <div class="prose w-full max-w-full text-justify"><p>Assessment of students of both groups will be identical. Please note that grades will be calculated out of 21.5.</p>
+<ul>
+<li><strong>1$^{\text{st}}$ Midterm Exam</strong>: $3.0$ points; 1402/08/18 9:00 AM.</li>
+<li><strong>2$^{\text{st}}$ Midterm Exam</strong>: $4.0$ points; 1402/09/30 9:00 AM.</li>
+<li><strong>Final Exam</strong>: $5.0$ points; 1402/10/21 9:00 AM (as scheduled in EDU).</li>
+<li><strong>Homework Assignments</strong>: $7.5 + 1.0$ points; Five Series, each 1.5 points and 1 bonus point in total.</li>
+<li><strong>Optional Task</strong>: You can choose only one of two tasks below:<ul>
+<li><strong>Presentation</strong>: $0.75$ point.</li>
+<li><strong>Project</strong> $1.5$ point.</li>
+</ul>
+</li>
+</ul></div>
+    
+  </div>
+
+    
+      
+  <div class="mb-2">
+    <div class="text-xl font-bold mb-2">Exams</div>
+    
+      <div class="prose w-full max-w-full text-justify"><p>Students' learning will be assessed through two midterms and a final exam. These exams will  be held on the following dates, and students are required to participate in them.</p>
+<ul>
+<li><strong>1$^{\text{st}}$ Midterm Exam</strong>: 1402/08/18 9:00 AM.</li>
+<li><strong>2$^{\text{st}}$ Midterm Exam</strong>: 1402/09/30 9:00 AM.</li>
+<li><strong>Final Exam</strong>: 1402/10/21 9:00 AM (as scheduled in EDU).</li>
+</ul></div>
+    
+  </div>
+
+    
+      
+  <div class="mb-2">
+    <div class="text-xl font-bold mb-2">Homeworks</div>
+    
+      <div class="prose w-full max-w-full text-justify"><p>Five series of homework assignments will be distributed in this course. Assignments will be released on Sunday midnight every other week.  Students will have 14 days to submit their answers on <a href="https://quera.org/course/add_to_course/course/13173/">Quera</a>. Regarding the late submission policy, you can submit answers with total delay of 5 days (maximum of 3 days for each submission) with no penalty. Any more delays and 1% of the assignment grade will be deducted for each hour of delay. Please note that submissions made between midnight (12 AM) and noon (12 PM) will not be considered.  You can submit your answers during this interval, but the submission timestamp will be recorded as 12 PM on the same day.  Delays will be calculated on an hourly scale, as illustrated in the figure below and described by  equation following the figure, where $h$ represents the amount of delay in hours. <div class="mx-auto max-w-xl"><img alt="Delay Coefficient graph" src="/assets/images/course/delay_coef.jpg" title="Delay coefficient" /></div> <script type="math/tex; mode=display">
+ \begin{cases}
+  88 & 0 < h < 12 \\
+  100 - h & 12 \le h \le 24 \\
+  64 & 24 < h < 36 \\
+  100 - h & 36 \le h \le 48 \\
+  40 & 48 < h < 60 \\
+  100 - h & 60 \le h \le 72 \\
+ \end{cases}
+</script>
+</p></div>
+    
+  </div>
+
+    
+      
+  <div class="mb-2">
+    <div class="text-xl font-bold mb-2">Collaboration, Academic Honesty, and Plagiarism</div>
+    
+      <div class="prose w-full max-w-full text-justify"><p>There will be a zero-tolerance policy for cheating or copying homework assignments. The first time you are caught, we will refer you to the committee, and you will fail the course. Please refer to the Education Committee's statement on homework etiquette.</p></div>
+    
+  </div>
+
+    
+      
+  <div class="mb-2">
+    <div class="text-xl font-bold mb-2">Feedback</div>
+    
+      <div class="prose w-full max-w-full text-justify"><p>We would be grateful if you could send us your valuable feedback. You can contact instructors or even TAs via email. Additionally, you can use <a href="https://forms.gle/2CzVZnsMgH5QyknV9">this Google form</a> to send your feedback anonymously to the instructors.</p></div>
+    
+  </div>
+
+    
+  </div>
+
+  
+
+    
+      
+  
+    
+  <div
+      
+  >
+    <div class="text-primary text-2xl font-bold mb-2">Course Pages</div>
+    
+      <div class="prose w-full max-w-full text-justify"><ul>
+<li><a href="https://sut-ai.github.io/"><strong>https://sut-ai.github.io/</strong></a>: This is the main page of our course and all exercises, slides and course resources will be placed in it.</li>
+<li>Quera, <a href="https://quera.org/course/add_to_course/course/14673/"><strong>https://quera.org/course/add_to_course/course/14673/</strong></a>: Delivery of exercises and announcements will be done entirely through Quera. Make sure you enter an email on Quera that you check regularly. Your questions from the exercises will also be answered in Quera.</li>
+</ul></div>
+    
+    
+  </div>
+
+  
+
+    
+      
+  
+    
+<div
+    
+    id="schedule"
+    class="scrollable-section"
+    
+>
+    <div class="text-primary font-bold mb-4 text-2xl">Schedule</div>
+    <table class="flex flex-row flex-no-wrap sm:bg-white md:inline-table">
+      <colgroup>
+        
+        
+          <col style="width: 0.02631578947368421%">
+        
+          <col style="width: 0.13157894736842105%">
+        
+          <col style="width: 0.21052631578947367%">
+        
+          <col style="width: 0.42105263157894735%">
+        
+          <col style="width: 0.10526315789473684%">
+        
+          <col style="width: 0.10526315789473684%">
+        
+      </colgroup>
+      <thead>
+        <tr class="bg-zinc-200 border-b-2 border-b-gray-500 hidden md:table-row">
+          
+            <th class="text-left px-4 py-2"></th>
+          
+            <th class="text-left px-4 py-2">Date</th>
+          
+            <th class="text-left px-4 py-2">Description</th>
+          
+            <th class="text-left px-4 py-2">Course Materials</th>
+          
+            <th class="text-left px-4 py-2">Events</th>
+          
+            <th class="text-left px-4 py-2">Deadlines</th>
+          
+        </tr>
+      </thead>
+      <tbody class="flex-1 md:flex-none">
+          
+            <tr class="
+              flex flex-col flex-no-wrap md:table-row mb-8 md:mb-0
+              border-2
+              md:border-0
+              md:border-b-2
+              
+              md:border-b-gray-200"
+            >
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                  <span class="prose text-center"><p>1</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Date: </span>
+                  
+                  <span class="prose "><p>Tue Mehr 4</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Description: </span>
+                  
+                  <span class="prose "><p>Introduction &amp; Intelligent Agents</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Course Materials: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Events: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Deadlines: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+            </tr>
+          
+            <tr class="
+              flex flex-col flex-no-wrap md:table-row mb-8 md:mb-0
+              border-2
+              md:border-0
+              md:border-b-2
+              
+              md:border-b-gray-200"
+            >
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                  <span class="prose text-center"><p>2</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Date: </span>
+                  
+                  <span class="prose "><p>Sun Mehr 9</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Description: </span>
+                  
+                  <span class="prose "><p>Uninformed Search</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Course Materials: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Events: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Deadlines: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+            </tr>
+          
+            <tr class="
+              flex flex-col flex-no-wrap md:table-row mb-8 md:mb-0
+              border-2
+              md:border-0
+              md:border-b-2
+              
+              md:border-b-gray-200"
+            >
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                  <span class="prose text-center"></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Date: </span>
+                  
+                  <span class="prose "><p>Sat Mehr 15</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Description: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Course Materials: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Events: </span>
+                  
+                  <span class="prose "><p>HW1 <span class="text-green-500 font-bold" font-bold">out</span></p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Deadlines: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+            </tr>
+          
+            <tr class="
+              flex flex-col flex-no-wrap md:table-row mb-8 md:mb-0
+              border-2
+              md:border-0
+              md:border-b-2
+              
+              md:border-b-gray-200"
+            >
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                  <span class="prose text-center"><p>3</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Date: </span>
+                  
+                  <span class="prose "><p>Sun Mehr 16</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Description: </span>
+                  
+                  <span class="prose "><p>Informed Search</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Course Materials: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Events: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Deadlines: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+            </tr>
+          
+            <tr class="
+              flex flex-col flex-no-wrap md:table-row mb-8 md:mb-0
+              border-2
+              md:border-0
+              md:border-b-2
+              
+              md:border-b-gray-200"
+            >
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                  <span class="prose text-center"><p>4</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Date: </span>
+                  
+                  <span class="prose "><p>Tue Mehr 18</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Description: </span>
+                  
+                  <span class="prose "><p>Local Search</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Course Materials: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Events: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Deadlines: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+            </tr>
+          
+            <tr class="
+              flex flex-col flex-no-wrap md:table-row mb-8 md:mb-0
+              border-2
+              md:border-0
+              md:border-b-2
+              
+              md:border-b-gray-200"
+            >
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                  <span class="prose text-center"><p>5</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Date: </span>
+                  
+                  <span class="prose "><p>Sun Mehr 23</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Description: </span>
+                  
+                  <span class="prose "><p>Search in Continuous spaces</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Course Materials: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Events: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Deadlines: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+            </tr>
+          
+            <tr class="
+              flex flex-col flex-no-wrap md:table-row mb-8 md:mb-0
+              border-2
+              md:border-0
+              md:border-b-2
+              
+              md:border-b-gray-200"
+            >
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                  <span class="prose text-center"><p>6</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Date: </span>
+                  
+                  <span class="prose "><p>Tue Mehr 25</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Description: </span>
+                  
+                  <span class="prose "><p>Constraint Satisfaction Problems I</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Course Materials: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Events: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Deadlines: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+            </tr>
+          
+            <tr class="
+              flex flex-col flex-no-wrap md:table-row mb-8 md:mb-0
+              border-2
+              md:border-0
+              md:border-b-2
+              
+              bg-red-100
+              
+              md:border-b-gray-200"
+            >
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                  <span class="prose text-center"></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Date: </span>
+                  
+                  <span class="prose "><p>Sat Mehr 29</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Description: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Course Materials: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Events: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Deadlines: </span>
+                  
+                  <span class="prose "><p>HW1 <span class="text-red-500 font-bold">due</span></p></span>
+                </td>
+              
+            </tr>
+          
+            <tr class="
+              flex flex-col flex-no-wrap md:table-row mb-8 md:mb-0
+              border-2
+              md:border-0
+              md:border-b-2
+              
+              md:border-b-gray-200"
+            >
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                  <span class="prose text-center"><p>7</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Date: </span>
+                  
+                  <span class="prose "><p>Sun Mehr 30</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Description: </span>
+                  
+                  <span class="prose "><p>Constraint Satisfaction Problems II</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Course Materials: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Events: </span>
+                  
+                  <span class="prose "><p>HW2 <span class="text-green-500 font-bold" font-bold">out</span></p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Deadlines: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+            </tr>
+          
+            <tr class="
+              flex flex-col flex-no-wrap md:table-row mb-8 md:mb-0
+              border-2
+              md:border-0
+              md:border-b-2
+              
+              md:border-b-gray-200"
+            >
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                  <span class="prose text-center"><p>8</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Date: </span>
+                  
+                  <span class="prose "><p>Tue Aban 2</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Description: </span>
+                  
+                  <span class="prose "><p>Adversarial Search</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Course Materials: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Events: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Deadlines: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+            </tr>
+          
+            <tr class="
+              flex flex-col flex-no-wrap md:table-row mb-8 md:mb-0
+              border-2
+              md:border-0
+              md:border-b-2
+              
+              md:border-b-gray-200"
+            >
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                  <span class="prose text-center"><p>9</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Date: </span>
+                  
+                  <span class="prose "><p>Sun Aban 7</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Description: </span>
+                  
+                  <span class="prose "><p>Markov Decision Process</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Course Materials: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Events: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Deadlines: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+            </tr>
+          
+            <tr class="
+              flex flex-col flex-no-wrap md:table-row mb-8 md:mb-0
+              border-2
+              md:border-0
+              md:border-b-2
+              
+              md:border-b-gray-200"
+            >
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                  <span class="prose text-center"><p>10</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Date: </span>
+                  
+                  <span class="prose "><p>Tue Aban 9</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Description: </span>
+                  
+                  <span class="prose "><p>Markov Decision Process: Value Iteration &amp; Policy Iteration</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Course Materials: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Events: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Deadlines: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+            </tr>
+          
+            <tr class="
+              flex flex-col flex-no-wrap md:table-row mb-8 md:mb-0
+              border-2
+              md:border-0
+              md:border-b-2
+              
+              bg-red-100
+              
+              md:border-b-gray-200"
+            >
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                  <span class="prose text-center"></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Date: </span>
+                  
+                  <span class="prose "><p>Sat Aban 13</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Description: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Course Materials: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Events: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Deadlines: </span>
+                  
+                  <span class="prose "><p>HW2 <span class="text-red-500 font-bold">due</span></p></span>
+                </td>
+              
+            </tr>
+          
+            <tr class="
+              flex flex-col flex-no-wrap md:table-row mb-8 md:mb-0
+              border-2
+              md:border-0
+              md:border-b-2
+              
+              md:border-b-gray-200"
+            >
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                  <span class="prose text-center"><p>11</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Date: </span>
+                  
+                  <span class="prose "><p>Sun Aban 14</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Description: </span>
+                  
+                  <span class="prose "><p>Reinforcement Learning: Passive</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Course Materials: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Events: </span>
+                  
+                  <span class="prose "><p>HW3 <span class="text-green-500 font-bold" font-bold">out</span></p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Deadlines: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+            </tr>
+          
+            <tr class="
+              flex flex-col flex-no-wrap md:table-row mb-8 md:mb-0
+              border-2
+              md:border-0
+              md:border-b-2
+              
+              md:border-b-gray-200"
+            >
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                  <span class="prose text-center"><p>12</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Date: </span>
+                  
+                  <span class="prose "><p>Tue Aban 16</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Description: </span>
+                  
+                  <span class="prose "><p>Reinforcement Learning: Active</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Course Materials: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Events: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Deadlines: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+            </tr>
+          
+            <tr class="
+              flex flex-col flex-no-wrap md:table-row mb-8 md:mb-0
+              border-2
+              md:border-0
+              md:border-b-2
+              
+              bg-amber-100
+              
+              md:border-b-gray-200"
+            >
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                  <span class="prose text-center"></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Date: </span>
+                  
+                  <span class="prose "><p>Thr Aban 18</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Description: </span>
+                  
+                  <span class="prose "><p>Midterm Exam I</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Course Materials: </span>
+                  
+                  <span class="prose "><p>Sessions 1-8</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Events: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Deadlines: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+            </tr>
+          
+            <tr class="
+              flex flex-col flex-no-wrap md:table-row mb-8 md:mb-0
+              border-2
+              md:border-0
+              md:border-b-2
+              
+              md:border-b-gray-200"
+            >
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                  <span class="prose text-center"><p>13</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Date: </span>
+                  
+                  <span class="prose "><p>Sun Aban 21</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Description: </span>
+                  
+                  <span class="prose "><p>Reinforcement Learning: Approximate</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Course Materials: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Events: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Deadlines: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+            </tr>
+          
+            <tr class="
+              flex flex-col flex-no-wrap md:table-row mb-8 md:mb-0
+              border-2
+              md:border-0
+              md:border-b-2
+              
+              md:border-b-gray-200"
+            >
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                  <span class="prose text-center"><p>14</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Date: </span>
+                  
+                  <span class="prose "><p>Tue Aban 23</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Description: </span>
+                  
+                  <span class="prose "><p>Uncertainty &amp; Inference</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Course Materials: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Events: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Deadlines: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+            </tr>
+          
+            <tr class="
+              flex flex-col flex-no-wrap md:table-row mb-8 md:mb-0
+              border-2
+              md:border-0
+              md:border-b-2
+              
+              md:border-b-gray-200"
+            >
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                  <span class="prose text-center"><p>15</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Date: </span>
+                  
+                  <span class="prose "><p>Sun Aban 28</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Description: </span>
+                  
+                  <span class="prose "><p>Bayesian Networks: Representation</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Course Materials: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Events: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Deadlines: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+            </tr>
+          
+            <tr class="
+              flex flex-col flex-no-wrap md:table-row mb-8 md:mb-0
+              border-2
+              md:border-0
+              md:border-b-2
+              
+              md:border-b-gray-200"
+            >
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                  <span class="prose text-center"><p>16</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Date: </span>
+                  
+                  <span class="prose "><p>Tue Aban 30</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Description: </span>
+                  
+                  <span class="prose "><p>Inference in Bayesian Networks: Exact</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Course Materials: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Events: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Deadlines: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+            </tr>
+          
+            <tr class="
+              flex flex-col flex-no-wrap md:table-row mb-8 md:mb-0
+              border-2
+              md:border-0
+              md:border-b-2
+              
+              bg-red-100
+              
+              md:border-b-gray-200"
+            >
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                  <span class="prose text-center"></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Date: </span>
+                  
+                  <span class="prose "><p>Sat Azar 4</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Description: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Course Materials: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Events: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Deadlines: </span>
+                  
+                  <span class="prose "><p>HW3 <span class="text-red-500 font-bold">due</span></p></span>
+                </td>
+              
+            </tr>
+          
+            <tr class="
+              flex flex-col flex-no-wrap md:table-row mb-8 md:mb-0
+              border-2
+              md:border-0
+              md:border-b-2
+              
+              md:border-b-gray-200"
+            >
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                  <span class="prose text-center"><p>17</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Date: </span>
+                  
+                  <span class="prose "><p>Sun Azar 5</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Description: </span>
+                  
+                  <span class="prose "><p>Inference in Bayesian Networks: Approximate</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Course Materials: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Events: </span>
+                  
+                  <span class="prose "><p>HW4 <span class="text-green-500 font-bold" font-bold">out</span></p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Deadlines: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+            </tr>
+          
+            <tr class="
+              flex flex-col flex-no-wrap md:table-row mb-8 md:mb-0
+              border-2
+              md:border-0
+              md:border-b-2
+              
+              md:border-b-gray-200"
+            >
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                  <span class="prose text-center"><p>18</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Date: </span>
+                  
+                  <span class="prose "><p>Tue Azar 7</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Description: </span>
+                  
+                  <span class="prose "><p>Temporal Probability Models: Markov Chains &amp; HMMs</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Course Materials: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Events: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Deadlines: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+            </tr>
+          
+            <tr class="
+              flex flex-col flex-no-wrap md:table-row mb-8 md:mb-0
+              border-2
+              md:border-0
+              md:border-b-2
+              
+              md:border-b-gray-200"
+            >
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                  <span class="prose text-center"><p>19</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Date: </span>
+                  
+                  <span class="prose "><p>Sun Azar 12</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Description: </span>
+                  
+                  <span class="prose "><p>Temporal Probability Models: Particle Filters</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Course Materials: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Events: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Deadlines: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+            </tr>
+          
+            <tr class="
+              flex flex-col flex-no-wrap md:table-row mb-8 md:mb-0
+              border-2
+              md:border-0
+              md:border-b-2
+              
+              md:border-b-gray-200"
+            >
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                  <span class="prose text-center"><p>20</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Date: </span>
+                  
+                  <span class="prose "><p>Tue Azar 14</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Description: </span>
+                  
+                  <span class="prose "><p>Learning in Bayesian Networks &amp; Naive Bayes</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Course Materials: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Events: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Deadlines: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+            </tr>
+          
+            <tr class="
+              flex flex-col flex-no-wrap md:table-row mb-8 md:mb-0
+              border-2
+              md:border-0
+              md:border-b-2
+              
+              md:border-b-gray-200"
+            >
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                  <span class="prose text-center"><p>21</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Date: </span>
+                  
+                  <span class="prose "><p>Sun Azar 19</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Description: </span>
+                  
+                  <span class="prose "><p>Decision Tree</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Course Materials: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Events: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Deadlines: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+            </tr>
+          
+            <tr class="
+              flex flex-col flex-no-wrap md:table-row mb-8 md:mb-0
+              border-2
+              md:border-0
+              md:border-b-2
+              
+              md:border-b-gray-200"
+            >
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                  <span class="prose text-center"><p>22</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Date: </span>
+                  
+                  <span class="prose "><p>Tue Azar 21</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Description: </span>
+                  
+                  <span class="prose "><p>Concepts of Machine Learning</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Course Materials: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Events: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Deadlines: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+            </tr>
+          
+            <tr class="
+              flex flex-col flex-no-wrap md:table-row mb-8 md:mb-0
+              border-2
+              md:border-0
+              md:border-b-2
+              
+              bg-red-100
+              
+              md:border-b-gray-200"
+            >
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                  <span class="prose text-center"></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Date: </span>
+                  
+                  <span class="prose "><p>Sat Azar 25</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Description: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Course Materials: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Events: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Deadlines: </span>
+                  
+                  <span class="prose "><p>HW3 <span class="text-red-500 font-bold">due</span></p></span>
+                </td>
+              
+            </tr>
+          
+            <tr class="
+              flex flex-col flex-no-wrap md:table-row mb-8 md:mb-0
+              border-2
+              md:border-0
+              md:border-b-2
+              
+              md:border-b-gray-200"
+            >
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                  <span class="prose text-center"></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Date: </span>
+                  
+                  <span class="prose "><p>Sun Azar 26</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Description: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Course Materials: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Events: </span>
+                  
+                  <span class="prose "><p>HW5 <span class="text-green-500 font-bold" font-bold">out</span></p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Deadlines: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+            </tr>
+          
+            <tr class="
+              flex flex-col flex-no-wrap md:table-row mb-8 md:mb-0
+              border-2
+              md:border-0
+              md:border-b-2
+              
+              md:border-b-gray-200"
+            >
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                  <span class="prose text-center"><p>23</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Date: </span>
+                  
+                  <span class="prose "><p>Tue Azar 28</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Description: </span>
+                  
+                  <span class="prose "><p>Regression &amp; Optimization</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Course Materials: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Events: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Deadlines: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+            </tr>
+          
+            <tr class="
+              flex flex-col flex-no-wrap md:table-row mb-8 md:mb-0
+              border-2
+              md:border-0
+              md:border-b-2
+              
+              bg-amber-100
+              
+              md:border-b-gray-200"
+            >
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                  <span class="prose text-center"></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Date: </span>
+                  
+                  <span class="prose "><p>Thr Azar 30</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Description: </span>
+                  
+                  <span class="prose "><p>Midterm Exam II</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Course Materials: </span>
+                  
+                  <span class="prose "><p>Sessions 9-19</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Events: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Deadlines: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+            </tr>
+          
+            <tr class="
+              flex flex-col flex-no-wrap md:table-row mb-8 md:mb-0
+              border-2
+              md:border-0
+              md:border-b-2
+              
+              md:border-b-gray-200"
+            >
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                  <span class="prose text-center"><p>24</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Date: </span>
+                  
+                  <span class="prose "><p>Sun Dey 3</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Description: </span>
+                  
+                  <span class="prose "><p>Perceptron</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Course Materials: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Events: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Deadlines: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+            </tr>
+          
+            <tr class="
+              flex flex-col flex-no-wrap md:table-row mb-8 md:mb-0
+              border-2
+              md:border-0
+              md:border-b-2
+              
+              md:border-b-gray-200"
+            >
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                  <span class="prose text-center"><p>25</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Date: </span>
+                  
+                  <span class="prose "><p>Tue Dey 5</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Description: </span>
+                  
+                  <span class="prose "><p>Neural Networks I</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Course Materials: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Events: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Deadlines: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+            </tr>
+          
+            <tr class="
+              flex flex-col flex-no-wrap md:table-row mb-8 md:mb-0
+              border-2
+              md:border-0
+              md:border-b-2
+              
+              md:border-b-gray-200"
+            >
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                  <span class="prose text-center"><p>26</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Date: </span>
+                  
+                  <span class="prose "><p>Sun Dey 10</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Description: </span>
+                  
+                  <span class="prose "><p>Neural Networks II</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Course Materials: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Events: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Deadlines: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+            </tr>
+          
+            <tr class="
+              flex flex-col flex-no-wrap md:table-row mb-8 md:mb-0
+              border-2
+              md:border-0
+              md:border-b-2
+              
+              md:border-b-gray-200"
+            >
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                  <span class="prose text-center"><p>27</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Date: </span>
+                  
+                  <span class="prose "><p>Tue Dey 12</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Description: </span>
+                  
+                  <span class="prose "><p>Applications</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Course Materials: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Events: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Deadlines: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+            </tr>
+          
+            <tr class="
+              flex flex-col flex-no-wrap md:table-row mb-8 md:mb-0
+              border-2
+              md:border-0
+              
+              
+              bg-red-100
+              
+              md:border-b-gray-200"
+            >
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                  <span class="prose text-center"></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Date: </span>
+                  
+                  <span class="prose "><p>Fri Dey 22</p></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Description: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Course Materials: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Events: </span>
+                  
+                  <span class="prose "></span>
+                </td>
+              
+                <td class="px-4 py-2 border-b-2 md:border-0">
+                  
+                    <span class="md:hidden">Deadlines: </span>
+                  
+                  <span class="prose "><p>HW5 <span class="text-red-500 font-bold">due</span></p></span>
+                </td>
+              
+            </tr>
+          
+      </tbody>
+    </table>
+</div>
+
+  
+
+    
+  </div>
+
+    </div>
+
+    <!-- Back to top button -->
+    <button
+      type="button"
+      data-mdb-ripple="true"
+      data-mdb-ripple-color="light"
+      class="inline-block p-3 bg-blue-400 text-white font-medium text-xs leading-tight uppercase rounded-full shadow-md hover:bg-blue-500 hover:shadow-lg focus:bg-blue-500 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-blue-600 active:shadow-lg transition duration-150 ease-in-out hidden bottom-5 right-5 fixed"
+      id="btn-back-to-top"
+    >
+      <svg
+        aria-hidden="true"
+        focusable="false"
+        data-prefix="fas"
+        class="w-4 h-4"
+        role="img"
+        xmlns="http://www.w3.org/2000/svg"
+        viewBox="0 0 448 512"
+      >
+        <path
+          fill="currentColor"
+          d="M34.9 289.5l-22.2-22.2c-9.4-9.4-9.4-24.6 0-33.9L207 39c9.4-9.4 24.6-9.4 33.9 0l194.3 194.3c9.4 9.4 9.4 24.6 0 33.9L413 289.4c-9.5 9.5-25 9.3-34.3-.4L264 168.6V456c0 13.3-10.7 24-24 24h-32c-13.3 0-24-10.7-24-24V168.6L69.2 289.1c-9.3 9.8-24.8 10-34.3.4z"
+        ></path>
+      </svg>
+    </button>
+
+    <script>
+      // Get the button
+      let backToTopBtn = document.getElementById('btn-back-to-top');
+
+      // When the user scrolls down 20px from the top of the document, show the button
+      window.addEventListener('scroll', function () {
+        scrollFunction();
+      }, { get passive() { supportsPassive = true; } });
+
+      function scrollFunction() {
+        if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+          backToTopBtn.style.display = 'block';
+        } else {
+          backToTopBtn.style.display = 'none';
+        }
+      }
+      // When the user clicks on the button, scroll to the top of the document
+      backToTopBtn.addEventListener('click', backToTop);
+
+      function backToTop() {
+        document.body.scrollTop = 0;
+        document.documentElement.scrollTop = 0;
+      }
+    </script>
+  </div>
+
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.6.5/flowbite.min.js"></script>
+</body>
+
+</html>

@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <title>{% block title %}SUT-AI | Home{% endblock %}</title>
-  <script src="{{ static('js/fontawesome.js') }}" crossorigin="anonymous"></script>
+  <script src="{{ static('js/fontawesome.js') }}"></script>
   <link href="{{ static('css/main.css') }}" rel="stylesheet" />
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-AMS_HTML"></script>
@@ -34,14 +34,13 @@
   </script>
 
   <script src="{{ static('js/tailwindcss.js') }}"></script>
-  <script src="https://code.jquery.com/jquery-3.6.4.min.js"
-          integrity="sha256-oP6HI9z1XaZNBrJURtCoUT5SUnxFr8s3BzRl+cbzUq8=" crossorigin="anonymous"></script>
+  <script src="{{ static('js/jquery-3.6.4.min.js') }}"></script>
 </head>
 
 <body class="scroll-smooth">
   {% block body %}
   {% endblock %}
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.6.5/flowbite.min.js"></script>
+  <script src="{{ static('js/flowbite-1.6.5.min.js') }}"></script>
 </body>
 
 </html>

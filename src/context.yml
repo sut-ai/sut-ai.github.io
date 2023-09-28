@@ -28,24 +28,24 @@ parts:
         display_name: Head Assistants
         people:
           - name: Soroush Vafaei Tabar
-            pic: images/people/blank.png
+            pic: images/people/ta/Soroush Vafaei Tabar.jpg
             website: mailto:soroush.vafaie96@sharif.edu
 
           - name: Arash Mari Oriyad
-            pic: images/people/blank.png
+            pic: images/people/ta/Arash Mari Oriyad.jpg
             website: mailto:arash.marioriyad98@sharif.edu
 
           - name: Aryan Ahadinia
-            pic: images/people/blank.png
+            pic: images/people/ta/Aryan Ahadinia.jpg
             website: mailto:aryan.ahadinia@sharif.edu
 
-          - name: Mohammadreza Mofayazi
-            pic: images/people/blank.png
-            website: mailto:m.mofayezi@sharif.edu
+          - name: Mohammadreza Mofayezi
+            pic: images/people/ta/Mohammadreza Mofayezi.jpg
+            website: mailto:mofayezi.m@gmail.com
 
           - name: M.J. Maheronnaghsh
-            pic: images/people/blank.png
-            website: mailto:moh.maher65@sharif.edu
+            pic: https://avatars.githubusercontent.com/mjmaher987
+            website: mailto:mjmaher987@gmail.com
 
   - title: Contacting Instruction Team
     type: section

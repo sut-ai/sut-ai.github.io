@@ -1,0 +1,11 @@
+{% extends 'base/main_layout.html' %}
+{% from 'part.html' import create_part with context %}
+
+{% block content %}
+
+  <div class="w-full max-w-full flex flex-col gap-y-6">
+    {% for part in parts %}
+      {{ create_part(part) }}
+    {% endfor %}
+  </div>
+{% endblock %}

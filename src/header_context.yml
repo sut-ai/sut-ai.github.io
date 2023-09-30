@@ -9,3 +9,5 @@ nav:
       text: People
     - link: /#schedule
       text: Schedule
+    - link: /slides
+      text: Slides

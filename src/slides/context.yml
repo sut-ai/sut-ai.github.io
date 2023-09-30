@@ -1,0 +1,30 @@
+parts:
+  - title: Dr. Rohban
+    type: table
+    columns:
+      description:
+        display_name: Description
+        size: 1
+        cell_class: font-semibold
+      slide:
+        display_name: Slides
+        size: 1
+    rows:
+      - description: Introduction
+        slide: >
+          - [Session_1.pdf](/assets/slides/fall2023/rohban/Session_1.pdf)
+
+  - title: Dr. Soleymani
+    type: table
+    columns:
+      description:
+        display_name: Description
+        size: 1
+        cell_class: font-semibold
+      slide:
+        display_name: Slides
+        size: 1
+    rows:
+      - description: Introduction
+        slide: >
+          - [Introduction.pdf](/assets/slides/fall2023/soleymani/Introduction.pdf)

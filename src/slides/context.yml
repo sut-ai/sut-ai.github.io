@@ -12,7 +12,7 @@ parts:
     rows:
       - description: Introduction
         slide: >
-          - [Session_1.pdf](/assets/slides/fall2023/rohban/Session_1.pdf)
+          - <i class="fa fa-file-pdf-o"></i> [01_Introduction.pdf](/assets/slides/fall2023/rohban/01_Introduction.pdf)
 
   - title: Dr. Soleymani
     type: table
@@ -27,4 +27,4 @@ parts:
     rows:
       - description: Introduction
         slide: >
-          - [Introduction.pdf](/assets/slides/fall2023/soleymani/Introduction.pdf)
+          - <i class="fa fa-file-pdf-o"></i> [01_Introduction.pdf](/assets/slides/fall2023/soleymani/01_Introduction.pdf)

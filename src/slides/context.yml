@@ -31,6 +31,9 @@ parts:
       - description: Introduction
         slide: >
           - <i class="fa fa-file-pdf-o"></i> [01_Introduction.pdf](/assets/slides/fall2023/soleymani/01_Introduction.pdf)
+      - description: Intelligent Agents
+        slide: >
+          - <i class="fa fa-file-pdf-o"></i> [02_Intelligent Agents.pdf](/assets/slides/fall2023/soleymani/02_Intelligent Agents.pdf)
       - description: Uninformed Search
         slide: >
-          - <i class="fa fa-file-pdf-o"></i> [02_Uninformed Search.pdf](/assets/slides/fall2023/rohban/02_Uninformed Search.pdf)
+          - <i class="fa fa-file-pdf-o"></i> [03_Uninformed Search.pdf](/assets/slides/fall2023/soleymani/03_Uninformed Search.pdf)

@@ -12,38 +12,22 @@ import jinja2
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument(
-        '--baseurl', dest='base_url', default="",
-        help='Baseurl of deploying site'
+        "--repo_full_name", dest="repo_full_name", help="user/repo_name"
     )
-    parser.add_argument(
-        '--repo_full_name',
-        dest='repo_full_name', help='user/repo_name'
-    )
-    parser.add_argument(
-        '--output',
-        dest='output', default="webified"
-    )
-    parser.add_argument(
-        '--templates-dir',
-        dest='templates_dir',
-        default="templates"
-    )
-    parser.add_argument(
-        '--src-dir',
-        dest='src_dir',
-        default="src"
-    )
-    parser.add_argument(
-        '--globals-file',
-        dest="globals_file",
-        default="globals"
-    )
+    parser.add_argument("--output", dest="output", default="webified")
+    parser.add_argument("--templates-dir", dest="templates_dir", default="templates")
+    parser.add_argument("--src-dir", dest="src_dir", default="src")
+    parser.add_argument("--globals-file", dest="globals_file", default="globals")
     args = parser.parse_args()
 
-    subprocess.run(f"rm -rf {args.output}", shell=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+    subprocess.run(
+        f"rm -rf {args.output}",
+        shell=True,
+        stdout=subprocess.DEVNULL,
+        stderr=subprocess.DEVNULL,
+    )
 
     Parser(
-        base_url=args.base_url,
         output=args.output,
         src_dir=args.src_dir,
         templates_dir=args.templates_dir,
@@ -52,14 +36,17 @@ def main():
 
 
 class Parser:
-    def __init__(self, base_url, output, src_dir, templates_dir, globals_file):
-        self.base_url = base_url
+    def __init__(self, output, src_dir, templates_dir, globals_file):
         self.output = output
         self.src_dir = src_dir
         self.templates_dir = templates_dir
-        self.environment = jinja2.Environment(loader=jinja2.FileSystemLoader([self.src_dir, self.templates_dir]))
-        module = importlib.import_module(globals_file)
-        self.environment.globals.update(module.Globals(base_url=self.base_url, src_dir=self.src_dir).get())
+        self.environment = jinja2.Environment(
+            loader=jinja2.FileSystemLoader([self.src_dir, self.templates_dir])
+        )
+        self.globals_cls = importlib.import_module(globals_file).Globals
+
+    def get_globals(self, index_path):
+        return self.globals_cls(src_dir=self.src_dir, index_path=index_path).get()
 
     def parse(self):
         self.copy_content()
@@ -77,7 +64,9 @@ class Parser:
             self.output,
             rel_index_path,
         )
-        result = self.environment.get_template(rel_index_path).render(self.get_context(index_path))
+        result = self.environment.get_template(rel_index_path).render(
+            self.get_context(index_path)
+        )
         os.makedirs(os.path.dirname(output_file), exist_ok=True)
         with open(output_file, "w") as output:
             output.write(result)
@@ -90,16 +79,8 @@ class Parser:
                 context = yaml.safe_load(f) or {}
         else:
             context = {}
-        context.update(
-            current_url=self.get_url_of_index(index_path)
-        )
+        context.update(self.get_globals(index_path))
         return context
-
-    def get_url_of_index(self, index_path):
-        current_path = os.path.relpath(os.path.dirname(index_path), self.src_dir)
-        if current_path == ".":
-            return "/"
-        return os.path.normpath(current_path)
 
     def find_pages(self):
         result = []
@@ -123,5 +104,5 @@ class Parser:
         print(f"Copied {path} -> {dest_path}")
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()

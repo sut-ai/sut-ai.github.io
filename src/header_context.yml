@@ -1,9 +1,6 @@
 nav:
-  brand:
-    text: SUT-AI
-    link: /
   content:
-    - index: index
+    - link: /
       text: Home
     - link: /#people
       text: People

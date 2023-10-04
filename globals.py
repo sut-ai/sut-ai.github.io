@@ -1,4 +1,6 @@
 import os
+from functools import cached_property
+from pathlib import Path
 from urllib.parse import urlparse
 
 import yaml
@@ -6,27 +8,43 @@ import markdown
 
 
 class Globals:
-    def __init__(self, base_url, src_dir):
-        self.base_url = base_url
+    def __init__(self, src_dir, index_path):
         self.src_dir = src_dir
+        self.index_path = index_path
 
     def static(self, path):
         path = os.path.join("assets", path)
         return "/" + path.removeprefix("/")
 
     def load_header_context(self):
-        with open(os.path.join(self.src_dir, "header_context.yml")) as f:
+        directory = Path(self.index_path).resolve().parent
+        while not os.path.isfile(directory / "header_context.yml"):
+            if directory == directory.parent:
+                raise Exception(
+                    f"failed to find header_context.yml for {self.index_path}"
+                )
+            directory = directory.parent
+        with open(directory / "header_context.yml") as f:
             return yaml.safe_load(f)
 
-    def get_nav_link(self, item):
-        if "index" in item:
-            link = item["index"].removesuffix("index")
-            if link != "":
-                link = link.removesuffix("/")
-        else:
-            link = item["link"]
+    @cached_property
+    def index_url(self):
+        current_path = os.path.relpath(os.path.dirname(self.index_path), self.src_dir)
+        if current_path == ".":
+            return "/"
+        return os.path.normpath(current_path)
 
-        return "/" + link.removeprefix("/")
+    @cached_property
+    def base_url(self):
+        parts = self.index_url.split(os.sep)
+        if parts and parts[0] == "archive":
+            return "/" + "/".join(parts[:2]) + "/"
+        else:
+            return "/"
+
+    def get_nav_link(self, item):
+        link = item["link"]
+        return self.base_url + link.removeprefix("/")
 
     def static_or_abs_link(self, item):
         parsed = urlparse(item)
@@ -48,4 +66,5 @@ class Globals:
             "sum_attr": self.sum_attr,
             "markdown": self.markdown,
             "static_or_abs_link": self.static_or_abs_link,
+            "current_url": self.index_url,
         }

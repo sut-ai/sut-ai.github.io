@@ -58,6 +58,10 @@ parts:
       messenger services is discouraged. Anything communicated in these messengers by any of the TAs will not be
       recognized as an official statement and will not be applicable to the grading process. Note that you can always
       have direct contact with the instructors via their email addresses.
+  - title: Previous Websites
+    type: section
+    text: >
+      [Spring 2023](/archive/spring2023) / [Fall 2022](/archive/fall2022)
   - title: Content
     type: section
     subsections:

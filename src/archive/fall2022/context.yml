@@ -1,0 +1,37 @@
+parts:
+  - title: Objective
+    type: section
+    text: >
+      This course offers a gentle introduction to the concepts and methodologies in Artificial Intelligence from
+      both theoretical and practical perspectives. This includes designing intelligent agents through techniques
+      such as state-space search methods, knowledge representation and inference, and Machine Learning. By the end
+      of this course, students are expected to have the ability to develop intelligent solutions for semi-real
+      world problems using the appropriate methods discussed in the course. Furthermore, they are expected to gain
+      knowledge and experience in analyzing the inner workings of these methods and customizing them for specific
+      problems.
+  - title: Instruction Team
+    id: people
+    type: people
+    people_data:
+      - role: instructors
+        display_name: Instructors
+        people:
+          - name: M.H. Rohban
+            pic: images/people/Rohban.jpeg
+            website: http://sharif.ir/~rohban/
+
+          - name: M. Soleymani Baghshah
+            pic: images/people/Soleymani.jpg
+            website: https://sharif.edu/~soleymani/
+
+  - title: Contacting Instruction Team
+    type: section
+    text: >
+      Please contact the administrative team only using the course's official email address,
+      [**sharifaicentral@gmail.com**](mailto:sharifaicentral@gmail.com). Avoid sending an email or a message directly to any member of the instruction team.
+      Ensure that you use a proper subject for your email and include your name and student ID. It is strongly
+      encouraged to use the [**@Sharif** webmail service](https://webmail.sharif.edu/) to ensure easy identification by the instructional team.
+      To ask questions about assignments and other course materials, please use Quera. Using Telegram and other
+      messenger services is discouraged. Anything communicated in these messengers by any of the TAs will not be
+      recognized as an official statement and will not be applicable to the grading process. Note that you can always
+      have direct contact with the instructors via their email addresses.

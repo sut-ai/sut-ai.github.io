@@ -19,6 +19,9 @@ parts:
       - description: Problem Space and Uninformed Search
         slide: >
           - <i class="fa fa-file-pdf-o"></i> [02_Problem Space and Uninformed Search.pdf](/assets/slides/fall2023/rohban/02_Problem Space and Uninformed Search.pdf)
+      - description: Informed Search
+        slide: >
+          - <i class="fa fa-file-pdf-o"></i> [03_Informed Search.pdf](/assets/slides/fall2023/rohban/03_Informed Search.pdf)
 
   - title: Dr. Soleymani
     type: table
@@ -43,3 +46,6 @@ parts:
       - description: Uninformed Search
         slide: >
           - <i class="fa fa-file-pdf-o"></i> [03_Uninformed Search.pdf](/assets/slides/fall2023/soleymani/03_Uninformed Search.pdf)
+      - description: Informed Search
+        slide: >
+          - <i class="fa fa-file-pdf-o"></i> [04_Informed Search.pdf](/assets/slides/fall2023/soleymani/04_Informed Search.pdf)

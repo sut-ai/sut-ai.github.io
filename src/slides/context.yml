@@ -12,7 +12,7 @@ parts:
     rows:
       - description: Supplementary Materials
         slide: >
-          - <i class="fa fa-file-pdf-o"></i> [Materials.zip](/assets/Materials.zip)
+          - <i class="fa fa-file-zip-o"></i> [Materials.zip](/assets/Materials.zip)
       - description: Introduction
         slide: >
           - <i class="fa fa-file-pdf-o"></i> [01_Introduction.pdf](/assets/slides/fall2023/rohban/01_Introduction.pdf)
@@ -36,7 +36,7 @@ parts:
     rows:
       - description: Supplementary Materials
         slide: >
-          - <i class="fa fa-file-pdf-o"></i> [Materials.zip](/assets/Materials.zip)
+          - <i class="fa fa-file-zip-o"></i> [Materials.zip](/assets/Materials.zip)
       - description: Introduction
         slide: >
           - <i class="fa fa-file-pdf-o"></i> [01_Introduction.pdf](/assets/slides/fall2023/soleymani/01_Introduction.pdf)

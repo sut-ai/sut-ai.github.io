@@ -183,7 +183,7 @@ parts:
       - date: Mon Mehr 17
         session:
         events: |
-          HW1 <span class="text-green-500 font-bold" font-bold">out</span> [[handout](https://github.com/sut-ai/resources/tree/master/problem_sets/rohban_soleymani_f2023/assignments/A1/F2023-HW1.zip)]
+          HW1 <span class="text-green-500 font-bold" font-bold">out</span> [[handout](https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_soleymani_f2023/assignments/A1/F2023-HW1.zip)]
       - date: Tue Mehr 18
         session: '4'
         description: |
@@ -202,11 +202,6 @@ parts:
           Constraint Satisfaction Problems I
         materials:
         events:
-      - date: Sat Mehr 29
-        session:
-        color: deadline
-        deadlines: |
-          HW1 <span class="text-red-500 font-bold">due</span>
       - date: Sun Mehr 30
         session: '7'
         description: |
@@ -214,6 +209,11 @@ parts:
         materials:
         events:
           HW2 <span class="text-green-500 font-bold" font-bold">out</span>
+      - date: Mon Aban 1
+        session:
+        color: deadline
+        deadlines: |
+          HW1 <span class="text-red-500 font-bold">due</span>
       - date: Tue Aban 2
         session: '8'
         description: |

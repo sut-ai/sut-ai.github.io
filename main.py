@@ -45,8 +45,8 @@ class Parser:
         )
         self.globals_cls = importlib.import_module(globals_file).Globals
 
-    def get_globals(self, index_path):
-        return self.globals_cls(src_dir=self.src_dir, index_path=index_path).get()
+    def get_globals(self, index_path, context):
+        return self.globals_cls(src_dir=self.src_dir, index_path=index_path, environment=self.environment, context=context).get()
 
     def parse(self):
         self.copy_content()
@@ -79,7 +79,7 @@ class Parser:
                 context = yaml.safe_load(f) or {}
         else:
             context = {}
-        context.update(self.get_globals(index_path))
+        context.update(self.get_globals(index_path, context))
         return context
 
     def find_pages(self):

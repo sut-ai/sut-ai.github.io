@@ -112,15 +112,13 @@ parts:
           as 12 PM on the same day. 
           Delays will be calculated on an hourly scale, as illustrated in the figure below and described by 
           equation following the figure, where $h$ represents the amount of delay in hours.
-          <div class="mx-auto max-w-xl">![Delay Coefficient graph]({{ static("images/course/delay_coef.jpg") }} "Delay coefficient")</div>
+          <div class="mx-auto max-w-xl">![Delay Coefficient graph]({{ static("images/course/delay_coef.png") }} "Delay coefficient")</div>
           $$
            \begin{cases}
             88 & 0 < h < 12 \\
             100 - h & 12 \le h \le 24 \\
             64 & 24 < h < 36 \\
             100 - h & 36 \le h \le 48 \\
-            40 & 48 < h < 60 \\
-            100 - h & 60 \le h \le 72 \\
            \end{cases}
           $$
       - title: Collaboration, Academic Honesty, and Plagiarism

@@ -3,14 +3,17 @@ from functools import cached_property
 from pathlib import Path
 from urllib.parse import urlparse
 
+import jinja2
 import yaml
 import markdown
 
 
 class Globals:
-    def __init__(self, src_dir, index_path):
+    def __init__(self, src_dir, index_path, environment, context):
         self.src_dir = src_dir
         self.index_path = index_path
+        self.environment: jinja2.Environment = environment
+        self.context = context
 
     def static(self, path):
         path = os.path.join("assets", path)
@@ -56,7 +59,20 @@ class Globals:
         return sum(int(x[attr]) for x in list_)
 
     def markdown(self, content):
-        return markdown.markdown(content, extensions=["nl2br", "mdx_math"])
+        parsed = self.environment.from_string(content).render(self.context)
+        return markdown.markdown(parsed, extensions=["nl2br", "mdx_math"])
+
+    def local_file_with_icon(self, path, extension=None):
+        url = self.static(path)
+        file_name = os.path.basename(path)
+        extension = extension or file_name.rsplit(".")[-1]
+        if extension == "pdf":
+            icon_class = "fa fa-file-pdf-o"
+        elif extension == "zip":
+            icon_class = "fa fa-file-zip-o"
+        else:
+            raise ValueError(f"Can't map file name '{file_name}' with extension {extension} to any icon")
+        return f'<i class="{icon_class}"></i> [{file_name}]({url})'
 
     def get(self):
         return {
@@ -67,4 +83,5 @@ class Globals:
             "markdown": self.markdown,
             "static_or_abs_link": self.static_or_abs_link,
             "current_url": self.index_url,
+            "local_file_with_icon": self.local_file_with_icon,
         }

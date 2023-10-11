@@ -79,7 +79,7 @@ parts:
           take place on Sundays and Tuesdays from 10:30 to 12:00. Classes will be held in person by default,
           but in special circumstances, the class might be conducted virtually (with prior announcements), at
           [https://vc.sharif.edu/ch/soleymani](https://vc.sharif.edu/ch/soleymani) or
-          [https://vc.sharif.edu/ch/rohban](https://vc.sharif.edu/ch/soleymani).
+          [https://vc.sharif.edu/ch/rohban](https://vc.sharif.edu/ch/rohban).
       - title: Grading
         text: >
           Assessment of students of both groups will be identical. Please note that grades will be calculated out of $21.5$.
@@ -112,7 +112,7 @@ parts:
           as 12 PM on the same day. 
           Delays will be calculated on an hourly scale, as illustrated in the figure below and described by 
           equation following the figure, where $h$ represents the amount of delay in hours.
-          <div class="mx-auto max-w-xl">![Delay Coefficient graph](/assets/images/course/delay_coef.jpg "Delay coefficient")</div>
+          <div class="mx-auto max-w-xl">![Delay Coefficient graph]({{ static("images/course/delay_coef.jpg") }} "Delay coefficient")</div>
           $$
            \begin{cases}
             88 & 0 < h < 12 \\
@@ -175,15 +175,15 @@ parts:
           Uninformed Search
         materials:
         events:
-      - date: Sat Mehr 15
-        session:
-        events: |
-          HW1 <span class="text-green-500 font-bold" font-bold">out</span>
       - date: Sun Mehr 16
         session: '3'
         description: |
           Informed Search
         materials:
+      - date: Mon Mehr 17
+        session:
+        events: |
+          HW1 <span class="text-green-500 font-bold" font-bold">out</span> [[handout](https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_soleymani_f2023/assignments/A1/F2023-HW1.zip)]
       - date: Tue Mehr 18
         session: '4'
         description: |
@@ -202,11 +202,6 @@ parts:
           Constraint Satisfaction Problems I
         materials:
         events:
-      - date: Sat Mehr 29
-        session:
-        color: deadline
-        deadlines: |
-          HW1 <span class="text-red-500 font-bold">due</span>
       - date: Sun Mehr 30
         session: '7'
         description: |
@@ -214,6 +209,11 @@ parts:
         materials:
         events:
           HW2 <span class="text-green-500 font-bold" font-bold">out</span>
+      - date: Mon Aban 1
+        session:
+        color: deadline
+        deadlines: |
+          HW1 <span class="text-red-500 font-bold">due</span>
       - date: Tue Aban 2
         session: '8'
         description: |

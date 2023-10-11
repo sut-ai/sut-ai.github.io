@@ -12,19 +12,16 @@ parts:
     rows:
       - description: Supplementary Materials
         slide: >
-          - <i class="fa fa-file-pdf-o"></i> [Materials.zip](/assets/Materials.zip)
+          - {{ local_file_with_icon("Materials.zip") }}
       - description: Introduction
         slide: >
-          - <i class="fa fa-file-pdf-o"></i> [01_Introduction.pdf](/assets/slides/fall2023/rohban/01_Introduction.pdf)
+          - {{ local_file_with_icon("slides/fall2023/rohban/01_Introduction.pdf") }}
       - description: Problem Space and Uninformed Search
         slide: >
-          - <i class="fa fa-file-pdf-o"></i> [02_Problem Space and Uninformed Search.pdf](/assets/slides/fall2023/rohban/02_Problem Space and Uninformed Search.pdf)
+          - {{ local_file_with_icon("slides/fall2023/rohban/02_Problem Space and Uninformed Search.pdf") }}
       - description: Informed Search
         slide: >
-          - <i class="fa fa-file-pdf-o"></i> [03_Informed Search.pdf](/assets/slides/fall2023/rohban/03_Informed Search.pdf)
-      - description: Local Search
-        slide: >
-          - <i class="fa fa-file-pdf-o"></i> [04_Local Search.pdf](/assets/slides/fall2023/rohban/04_Local Search.pdf)
+          - {{ local_file_with_icon("slides/fall2023/rohban/03_Informed Search.pdf") }}
 
   - title: Dr. Soleymani
     type: table
@@ -39,19 +36,16 @@ parts:
     rows:
       - description: Supplementary Materials
         slide: >
-          - <i class="fa fa-file-pdf-o"></i> [Materials.zip](/assets/Materials.zip)
+          - {{ local_file_with_icon("Materials.zip") }}
       - description: Introduction
         slide: >
-          - <i class="fa fa-file-pdf-o"></i> [01_Introduction.pdf](/assets/slides/fall2023/soleymani/01_Introduction.pdf)
+          - {{ local_file_with_icon("slides/fall2023/soleymani/01_Introduction.pdf") }}
       - description: Intelligent Agents
         slide: >
-          - <i class="fa fa-file-pdf-o"></i> [02_Intelligent Agents.pdf](/assets/slides/fall2023/soleymani/02_Intelligent Agents.pdf)
+          - {{ local_file_with_icon("slides/fall2023/soleymani/02_Intelligent Agents.pdf") }}
       - description: Uninformed Search
         slide: >
-          - <i class="fa fa-file-pdf-o"></i> [03_Uninformed Search.pdf](/assets/slides/fall2023/soleymani/03_Uninformed Search.pdf)
+          - {{ local_file_with_icon("slides/fall2023/soleymani/03_Uninformed Search.pdf") }}
       - description: Informed Search
         slide: >
-          - <i class="fa fa-file-pdf-o"></i> [04_Informed Search.pdf](/assets/slides/fall2023/soleymani/04_Informed Search.pdf)
-      - description: Local Search
-        slide: >
-          - <i class="fa fa-file-pdf-o"></i> [05_Local Search.pdf](/assets/slides/fall2023/soleymani/05_Local Search.pdf)
+          - {{ local_file_with_icon("slides/fall2023/soleymani/04_Informed Search.pdf") }} 

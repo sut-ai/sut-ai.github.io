@@ -38,4 +38,5 @@ The code uses:
   - You should avoid adding new css classes. But if you 1. can't find any other way, 2. have searched [tailwind docs](https://tailwindcss.com/docs/) and have not found the style you want, 3. have asked every chat gpt version for a solution, then you can add your own classes in `assets/css/main.css`.
 - jekyll to host github pages (this is redundant and can be removed in production at least).
   - For development, you should run the docker container defined in `docker-compose.yml`, and run `python main.py` after every change you make anywhere.
+    - The website can be accessed from your [http://localhost:4000](http://localhost:4000)
     - You can fix this by adding a watcher for files in your IDE, or adding a feature to code to run it with watch on files.

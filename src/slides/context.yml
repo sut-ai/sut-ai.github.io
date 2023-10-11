@@ -22,6 +22,9 @@ parts:
       - description: Informed Search
         slide: >
           - {{ local_file_with_icon("slides/fall2023/rohban/03_Informed Search.pdf") }}
+      - description: Local Search
+        slide: >
+          - {{ local_file_with_icon("slides/fall2023/rohban/04_Local Search.pdf") }}
 
   - title: Dr. Soleymani
     type: table
@@ -49,3 +52,6 @@ parts:
       - description: Informed Search
         slide: >
           - {{ local_file_with_icon("slides/fall2023/soleymani/04_Informed Search.pdf") }} 
+      - description: Local Search
+        slide: >
+          - {{ local_file_with_icon("slides/fall2023/soleymani/05_Local Search.pdf") }}

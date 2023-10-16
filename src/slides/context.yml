@@ -25,6 +25,9 @@ parts:
       - description: Local Search
         slide: >
           - {{ local_file_with_icon("slides/fall2023/rohban/04_Local Search.pdf") }}
+      - description: Optimization
+        slide: >
+          - {{ local_file_with_icon("slides/fall2023/rohban/05_Optimization.pdf") }} 
 
   - title: Dr. Soleymani
     type: table
@@ -55,3 +58,6 @@ parts:
       - description: Local Search
         slide: >
           - {{ local_file_with_icon("slides/fall2023/soleymani/05_Local Search.pdf") }}
+      - description: Optimization
+        slide: >
+          - {{ local_file_with_icon("slides/fall2023/soleymani/06_Optimization.pdf") }}

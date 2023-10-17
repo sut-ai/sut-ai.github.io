@@ -28,6 +28,9 @@ parts:
       - description: Optimization
         slide: >
           - {{ local_file_with_icon("slides/fall2023/rohban/05_Optimization.pdf") }} 
+      - description: Constraints Satisfaction Problem
+        slide: >
+          - {{ local_file_with_icon("slides/fall2023/rohban/06_Constraints Satisfaction Problem.pdf") }} 
 
   - title: Dr. Soleymani
     type: table
@@ -61,3 +64,6 @@ parts:
       - description: Optimization
         slide: >
           - {{ local_file_with_icon("slides/fall2023/soleymani/06_Optimization.pdf") }}
+      - description: Constraints Satisfaction Problem
+        slide: >
+          - {{ local_file_with_icon("slides/fall2023/soleymani/07_Constraints Satisfaction Problem.pdf") }}

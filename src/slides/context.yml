@@ -31,6 +31,9 @@ parts:
       - description: Constraints Satisfaction Problem
         slide: >
           - {{ local_file_with_icon("slides/fall2023/rohban/06_Constraints Satisfaction Problem.pdf") }} 
+      - description: Adversarial Search
+        slide: >
+          - {{ local_file_with_icon("slides/fall2023/rohban/07_Adversarial Search.pdf") }} 
 
   - title: Dr. Soleymani
     type: table

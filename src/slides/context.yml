@@ -70,3 +70,6 @@ parts:
       - description: Constraints Satisfaction Problem
         slide: >
           - {{ local_file_with_icon("slides/fall2023/soleymani/07_Constraints Satisfaction Problem.pdf") }}
+      - description: Adversarial Search
+        slide: >
+          - {{ local_file_with_icon("slides/fall2023/soleymani/08_Adversarial Search.pdf") }}

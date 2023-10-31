@@ -33,7 +33,10 @@ parts:
           - {{ local_file_with_icon("slides/fall2023/rohban/06_Constraints Satisfaction Problem.pdf") }} 
       - description: Adversarial Search
         slide: >
-          - {{ local_file_with_icon("slides/fall2023/rohban/07_Adversarial Search.pdf") }} 
+          - {{ local_file_with_icon("slides/fall2023/rohban/07_Adversarial Search.pdf") }}
+      - description: Markov Decision Processes
+        slide: >
+          - {{ local_file_with_icon("slides/fall2023/rohban/08_Markov Decision Processes.pdf") }}
 
   - title: Dr. Soleymani
     type: table
@@ -73,3 +76,6 @@ parts:
       - description: Adversarial Search
         slide: >
           - {{ local_file_with_icon("slides/fall2023/soleymani/08_Adversarial Search.pdf") }}
+      - description: Markov Decision Processes
+        slide: >
+          - {{ local_file_with_icon("slides/fall2023/soleymani/09_Markov Decision Processes.pdf") }}

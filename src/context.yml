@@ -181,7 +181,7 @@ parts:
       - date: Mon Mehr 17
         session:
         events: |
-          HW1 <span class="text-green-500 font-bold" font-bold">out</span> [[handout](https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_soleymani_f2023/assignments/A1/F2023-HW1.zip)]
+          HW1 <span class="text-green-500 font-bold" font-bold">out</span> [[handout](https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_soleymani_f2023/assignments/A1/F2023-HW1.zip)] [[solution](https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_soleymani_f2023/assignments/A1/F2023-HW1-Solution.zip)]
       - date: Tue Mehr 18
         session: '4'
         description: |

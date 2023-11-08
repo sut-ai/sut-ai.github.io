@@ -217,7 +217,7 @@ parts:
           Adversarial Search
         materials:
         events:
-          HW2 <span class="text-green-500 font-bold" font-bold">out</span> [[handout](https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_soleymani_f2023/assignments/A2/F2023-HW2.zip)]
+          HW2 <span class="text-green-500 font-bold" font-bold">out</span> [[handout](https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_soleymani_f2023/assignments/A2/F2023-HW2.zip)] [[solution](https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_soleymani_f2023/assignments/A2/F2023-HW2-Solution.zip)]
       - date: Sun Aban 7
         session: '9'
         description: |

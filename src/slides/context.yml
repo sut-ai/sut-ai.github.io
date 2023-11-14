@@ -40,6 +40,9 @@ parts:
       - description: Reinforcement Learning
         slide: >
           - {{ local_file_with_icon("slides/fall2023/rohban/09_RL.pdf") }}
+      - description: Bayes’ Networks
+        slide: >
+          - {{ local_file_with_icon("slides/fall2023/rohban/10_Bayes’ Networks.pdf") }}
 
   - title: Dr. Soleymani
     type: table
@@ -85,3 +88,9 @@ parts:
       - description: Reinforcement Learning
         slide: >
           - {{ local_file_with_icon("slides/fall2023/soleymani/10_RL.pdf") }}
+      - description: Uncertainty & Probability
+        slide: >
+          - {{ local_file_with_icon("slides/fall2023/soleymani/11_Uncertainty & Probability.pdf") }}
+      - description: Bayes’ Networks
+        slide: >
+          - {{ local_file_with_icon("slides/fall2023/soleymani/12_Bayes’ Networks.pdf") }}

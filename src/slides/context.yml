@@ -43,6 +43,9 @@ parts:
       - description: Bayes’ Networks
         slide: >
           - {{ local_file_with_icon("slides/fall2023/rohban/10_Bayes’ Networks.pdf") }}
+      - description: Bayes’ Networks Inference
+        slide: >
+          - {{ local_file_with_icon("slides/fall2023/rohban/11_Bayes’ Networks Inference.pdf") }}
 
   - title: Dr. Soleymani
     type: table

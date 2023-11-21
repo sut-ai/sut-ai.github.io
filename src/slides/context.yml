@@ -97,3 +97,6 @@ parts:
       - description: Bayes’ Networks
         slide: >
           - {{ local_file_with_icon("slides/fall2023/soleymani/12_Bayes’ Networks.pdf") }}
+      - description: Bayes’ Networks Inference
+        slide: >
+          - {{ local_file_with_icon("slides/fall2023/soleymani/13_Bayes’ Networks Inference.pdf") }}

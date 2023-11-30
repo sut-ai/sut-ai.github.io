@@ -46,6 +46,9 @@ parts:
       - description: Bayes’ Networks Inference
         slide: >
           - {{ local_file_with_icon("slides/fall2023/rohban/11_Bayes’ Networks Inference.pdf") }}
+      - description: Temporal Probability Models
+        slide: >
+          - {{ local_file_with_icon("slides/fall2023/rohban/12_Temporal Probability Models.pdf") }}
 
   - title: Dr. Soleymani
     type: table

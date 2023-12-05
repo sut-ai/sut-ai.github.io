@@ -49,6 +49,9 @@ parts:
       - description: Temporal Probability Models
         slide: >
           - {{ local_file_with_icon("slides/fall2023/rohban/12_Temporal Probability Models.pdf") }}
+      - description: Machine Learning
+        slide: >
+          - {{ local_file_with_icon("slides/fall2023/rohban/13_Machine Learning.pdf") }}
 
   - title: Dr. Soleymani
     type: table
@@ -103,3 +106,6 @@ parts:
       - description: Bayes’ Networks Inference
         slide: >
           - {{ local_file_with_icon("slides/fall2023/soleymani/13_Bayes’ Networks Inference.pdf") }}
+      - description: Markov Chains and Hidden Markov Models
+        slide: >
+          - {{ local_file_with_icon("slides/fall2023/soleymani/14_Markov Chains and Hidden Markov Models.pdf") }}

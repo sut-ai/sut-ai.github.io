@@ -329,8 +329,7 @@ parts:
           HW4 <span class="text-red-500 font-bold">due</span>
       - date: Sun Azar 26
         session:
-        events: |
-          HW5 <span class="text-green-500 font-bold" font-bold">out</span>
+        events:
       - date: Tue Azar 28
         session: '23'
         description: |
@@ -349,7 +348,8 @@ parts:
         description: |
            Perceptron
         materials:
-        events:
+        events: |
+          HW5 <span class="text-green-500 font-bold" font-bold">out</span>
       - date: Tue Dey 5
         session: '25'
         description: |

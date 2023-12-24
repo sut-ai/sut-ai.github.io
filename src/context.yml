@@ -241,7 +241,7 @@ parts:
           Reinforcement Learning: Passive
         materials:
         events:
-          HW3 <span class="text-green-500 font-bold" font-bold">out</span> [[handout](https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_soleymani_f2023/assignments/A3/F2023-HW3.zip)]
+          HW3 <span class="text-green-500 font-bold" font-bold">out</span> [[handout](https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_soleymani_f2023/assignments/A3/F2023-HW3.zip)] [[solution](https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_soleymani_f2023/assignments/A3/F2023-HW3-Solution.zip)]
       - date: Tue Aban 16
         session: '12'
         description: |
@@ -291,7 +291,7 @@ parts:
           Inference in Bayesian Networks: Approximate
         materials:
         events:
-          HW4 <span class="text-green-500 font-bold" font-bold">out</span> [[handout](https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_soleymani_f2023/assignments/A4/F2023-HW4.zip)]
+          HW4 <span class="text-green-500 font-bold" font-bold">out</span> [[handout](https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_soleymani_f2023/assignments/A4/F2023-HW4.zip)] [[solution](https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_soleymani_f2023/assignments/A4/F2023-HW4-Solution.zip)]
       - date: Tue Azar 7
         session: '18'
         description: |
@@ -329,8 +329,7 @@ parts:
           HW4 <span class="text-red-500 font-bold">due</span>
       - date: Sun Azar 26
         session:
-        events: |
-          HW5 <span class="text-green-500 font-bold" font-bold">out</span>
+        events:
       - date: Tue Azar 28
         session: '23'
         description: |
@@ -349,7 +348,8 @@ parts:
         description: |
            Perceptron
         materials:
-        events:
+        events: |
+          HW5 <span class="text-green-500 font-bold" font-bold">out</span> [[handout](https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_soleymani_f2023/assignments/A5/F2023-HW5.zip)]
       - date: Tue Dey 5
         session: '25'
         description: |
@@ -368,7 +368,7 @@ parts:
            Applications
         materials:
         events:
-      - date: Fri Dey 22
+      - date: Fri Dey 19
         session:
         color: deadline
         deadlines: |

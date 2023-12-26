@@ -55,6 +55,11 @@ parts:
       - description: Decision Tree
         slide: >
           - {{ local_file_with_icon("slides/fall2023/rohban/14_Decision Tree.pdf") }}
+      - description: Neural Networks
+        slide: >
+          - {{ local_file_with_icon("slides/fall2023/rohban/15_Neural Networks.pdf") }}
+          - {{ local_file_with_icon("slides/fall2023/rohban/15A1_Neural Networks.pdf") }}
+
 
   - title: Dr. Soleymani
     type: table

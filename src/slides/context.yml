@@ -123,3 +123,9 @@ parts:
       - description: Decision Tree
         slide: >
           - {{ local_file_with_icon("slides/fall2023/soleymani/16_Decision Tree.pdf") }}
+      - description: Learning - Linear Models
+        slide: >
+          - {{ local_file_with_icon("slides/fall2023/soleymani/17_Learning - Linear Models.pdf") }}
+      - description: Generalization
+        slide: >
+          - {{ local_file_with_icon("slides/fall2023/soleymani/18_Generalization.pdf") }}

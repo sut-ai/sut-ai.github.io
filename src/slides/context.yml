@@ -59,7 +59,9 @@ parts:
         slide: >
           - {{ local_file_with_icon("slides/fall2023/rohban/15_Neural Networks.pdf") }}
           - {{ local_file_with_icon("slides/fall2023/rohban/15A1_Neural Networks.pdf") }}
-
+      - description: Optimization in Deep Learning
+        slide: >
+          - {{ local_file_with_icon("slides/fall2023/rohban/16_Optimization in Deep Learning.pdf") }}
 
   - title: Dr. Soleymani
     type: table

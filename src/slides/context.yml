@@ -131,3 +131,6 @@ parts:
       - description: Generalization
         slide: >
           - {{ local_file_with_icon("slides/fall2023/soleymani/18_Generalization.pdf") }}
+      - description: Neural Networks
+        slide: >
+          - {{ local_file_with_icon("slides/fall2023/soleymani/19_Neural Networks.pdf") }}

@@ -55,6 +55,13 @@ parts:
       - description: Decision Tree
         slide: >
           - {{ local_file_with_icon("slides/fall2023/rohban/14_Decision Tree.pdf") }}
+      - description: Neural Networks
+        slide: >
+          - {{ local_file_with_icon("slides/fall2023/rohban/15_Neural Networks.pdf") }}
+          - {{ local_file_with_icon("slides/fall2023/rohban/15A1_Neural Networks.pdf") }}
+      - description: Optimization in Deep Learning
+        slide: >
+          - {{ local_file_with_icon("slides/fall2023/rohban/16_Optimization in Deep Learning.pdf") }}
 
   - title: Dr. Soleymani
     type: table
@@ -118,3 +125,12 @@ parts:
       - description: Decision Tree
         slide: >
           - {{ local_file_with_icon("slides/fall2023/soleymani/16_Decision Tree.pdf") }}
+      - description: Learning - Linear Models
+        slide: >
+          - {{ local_file_with_icon("slides/fall2023/soleymani/17_Learning - Linear Models.pdf") }}
+      - description: Generalization
+        slide: >
+          - {{ local_file_with_icon("slides/fall2023/soleymani/18_Generalization.pdf") }}
+      - description: Neural Networks
+        slide: >
+          - {{ local_file_with_icon("slides/fall2023/soleymani/19_Neural Networks.pdf") }}

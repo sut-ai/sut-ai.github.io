@@ -16,11 +16,11 @@ parts:
       - role: instructors
         display_name: Instructors
         people:
-          - name: M.H. Rohban
+          - name: Prof. M.H. Rohban
             pic: images/people/Rohban.jpeg
             website: http://sharif.ir/~rohban/
 
-          - name: M. Soleymani Baghshah
+          - name: Prof. M. Soleymani Baghshah
             pic: images/people/Soleymani.jpg
             website: https://sharif.edu/~soleymani/
 

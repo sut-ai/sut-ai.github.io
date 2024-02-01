@@ -20,6 +20,10 @@ parts:
             pic: images/people/Rohban.jpeg
             website: http://sharif.ir/~rohban/
 
+          - name: Prof. M. Soleymani Baghshah
+            pic: images/people/Soleymani.jpg
+            website: https://sharif.edu/~soleymani/
+
       - role: head_assistant
         display_name: Head Assistants
         people:
@@ -57,7 +61,7 @@ parts:
   - title: Previous Websites
     type: section
     text: >
-      [Fall 2023](/archive/fall2023) / [Spring 2023](/archive/spring2023) / [Fall 2022](/archive/fall2022)
+      [Spring 2023](/archive/spring2023) / [Fall 2022](/archive/fall2022)
   - title: Content
     type: section
     subsections:

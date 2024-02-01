@@ -1,0 +1,136 @@
+parts:
+  - title: Dr. Rohban
+    type: table
+    columns:
+      description:
+        display_name: Description
+        size: 1
+        cell_class: font-semibold
+      slide:
+        display_name: Slides
+        size: 1
+    rows:
+      - description: Supplementary Materials
+        slide: >
+          - {{ local_file_with_icon("Materials.zip") }}
+      - description: Introduction
+        slide: >
+          - {{ local_file_with_icon("slides/fall2023/rohban/01_Introduction.pdf") }}
+      - description: Problem Space and Uninformed Search
+        slide: >
+          - {{ local_file_with_icon("slides/fall2023/rohban/02_Problem Space and Uninformed Search.pdf") }}
+      - description: Informed Search
+        slide: >
+          - {{ local_file_with_icon("slides/fall2023/rohban/03_Informed Search.pdf") }}
+      - description: Local Search
+        slide: >
+          - {{ local_file_with_icon("slides/fall2023/rohban/04_Local Search.pdf") }}
+      - description: Optimization
+        slide: >
+          - {{ local_file_with_icon("slides/fall2023/rohban/05_Optimization.pdf") }} 
+      - description: Constraints Satisfaction Problem
+        slide: >
+          - {{ local_file_with_icon("slides/fall2023/rohban/06_Constraints Satisfaction Problem.pdf") }} 
+      - description: Adversarial Search
+        slide: >
+          - {{ local_file_with_icon("slides/fall2023/rohban/07_Adversarial Search.pdf") }}
+      - description: Markov Decision Processes
+        slide: >
+          - {{ local_file_with_icon("slides/fall2023/rohban/08_Markov Decision Processes.pdf") }}
+      - description: Reinforcement Learning
+        slide: >
+          - {{ local_file_with_icon("slides/fall2023/rohban/09_RL.pdf") }}
+      - description: Bayes’ Networks
+        slide: >
+          - {{ local_file_with_icon("slides/fall2023/rohban/10_Bayes’ Networks.pdf") }}
+      - description: Bayes’ Networks Inference
+        slide: >
+          - {{ local_file_with_icon("slides/fall2023/rohban/11_Bayes’ Networks Inference.pdf") }}
+      - description: Temporal Probability Models
+        slide: >
+          - {{ local_file_with_icon("slides/fall2023/rohban/12_Temporal Probability Models.pdf") }}
+      - description: Machine Learning
+        slide: >
+          - {{ local_file_with_icon("slides/fall2023/rohban/13_Machine Learning.pdf") }}
+      - description: Decision Tree
+        slide: >
+          - {{ local_file_with_icon("slides/fall2023/rohban/14_Decision Tree.pdf") }}
+      - description: Neural Networks
+        slide: >
+          - {{ local_file_with_icon("slides/fall2023/rohban/15_Neural Networks.pdf") }}
+          - {{ local_file_with_icon("slides/fall2023/rohban/15A1_Neural Networks.pdf") }}
+      - description: Optimization in Deep Learning
+        slide: >
+          - {{ local_file_with_icon("slides/fall2023/rohban/16_Optimization in Deep Learning.pdf") }}
+
+  - title: Dr. Soleymani
+    type: table
+    columns:
+      description:
+        display_name: Description
+        size: 1
+        cell_class: font-semibold
+      slide:
+        display_name: Slides
+        size: 1
+    rows:
+      - description: Supplementary Materials
+        slide: >
+          - {{ local_file_with_icon("Materials.zip") }}
+      - description: Introduction
+        slide: >
+          - {{ local_file_with_icon("slides/fall2023/soleymani/01_Introduction.pdf") }}
+      - description: Intelligent Agents
+        slide: >
+          - {{ local_file_with_icon("slides/fall2023/soleymani/02_Intelligent Agents.pdf") }}
+      - description: Uninformed Search
+        slide: >
+          - {{ local_file_with_icon("slides/fall2023/soleymani/03_Uninformed Search.pdf") }}
+      - description: Informed Search
+        slide: >
+          - {{ local_file_with_icon("slides/fall2023/soleymani/04_Informed Search.pdf") }} 
+      - description: Local Search
+        slide: >
+          - {{ local_file_with_icon("slides/fall2023/soleymani/05_Local Search.pdf") }}
+      - description: Optimization
+        slide: >
+          - {{ local_file_with_icon("slides/fall2023/soleymani/06_Optimization.pdf") }}
+      - description: Constraints Satisfaction Problem
+        slide: >
+          - {{ local_file_with_icon("slides/fall2023/soleymani/07_Constraints Satisfaction Problem.pdf") }}
+      - description: Adversarial Search
+        slide: >
+          - {{ local_file_with_icon("slides/fall2023/soleymani/08_Adversarial Search.pdf") }}
+      - description: Markov Decision Processes
+        slide: >
+          - {{ local_file_with_icon("slides/fall2023/soleymani/09_Markov Decision Processes.pdf") }}
+      - description: Reinforcement Learning
+        slide: >
+          - {{ local_file_with_icon("slides/fall2023/soleymani/10_RL.pdf") }}
+      - description: Uncertainty & Probability
+        slide: >
+          - {{ local_file_with_icon("slides/fall2023/soleymani/11_Uncertainty & Probability.pdf") }}
+      - description: Bayes’ Networks
+        slide: >
+          - {{ local_file_with_icon("slides/fall2023/soleymani/12_Bayes’ Networks.pdf") }}
+      - description: Bayes’ Networks Inference
+        slide: >
+          - {{ local_file_with_icon("slides/fall2023/soleymani/13_Bayes’ Networks Inference.pdf") }}
+      - description: Markov Chains and Hidden Markov Models
+        slide: >
+          - {{ local_file_with_icon("slides/fall2023/soleymani/14_Markov Chains and Hidden Markov Models.pdf") }}
+      - description: Learning Naïve Bayes Classifier
+        slide: >
+          - {{ local_file_with_icon("slides/fall2023/soleymani/15_Learning Naïve Bayes Classifier.pdf") }}
+      - description: Decision Tree
+        slide: >
+          - {{ local_file_with_icon("slides/fall2023/soleymani/16_Decision Tree.pdf") }}
+      - description: Learning - Linear Models
+        slide: >
+          - {{ local_file_with_icon("slides/fall2023/soleymani/17_Learning - Linear Models.pdf") }}
+      - description: Generalization
+        slide: >
+          - {{ local_file_with_icon("slides/fall2023/soleymani/18_Generalization.pdf") }}
+      - description: Neural Networks
+        slide: >
+          - {{ local_file_with_icon("slides/fall2023/soleymani/19_Neural Networks.pdf") }}

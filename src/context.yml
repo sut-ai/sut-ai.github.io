@@ -43,7 +43,7 @@ parts:
   - title: Contacting Instruction Team
     type: section
     text: >
-      Please contact us through the Telegram group at [https://t.me/ai_spring_2024](https://t.me/ai_spring_2024) and for 
+      Please contact us through the Telegram channel at [https://t.me/ai_spring_2024](https://t.me/ai_spring_2024) and for 
       necessary cases, email the respective heads of teaching assistance.(Ensure that you use a proper subject for your email and include your name and student ID. It is strongly
       encouraged to use the [**@Sharif** webmail service](https://webmail.sharif.edu/) to ensure easy identification by the instructional team.)
        - [**arash.marioriyad98@sharif.edu**](mailto:arash.marioriyad98@sharif.edu)
@@ -92,26 +92,16 @@ parts:
             - **Final Exam**: 1402/10/21 9:00 AM (as scheduled in EDU).
       - title: Homeworks
         text: >
-          Five series of homework assignments will be distributed in this course.
+          Five series of homework assignments will be distributed in this course. 
           Assignments will be released on Sunday midnight every other week. 
-          Students will have 14 days to submit their answers on
-          [Quera](https://quera.org/course/add_to_course/course/16535/). Regarding the late submission policy, you can
-          submit answers with total delay of 5 days (maximum of 2 days for each submission) with no penalty.
-          Any more delays and 1% of the assignment grade will be deducted for each hour of delay. Please note that
-          submissions made between midnight (12 AM) and noon (12 PM) will not be considered. 
-          You can submit your answers during this interval, but the submission timestamp will be recorded
-          as 12 PM on the same day. 
-          Delays will be calculated on an hourly scale, as illustrated in the figure below and described by 
-          equation following the figure, where $h$ represents the amount of delay in hours.
-          <div class="mx-auto max-w-xl">![Delay Coefficient graph]({{ static("images/course/delay_coef.png") }} "Delay coefficient")</div>
-          $$
-           \begin{cases}
-            88 & 0 < h < 12 \\
-            100 - h & 12 \le h \le 24 \\
-            64 & 24 < h < 36 \\
-            100 - h & 36 \le h \le 48 \\
-           \end{cases}
-          $$
+          Students will have 14 days to submit their answers on 
+          [Quera](https://quera.org/course/add_to_course/course/16535/).
+          Regarding the late submission policy, you can submit answers with total delay
+          of 10 days with no penalty. Any additional delays will lead to a 1% reduction
+          in the assignment grade for every hour of delay. This is  illustrated in
+          the figure below, where ℎ represents
+          the amount of delay in hours
+          <div class="mx-auto max-w-xl">![Delay Coefficient graph]({{ static("images/course/delay_coef_2.png") }} "Delay coefficient")</div>
       - title: Collaboration, Academic Honesty, and Plagiarism
         text: >
           There will be a zero-tolerance policy for cheating or copying homework assignments. The first time you
@@ -148,215 +138,265 @@ parts:
         display_name: Deadlines
         size: 4
     rows:
-      - date: Tue Mehr 4
+      - date: Sun Bahman 15
         session: '1'
         description: |
           Introduction & Intelligent Agents
         materials:
         events:
-      - date: Sun Mehr 9
+
+      - date: Tue Bahman 17
         session: '2'
         description: |
           Uninformed Search
         materials:
         events:
-      - date: Sun Mehr 16
+
+      - date: Tue Bahman 24
         session: '3'
         description: |
           Informed Search
         materials:
-      - date: Mon Mehr 17
-        session:
-        events: |
-          HW1 <span class="text-green-500 font-bold" font-bold">out</span> [[handout](https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_soleymani_f2023/assignments/A1/F2023-HW1.zip)] [[solution](https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_soleymani_f2023/assignments/A1/F2023-HW1-Solution.zip)]
-      - date: Tue Mehr 18
+        events:
+
+      - date: Sun Bahman 29
         session: '4'
         description: |
           Local Search
         materials:
         events:
-      - date: Sun Mehr 23
+
+      - date: Tue Esfand 1
         session: '5'
         description: |
           Search in Continuous spaces
         materials:
         events:
-      - date: Tue Mehr 25
+
+       
+      - date: Sat Esfand 5
+        session:
+        events: |
+          <span class="text-green-500 font-bold" font-bold">HW1 Release</span>
+      
+
+      - date: Tue Esfand 8
         session: '6'
         description: |
           Constraint Satisfaction Problems I
         materials:
         events:
-      - date: Sun Mehr 30
+
+      - date: Sun Esfand 13
         session: '7'
         description: |
           Constraint Satisfaction Problems II
         materials:
         events:
-      - date: Mon Aban 1
-        session:
-        color: deadline
-        deadlines: |
-          HW1 <span class="text-red-500 font-bold">due</span>
-      - date: Tue Aban 2
+
+      - date: Tue Esfand 15
         session: '8'
         description: |
           Adversarial Search
         materials:
         events:
-          HW2 <span class="text-green-500 font-bold" font-bold">out</span> [[handout](https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_soleymani_f2023/assignments/A2/F2023-HW2.zip)] [[solution](https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_soleymani_f2023/assignments/A2/F2023-HW2-Solution.zip)]
-      - date: Sun Aban 7
+      
+
+      - date: Sun Esfand 20
         session: '9'
-        description: |
-          Markov Decision Process
-        materials:
-        events:
-      - date: Tue Aban 9
-        session: '10'
-        description: |
-          Markov Decision Process: Value Iteration & Policy Iteration
-        materials:
-        events:
-      - date: Sat Aban 13
-        session:
-        color: deadline
-        deadlines: |
-          HW2 <span class="text-red-500 font-bold">due</span>
-      - date: Sun Aban 14
-        session: '11'
-        description: |
-          Reinforcement Learning: Passive
-        materials:
-        events:
-          HW3 <span class="text-green-500 font-bold" font-bold">out</span> [[handout](https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_soleymani_f2023/assignments/A3/F2023-HW3.zip)] [[solution](https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_soleymani_f2023/assignments/A3/F2023-HW3-Solution.zip)]
-      - date: Tue Aban 16
-        session: '12'
-        description: |
-          Reinforcement Learning: Active
-        materials:
-        events:
-      - date: Thr Aban 18
-        session:
-        description: |
-          Midterm Exam I
-        materials: |
-          Sessions 1-8
-        events:
-        color: warning
-      - date: Sun Aban 21
-        session: '13'
-        description: |
-          Reinforcement Learning: Approximate
-        materials:
-        events:
-      - date: Tue Aban 23
-        session: '14'
         description: |
           Uncertainty & Inference
         materials:
         events:
-      - date: Sun Aban 28
-        session: '15'
+      
+      - date: Tue Esfand 22
+        session: '10'
         description: |
           Bayesian Networks: Representation
         materials:
         events:
-      - date: Tue Aban 30
-        session: '16'
+      
+      - date: Fri Esfand 25
+        session:
+        color: deadline
+        deadlines: |
+          <span class="text-red-500 font-bold">HW1 Deadline</span>
+
+      - date: Sat Esfand 26
+        session:
+        events: |
+          <span class="text-green-500 font-bold" font-bold">HW2 Release</span>
+      
+      - date: Tue Farvardin 14
+        session: '11'
         description: |
           Inference in Bayesian Networks: Exact
         materials:
         events:
-      - date: Sat Azar 4
+
+      - date: Fri Farvardin 17
         session:
         color: deadline
         deadlines: |
-          HW3 <span class="text-red-500 font-bold">due</span>
-      - date: Sun Azar 5
-        session: '17'
+          <span class="text-red-500 font-bold">HW2 Deadline</span>  
+      
+      - date: Sat Farvardin 18
+        session:
+        events: |
+          <span class="text-green-500 font-bold" font-bold">HW3 Release</span>
+      
+      - date: Sun Farvardin 19
+        session: '12'
         description: |
           Inference in Bayesian Networks: Approximate
         materials:
         events:
-          HW4 <span class="text-green-500 font-bold" font-bold">out</span> [[handout](https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_soleymani_f2023/assignments/A4/F2023-HW4.zip)] [[solution](https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_soleymani_f2023/assignments/A4/F2023-HW4-Solution.zip)]
-      - date: Tue Azar 7
-        session: '18'
+      
+      - date: Tue Farvardin 21
+        session: '13'
         description: |
           Temporal Probability Models: Markov Chains & HMMs
         materials:
         events:
-      - date: Sun Azar 12
-        session: '19'
+      
+      - date: Sun Farvardin 26
+        session: '14'
         description: |
           Temporal Probability Models: Particle Filters
-        materials:
-        events:
-      - date: Tue Azar 14
-        session: '20'
+        materials: |
+          Sessions 1-8
+        events: |
+          <span class="text-red-500 font-bold" font-bold">Quiz 1</span>
+        color: warning
+      
+      - date: Tue Farvardin 28
+        session: '15'
         description: |
           Learning in Bayesian Networks & Naive Bayes
         materials:
         events:
-      - date: Sun Azar 19
-        session: '21'
+      
+      - date: Sun Ordibehesht 2
+        session: '16'
         description: |
           Decision Tree
         materials:
         events:
-      - date: Tue Azar 21
-        session: '22'
+      
+      - date: Tue Ordibehesht 4
+        session: '17'
         description: |
           Concepts of Machine Learning
         materials:
         events:
-      - date: Sat Azar 25
+      
+      - date: Fri Ordibehesht 7
         session:
         color: deadline
         deadlines: |
-          HW4 <span class="text-red-500 font-bold">due</span>
-      - date: Sun Azar 26
+          <span class="text-red-500 font-bold">HW3 Deadline</span>  
+      
+      - date: Sat Ordibehesht 8
         session:
-        events:
-      - date: Tue Azar 28
-        session: '23'
+        events: |
+          <span class="text-green-500 font-bold" font-bold">HW4 Release</span>
+      
+      - date: Sun Ordibehesht 9
+        session: '18'
         description: |
            Regression & Optimization
         materials:
         events:
-      - date: Thr Azar 30
-        session:
-        description: |
-           Midterm Exam II
-        materials: Sessions 9-19
-        events:
-        color: warning
-      - date: Sun Dey 3
-        session: '24'
+
+      - date: Tue Ordibehesht 11
+        session: '19'
         description: |
            Perceptron
         materials:
-        events: |
-          HW5 <span class="text-green-500 font-bold" font-bold">out</span> [[handout](https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_soleymani_f2023/assignments/A5/F2023-HW5.zip)] [[solution](https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_soleymani_f2023/assignments/A5/F2023-HW5-Solution.zip)]
-      - date: Tue Dey 5
-        session: '25'
+        events:
+      
+      - date: Thu Ordibehesht 13
+        session:
+        description: |
+          <span class="text-red-500 font-bold" font-bold">Midterm Exam</span>
+        materials: |
+          Sessions 1-13
+        events:
+        color: warning
+
+      - date: Sun Ordibehesht 16
+        session: '20'
         description: |
            Neural Networks I
         materials:
         events:
-      - date: Sun Dey 10
-        session: '26'
+
+      - date: Tue Ordibehesht 18
+        session: '21'
         description: |
            Neural Networks II
         materials:
         events:
-      - date: Tue Dey 12
+
+
+      - date: Sun Ordibehesht 23
+        session: '22'
+        description: |
+          Markov Decision Process
+        materials:
+        events:
+
+      - date: Tue Ordibehesht 25
+        session: '23'
+        description: |
+          Markov Decision Process: Value Iteration & Policy Iteration
+        materials:
+        events:
+
+      - date: Fri Ordibehesht 28
+        session:
+        color: deadline
+        deadlines: |
+          <span class="text-red-500 font-bold">HW4 Deadline</span>  
+
+      - date: Sat Ordibehesht 29
+        session:
+        events: |
+          <span class="text-green-500 font-bold" font-bold">HW5 Release</span>
+      
+
+      - date: Sun Ordibehesht 30
+        session: '24'
+        description: |
+          Reinforcement Learning: Passive
+        materials:
+        events:
+      
+      - date: Tue Khordad 1
+        session: '25'
+        description: |
+          Reinforcement Learning: Active
+        materials:
+        events:
+      
+      - date: Sun Khordad 6
+        session: '26'
+        description: |
+          Reinforcement Learning: Approximate
+        materials: Sessions 14-19
+        events: |
+          <span class="text-red-500 font-bold" font-bold">Quiz 2</span>
+        color: warning
+      
+      - date: Tue Khordad 8
         session: '27'
         description: |
            Applications
         materials:
         events:
-      - date: Fri Dey 19
+
+      - date: Fri Ordibehesht 28
         session:
         color: deadline
         deadlines: |
-          HW5 <span class="text-red-500 font-bold">due</span>
+          <span class="text-red-500 font-bold">HW5 Deadline</span>  

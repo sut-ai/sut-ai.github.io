@@ -27,18 +27,30 @@ parts:
           - name: Arash Mari Oriyad
             pic: images/people/ta/Arash Mari Oriyad.jpg
             website: mailto:arash.marioriyad98@sharif.edu
+          
+          - name: Emad EmamJomeh
+            pic: images/people/ta/Emad EmamJomeh.jpg
+            website: mailto:s.emad.emamjomeh@gmail.com
+          
+          - name: Mojtaba Nafez
+            pic: images/people/ta/Mojtaba Nafez.jpg
+            website: mailto:mojtabanafez96@gmail.com
+          
+          - name: Ilia Mahrooghi
+            pic: images/people/ta/Ilia mahrooghi.jpg
+            website: mailto:ilyamahrooghimath@gmail.com
 
   - title: Contacting Instruction Team
     type: section
     text: >
-      Please contact the administrative team only using the course's official email address,
-      [**sharifaicentral@gmail.com**](mailto:sharifaicentral@gmail.com). Avoid sending an email or a message directly to any member of the instruction team.
-      Ensure that you use a proper subject for your email and include your name and student ID. It is strongly
-      encouraged to use the [**@Sharif** webmail service](https://webmail.sharif.edu/) to ensure easy identification by the instructional team.
-      To ask questions about assignments and other course materials, please use Quera. Using Telegram and other
-      messenger services is discouraged. Anything communicated in these messengers by any of the TAs will not be
-      recognized as an official statement and will not be applicable to the grading process. Note that you can always
-      have direct contact with the instructors via their email addresses.
+      Please contact us through the Telegram group at [https://t.me/ai_spring_2024](https://t.me/ai_spring_2024) and for 
+      necessary cases, email the respective heads of teaching assistance.(Ensure that you use a proper subject for your email and include your name and student ID. It is strongly
+      encouraged to use the [**@Sharif** webmail service](https://webmail.sharif.edu/) to ensure easy identification by the instructional team.)
+       - [**arash.marioriyad98@sharif.edu**](mailto:arash.marioriyad98@sharif.edu)
+       - [**s.emad.emamjomeh@gmail.com**](mailto:s.emad.emamjomeh@gmail.com)
+       - [**mojtabanafez96@gmail.com**](mojtabanafez96@gmail.com)
+       - [**ilyamahrooghimath@gmail.com**](mailto:ilyamahrooghimath@gmail.com)
+      Note that you can always directly contact the instructor via his email address.
   - title: Previous Websites
     type: section
     text: >
@@ -105,11 +117,7 @@ parts:
           There will be a zero-tolerance policy for cheating or copying homework assignments. The first time you
           are caught, we will refer you to the committee, and you will fail the course. Please refer
           to the Education Committee's statement on homework etiquette.
-      - title: Feedback
-        text: >
-          We would be grateful if you could send us your valuable feedback. You can contact instructors or even TAs
-          via email. Additionally, you can use [this Google form](https://forms.gle/2CzVZnsMgH5QyknV9) to send your
-          feedback anonymously to the instructors.
+
   - title: Course Pages
     type: section
     text: >

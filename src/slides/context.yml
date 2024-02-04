@@ -11,54 +11,36 @@ parts:
         size: 1
     rows:
       - description: Supplementary Materials
-        slide: >
-          - {{ local_file_with_icon("Materials.zip") }}
+        slide:
       - description: Introduction
-        slide: >
-          - {{ local_file_with_icon("slides/fall2023/rohban/01_Introduction.pdf") }}
+        slide:
       - description: Problem Space and Uninformed Search
-        slide: >
-          - {{ local_file_with_icon("slides/fall2023/rohban/02_Problem Space and Uninformed Search.pdf") }}
+        slide:
       - description: Informed Search
-        slide: >
-          - {{ local_file_with_icon("slides/fall2023/rohban/03_Informed Search.pdf") }}
+        slide:
       - description: Local Search
-        slide: >
-          - {{ local_file_with_icon("slides/fall2023/rohban/04_Local Search.pdf") }}
+        slide: 
       - description: Optimization
-        slide: >
-          - {{ local_file_with_icon("slides/fall2023/rohban/05_Optimization.pdf") }} 
+        slide:
       - description: Constraints Satisfaction Problem
-        slide: >
-          - {{ local_file_with_icon("slides/fall2023/rohban/06_Constraints Satisfaction Problem.pdf") }} 
+        slide: 
       - description: Adversarial Search
-        slide: >
-          - {{ local_file_with_icon("slides/fall2023/rohban/07_Adversarial Search.pdf") }}
-      - description: Markov Decision Processes
-        slide: >
-          - {{ local_file_with_icon("slides/fall2023/rohban/08_Markov Decision Processes.pdf") }}
-      - description: Reinforcement Learning
-        slide: >
-          - {{ local_file_with_icon("slides/fall2023/rohban/09_RL.pdf") }}
+        slide: 
       - description: Bayes’ Networks
-        slide: >
-          - {{ local_file_with_icon("slides/fall2023/rohban/10_Bayes’ Networks.pdf") }}
+        slide:
       - description: Bayes’ Networks Inference
-        slide: >
-          - {{ local_file_with_icon("slides/fall2023/rohban/11_Bayes’ Networks Inference.pdf") }}
+        slide:
       - description: Temporal Probability Models
-        slide: >
-          - {{ local_file_with_icon("slides/fall2023/rohban/12_Temporal Probability Models.pdf") }}
+        slide: 
       - description: Machine Learning
-        slide: >
-          - {{ local_file_with_icon("slides/fall2023/rohban/13_Machine Learning.pdf") }}
+        slide: 
       - description: Decision Tree
-        slide: >
-          - {{ local_file_with_icon("slides/fall2023/rohban/14_Decision Tree.pdf") }}
+        slide:
       - description: Neural Networks
-        slide: >
-          - {{ local_file_with_icon("slides/fall2023/rohban/15_Neural Networks.pdf") }}
-          - {{ local_file_with_icon("slides/fall2023/rohban/15A1_Neural Networks.pdf") }}
+        slide:
       - description: Optimization in Deep Learning
-        slide: >
-          - {{ local_file_with_icon("slides/fall2023/rohban/16_Optimization in Deep Learning.pdf") }}
+        slide: 
+      - description: Markov Decision Processes
+        slide: 
+      - description: Reinforcement Learning
+        slide:

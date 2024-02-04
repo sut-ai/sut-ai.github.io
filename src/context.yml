@@ -73,23 +73,27 @@ parts:
           [https://vc.sharif.edu/ch/rohban](https://vc.sharif.edu/ch/rohban).
       - title: Grading
         text: >
-          Assessment of students of both groups will be identical. Please note that grades will be calculated out of $21.5$.
+          Please note that grades will be calculated out of $22.0$, 
+          with the respective grades for each section provided below:
 
-            - **1$^{\text{st}}$ Midterm Exam**: $3.0$ points; 1402/08/18 9:00 AM.
-            - **2$^{\text{st}}$ Midterm Exam**: $4.0$ points; 1402/09/30 9:00 AM.
-            - **Final Exam**: $5.0$ points; 1402/10/21 9:00 AM (as scheduled in EDU).
-            - **Homework Assignments**: $7.5 + 1.0$ points; Five Series, each $1.5$ points and $1$ bonus point in total.
-            - **Optional Task**: You must choose only one of two tasks below:
-              - **Presentation**: $1.0$ point.
-              - **Project**: $1.5$ point.
+            - **Homework Assignments**: $7.5 + 0.5$ points.
+              - Five Series, each $1.5$ points and $0.5$ bonus point in total.
+            - **Presentation**: $1.0$ point.
+            - **Quiz**: $1.5$ points.
+            - **Midterm Exam**: $4.5$ points.
+            - **Final Exam**: $5.5$ points.
+            - **Project**: $+1.5$ point.
+              - The project is optional but offers the advantage of bonus points.
+
       - title: Exams
         text: >
-          Students' learning will be assessed through two midterms and a final exam. These exams will 
-          be held on the following dates, and students are required to participate in them.
+          Students' learning will be assessed through two quizzes, a midterm, and a final exam. 
+          These exams will be held on the following dates, and participation is mandatory for all students.
 
-            - **1$^{\text{st}}$ Midterm Exam**: 1402/08/18 9:00 AM.
-            - **2$^{\text{st}}$ Midterm Exam**: 1402/09/30 9:00 AM.
-            - **Final Exam**: 1402/10/21 9:00 AM (as scheduled in EDU).
+            - **1$^{\text{st}}$ Quiz **: 1403/01/26 13:30 PM.
+            - **2$^{\text{st}}$ Quiz **: 1403/03/06 13:30 PM.
+            - **Midterm Exam**: 1403/02/13 13:30 PM.
+            - **Final Exam**: 1403/04/03 9:00 AM (as scheduled in EDU).
       - title: Homeworks
         text: >
           Five series of homework assignments will be distributed in this course. 
@@ -395,8 +399,17 @@ parts:
         materials:
         events:
 
-      - date: Fri Ordibehesht 28
+      - date: Fri Khordad 18
         session:
         color: deadline
         deadlines: |
           <span class="text-red-500 font-bold">HW5 Deadline</span>  
+      
+      - date: Sun Tir 3
+        session:
+        description: |
+          <span class="text-red-500 font-bold" font-bold">Final Exam</span>
+        materials: |
+          Sessions 14-27
+        events:
+        color: warning

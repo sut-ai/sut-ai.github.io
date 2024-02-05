@@ -14,7 +14,7 @@ parts:
         slide:
       - description: Introduction
         slide: >
-          - {{ local_file_with_icon("slides/spring2024/rohban/Session 1.pdf") }}
+          - {{ local_file_with_icon("slides/spring2024/Session 1.pdf") }}
       - description: Problem Space and Uninformed Search
         slide:
       - description: Informed Search

@@ -16,7 +16,8 @@ parts:
         slide: >
           - {{ local_file_with_icon("slides/spring2024/Session 1.pdf") }}
       - description: Problem Space and Uninformed Search
-        slide:
+        slide: >
+          - {{ local_file_with_icon("slides/spring2024/Session 2.pdf") }}
       - description: Informed Search
         slide:
       - description: Local Search

@@ -84,7 +84,8 @@ parts:
             - **Final Exam**: $5.5$ points.
             - **Project**: $+1.5$ point.
               - The project is optional but offers the advantage of bonus points.
-
+          
+          Notably, achieving at least 40% of exam total grades (Midterm+Final) is required to pass the course.
       - title: Exams
         text: >
           Students' learning will be assessed through two quizzes, a midterm, and a final exam. 
@@ -106,6 +107,7 @@ parts:
           the figure below, where ℎ represents
           the amount of delay in hours
           <div class="mx-auto max-w-xl">![Delay Coefficient graph]({{ static("images/course/delay_coef_2.png") }} "Delay coefficient")</div>
+          To prioritize fairness and consistency for all students, a request for a deadline extension must be emailed to the instructor and head TAs at least 72 hours before the deadline.
       - title: Collaboration, Academic Honesty, and Plagiarism
         text: >
           There will be a zero-tolerance policy for cheating or copying homework assignments. The first time you

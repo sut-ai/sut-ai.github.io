@@ -19,7 +19,8 @@ parts:
         slide: >
           - {{ local_file_with_icon("slides/spring2024/Session 2.pdf") }}
       - description: Informed Search
-        slide:
+        slide: >
+          - {{ local_file_with_icon("slides/spring2024/Session 3.pdf") }}
       - description: Local Search
         slide: 
       - description: Optimization

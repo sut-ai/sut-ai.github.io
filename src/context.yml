@@ -183,9 +183,7 @@ parts:
       - date: Sat Esfand 5
         session:
         events: |
-          <span class="text-green-500 font-bold" font-bold">HW1 Release</span>
-      
-
+	  <span class="text-green-500 font-bold" font-bold">HW5 out</span> [[handout](https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_s2024/assignments/HW1-S2024.zip)]
       - date: Tue Esfand 8
         session: '6'
         description: |

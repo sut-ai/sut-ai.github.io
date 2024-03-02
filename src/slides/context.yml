@@ -22,7 +22,9 @@ parts:
         slide: >
           - {{ local_file_with_icon("slides/spring2024/Session 3.pdf") }}
       - description: Local Search
-        slide: 
+        slide: >
+          - {{ local_file_with_icon("slides/spring2024/Session 4.pdf") }}
+          - {{ local_file_with_icon("slides/spring2024/Session 4_annotated.pdf") }}
       - description: Optimization
         slide:
       - description: Constraints Satisfaction Problem

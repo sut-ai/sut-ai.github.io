@@ -24,9 +24,11 @@ parts:
       - description: Local Search
         slide: >
           - {{ local_file_with_icon("slides/spring2024/Session 4.pdf") }}
-          - {{ local_file_with_icon("slides/spring2024/Session 4_annotated.pdf") }}
+          - {{ local_file_with_icon("slides/spring2024/Session 4_annot.pdf") }}
       - description: Optimization
-        slide:
+        slide: >
+          - {{ local_file_with_icon("slides/spring2024/Session 5.pdf") }}
+          - {{ local_file_with_icon("slides/spring2024/Session 5_annot2.pdf") }}
       - description: Constraints Satisfaction Problem
         slide: 
       - description: Adversarial Search

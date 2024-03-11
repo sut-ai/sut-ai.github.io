@@ -28,9 +28,11 @@ parts:
       - description: Optimization
         slide: >
           - {{ local_file_with_icon("slides/spring2024/Session 5.pdf") }}
-          - {{ local_file_with_icon("slides/spring2024/Session 5_annot2.pdf") }}
+          - {{ local_file_with_icon("slides/spring2024/Session 5_annotated.pdf") }}
       - description: Constraints Satisfaction Problem
-        slide: 
+        slide: >
+          - {{ local_file_with_icon("slides/spring2024/Session 6_7.pdf") }}
+          - {{ local_file_with_icon("slides/spring2024/Session 6_7_annotated.pdf") }}
       - description: Adversarial Search
         slide: 
       - description: Bayes’ Networks

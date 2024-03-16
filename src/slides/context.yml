@@ -33,8 +33,10 @@ parts:
         slide: >
           - {{ local_file_with_icon("slides/spring2024/Session 6_7.pdf") }}
           - {{ local_file_with_icon("slides/spring2024/Session 6_7_annotated.pdf") }}
+          - {{ local_file_with_icon("slides/spring2024/Session 7_8_annotated2.pdf") }}
       - description: Adversarial Search
-        slide: 
+        slide: >
+          - {{ local_file_with_icon("slides/spring2024/Session 9_annotated.pdf") }}
       - description: Bayes’ Networks
         slide:
       - description: Bayes’ Networks Inference

@@ -38,7 +38,8 @@ parts:
         slide: >
           - {{ local_file_with_icon("slides/spring2024/Session 9_annotated.pdf") }}
       - description: Bayes’ Networks
-        slide:
+        slide: >
+          - {{ local_file_with_icon("slides/spring2024/Session 10_11_annotated.pdf") }}
       - description: Bayes’ Networks Inference
         slide:
       - description: Temporal Probability Models

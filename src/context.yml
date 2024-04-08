@@ -249,7 +249,7 @@ parts:
       - date: Sat Farvardin 18
         session:
         events: |
-          <span class="text-green-500 font-bold" font-bold">HW3 Out </span> <span class="text-green-500" font-bold">[[handout](https://github.com/sut-ai/resources/blob/master/problem_sets/rohban_s2024/assignments/A3/HW3-S2024.zip)]</span>
+          <span class="text-green-500 font-bold" font-bold">HW3 Out </span> <span class="text-green-500" font-bold">[[handout](https://raw.githubusercontent.com/sut-ai/resources/master/problem_sets/rohban_s2024/assignments/A3/HW3-S2024.zip)]</span>
       
       - date: Sun Farvardin 19
         session: '12'

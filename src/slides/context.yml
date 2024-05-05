@@ -41,9 +41,11 @@ parts:
         slide: >
           - {{ local_file_with_icon("slides/spring2024/Session 10_11_annotated.pdf") }}
       - description: Bayes’ Networks Inference
-        slide:
+        slide: >
+          - {{ local_file_with_icon("slides/spring2024/Session 12_13_annot.pdf") }}
       - description: Temporal Probability Models
-        slide: 
+        slide: >
+          - {{ local_file_with_icon("slides/spring2024/Session 14_15_annot.pdf") }}
       - description: Machine Learning
         slide: 
       - description: Decision Tree

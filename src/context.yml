@@ -331,7 +331,7 @@ parts:
       - date: Sat Ordibehesht 15
         session:
         events: |
-          <span class="text-green-500 font-bold" font-bold">HW4 Release</span>
+          <span class="text-green-500 font-bold" font-bold">HW4 Out </span> <span class="text-green-500" font-bold">[[handout](https://raw.githubusercontent.com/sut-ai/resources/master/problem_sets/rohban_s2024/assignments/A4/HW4-S2024.zip)]</span>
       
 
       - date: Sun Ordibehesht 16

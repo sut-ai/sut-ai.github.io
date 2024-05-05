@@ -161,21 +161,21 @@ parts:
       - date: Tue Bahman 24
         session: '3'
         description: |
-          Informed Search
+          Uninformed Search
         materials:
         events:
 
       - date: Sun Bahman 29
         session: '4'
         description: |
-          Local Search
+          Informed Search
         materials:
         events:
 
       - date: Tue Esfand 1
         session: '5'
         description: |
-          Search in Continuous spaces
+          Local Search
         materials:
         events:
 
@@ -184,26 +184,25 @@ parts:
         session:
         events: |
           <span class="text-green-500 font-bold" font-bold">HW1 Out </span> <span class="text-green-500" font-bold">[[handout](https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_s2024/assignments/A1/HW1-S2024.zip)]</span>
-
-
+        
       - date: Tue Esfand 8
         session: '6'
         description: |
-          Constraint Satisfaction Problems I
+          Local Search
         materials:
         events:
 
       - date: Sun Esfand 13
         session: '7'
         description: |
-          Constraint Satisfaction Problems II
+          Search in Continuous spaces
         materials:
         events:
 
       - date: Tue Esfand 15
         session: '8'
         description: |
-          Adversarial Search
+          Constraint Satisfaction Problems I
         materials:
         events:
       
@@ -211,14 +210,14 @@ parts:
       - date: Sun Esfand 20
         session: '9'
         description: |
-          Uncertainty & Inference
+          Constraint Satisfaction Problems II
         materials:
         events:
       
       - date: Tue Esfand 22
         session: '10'
         description: |
-          Bayesian Networks: Representation
+          Adversarial Search
         materials:
         events:
       
@@ -236,7 +235,7 @@ parts:
       - date: Tue Farvardin 14
         session: '11'
         description: |
-          Inference in Bayesian Networks: Exact
+          Uncertainty & Inference
         materials:
         events:
 
@@ -254,21 +253,21 @@ parts:
       - date: Sun Farvardin 19
         session: '12'
         description: |
-          Inference in Bayesian Networks: Approximate
+          Bayesian Networks: Representation
         materials:
         events:
       
       - date: Tue Farvardin 21
         session: '13'
         description: |
-          Temporal Probability Models: Markov Chains & HMMs
+          Inference in Bayesian Networks: Exact
         materials:
         events:
       
       - date: Sun Farvardin 26
         session: '14'
         description: |
-          Temporal Probability Models: Particle Filters
+          Inference in Bayesian Networks: Approximate
         materials: |
           Sessions 1-8
         events: |
@@ -278,21 +277,21 @@ parts:
       - date: Tue Farvardin 28
         session: '15'
         description: |
-          Learning in Bayesian Networks & Naive Bayes
+          Temporal Probability Models: Markov Chains & HMMs
         materials:
         events:
       
       - date: Sun Ordibehesht 2
         session: '16'
         description: |
-          Decision Tree
+          Temporal Probability Models: Particle Filters
         materials:
         events:
       
       - date: Tue Ordibehesht 4
         session: '17'
         description: |
-          Concepts of Machine Learning
+          Learning in Bayesian Networks & Naive Bayes
         materials:
         events:
       
@@ -304,20 +303,19 @@ parts:
       
       - date: Sat Ordibehesht 8
         session:
-        events: |
-          <span class="text-green-500 font-bold" font-bold">HW4 Release</span>
-      
+        events:
+
       - date: Sun Ordibehesht 9
         session: '18'
         description: |
-           Regression & Optimization
+          Decision Tree
         materials:
         events:
 
       - date: Tue Ordibehesht 11
         session: '19'
         description: |
-           Perceptron
+          Concepts of Machine Learning
         materials:
         events:
       
@@ -329,18 +327,24 @@ parts:
           Sessions 1-13
         events:
         color: warning
+      
+      - date: Sat Ordibehesht 15
+        session:
+        events: |
+          <span class="text-green-500 font-bold" font-bold">HW4 Release</span>
+      
 
       - date: Sun Ordibehesht 16
         session: '20'
         description: |
-           Neural Networks I
+          Regression & Optimization
         materials:
         events:
 
       - date: Tue Ordibehesht 18
         session: '21'
         description: |
-           Neural Networks II
+          Perceptron
         materials:
         events:
 
@@ -348,60 +352,63 @@ parts:
       - date: Sun Ordibehesht 23
         session: '22'
         description: |
-          Markov Decision Process
+          Neural Networks I
         materials:
         events:
 
       - date: Tue Ordibehesht 25
         session: '23'
         description: |
-          Markov Decision Process: Value Iteration & Policy Iteration
+          Neural Networks II
         materials:
         events:
-
-      - date: Fri Ordibehesht 28
-        session:
-        color: deadline
-        deadlines: |
-          <span class="text-red-500 font-bold">HW4 Deadline</span>  
-
-      - date: Sat Ordibehesht 29
-        session:
-        events: |
-          <span class="text-green-500 font-bold" font-bold">HW5 Release</span>
-      
 
       - date: Sun Ordibehesht 30
         session: '24'
         description: |
-          Reinforcement Learning: Passive
+          Markov Decision Process
         materials:
         events:
       
       - date: Tue Khordad 1
         session: '25'
         description: |
-          Reinforcement Learning: Active
+          Markov Decision Process: Value Iteration & Policy Iteration
         materials:
         events:
+      
+      - date: Fri Khordad 4
+        session:
+        color: deadline
+        deadlines: |
+          <span class="text-red-500 font-bold">HW4 Deadline</span>  
+
+      - date: Sat Khordad 5
+        session:
+        events: |
+          <span class="text-green-500 font-bold" font-bold">HW5 Release</span>
       
       - date: Sun Khordad 6
         session: '26'
         description: |
-          Reinforcement Learning: Approximate
-        materials: Sessions 14-19
-        events: |
-          <span class="text-red-500 font-bold" font-bold">Quiz 2</span>
-        color: warning
+          Reinforcement Learning: Passive & Active
+        materials:
+
       
       - date: Tue Khordad 8
         session: '27'
         description: |
-           Applications
+          Reinforcement Learning: Approximate
         materials:
         events:
+      
+      - date: Wed Khordad 9
+        events: |
+          <span class="text-red-500 font-bold" font-bold">Quiz 2</span>
+        color: warning
+        materials: Sessions 14-23
 
-      - date: Fri Khordad 18
+      - date: Fri Khordad 25
         session:
         color: deadline
         deadlines: |
@@ -415,3 +422,4 @@ parts:
           Sessions 14-27
         events:
         color: warning
+

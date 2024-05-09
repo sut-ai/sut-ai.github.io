@@ -47,9 +47,11 @@ parts:
         slide: >
           - {{ local_file_with_icon("slides/spring2024/Session 14_15_annot.pdf") }}
       - description: Machine Learning
-        slide: 
+        slide: >
+          - {{ local_file_with_icon("slides/spring2024/Session 16_annot.pdf") }}
       - description: Decision Tree
-        slide:
+        slide: >
+          - {{ local_file_with_icon("slides/spring2024/Session 17_annot.pdf") }}
       - description: Neural Networks
         slide:
       - description: Optimization in Deep Learning

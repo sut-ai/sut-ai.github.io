@@ -323,7 +323,8 @@ parts:
       
       - date: Thu Ordibehesht 13
         session:
-        <span class="text-red-500 font-bold" font-bold">Midterm Exam</span>
+        description: |
+          <span class="text-red-500 font-bold" font-bold">Midterm Exam</span>
           <span class="text-red-500 font-bold" font-bold">[[handout](https://raw.githubusercontent.com/sut-ai/resources/master/problem_sets/rohban_s2024/exams/midterm-question.pdf)]</span>
           <span class="text-red-500 font-bold" font-bold">[[solution](https://raw.githubusercontent.com/sut-ai/resources/master/problem_sets/rohban_s2024/exams/midterm-solution.pdf)]</span>
         materials: |

@@ -272,6 +272,8 @@ parts:
           Sessions 1-8
         events: |
           <span class="text-red-500 font-bold" font-bold">Quiz 1</span>
+            - [[handout](https://raw.githubusercontent.com/sut-ai/resources/master/problem_sets/rohban_s2024/exams/Quiz1-problems.pdf)]</span>
+            - [[solution](https://raw.githubusercontent.com/sut-ai/resources/master/problem_sets/rohban_s2024/exams/Quiz1-solutions.pdf)]</span>
         color: warning
       
       - date: Tue Farvardin 28
@@ -323,6 +325,8 @@ parts:
         session:
         description: |
           <span class="text-red-500 font-bold" font-bold">Midterm Exam</span>
+            - [[handout](https://raw.githubusercontent.com/sut-ai/resources/master/problem_sets/rohban_s2024/exams/midterm-question.pdf)]</span>
+            - [[solution](https://raw.githubusercontent.com/sut-ai/resources/master/problem_sets/rohban_s2024/exams/midterm-solution.pdf)]</span>
         materials: |
           Sessions 1-13
         events:

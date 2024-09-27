@@ -19,6 +19,10 @@ parts:
           - name: Prof. M.H. Rohban
             pic: images/people/Rohban.jpeg
             website: http://sharif.ir/~rohban/
+          
+          - name: Mr. M.R. Fereydooni
+            pic: images/people/Fereydooni.jpeg
+            website: http://sharif.ir/~rohban/
 
       - role: head_assistant
         display_name: Head Assistants

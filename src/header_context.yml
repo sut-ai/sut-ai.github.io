@@ -4,6 +4,8 @@ nav:
       text: Home
     - link: /#people
       text: People
+    - link: /#details
+      text: Details
     - link: /#schedule
       text: Schedule
     - link: /slides

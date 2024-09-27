@@ -1,0 +1,429 @@
+parts:
+  - title: Objective
+    type: section
+    text: >
+      This course offers a gentle introduction to the concepts and methodologies in Artificial Intelligence from
+      both theoretical and practical perspectives. This includes designing intelligent agents through techniques
+      such as state-space search methods, knowledge representation and inference, and Machine Learning. By the end
+      of this course, students are expected to have the ability to develop intelligent solutions for semi-real
+      world problems using the appropriate methods discussed in the course. Furthermore, they are expected to gain
+      knowledge and experience in analyzing the inner workings of these methods and customizing them for specific
+      problems.
+  - title: Instruction Team
+    id: people
+    type: people
+    people_data:
+      - role: instructors
+        display_name: Instructors
+        people:
+          - name: Prof. M.H. Rohban
+            pic: images/people/Rohban.jpeg
+            website: http://sharif.ir/~rohban/
+
+      - role: head_assistant
+        display_name: Head Assistants
+        people:
+
+          - name: Arash Mari Oriyad
+            pic: images/people/ta/Arash Mari Oriyad.jpg
+            website: mailto:arash.marioriyad98@sharif.edu
+          
+          - name: Emad EmamJomeh
+            pic: images/people/ta/Emad EmamJomeh.jpg
+            website: mailto:s.emad.emamjomeh@gmail.com
+          
+          - name: Mojtaba Nafez
+            pic: images/people/ta/Mojtaba Nafez.jpg
+            website: mailto:mojtabanafez96@gmail.com
+          
+          - name: Ilia Mahrooghi
+            pic: images/people/ta/Ilia mahrooghi.jpg
+            website: mailto:ilyamahrooghimath@gmail.com
+
+  - title: Contacting Instruction Team
+    type: section
+    text: >
+      Please contact us through the Telegram channel at [https://t.me/ai_spring_2024](https://t.me/ai_spring_2024) and for 
+      necessary cases, email the respective heads of teaching assistance.(Ensure that you use a proper subject for your email and include your name and student ID. It is strongly
+      encouraged to use the [**@Sharif** webmail service](https://webmail.sharif.edu/) to ensure easy identification by the instructional team.)
+       - [**arash.marioriyad98@sharif.edu**](mailto:arash.marioriyad98@sharif.edu)
+       - [**s.emad.emamjomeh@gmail.com**](mailto:s.emad.emamjomeh@gmail.com)
+       - [**mojtabanafez96@gmail.com**](mojtabanafez96@gmail.com)
+       - [**ilyamahrooghimath@gmail.com**](mailto:ilyamahrooghimath@gmail.com)
+      Note that you can always directly contact the instructor via his email address.
+  - title: Previous Websites
+    type: section
+    text: >
+      [Fall 2023](/archive/fall2023) / [Spring 2023](/archive/spring2023) / [Fall 2022](/archive/fall2022)
+  - title: Content
+    type: section
+    subsections:
+      - title: Prerequisites
+        text: >
+          Knowledge and experience of a general-purpose programming language (Python), Data Structures and Algorithms,
+          and ideally Probability and Statistics (Random Variables, (Joint) Probability Mass Functions,
+          Conditional Probability, Independence, Bayes Theorem) and Linear Algebra.
+          *It is highly recommended to have the Engineering Probability and Linear Algebra courses passed
+          before taking this course.*
+      - title: Classes
+        text: >
+          The class is scheduled for Sundays and Tuesdays from 13:30 to 15:00. By default, classes will be 
+          held in person; however, under special circumstances, the class might be held virtually with prior 
+          announcements. The virtual class link is 
+          [https://vc.sharif.edu/ch/rohban](https://vc.sharif.edu/ch/rohban).
+      - title: Grading
+        text: >
+          Please note that grades will be calculated out of $22.0$, 
+          with the respective grades for each section provided below:
+
+            - **Homework Assignments**: $7.5 + 0.5$ points.
+              - Five Series, each $1.5$ points and $0.5$ bonus point in total.
+            - **Presentation**: $1.0$ point.
+            - **Quiz**: $1.5$ points.
+            - **Midterm Exam**: $4.5$ points.
+            - **Final Exam**: $5.5$ points.
+            - **Project**: $+1.5$ point.
+              - The project is optional but offers the advantage of bonus points.
+          
+          Notably, achieving at least 40% of exam total grades (Midterm+Final) is required to pass the course.
+      - title: Exams
+        text: >
+          Students' learning will be assessed through two quizzes, a midterm, and a final exam. 
+          These exams will be held on the following dates, and participation is mandatory for all students.
+
+            - **1$^{\text{st}}$ Quiz **: 1403/01/26 13:30 PM.
+            - **2$^{\text{st}}$ Quiz **: 1403/03/06 13:30 PM.
+            - **Midterm Exam**: 1403/02/13 13:30 PM.
+            - **Final Exam**: 1403/04/03 9:00 AM (as scheduled in EDU).
+      - title: Homeworks
+        text: >
+          Five series of homework assignments will be distributed in this course. 
+          Assignments will be released on Saturday midnight every other week. 
+          Students will have about 20 days to submit their answers on 
+          [Quera](https://quera.org/course/add_to_course/course/16535/).
+          Regarding the late submission policy, you can submit answers with total delay
+          of 10 days with no penalty. Any additional delays will lead to a 0.5% reduction
+          in the assignment grade for every hour of delay. This is  illustrated in
+          the figure below, where ℎ represents
+          the amount of delay in hours
+          <div class="mx-auto max-w-xl">![Delay Coefficient graph]({{ static("images/course/delay_coef_2.png") }} "Delay coefficient")</div>
+          To prioritize fairness and consistency for all students, a request for a deadline extension must be emailed to the instructor and head TAs at least 72 hours before the deadline.
+      - title: Collaboration, Academic Honesty, and Plagiarism
+        text: >
+          There will be a zero-tolerance policy for cheating or copying homework assignments. The first time you
+          are caught, we will refer you to the committee, and you will fail the course. Please refer
+          to the Education Committee's statement on homework etiquette.
+
+  - title: Course Pages
+    type: section
+    text: >
+      - [**https://sut-ai.github.io/**](https://sut-ai.github.io/): This is the main page of our course and all exercises, slides and course resources will be placed in it.
+      
+      - Quera, [**https://quera.org/course/add_to_course/course/16535/**](https://quera.org/course/add\_to\_course/course/16535/): Delivery of exercises and announcements will be done entirely through Quera. Make sure you enter an email on Quera that you check regularly. Your questions from the exercises will also be answered in Quera.
+  - title: Schedule
+    type: table
+    id: schedule
+    columns:
+      session:
+        display_name: ''
+        size: 1
+        cell_class: text-center
+      date:
+        display_name: Date
+        size: 5
+      description:
+        display_name: Description
+        size: 8
+      materials:
+        display_name: Course Materials
+        size: 16
+      events:
+        display_name: Events
+        size: 4
+      deadlines:
+        display_name: Deadlines
+        size: 4
+    rows:
+      - date: Sun Bahman 15
+        session: '1'
+        description: |
+          Introduction & Intelligent Agents
+        materials:
+        events:
+
+      - date: Tue Bahman 17
+        session: '2'
+        description: |
+          Uninformed Search
+        materials:
+        events:
+
+      - date: Tue Bahman 24
+        session: '3'
+        description: |
+          Uninformed Search
+        materials:
+        events:
+
+      - date: Sun Bahman 29
+        session: '4'
+        description: |
+          Informed Search
+        materials:
+        events:
+
+      - date: Tue Esfand 1
+        session: '5'
+        description: |
+          Local Search
+        materials:
+        events:
+
+       
+      - date: Sat Esfand 5
+        session:
+        events: |
+          <span class="text-green-500 font-bold" font-bold">HW1 Out </span> <span class="text-green-500" font-bold">[[handout](https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_s2024/assignments/A1/HW1-S2024.zip)]</span>
+        
+      - date: Tue Esfand 8
+        session: '6'
+        description: |
+          Local Search
+        materials:
+        events:
+
+      - date: Sun Esfand 13
+        session: '7'
+        description: |
+          Search in Continuous spaces
+        materials:
+        events:
+
+      - date: Tue Esfand 15
+        session: '8'
+        description: |
+          Constraint Satisfaction Problems I
+        materials:
+        events:
+      
+
+      - date: Sun Esfand 20
+        session: '9'
+        description: |
+          Constraint Satisfaction Problems II
+        materials:
+        events:
+      
+      - date: Tue Esfand 22
+        session: '10'
+        description: |
+          Adversarial Search
+        materials:
+        events:
+      
+      - date: Fri Esfand 25
+        session:
+        color: deadline
+        deadlines: |
+          <span class="text-red-500 font-bold">HW1 Deadline</span>
+
+      - date: Sat Esfand 26
+        session:
+        events: |
+          <span class="text-green-500 font-bold" font-bold">HW2 Out </span> <span class="text-green-500" font-bold">[[handout](https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_s2024/assignments/A2/HW2-S2024.zip)]</span>
+      
+      - date: Tue Farvardin 14
+        session: '11'
+        description: |
+          Uncertainty & Inference
+        materials:
+        events:
+
+      - date: Fri Farvardin 17
+        session:
+        color: deadline
+        deadlines: |
+          <span class="text-red-500 font-bold">HW2 Deadline</span>  
+      
+      - date: Sat Farvardin 18
+        session:
+        events: |
+          <span class="text-green-500 font-bold" font-bold">HW3 Out </span> <span class="text-green-500" font-bold">[[handout](https://raw.githubusercontent.com/sut-ai/resources/master/problem_sets/rohban_s2024/assignments/A3/HW3-S2024.zip)]</span>
+      
+      - date: Sun Farvardin 19
+        session: '12'
+        description: |
+          Bayesian Networks: Representation
+        materials:
+        events:
+      
+      - date: Tue Farvardin 21
+        session: '13'
+        description: |
+          Inference in Bayesian Networks: Exact
+        materials:
+        events:
+      
+      - date: Sun Farvardin 26
+        session: '14'
+        description: |
+          Inference in Bayesian Networks: Approximate
+        materials: |
+          Sessions 1-8
+        events: |
+          <span class="text-red-500 font-bold" font-bold">Quiz 1</span>
+          <span class="text-red-500 font-bold">[[handout](https://raw.githubusercontent.com/sut-ai/resources/master/problem_sets/rohban_s2024/exams/Quiz1-problems.pdf)]</span>
+          <span class="text-red-500 font-bold">[[solution](https://raw.githubusercontent.com/sut-ai/resources/master/problem_sets/rohban_s2024/exams/Quiz1-solutions.pdf)]</span>
+        color: warning
+      
+      - date: Tue Farvardin 28
+        session: '15'
+        description: |
+          Temporal Probability Models: Markov Chains & HMMs
+        materials:
+        events:
+      
+      - date: Sun Ordibehesht 2
+        session: '16'
+        description: |
+          Temporal Probability Models: Particle Filters
+        materials:
+        events:
+      
+      - date: Tue Ordibehesht 4
+        session: '17'
+        description: |
+          Learning in Bayesian Networks & Naive Bayes
+        materials:
+        events:
+      
+      - date: Fri Ordibehesht 7
+        session:
+        color: deadline
+        deadlines: |
+          <span class="text-red-500 font-bold">HW3 Deadline</span>  
+      
+      - date: Sat Ordibehesht 8
+        session:
+        events:
+
+      - date: Sun Ordibehesht 9
+        session: '18'
+        description: |
+          Decision Tree
+        materials:
+        events:
+
+      - date: Tue Ordibehesht 11
+        session: '19'
+        description: |
+          Concepts of Machine Learning
+        materials:
+        events:
+      
+      - date: Thu Ordibehesht 13
+        session:
+        description: |
+          <span class="text-red-500 font-bold" font-bold">Midterm Exam</span>
+          <span class="text-red-500 font-bold" font-bold">[[handout](https://raw.githubusercontent.com/sut-ai/resources/master/problem_sets/rohban_s2024/exams/midterm-question.pdf)]</span>
+          <span class="text-red-500 font-bold" font-bold">[[solution](https://raw.githubusercontent.com/sut-ai/resources/master/problem_sets/rohban_s2024/exams/midterm-solution.pdf)]</span>
+        materials: |
+          Sessions 1-13
+        events:
+        color: warning
+      
+      - date: Sat Ordibehesht 15
+        session:
+        events: |
+          <span class="text-green-500 font-bold" font-bold">HW4 Out </span> <span class="text-green-500" font-bold">[[handout](https://raw.githubusercontent.com/sut-ai/resources/master/problem_sets/rohban_s2024/assignments/A4/HW4-S2024.zip)]</span>
+      
+
+      - date: Sun Ordibehesht 16
+        session: '20'
+        description: |
+          Regression & Optimization
+        materials:
+        events:
+
+      - date: Tue Ordibehesht 18
+        session: '21'
+        description: |
+          Perceptron
+        materials:
+        events:
+
+
+      - date: Sun Ordibehesht 23
+        session: '22'
+        description: |
+          Neural Networks I
+        materials:
+        events:
+
+      - date: Tue Ordibehesht 25
+        session: '23'
+        description: |
+          Neural Networks II
+        materials:
+        events:
+
+      - date: Sun Ordibehesht 30
+        session: '24'
+        description: |
+          Markov Decision Process
+        materials:
+        events:
+      
+      - date: Tue Khordad 1
+        session: '25'
+        description: |
+          Markov Decision Process: Value Iteration & Policy Iteration
+        materials:
+        events:
+      
+      - date: Fri Khordad 4
+        session:
+        color: deadline
+        deadlines: |
+          <span class="text-red-500 font-bold">HW4 Deadline</span>  
+
+      - date: Sat Khordad 5
+        session:
+        events: |
+          <span class="text-green-500 font-bold" font-bold">HW5 Release</span>
+      
+      - date: Sun Khordad 6
+        session: '26'
+        description: |
+          Reinforcement Learning: Passive & Active
+        materials:
+
+      
+      - date: Tue Khordad 8
+        session: '27'
+        description: |
+          Reinforcement Learning: Approximate
+        materials:
+        events:
+      
+      - date: Wed Khordad 9
+        events: |
+          <span class="text-red-500 font-bold" font-bold">Quiz 2</span>
+        color: warning
+        materials: Sessions 14-23
+
+      - date: Fri Khordad 25
+        session:
+        color: deadline
+        deadlines: |
+          <span class="text-red-500 font-bold">HW5 Deadline</span>  
+      
+      - date: Sun Tir 3
+        session:
+        description: |
+          <span class="text-red-500 font-bold" font-bold">Final Exam</span>
+        materials: |
+          Sessions 14-27
+        events:
+        color: warning
+

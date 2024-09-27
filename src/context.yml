@@ -21,28 +21,28 @@ parts:
             website: http://sharif.ir/~rohban/
           
           - name: Mr. M.R. Fereydooni
-            pic: images/people/Fereydooni.jpeg
-            website: http://sharif.ir/~rohban/
+            pic: images/people/Fereydooni.jpg
+            website: mailto:mrezafereydooni@gmail.com
 
       - role: head_assistant
         display_name: Head Assistants
         people:
 
-          - name: Arash Mari Oriyad
+          - name: Arash Marioriyad
             pic: images/people/ta/Arash Mari Oriyad.jpg
-            website: mailto:arash.marioriyad98@sharif.edu
+            website: mailto:arashmarioriyad@gmail.com
           
           - name: Emad EmamJomeh
             pic: images/people/ta/Emad EmamJomeh.jpg
             website: mailto:s.emad.emamjomeh@gmail.com
           
-          - name: Mojtaba Nafez
-            pic: images/people/ta/Mojtaba Nafez.jpg
-            website: mailto:mojtabanafez96@gmail.com
-          
           - name: Ilia Mahrooghi
             pic: images/people/ta/Ilia mahrooghi.jpg
             website: mailto:ilyamahrooghimath@gmail.com
+          
+          - name: Amir Mohammad Izady
+            pic: images/people/ta/Ilia mahrooghi.jpg
+            website: mailto:amirmmdizady@gmail.com
 
   - title: Contacting Instruction Team
     type: section

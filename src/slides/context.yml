@@ -9,54 +9,14 @@ parts:
       slide:
         display_name: Slides
         size: 1
-    rows:
-      - description: Supplementary Materials
-        slide:
-      - description: Introduction
-        slide: >
-          - {{ local_file_with_icon("slides/spring2024/Session 1.pdf") }}
-      - description: Problem Space and Uninformed Search
-        slide: >
-          - {{ local_file_with_icon("slides/spring2024/Session 2.pdf") }}
-      - description: Informed Search
-        slide: >
-          - {{ local_file_with_icon("slides/spring2024/Session 3.pdf") }}
-      - description: Local Search
-        slide: >
-          - {{ local_file_with_icon("slides/spring2024/Session 4.pdf") }}
-          - {{ local_file_with_icon("slides/spring2024/Session 4_annot.pdf") }}
-      - description: Optimization
-        slide: >
-          - {{ local_file_with_icon("slides/spring2024/Session 5.pdf") }}
-          - {{ local_file_with_icon("slides/spring2024/Session 5_annotated.pdf") }}
-      - description: Constraints Satisfaction Problem
-        slide: >
-          - {{ local_file_with_icon("slides/spring2024/Session 6_7.pdf") }}
-          - {{ local_file_with_icon("slides/spring2024/Session 6_7_annotated.pdf") }}
-          - {{ local_file_with_icon("slides/spring2024/Session 7_8_annotated2.pdf") }}
-      - description: Adversarial Search
-        slide: >
-          - {{ local_file_with_icon("slides/spring2024/Session 9_annotated.pdf") }}
-      - description: Bayes’ Networks
-        slide: >
-          - {{ local_file_with_icon("slides/spring2024/Session 10_11_annotated.pdf") }}
-      - description: Bayes’ Networks Inference
-        slide: >
-          - {{ local_file_with_icon("slides/spring2024/Session 12_13_annot.pdf") }}
-      - description: Temporal Probability Models
-        slide: >
-          - {{ local_file_with_icon("slides/spring2024/Session 14_15_annot.pdf") }}
-      - description: Machine Learning
-        slide: >
-          - {{ local_file_with_icon("slides/spring2024/Session 16_annot.pdf") }}
-      - description: Decision Tree
-        slide: >
-          - {{ local_file_with_icon("slides/spring2024/Session 17_annot.pdf") }}
-      - description: Neural Networks
-        slide:
-      - description: Optimization in Deep Learning
-        slide: 
-      - description: Markov Decision Processes
-        slide: 
-      - description: Reinforcement Learning
-        slide:
+
+  - title: Mr. Fereydooni
+    type: table
+    columns:
+      description:
+        display_name: Description
+        size: 1
+        cell_class: font-semibold
+      slide:
+        display_name: Slides
+        size: 1

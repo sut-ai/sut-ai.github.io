@@ -16,51 +16,38 @@ parts:
       - role: instructors
         display_name: Instructors
         people:
-          - name: Prof. M.H. Rohban
-            pic: images/people/Rohban.jpeg
-            website: http://sharif.ir/~rohban/
-          
-          - name: Mr. M.R. Fereydooni
-            pic: images/people/Fereydooni.jpg
-            website: mailto:mrezafereydooni@gmail.com
+
+          - name: Prof. M. Soleymani Baghshah
+            pic: images/people/Soleymani.jpg
+            website: https://sharif.edu/~soleymani/
 
       - role: head_assistant
         display_name: Head Assistants
         people:
+          - name: Sadegh Mohammadian
+            pic: images/people/ta/Sadegh Mohammadian.jpg
+            website: mailto:sadegh803211@sharif.edu
 
-          - name: Arash Marioriyad
-            pic: images/people/ta/Arash Mari Oriyad.jpg
-            website: mailto:arashmarioriyad@gmail.com
-          
-          - name: Emad EmamJomeh
-            pic: images/people/ta/Emad EmamJomeh.jpg
-            website: mailto:s.emad.emamjomeh@gmail.com
-          
-          - name: Ilia Mahrooghi
-            pic: images/people/ta/Ilia mahrooghi.jpg
-            website: mailto:ilyamahrooghimath@gmail.com
-          
-          - name: AmirMohammad Izady
+          - name: Amir Mohammad Izady
             pic: images/people/ta/AmirMohammad Izady.jpg
             website: mailto:amirmmdizady@gmail.com
 
   - title: Contacting Instruction Team
     type: section
     text: >
-      Please contact us through the Telegram channels at [https://t.me/ai_fall_2024_rohban](https://t.me/ai_fall_2024_rohban) and [https://t.me/ai_fall_2024_fereydooni](https://t.me/ai_fall_2024_fereydooni). For 
-      necessary cases, email the respective heads of teaching assistance.(Ensure that you use a proper subject for your email and include your name and student ID. It is strongly
-      encouraged to use the [**@Sharif** webmail service](https://webmail.sharif.edu/) to ensure easy identification by the instructional team.)
-       - [**arashmarioriyad@gmail.com**](mailto:arashmarioriyad@gmail.com)
-       - [**s.emad.emamjomeh@gmail.com**](mailto:s.emad.emamjomeh@gmail.com)
-       - [**ilyamahrooghimath@gmail.com**](mailto:ilyamahrooghimath@gmail.com)
-       - [**amirmmdizady@gmail.com**](mailto:amirmmdizady@gmail.com)
-      Note that you can always directly contact the instructor via his email address.
+      Please contact the administrative team only using the course's official email address,
+      [**sharifaicentral@gmail.com**](mailto:sharifaicentral@gmail.com). Avoid sending an email or a message directly to any member of the instruction team.
+      Ensure that you use a proper subject for your email and include your name and student ID. It is strongly
+      encouraged to use the [**@Sharif** webmail service](https://webmail.sharif.edu/) to ensure easy identification by the instructional team.
+      To ask questions about assignments and other course materials, please use Quera. Using Telegram and other
+      messenger services is discouraged. Anything communicated in these messengers by any of the TAs will not be
+      recognized as an official statement and will not be applicable to the grading process. Note that you can always
+      have direct contact with the instructors via their email addresses.
   - title: Previous Websites
     type: section
     text: >
-      [Spring 2024](/archive/spring2024) / [Fall 2023](/archive/fall2023) / [Spring 2023](/archive/spring2023) / [Fall 2022](/archive/fall2022)
+      [Fall 2024](/archive/fall2024) / [Spring 2024](/archive/spring2024) / [Fall 2023](/archive/fall2023) / [Spring 2023](/archive/spring2023) / [Fall 2022](/archive/fall2022)
   - title: Content
-    id: details
     type: section
     subsections:
       - title: Prerequisites
@@ -72,82 +59,69 @@ parts:
           before taking this course.*
       - title: Classes
         text: >
-          Dr. Rohban's class is scheduled for Sundays and Tuesdays from 15:00 to 16:30 and Mr. Fereydooni's class is scheduled for Sundays and Tuesdays from 16:30 to 18:00. By default, classes will be 
-          held in person; however, under special circumstances, the class might be held virtually with prior 
-          announcements. The virtual class link of Dr. Rohban's group is 
-          [https://vc.sharif.edu/ch/rohban](https://vc.sharif.edu/ch/rohban).
-      - title: Dr. Rohban Grading
+          Dr. Soleymani's class is scheduled for Saturdays and Mondays from 9:00 to 10:30.
+          By default, classes will be held in person; however, under special circumstances,
+           the class might be held virtually with prior announcements. The virtual class link is
+          [https://vc.sharif.edu/ch/soleymani](https://vc.sharif.edu/ch/soleymani)
+      - title: Grading
         text: >
-          Please note that grades will be calculated out of $22.0$, 
-          with the respective grades for each section provided below:
+          Please note that grades will be calculated out of $20$.
 
-            - **Homework Assignments**: $7.5 + 1$ points.
-              - Five Series, each $1.5$ points and $1$ bonus point in total.
-            - **Presentation**: $1 + 1$ point.
-            - **Quiz**: $1.5$ points.
-            - **Midterm Exam**: $4.5$ points.
-            - **Final Exam**: $5.5$ points.
-
-          Other information about the grading policy is provided in the [Policy Document](https://docs.google.com/document/d/1E8OfkH-WwlDH9ISFoPl3iC6QtvDqnlBxZQ3wbrwm5dA/edit?usp=sharin).
-      - title: Mr. Fereydooni Grading
+            - **Midterm Exam**: $5.0$ points.
+            - **Final Exam**: $7.0$ points.
+            - **Homework Assignments**: $6.0$ points.
+            - **Quiz**: $2.0$ points.(Please note that the Quiz with lowest )
+      - title: Exams
         text: >
-          Please note that grades will be calculated out of $22.0$, 
-          with the respective grades for each section provided below:
-
-            - **Homework Assignments**: $6$ points.
-              - Five Series
-            - **Quiz**: $+2$ points.
-            - **Midterm Exam**: $6$ points.
-            - **Final Exam**: $8$ points.
-
-           More information about the grading policy is provided in the [Policy Document](https://docs.google.com/document/d/1awYfUPoUiRJKjAJAndPCKkryGI93J96VYUchq3Pf3lE/edit?usp=sharing).
-
-      - title: Dr. Rohban Exams
-        text: >
-          Students' learning will be assessed through two quizzes, a midterm, and a final exam. 
+          Students' learning will be assessed through five quizzes, a midterm, and a final exam. 
           These exams will be held on the following dates, and participation is mandatory for all students.
 
-            - **First Quiz**: 1403/08/20 12:00 PM.
-            - **Second Quiz**: 1403/10/09 12:00 PM.
-            - **Midterm Exam**: 1403/09/22 15:00 PM.
-            - **Final Exam**: 1403/11/04 15:00 AM (as scheduled in EDU).
-
-          More information about the exams is available in the [Schedule Sheet](https://docs.google.com/spreadsheets/d/105jOspLAV32hXwpoF-64soccdiA-ytkdforUm4bsx6U/edit?usp=sharing).
-      
-      - title: Mr. Fereydooni Exams
-        text: >
-          Students' learning will be assessed through ten quizzes, a midterm, and a final exam. 
-          The midterm and final exams will be held on the following dates, and participation is mandatory for all students.
-
-            - **Midterm Exam**: 1403/09/22 15:00 PM.
-            - **Final Exam**: 1403/10/30 15:00 AM (as scheduled in EDU).
-
-          More information about the exams is available in the [Schedule Sheet](https://docs.google.com/spreadsheets/d/1keef9XNneE9-C7THQazHaUr_ax107L2f3bcKA4yIS9Q/edit?usp=sharing).
-
+            - **1$^{\text{st}}$ Midterm Exam**: 1402/08/18 9:00 AM.
+            - **2$^{\text{st}}$ Midterm Exam**: 1402/09/30 9:00 AM.
+            - **Final Exam**: 1402/10/21 9:00 AM (as scheduled in EDU).
+            - **1$^{\text{st}}$ Quiz**: 1402/09/30 9:00 AM.
+            - **2$^{\text{st}}$ Quiz**: 1402/09/30 9:00 AM.
+            - **3$^{\text{st}}$ Quiz**: 1402/09/30 9:00 AM.
+            - **4$^{\text{st}}$ Quiz**: 1402/09/30 9:00 AM.
+            - **5$^{\text{st}}$ Quiz**: 1402/09/30 9:00 AM.
       - title: Homeworks
         text: >
-          Five series of homework assignments will be distributed in this course. 
-          Assignments will be released on Saturday midnight every other week. 
-          The answers must be submitted on 
-          [Dr. Rohban's Quera](https://quera.org/course/add_to_course/course/18700/) and [Mr. Fereydooni's Quera](https://quera.org/course/add_to_course/course/18731/).
-          Regarding the late submission policy, you can submit answers with total delay
-          of 10 days with no penalty through the semester. Any additional delays will lead to a 0.5% reduction
-          in the assignment grade for every hour of delay. This is  illustrated in the figure below, where ℎ representsthe amount of delay in hours:
-          <div class="mx-auto max-w-xl">![Delay Coefficient graph]({{ static("images/course/delay_coef_2.png") }} "Delay coefficient")</div>
-          Notably, in order to prioritize fairness and consistency for all students, a request for a deadline extension must be emailed to the instructor and head TAs at least 72 hours before the deadline through E-Mail.
-          More information about homeworks are provided in [Dr. Rohban's Schedule Sheet](https://docs.google.com/spreadsheets/d/105jOspLAV32hXwpoF-64soccdiA-ytkdforUm4bsx6U/edit?usp=sharing) and [Mr. Fereydooni's Schedule Sheet](https://docs.google.com/spreadsheets/d/1keef9XNneE9-C7THQazHaUr_ax107L2f3bcKA4yIS9Q/edit?usp=sharing).
+          Five series of homework assignments will be distributed in this course.
+          Assignments will be released on Sunday midnight every other week. 
+          Students will have 14 days to submit their answers on
+          [Quera](https://quera.org/course/add_to_course/course/13173/). Regarding the late submission policy, you can
+          submit answers with total delay of 5 days (maximum of 2 days for each submission) with no penalty.
+          Any more delays and 1% of the assignment grade will be deducted for each hour of delay. Please note that
+          submissions made between midnight (12 AM) and noon (12 PM) will not be considered. 
+          You can submit your answers during this interval, but the submission timestamp will be recorded
+          as 12 PM on the same day. 
+          Delays will be calculated on an hourly scale, as illustrated in the figure below and described by 
+          equation following the figure, where $h$ represents the amount of delay in hours.
+          <div class="mx-auto max-w-xl">![Delay Coefficient graph]({{ static("images/course/delay_coef.png") }} "Delay coefficient")</div>
+          $$
+           \begin{cases}
+            88 & 0 < h < 12 \\
+            100 - h & 12 \le h \le 24 \\
+            64 & 24 < h < 36 \\
+            100 - h & 36 \le h \le 48 \\
+           \end{cases}
+          $$
       - title: Collaboration, Academic Honesty, and Plagiarism
         text: >
           There will be a zero-tolerance policy for cheating or copying homework assignments. The first time you
           are caught, we will refer you to the committee, and you will fail the course. Please refer
           to the Education Committee's statement on homework etiquette.
-
+      - title: Feedback
+        text: >
+          We would be grateful if you could send us your valuable feedback. You can contact instructors or even TAs
+          via email. Additionally, you can use [this Google form](https://forms.gle/2CzVZnsMgH5QyknV9) to send your
+          feedback anonymously to the instructors.
   - title: Course Pages
     type: section
     text: >
       - [**https://sut-ai.github.io/**](https://sut-ai.github.io/): This is the main page of our course and all exercises, slides and course resources will be placed in it.
       
-      - [**Dr. Rohban's Quera**](https://quera.org/course/add_to_course/course/18700/) and [**Mr. Fereydooni's Quera**](https://quera.org/course/add_to_course/course/18731/): Delivery of exercises and announcements will be done entirely through Quera. Make sure you enter an email on Quera that you check regularly. Your questions from the exercises will also be answered in Quera.
+      - Quera, [**https://quera.org/course/add_to_course/course/14673/**](https://quera.org/course/add\_to\_course/course/14673/): Delivery of exercises and announcements will be done entirely through Quera. Make sure you enter an email on Quera that you check regularly. Your questions from the exercises will also be answered in Quera.
   - title: Schedule
     type: table
     id: schedule
@@ -172,212 +146,215 @@ parts:
         display_name: Deadlines
         size: 4
     rows:
-      - date: Sun, Mehr 1
+      - date: Tue Mehr 4
         session: '1'
         description: |
           Introduction & Intelligent Agents
         materials:
         events:
-
-      - date: Tue, Mehr 3
+      - date: Sun Mehr 9
         session: '2'
         description: |
           Uninformed Search
         materials:
         events:
-
-      - date: Sun, Mehr 8
+      - date: Sun Mehr 16
         session: '3'
         description: |
-          Uninformed Search
+          Informed Search
         materials:
-        events:
-
-      - date: Tue, Mehr 10
+      - date: Mon Mehr 17
+        session:
+        events: |
+          HW1 <span class="text-green-500 font-bold" font-bold">out</span> [[handout](https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_soleymani_f2023/assignments/A1/F2023-HW1.zip)] [[solution](https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_soleymani_f2023/assignments/A1/F2023-HW1-Solution.zip)]
+      - date: Tue Mehr 18
         session: '4'
-        description: |
-          Informed Search
-        materials:
-        events:
-      
-      - date: Sun, Mehr 15
-        session: '5'
-        description: |
-          Informed Search
-        materials:
-        events:
-
-      - date: Tue, Mehr 17
-        session: '6'
         description: |
           Local Search
         materials:
         events:
-        
-      - date: Sun, Mehr 22
+      - date: Sun Mehr 23
+        session: '5'
+        description: |
+          Search in Continuous spaces
+        materials:
+        events:
+      - date: Tue Mehr 25
+        session: '6'
+        description: |
+          Constraint Satisfaction Problems I
+        materials:
+        events:
+      - date: Sun Mehr 30
         session: '7'
         description: |
-          Search in Continuous Spaces
+          Constraint Satisfaction Problems II
         materials:
         events:
-
-      - date: Tue, Mehr 24
+      - date: Mon Aban 1
+        session:
+        color: deadline
+        deadlines: |
+          HW1 <span class="text-red-500 font-bold">due</span>
+      - date: Tue Aban 2
         session: '8'
-        description: |
-          Constraint Satisfaction Problems
-        materials:
-        events:
-
-      - date: Tue, Mehr 29
-        session: '9'
-        description: |
-          Constraint Satisfaction Problems
-        materials:
-        events:
-
-      - date: Tue, Aban 1
-        session: '10'
         description: |
           Adversarial Search
         materials:
         events:
-
-      - date: Sun, Aban 6
+          HW2 <span class="text-green-500 font-bold" font-bold">out</span> [[handout](https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_soleymani_f2023/assignments/A2/F2023-HW2.zip)] [[solution](https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_soleymani_f2023/assignments/A2/F2023-HW2-Solution.zip)]
+      - date: Sun Aban 7
+        session: '9'
+        description: |
+          Markov Decision Process
+        materials:
+        events:
+      - date: Tue Aban 9
+        session: '10'
+        description: |
+          Markov Decision Process: Value Iteration & Policy Iteration
+        materials:
+        events:
+      - date: Sat Aban 13
+        session:
+        color: deadline
+        deadlines: |
+          HW2 <span class="text-red-500 font-bold">due</span>
+      - date: Sun Aban 14
         session: '11'
-        description: |
-          Uncertainty & Inference
-        materials:
-        events:
-
-      - date: Tue, Aban 8
-        session: '12'
-        description: |
-          Bayesian Networks: Representation
-        materials:
-        events:
-
-      - date: Sun, Aban 13
-        session: '13'
-        description: |
-          Inference in Bayesian Networks: Exact
-        materials:
-        events:
-
-      - date: Tue, Aban 15
-        session: '14'
-        description: |
-          Inference in Bayesian Networks: Approximate
-        materials:
-        events:
-      
-      - date: Sun, Aban 20
-        session: '15'
-        description: |
-          Temporal Probability Models: Markov Chains & HMMs
-        materials:
-        events:
-
-      - date: Tue, Aban 22
-        session: '16'
-        description: |
-          Temporal Probability Models: Particle Filters
-        materials:
-        events:
-
-      - date: Sun, Aban 27
-        session: '17'
-        description: |
-          Learning in Bayesian Networks & Naive Bayes
-        materials:
-        events:
-
-      - date: Tue, Aban 29
-        session: '18'
-        description: |
-          Decision Tree
-        materials:
-        events:
-
-      - date: Sun, Azar 4
-        session: '19'
-        description: |
-          Concepts of Machine Learning
-        materials:
-        events:
-
-      - date: Tue, Azar 6
-        session: '20'
-        description: |
-          Regression & Optimization
-        materials:
-        events:
-
-      - date: Tue, Azar 11
-        session: '21'
-        description: |
-          Perceptron
-        materials:
-        events:
-
-      - date: Sun, Azar 13
-        session: '22'
-        description: |
-          Neural Networks
-        materials:
-        events:
-
-      - date: Sun, Azar 18
-        session: '23'
-        description: |
-          Neural Networks
-        materials:
-        events:
-
-      - date: Tue, Azar 20
-        session: '24'
-        description: |
-          Markov Decison Process
-        materials:
-        events:
-
-      - date: Sun, Azar 25
-        session: '25'
-        description: |
-          Value Iteration & Policy Iteration
-        materials:
-        events:
-
-      - date: Tue, Azar 27
-        session: '26'
         description: |
           Reinforcement Learning: Passive
         materials:
         events:
-
-      - date: Sun, Dey 2
-        session: '27'
+          HW3 <span class="text-green-500 font-bold" font-bold">out</span> [[handout](https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_soleymani_f2023/assignments/A3/F2023-HW3.zip)] [[solution](https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_soleymani_f2023/assignments/A3/F2023-HW3-Solution.zip)]
+      - date: Tue Aban 16
+        session: '12'
         description: |
           Reinforcement Learning: Active
         materials:
         events:
-
-      - date: Sun, Dey 4
-        session: '28'
+      - date: Thr Aban 18
+        session:
+        description: |
+          Midterm Exam I
+        materials: |
+          Sessions 1-8
+        events:
+        color: warning
+      - date: Sun Aban 21
+        session: '13'
         description: |
           Reinforcement Learning: Approximate
         materials:
         events:
-
-      - date: Sun, Dey 9
-        session: '29'
+      - date: Tue Aban 23
+        session: '14'
         description: |
-          Applications / Guest Lecturer
+          Uncertainty & Inference
         materials:
         events:
-
-      - date: Sun, Dey 11
-        session: '30'
+      - date: Sun Aban 28
+        session: '15'
         description: |
-          Applications / Guest Lecturer
+          Bayesian Networks: Representation
         materials:
         events:
+      - date: Tue Aban 30
+        session: '16'
+        description: |
+          Inference in Bayesian Networks: Exact
+        materials:
+        events:
+      - date: Sat Azar 4
+        session:
+        color: deadline
+        deadlines: |
+          HW3 <span class="text-red-500 font-bold">due</span>
+      - date: Sun Azar 5
+        session: '17'
+        description: |
+          Inference in Bayesian Networks: Approximate
+        materials:
+        events:
+          HW4 <span class="text-green-500 font-bold" font-bold">out</span> [[handout](https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_soleymani_f2023/assignments/A4/F2023-HW4.zip)] [[solution](https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_soleymani_f2023/assignments/A4/F2023-HW4-Solution.zip)]
+      - date: Tue Azar 7
+        session: '18'
+        description: |
+          Temporal Probability Models: Markov Chains & HMMs
+        materials:
+        events:
+      - date: Sun Azar 12
+        session: '19'
+        description: |
+          Temporal Probability Models: Particle Filters
+        materials:
+        events:
+      - date: Tue Azar 14
+        session: '20'
+        description: |
+          Learning in Bayesian Networks & Naive Bayes
+        materials:
+        events:
+      - date: Sun Azar 19
+        session: '21'
+        description: |
+          Decision Tree
+        materials:
+        events:
+      - date: Tue Azar 21
+        session: '22'
+        description: |
+          Concepts of Machine Learning
+        materials:
+        events:
+      - date: Sat Azar 25
+        session:
+        color: deadline
+        deadlines: |
+          HW4 <span class="text-red-500 font-bold">due</span>
+      - date: Sun Azar 26
+        session:
+        events:
+      - date: Tue Azar 28
+        session: '23'
+        description: |
+           Regression & Optimization
+        materials:
+        events:
+      - date: Thr Azar 30
+        session:
+        description: |
+           Midterm Exam II
+        materials: Sessions 9-19
+        events:
+        color: warning
+      - date: Sun Dey 3
+        session: '24'
+        description: |
+           Perceptron
+        materials:
+        events: |
+          HW5 <span class="text-green-500 font-bold" font-bold">out</span> [[handout](https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_soleymani_f2023/assignments/A5/F2023-HW5.zip)] [[solution](https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_soleymani_f2023/assignments/A5/F2023-HW5-Solution.zip)]
+      - date: Tue Dey 5
+        session: '25'
+        description: |
+           Neural Networks I
+        materials:
+        events:
+      - date: Sun Dey 10
+        session: '26'
+        description: |
+           Neural Networks II
+        materials:
+        events:
+      - date: Tue Dey 12
+        session: '27'
+        description: |
+           Applications
+        materials:
+        events:
+      - date: Fri Dey 19
+        session:
+        color: deadline
+        deadlines: |
+          HW5 <span class="text-red-500 font-bold">due</span>

@@ -13,8 +13,8 @@ parts:
     id: people
     type: people
     people_data:
-      - role: instructors
-        display_name: Instructors
+      - role: instructor
+        display_name: Instructor
         people:
 
           - name: Prof. M. Soleymani Baghshah
@@ -70,26 +70,24 @@ parts:
             - **Midterm Exam**: $5.0$ points.
             - **Final Exam**: $7.0$ points.
             - **Homework Assignments**: $6.0$ points.
-            - **Quiz**: $2.0$ points.(Please note that the Quiz with lowest )
+            - **Quiz**: $2.0$ points.
       - title: Exams
         text: >
           Students' learning will be assessed through five quizzes, a midterm, and a final exam. 
           These exams will be held on the following dates, and participation is mandatory for all students.
 
-            - **1$^{\text{st}}$ Midterm Exam**: 1402/08/18 9:00 AM.
-            - **2$^{\text{st}}$ Midterm Exam**: 1402/09/30 9:00 AM.
+            - ** Midterm Exam**: 1402/08/18 9:00 AM.
             - **Final Exam**: 1402/10/21 9:00 AM (as scheduled in EDU).
             - **1$^{\text{st}}$ Quiz**: 1402/09/30 9:00 AM.
-            - **2$^{\text{st}}$ Quiz**: 1402/09/30 9:00 AM.
-            - **3$^{\text{st}}$ Quiz**: 1402/09/30 9:00 AM.
-            - **4$^{\text{st}}$ Quiz**: 1402/09/30 9:00 AM.
-            - **5$^{\text{st}}$ Quiz**: 1402/09/30 9:00 AM.
+            - **2$^{\text{nd}}$ Quiz**: 1402/09/30 9:00 AM.
+            - **3$^{\text{rd}}$ Quiz**: 1402/09/30 9:00 AM.
+            - **4$^{\text{th}}$ Quiz**: 1402/09/30 9:00 AM.
+            - **5$^{\text{th}}$ Quiz**: 1402/09/30 9:00 AM.
       - title: Homeworks
         text: >
           Five series of homework assignments will be distributed in this course.
-          Assignments will be released on Sunday midnight every other week. 
           Students will have 14 days to submit their answers on
-          [Quera](https://quera.org/course/add_to_course/course/13173/). Regarding the late submission policy, you can
+          [Quera](https://quera.org/course/add_to_course/course/23623/). Regarding the late submission policy, you can
           submit answers with total delay of 5 days (maximum of 2 days for each submission) with no penalty.
           Any more delays and 1% of the assignment grade will be deducted for each hour of delay. Please note that
           submissions made between midnight (12 AM) and noon (12 PM) will not be considered. 
@@ -111,17 +109,17 @@ parts:
           There will be a zero-tolerance policy for cheating or copying homework assignments. The first time you
           are caught, we will refer you to the committee, and you will fail the course. Please refer
           to the Education Committee's statement on homework etiquette.
-      - title: Feedback
-        text: >
-          We would be grateful if you could send us your valuable feedback. You can contact instructors or even TAs
-          via email. Additionally, you can use [this Google form](https://forms.gle/2CzVZnsMgH5QyknV9) to send your
-          feedback anonymously to the instructors.
+      # - title: Feedback
+      #   text: >
+      #     We would be grateful if you could send us your valuable feedback. You can contact instructors or even TAs
+      #     via email. Additionally, you can use [this Google form](https://forms.gle/2CzVZnsMgH5QyknV9) to send your
+      #     feedback anonymously to the instructors.
   - title: Course Pages
     type: section
     text: >
       - [**https://sut-ai.github.io/**](https://sut-ai.github.io/): This is the main page of our course and all exercises, slides and course resources will be placed in it.
       
-      - Quera, [**https://quera.org/course/add_to_course/course/14673/**](https://quera.org/course/add\_to\_course/course/14673/): Delivery of exercises and announcements will be done entirely through Quera. Make sure you enter an email on Quera that you check regularly. Your questions from the exercises will also be answered in Quera.
+      - Quera, [**https://quera.org/course/add_to_course/course/23623/**](https://quera.org/course/add_to_course/course/23623/): Delivery of exercises and announcements will be done entirely through Quera. Make sure you enter an email on Quera that you check regularly. Your questions from the exercises will also be answered in Quera.
   - title: Schedule
     type: table
     id: schedule

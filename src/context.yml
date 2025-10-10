@@ -77,7 +77,7 @@ parts:
           These exams will be held on the following dates, and participation is mandatory for all students.
 
             - **Midterm Exam**: 1402/08/18 9:00 AM.
-            - **Final Exam**: 1402/10/21 9:00 AM (as scheduled in EDU).
+            - **Final Exam**: 1404/11/04 3:00 PM (as scheduled in EDU).
             - **1$^{\text{st}}$ Quiz**: 1402/09/30 9:00 AM.
             - **2$^{\text{nd}}$ Quiz**: 1402/09/30 9:00 AM.
             - **3$^{\text{rd}}$ Quiz**: 1402/09/30 9:00 AM.
@@ -144,215 +144,200 @@ parts:
         display_name: Deadlines
         size: 4
     rows:
-      - date: Tue Mehr 4
+      - date: Sat Mehr 19
         session: '1'
         description: |
           Introduction & Intelligent Agents
         materials:
         events:
-      - date: Sun Mehr 9
+      - date: Mon Mehr 21
         session: '2'
         description: |
-          Uninformed Search
+          Uninformed Search & Informed Search
         materials:
         events:
-      - date: Sun Mehr 16
+      - date: Sat Mehr 26
         session: '3'
         description: |
           Informed Search
         materials:
-      - date: Mon Mehr 17
-        session:
-        events: |
-          HW1 <span class="text-green-500 font-bold" font-bold">out</span> [[handout](https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_soleymani_f2023/assignments/A1/F2023-HW1.zip)] [[solution](https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_soleymani_f2023/assignments/A1/F2023-HW1-Solution.zip)]
-      - date: Tue Mehr 18
+      # - date: Mon Mehr 17
+      #   session:
+      #   events:
+      - date: Mon Mehr 28
         session: '4'
         description: |
           Local Search
         materials:
         events:
-      - date: Sun Mehr 23
+      - date: Sat Aban 3
         session: '5'
         description: |
           Search in Continuous spaces
         materials:
         events:
-      - date: Tue Mehr 25
+      - date: Mon Aban 5
         session: '6'
         description: |
           Constraint Satisfaction Problems I
         materials:
         events:
-      - date: Sun Mehr 30
+      - date: Sat Aban 10
         session: '7'
         description: |
           Constraint Satisfaction Problems II
         materials:
         events:
-      - date: Mon Aban 1
-        session:
-        color: deadline
-        deadlines: |
-          HW1 <span class="text-red-500 font-bold">due</span>
-      - date: Tue Aban 2
+      # - date: Mon Aban 1
+      #   session:
+      #   color: deadline
+      #   deadlines:
+      - date: Mon Aban 12
         session: '8'
         description: |
           Adversarial Search
         materials:
         events:
-          HW2 <span class="text-green-500 font-bold" font-bold">out</span> [[handout](https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_soleymani_f2023/assignments/A2/F2023-HW2.zip)] [[solution](https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_soleymani_f2023/assignments/A2/F2023-HW2-Solution.zip)]
-      - date: Sun Aban 7
+      - date: Sat Aban 17
         session: '9'
         description: |
           Markov Decision Process
         materials:
         events:
-      - date: Tue Aban 9
+      - date: Mon Aban 19
         session: '10'
         description: |
           Markov Decision Process: Value Iteration & Policy Iteration
         materials:
         events:
-      - date: Sat Aban 13
-        session:
-        color: deadline
-        deadlines: |
-          HW2 <span class="text-red-500 font-bold">due</span>
-      - date: Sun Aban 14
+      # - date: Sat Aban 13
+      #   session:
+      #   color: deadline
+      #   deadlines: |
+      - date: Sat Aban 24
         session: '11'
         description: |
           Reinforcement Learning: Passive
         materials:
         events:
-          HW3 <span class="text-green-500 font-bold" font-bold">out</span> [[handout](https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_soleymani_f2023/assignments/A3/F2023-HW3.zip)] [[solution](https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_soleymani_f2023/assignments/A3/F2023-HW3-Solution.zip)]
-      - date: Tue Aban 16
+      - date: Mon Aban 26
         session: '12'
         description: |
           Reinforcement Learning: Active
         materials:
         events:
-      - date: Thr Aban 18
-        session:
-        description: |
-          Midterm Exam I
-        materials: |
-          Sessions 1-8
-        events:
-        color: warning
-      - date: Sun Aban 21
+      # - date: Thr Aban 18
+      #   session:
+      #   description: |
+      #     Midterm Exam I
+      #   materials: |
+      #     Sessions 1-8
+      #   events:
+      #   color: warning
+      - date: Sat Azar 1
         session: '13'
         description: |
           Reinforcement Learning: Approximate
         materials:
         events:
-      - date: Tue Aban 23
+      - date: Sat Azar 8
         session: '14'
         description: |
           Uncertainty & Inference
         materials:
         events:
-      - date: Sun Aban 28
+      - date: Mon Azar 10
         session: '15'
         description: |
           Bayesian Networks: Representation
         materials:
         events:
-      - date: Tue Aban 30
+      - date: Sat Azar 15
         session: '16'
         description: |
           Inference in Bayesian Networks: Exact
         materials:
         events:
-      - date: Sat Azar 4
-        session:
-        color: deadline
-        deadlines: |
-          HW3 <span class="text-red-500 font-bold">due</span>
-      - date: Sun Azar 5
+      # - date: Sat Azar 4
+      #   session:
+      #   color: deadline
+      #   deadlines: 
+      - date: Mon Azar 17
         session: '17'
         description: |
           Inference in Bayesian Networks: Approximate
         materials:
         events:
-          HW4 <span class="text-green-500 font-bold" font-bold">out</span> [[handout](https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_soleymani_f2023/assignments/A4/F2023-HW4.zip)] [[solution](https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_soleymani_f2023/assignments/A4/F2023-HW4-Solution.zip)]
-      - date: Tue Azar 7
+      - date: Sat Azar 22
         session: '18'
         description: |
           Temporal Probability Models: Markov Chains & HMMs
         materials:
         events:
-      - date: Sun Azar 12
+      - date: Mon Azar 24
         session: '19'
         description: |
           Temporal Probability Models: Particle Filters
         materials:
         events:
-      - date: Tue Azar 14
+      - date: Sat Azar 29
         session: '20'
         description: |
           Learning in Bayesian Networks & Naive Bayes
         materials:
         events:
-      - date: Sun Azar 19
+      - date: Mon Dey 1
         session: '21'
         description: |
           Decision Tree
         materials:
         events:
-      - date: Tue Azar 21
+      - date: Sat Dey 6
         session: '22'
         description: |
           Concepts of Machine Learning
         materials:
         events:
-      - date: Sat Azar 25
-        session:
-        color: deadline
-        deadlines: |
-          HW4 <span class="text-red-500 font-bold">due</span>
-      - date: Sun Azar 26
-        session:
-        events:
-      - date: Tue Azar 28
+      # - date: Sat Azar 25
+      #   session:
+      #   color: deadline
+      #   deadlines:      
+      # - date: Sun Azar 26
+      #   session:
+      #   events:
+      - date: Mon Dey 8
         session: '23'
         description: |
            Regression & Optimization
         materials:
         events:
-      - date: Thr Azar 30
-        session:
-        description: |
-           Midterm Exam II
-        materials: Sessions 9-19
-        events:
-        color: warning
-      - date: Sun Dey 3
+      # - date: Thr Azar 30
+      #   session:
+      #   description: |
+      #      Midterm Exam II
+      #   materials: Sessions 9-19
+      #   events:
+      #   color: warning
+      - date: Mon Dey 15
         session: '24'
         description: |
            Perceptron
         materials:
-        events: |
-          HW5 <span class="text-green-500 font-bold" font-bold">out</span> [[handout](https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_soleymani_f2023/assignments/A5/F2023-HW5.zip)] [[solution](https://github.com/sut-ai/resources/raw/master/problem_sets/rohban_soleymani_f2023/assignments/A5/F2023-HW5-Solution.zip)]
-      - date: Tue Dey 5
+        events: 
+      - date: Sat Dey 20
         session: '25'
         description: |
            Neural Networks I
         materials:
         events:
-      - date: Sun Dey 10
+      - date: Mon Dey 22
         session: '26'
         description: |
            Neural Networks II
         materials:
         events:
-      - date: Tue Dey 12
-        session: '27'
-        description: |
-           Applications
-        materials:
-        events:
-      - date: Fri Dey 19
-        session:
-        color: deadline
-        deadlines: |
-          HW5 <span class="text-red-500 font-bold">due</span>
+      # - date: Fri Dey 19
+      #   session:
+      #   color: deadline
+      #   deadlines: |
+      #     HW5 <span class="text-red-500 font-bold">due</span>

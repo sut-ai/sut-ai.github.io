@@ -289,13 +289,13 @@ parts:
       - date: Mon Dey 1
         session: '21'
         description: |
-          Decision Tree
+          Machine Learning I
         materials:
         events:
       - date: Sat Dey 6
         session: '22'
         description: |
-          Concepts of Machine Learning
+          Machine Learning II
         materials:
         events:
       # - date: Sat Azar 25
@@ -308,7 +308,7 @@ parts:
       - date: Mon Dey 8
         session: '23'
         description: |
-           Regression & Optimization
+           Machine Learning III
         materials:
         events:
       # - date: Thr Azar 30
@@ -321,19 +321,19 @@ parts:
       - date: Mon Dey 15
         session: '24'
         description: |
-           Perceptron
+           Neural Networks I
         materials:
         events: 
       - date: Sat Dey 20
         session: '25'
         description: |
-           Neural Networks I
+           Neural Networks II
         materials:
         events:
       - date: Mon Dey 22
         session: '26'
         description: |
-           Neural Networks II
+           Neural Networks III
         materials:
         events:
       # - date: Fri Dey 19

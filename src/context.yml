@@ -78,11 +78,11 @@ parts:
 
             - **Midterm Exam**: 1404/10/20 3:00 PM.
             - **Final Exam**: 1404/11/04 3:00 PM (as scheduled in EDU).
-            - **1$^{\text{st}}$ Quiz**: 
-            - **2$^{\text{nd}}$ Quiz**: 
-            - **3$^{\text{rd}}$ Quiz**: 
-            - **4$^{\text{th}}$ Quiz**: 
-            - **5$^{\text{th}}$ Quiz**: 
+            - **1$^{\text{st}}$ Quiz**: 1404/08/04 12:15 PM
+            - **2$^{\text{nd}}$ Quiz**: 1404/08/18 12:15 PM
+            - **3$^{\text{rd}}$ Quiz**: 1404/09/09 12:15 PM
+            - **4$^{\text{th}}$ Quiz**: 1404/09/30 12:15 PM
+            - **5$^{\text{th}}$ Quiz**: 1404/10/21 12:15 PM
       - title: Homeworks
         text: >
           Five series of homework assignments will be distributed in this course.
@@ -176,6 +176,13 @@ parts:
           Search in Continuous spaces
         materials:
         events:
+      - date: Sun Aban 4
+        session:
+        description: |
+           Quiz 1
+        materials: Sessions 1-4
+        events:
+        color: warning
       - date: Mon Aban 5
         session: '6'
         description: |
@@ -204,6 +211,13 @@ parts:
           Markov Decision Process
         materials:
         events:
+      - date: Sun Aban 18
+        session:
+        description: |
+           Quiz 2
+        materials: Sessions 5-8
+        events:
+        color: warning
       - date: Mon Aban 19
         session: '10'
         description: |
@@ -246,6 +260,13 @@ parts:
           Uncertainty & Inference
         materials:
         events:
+      - date: Sun Aban 9
+        session:
+        description: |
+           Quiz 3
+        materials: Sessions 9-14
+        events:
+        color: warning
       - date: Mon Azar 10
         session: '15'
         description: |
@@ -293,6 +314,13 @@ parts:
           Learning in Bayesian Networks & Naive Bayes
         materials:
         events:
+      - date: Sun Azar 30
+        session:
+        description: |
+           Quiz 4
+        materials: Sessions 14-19
+        events:
+        color: warning
       - date: Mon Dey 1
         session: '21'
         description: |
@@ -337,6 +365,13 @@ parts:
            Neural Networks II
         materials:
         events:
+      - date: Sun Dey 21
+        session:
+        description: |
+           Quiz 5
+        materials: Sessions 20-24
+        events:
+        color: warning
       - date: Mon Dey 22
         session: '26'
         description: |

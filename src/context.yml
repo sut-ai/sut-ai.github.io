@@ -176,7 +176,7 @@ parts:
           Search in Continuous spaces
         materials:
         events:
-      - date: Sun Aban 4
+      - date: Sun Aban 3
         session:
         description: |
            Quiz 1
@@ -211,7 +211,7 @@ parts:
           Markov Decision Process
         materials:
         events:
-      - date: Sun Aban 18
+      - date: Sun Aban 17
         session:
         description: |
            Quiz 2
@@ -260,7 +260,7 @@ parts:
           Uncertainty & Inference
         materials:
         events:
-      - date: Sun Aban 9
+      - date: Sun Aban 8
         session:
         description: |
            Quiz 3
@@ -314,7 +314,7 @@ parts:
           Learning in Bayesian Networks & Naive Bayes
         materials:
         events:
-      - date: Sun Azar 30
+      - date: Sun Azar 29
         session:
         description: |
            Quiz 4
@@ -365,7 +365,7 @@ parts:
            Neural Networks II
         materials:
         events:
-      - date: Sun Dey 21
+      - date: Sun Dey 20
         session:
         description: |
            Quiz 5
